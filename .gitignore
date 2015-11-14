@@ -1,5 +1,4 @@
 *.class
 /.classpath
 /src/config/*
-/src/config/UriData.java
 /src/TestTrideep.java
