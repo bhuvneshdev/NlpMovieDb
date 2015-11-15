@@ -50,7 +50,7 @@ public class EventExtraction {
 			{
 				System.err.println("ERROR: "+ linesInPlot[i] );
 			}
-		}	return null;
+		}	return eventList;
 	}
 
 	private static void addEvents(Node nd) {
@@ -62,7 +62,6 @@ public class EventExtraction {
 			ArrayList<Node> children = nd.getChildren();
 			ArrayList<String> agent = new ArrayList<String>();
 			ArrayList<String> entities = new ArrayList<String>() ;
-			System.out.println("<< " + nd.getValue() + " >>");
 			for(int j = 0 ; j < children.size() ; j++){
 				if(edgeList.get(j).equals("next_event"))
 				{
@@ -76,7 +75,6 @@ public class EventExtraction {
 				if(edgeList.get(j).equals("agent"))
 				{	
 					agent.add(children.get(j).getValue());
-					System.out.println(children.get(j).getValue() + " " + children.get(j).isAnEntity() + " " + edgeList.get(j));
 				}
 				else if(!edgeList.get(j).equals("agent") && children.get(j).isAnEntity()){
 					entities.add(children.get(j).getValue() + ":" + edgeList.get(j));
@@ -102,7 +100,6 @@ public class EventExtraction {
 				}
 			}
 			
-			System.out.println(edgeList.size() + " " + children.size());
 		}
 	}
 
