@@ -28,8 +28,6 @@ import edu.stanford.nlp.util.CoreMap;
 		*/
 		public static void eventSimilarity(ArrayList<String> eventsFromLinesInPlot,ArrayList<String> eventsFromLinesInQuery){
 				
-			eventsFromLinesInQuery.add("<NULL>,cutting-1,<NULL>");
-			eventsFromLinesInQuery.add("<NULL>,killing-1,<NULL>");
 			for(String q: eventsFromLinesInQuery){
 					String[] q_tokens_temp = q.split(",");
 					String[] q_tokens = q_tokens_temp[1].split("-");
