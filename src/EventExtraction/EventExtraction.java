@@ -19,14 +19,14 @@ public class EventExtraction {
 	public static ArrayList<String> eventExtractionEngine(String[] linesInPlot) {
 		
 		for(int i=0;i<linesInPlot.length;i++){	
-			
+			try{
 			SentenceToGraph stg = new SentenceToGraph();
 			GraphPassingNode gpn2 = stg.extractGraph(linesInPlot[i],false,true,false);
 			ArrayList<String> list = gpn2.getAspGraph();
 			HashMap<String, String> hm=gpn2.getposMap();
 			
 			MakeGraph mg = new MakeGraph();
-			try{
+			
 					ArrayList<NodePassedToViewer> graphs = mg.createGraphUsingSentence(linesInPlot[i], false, true, false);
 					Iterator<NodePassedToViewer> it = graphs.iterator();
 					
@@ -46,7 +46,7 @@ public class EventExtraction {
 				   //System.out.println(key + " " + value);
 				}
 			}
-			catch(StackOverflowError e)
+			catch(StackOverflowError | NullPointerException e)
 			{
 				System.err.println("ERROR: "+ linesInPlot[i] );
 			}
