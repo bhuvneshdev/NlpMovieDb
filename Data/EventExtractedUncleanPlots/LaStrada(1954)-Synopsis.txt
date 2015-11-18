@@ -1,0 +1,7 @@
+<NULL>,traveling-7,Zampan-10:recipient
+<NULL>,sold-3,Freespirited_Gelsomina-1:recipient
+<NULL>,sold-3,surly-6:attachment
+bond-11,develops-12,<NULL>
+<NULL>,surly-32,<NULL>
+Zampan-24,realizes-25,late-27:object
+Gelsomina-17,learns-18,purpose-20:recipient
