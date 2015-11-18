@@ -1,0 +1,934 @@
+[
+    {
+        "movieTitle": ".keep",
+        "ner": ""
+    },
+    {
+        "movieTitle": "Aliens(1986)-Synopsis.txt",
+        "ner": "Queen , Jones , Sulaco , Ellen , Timmy , Bishop , Newt Carrie Henn , Hicks Michael Biehn , Gorman , Carter Burke Paul Reiser , Newt , Lance Henriksen , Spunkmeyer , Apone Al Matthews , Paxton , Vasquez Jeanette Goldstein , Hudson Hicks amp Gorman , Gorman William Hope , Ripley , Henriksen , APC , Newt Ripley , Rebecca , Ripley Hicks , Dwayne Ripley , Earth , Nostromo , Hicks , WeylandYutani , Hicks Ripley , Casey , Ripley Sigourney Weaver , Cpl , Marines , Hudson , Ripley Henriksen , Vasquez , Drake , Marines Marines , Hudson Bill Paxton , Rebecca Ripley , Ripley Ripley , Burke , Nebraska"
+    },
+    {
+        "movieTitle": "AllAboutEve(1950)-Synopsis.txt",
+        "ner": "Addison DeWitt , Lloyd Richards , Margo , DeWitt , Richards , Eve Harrington , Bill Simpson , Channing , Lloyd , Harrington , Bill , Lloyd's , Karen , Phoebe , Margo Channing"
+    },
+    {
+        "movieTitle": "amadeus.txt",
+        "ner": "Constanze , Salieris , Figaro , Hieronymus von Colloredo , Godfearing , Mozart , God , Karl , Salzburg , Joseph II , Vienna , Salieri , Leopold"
+    },
+    {
+        "movieTitle": "amadeus_coref.txt",
+        "ner": "Constanze , Salieris , Figaro , Hieronymus von Colloredo , Godfearing , Mozart , God , Karl , Salzburg , Joseph II , Vienna , Salieri , Leopold"
+    },
+    {
+        "movieTitle": "AmericanBeauty(1999)-Synopsis.txt",
+        "ner": "Brad Dupree , Carolyn , Kane , Ricky , Lester , Barbara , Lester Lester , New York City , Angela , Jane , Burnhams , Buddy Kane , Fitts , Buddy , Lester Burnham , Toyota , Angela Hayes , Frank Fitts , Hayes"
+    },
+    {
+        "movieTitle": "AmericanHistoryX(1998)-Synopsis.txt",
+        "ner": "Derek Shoot Derek , Rasmussen , Mein Kampf , Black , Robert Sweeney Avery Brooks , Murray Elliot Gould , Life , Venice Beach , Stacey , Henry , Cameron Alexander Stacy Keach , Keach , Danny , Stacy , Lamont , Derek , Murray , Derek Edward Norton , Gould , Stacey Fairuza Balk , Cameron , Danny Edward Furlong , Seth Ryan Ethan Suplee , Suplee , Hitler , Sweeney , Seth"
+    },
+    {
+        "movieTitle": "AmoresPerros(2000)-Synopsis.txt",
+        "ner": "Gerardo , Jarocho , Chivo , Fatso , Mexico , Richie , Ramiro , El Chivo , Valeria Daniel , Cofi , Jorge , Valeria , Daniel , Octavio , Susana"
+    },
+    {
+        "movieTitle": "Am__lie(2001)-Synopsis.txt",
+        "ner": "Amandine , Diana , Raphael , Nino Quincampoix , Georgette , Raymond Dufayel , Amelie , Amelie Poulain , Gina , Domonique Bredoteau , Collignon , Wells , Madelene Wells , Poulain , Dufayel , Josef , Nino , Lucien , Bretodeau , Madame Wells , Renoir"
+    },
+    {
+        "movieTitle": "AnatomyofaMurder(1959)-Synopsis.txt",
+        "ner": "Laura , Upper Peninsula of Michigan , Lansing , Mary , Mary Pilant , Biegler , Manion , Paquette , Laura Manion , US Army , Barney Quill , Quill , Pilant , Frederick Manion , Maida Rutledge , McCarthy , Al Paquette , Paul Biegler , Parnell McCarthy , Weaver , Al"
+    },
+    {
+        "movieTitle": "AnnieHall(1977)-Synopsis.txt",
+        "ner": "California , New York , Hall , Alvy , Annie Hall , Alvy Singer , New York Alvy , Annie"
+    },
+    {
+        "movieTitle": "ApocalypseNow(1979)-Synopsis.txt",
+        "ner": "Benjamin L , US , Saigon , Kilgore , Nung River , Lance , Corman , Bill Kilgore , Colby , PBR , Viet Cong , Cambodia , Willard , Valkyries , Lucas , Navy PBR , Kurtz , Walter E"
+    },
+    {
+        "movieTitle": "ASeparation(2011)-Synopsis.txt",
+        "ner": "Iran , Razieh , Farhadi , Kermanshah , Amin Davoodi , Nader , Termeh , Eli , Hodjat , European , Simin , Asghar Farhadi"
+    },
+    {
+        "movieTitle": "BacktotheFuture(1985)-Synopsis.txt",
+        "ner": "Caruthers , Pepsi George , Goode , Volkswagen , Angus Young , Goldie Wilson , Marvin , Marty Doc , Hill Valley High School , Marty Marty , Hill Valley McFly , Toby , Doc set Doc , Chuck Berry , Sam , Baines , Dave Marc McClure , Lou Caruthers , Sam Baines , Einstein , Davy Crockett , George , Marvin Berry , Jimi Hendrix , Dave , Chuck , Tom , Peabody , Marty McFly Michael J , McClure , Biff Tannen Thomas F , Strickland , Lorraine Lea Thompson , Berry , Hill Valley Preservation Society , Christopher Lloyd , Goldie , Pepsi Free , Milton , Twin Pines Mall , DeLorean , Doc hit Doc , Johnny B , Lyon Estates , Doc , Marty , Lou , Calvin Klein , Lorraine Lorraine , Doc drive Doc , Sherman , George Brun , Merle Travis , Florence , Linda , Linda Wendie Jo Sperber , Doc Marty , Stella , Hill Valley , Toyota , Biff , Fox , Wilson , Kennedy Drive , Texaco , Joey , Strickland Tom , BMW , McFly , Pete Townshend , Montana , Emmett Brown , John F , Darth Vader , Eddie Van Halen , George McFly Crispin Glover , Jennifer , Otis Peabody , Coast Guard Youth Auxiliary , Sally , VW , Lone Pine Mall , Jennifer Parker Claudia Wells , Lorraine , Sperber"
+    },
+    {
+        "movieTitle": "BarryLyndon(1975)-Synopsis.txt",
+        "ner": "John Quin , O'Toole , Grogan , Lord Wendover , Bryan Patrick , Bryan , Lady Lyndon , Ireland , England , Europe , Redmond Barry , European , Holland , London , Lord Bullingdon , Great Britain , France , Prussian Minister of Police , Prussa , George III , Barry , Chevalier de Balibari , Dublin , Saxony , Nora , Bullington , Nora Brady , Bullingdon , Potzdorf , Barry Lyndon , Quin , Austria , Charles , Prussia , Prussian , Brady , Samuel Runt , Graham , Belgium , Rhine , Lyndon , Mother , Potzdor , Bullingdon Barry , Chevalier , Russia , Tbingen"
+    },
+    {
+        "movieTitle": "BatmanBegins(2005)-Synopsis.txt",
+        "ner": "Gus Lewis , Army , Arnold Flass Mark Boone Junior , Earle , Bruce Gordon , Loeb , Wayne Enterprises , Jonathan Crane Cillian Murphy , Rachel Dawes , Henri Ducard , Gotham Police , Emma Lockhart , Thomas , Watanabe , Faden , Carmine Falcone Tom Wilkinson , Zasz , Gotham , Dawes , Arkham Asylum , Wayne Tower , Thomas Wayne , William Earle , al Ghul Ken Watanabe , William Earle Rutger Hauer , Falcone , Victor Zsaz Tim Booth , Rachel , Bruce Wayne , James Gordon Gary Oldman , Lucius Fox Morgan Freeman , Batman , Mefistofele Bruce , Wilkinson , Booth , Joe Chill Richard Brake , Lehmann , RollsRoyceso , Zasz Zasz , Henri Ducard Liam Neeson , Wayne Manor , Katie Holmes , Wayne Enterprise , Roache , Christian Bale , Wayne , Victor Zsaz , Delane , Carl Finch , Zsaz , Thomas Wayne Linus Roache , al Ghul , Crane , Applied Sciences Department , Dawes Batman , Joe Chill , Bruce , Alfred Pennyworth Michael Caine , Finch , Fox , Ducard , China , Flass , Gillian B , Gordon , Ghul , Princeton University Bruce , Wayne Tech Enterprise , Gotham City , Dawes Crane , Martha , Alfred , Manor , Arkham , Ra"
+    },
+    {
+        "movieTitle": "BeautyandtheBeast(1991)-Synopsis.txt",
+        "ner": "Potts , Belle Belle , Belle , West Wing , Lumiere , Beast , Maurice , Prince , Gaston , Cogsworth"
+    },
+    {
+        "movieTitle": "BeforeSunrise(1995)-Synopsis.txt",
+        "ner": "United States , Paris , Angel , Madrid , Europe , Riesenrad , Budapest , Vienna , Jesse , Cline"
+    },
+    {
+        "movieTitle": "BeforeSunset(2004)-Synopsis.txt",
+        "ner": "America , Baby , Paris , Celine , Simone , Nina Simone , Europe , Shakespeare , Vienna , Jesse"
+    },
+    {
+        "movieTitle": "Ben-Hur(1959)-Synopsis.txt",
+        "ner": "Christ Judah , Hur , Christ , Arrius , Quintas Arrius , Jesus , Judah BenHur , Ilderim , Judah , Bethlehem , Sheik Ilderim , Pontius Pilate , Governor , Judea , Balthasar , Tribune Messala , Rome , Caesar , Messala , Nazareth"
+    },
+    {
+        "movieTitle": "BicycleThieves(1948)-Synopsis.txt",
+        "ner": "Ricci , Antonio , Antonio Ricci , Maria , Rome , Bruno , Italy"
+    },
+    {
+        "movieTitle": "BladeRunner(1982)-Synopsis.txt",
+        "ner": "Tyrell Roy , Bryant , Rick Deckard , Bradbury , Gaff , Deckard , Tyrell Corporation , Pris , Batty , Holden , Chinatown , Hassan , Rachael Deckard , Abdul Ben Hassan , JF Sebastian , Deckard Gaff , Chew , Leon , Deckard Deckard , Earth , Deckard Rachael , Taffy Lewis , Tyrell Corp , Zhora , Rachel , Gaff Gaff , Roy Batty , Rachael , Roy , Tyrell , Asian , Los Angeles , Sebastian"
+    },
+    {
+        "movieTitle": "Braveheart(1995)-Synopsis.txt",
+        "ner": "Stirling Bridge , William , Edward I , Robert , Isabelle , William Wallace , England , London , France , Lanark , Bruce , Battle of Falkirk , Noctis , York , Scots , Murron , Edward II , Lochlan , Argyle , Mel Gibson , Bannockburn , Edward Longshanks , Robert the Bruce , Wallace , Wales , Campbell Senior , Longshanks , Edward , Murron MacClannough , Scotland , Hamish , Mornay , Wallace Senior , Primae Noctis , Edinburgh"
+    },
+    {
+        "movieTitle": "ButchCassidyandtheSundanceKid(1969)-Synopsis.txt",
+        "ner": "Butch Cassidy , Butch , Etta , Bandidos Yanquis , Cassidy , Harvey Logan , Union Pacific Flyer , Lefors , Logan , Joe Lefors , Garris , Bolivia , Wyoming , New York , Fuego , San Vicente , Cassidy Cassidy , Lord Baltimore , Carbon County , Bolivian , Etta Place"
+    },
+    {
+        "movieTitle": "Casablanca(1942)-Synopsis.txt",
+        "ner": "United States , Portugal , Rick , Europe , Strasser Conrad Veidt , Nazi , Rick Blaine Humphrey Bogart , France , Ilsa , Germancontrolled Europe , Veidt , Victor , Sam Arthur Dooley Wilson , Ilsa Lund Ingrid Bergman , Sam , Louis , Caf Amricain , Victor Laszlo Paul Henreid , Nazis , Casablanca , Laszlo , Renault , Lisbon , America , Lorre , Louis Renault Claude Rains , Rhine , German Army , Paris , Strasser , Bergman , La Marseillaise , Vichy , Ugarte Peter Lorre , Southern France , Ugarte"
+    },
+    {
+        "movieTitle": "Casino(1995)-Synopsis.txt",
+        "ner": "Kansas City , Vegas , Andy Stone , Piscano , Costa Rica , Ward , Teamsters , Remo Gaggi , Stone , Lester Diamond , Chicago , Nicky's , Europe , John Nance , Ginger , Sam Ace Rothstein , Lester , Tangiers , Billy Sherbert , Sherbert , Dominick , Remo , Sam , Frankie , Frankie Marino , Nance , Amy Amy , KC , Gaggi , Las Vegas , Nicky Santoro , Amy , Frank Marino , Philip Green , Marino , FBI , Green , Scorsese , Artie Piscano , Martin Scorsese , Nicky , Don Ward"
+    },
+    {
+        "movieTitle": "Chinatown(1974)-Synopsis.txt",
+        "ner": "Jake Escobar , Gittes , Owens Valley , Cross , Evelyn Jake , California , Claude Mulvihill , Chinatown , Loach , Jake , Department of Water , Hollis , Hollis Mulwray , Ida Sessions , Mulwray , Albacore Club , Jake J , Escobar , Mulvihill , Power department , Lou Escobar , LA , Katherine , William Mulholland , Mexico , Evelyn Evelyn , Noah Cross , Evelyn butler , Jake Jake , Evelyn , Los Angeles , Evelyn Mulwray"
+    },
+    {
+        "movieTitle": "CinemaParadiso(1988)-Synopsis.txt",
+        "ner": "Elena Alfredo , Toto , Southern Italy , Elena , Rome , Salvatore , Alfredo"
+    },
+    {
+        "movieTitle": "CitizenKane(1941)-Synopsis.txt",
+        "ner": "New York Daily Inquirer , Xanadu , Kane , Emily , Ruth Warrick , Chicago , Florida , Comingore , New York Chronicle , Raymond Paul Stewart , Rosebud , Thompson , Thatcher , Jim Gettys Ray Collins , Coulouris , Bernstein , Everglades , Charles Foster Kane Orson Welles , Jedediah Leland Joseph Cotten , Leland , Susan Alexander Kane Dorothy Comingore , Thompson William Alland , Salammbo , Stewart , Raymond , Susan Alexander , Charles , New York , Sloane , Alland , Susan , Bernstein Everett Sloane , Thatcher George Coulouris , Gettys"
+    },
+    {
+        "movieTitle": "CityLights(1931)-Synopsis.txt",
+        "ner": "Girl , Viennese , Europe"
+    },
+    {
+        "movieTitle": "CityofGod(2002)-Synopsis.txt",
+        "ner": "Rio de Janeiro , Benny , Ze , Cidade de Deus , Ned , Vietnam , Blackie , Groovies"
+    },
+    {
+        "movieTitle": "CoolHandLuke(1967)-Synopsis.txt",
+        "ner": "Sargeant , Army , Lucas Jackson , Dragline , Luke , Cool Hand Luke , Florida , Jackson"
+    },
+    {
+        "movieTitle": "DasBoot(1981)-Synopsis.txt",
+        "ner": "Atlantic , Nazis , Spanish , Werner , La Rochelle , Vigo , France , Johann , La Spezia , Thomsen , Ullmann , Reich , Germany , German Atlantic , Gibraltar"
+    },
+    {
+        "movieTitle": "departed.txt",
+        "ner": "Delahunt , Billy Costigan , French , Boston , Fitzgibbons , Chinese , State Police , Brown , Madden , Chinatown , Madolyn , Queenan , Ellerby , Madolyn Madden , Sullivan Sullivan , Barrigan , Frank Costello , Colin Sullivan , Costello , Sullivan , Costigan , FBI , Dignam , Federal Bureau of Investigation , Police Academy"
+    },
+    {
+        "movieTitle": "Diabolique(1955)-Synopsis.txt",
+        "ner": "Alfred , Christina , Fichet , Delassalle , Alfred Fichet , Michel , Nicole Horner , Michel Delassalle , Nicole"
+    },
+    {
+        "movieTitle": "DialMforMurder(1954)-Synopsis.txt",
+        "ner": "Halliday , Margo , Wendice , Margot , London , Wendices , Chelsea , Mark , Hubbard Tony , Tony Wendice , Charrington Gardens , Brixtonbased , Swann , Tony , Captain Lesgate , Charles Alexander C , Tony wills , Hubbard , Cambridge , Mark Halliday , London Margot"
+    },
+    {
+        "movieTitle": "DieHard(1988)-Synopsis.txt",
+        "ner": "Thornberg , Johnson Robert Davi , LAPD , McClane , Ellis , Theo , Harry Ellis Hart Bochner , Marco , Nakatomi Corporation , Nakatomi Plaza , Theo Clarence Gilyard Jr , Corporation , Powell , Gruber , Tony , Al Powell Reginald VelJohnson , Argyle , Holly , Hans Gruber Alan Rickman , Richard Thornberg William Atherton , Heinrich , Bedelia , Joe Takagi , Karl , Gennaro , Holly Gennero , New York City Police Department , Gennero , Johnson , FBI , Godunov , Holly Bonnie Bedelia , Atherton , Karl Alexander Godunov , Los Angeles , John McClane"
+    },
+    {
+        "movieTitle": "django.txt",
+        "ner": "Lara , Dicky , Schaeffers , Ellis , Billy Crash , Stephen , Schultz Schultz , Broomhilda , Siegfried , Europe , Broomhilda von Shaft , Django , John , King , Leonide Moguy , Moguy , Butch Pooch , El Paso , Candie , Vessepi , KKK , Betina , Willard , Lara Lee , Bennett , Jenny , Calvin Candie , Brunhilde , Schultz , Big John , Little Raj , Mississippi , LeQuint Dickey Mining Company , Texas , Derringer , Carrucan , Bill Sharpe , Candie's Cleopatra Club , Ben , Candie Land , Willard Peck , D'Artagnan , Dumas , Daughtrey , Amerigo Vessepi , Gatlinburg"
+    },
+    {
+        "movieTitle": "DogDayAfternoon(1975)-Synopsis.txt",
+        "ner": "ATTICA , Bellevue Hospital , Flatbush , Leon , Leon Schermer , Sheldon , Sonny , Brooklyn , Sonny Wortzik , Kennedy Airport , Eugene Moretti , Wortzik , FBI , Schermer , Sal , Mulvaney , Murphy , Angie , First Savings Bank of Brooklyn , Howard , Chase Manhattan Bank , Moretti"
+    },
+    {
+        "movieTitle": "DonnieDarko(2001)-Synopsis.txt",
+        "ner": "Eddie , Pomeroy , Donnie Darko , Kitty Farmer , Monnitoff , Thurman , Darkos , Graham Greene , Cunningham , Maryland , Rose , School , Samantha , Frank , Jim Cunningham , Gretchen Halloween , Farmer , Sparkle Motion , Gretchen , Sparrow , Harvard , Monnittoff , Roberta Sparrow , Elizabeth , Los Angeles , Grandma Death , Donnie"
+    },
+    {
+        "movieTitle": "DoubleIndemnity(1944)-Synopsis.txt",
+        "ner": "Phyllis , Walter Neff , Lola , Dictaphone , Phyllis Dietrichson , Neff , Neff Phyllis , Keyes Neff , Keyes , Mexico , Wilder , Nino , Barton Keyes , Los Angeles"
+    },
+    {
+        "movieTitle": "Downfall(2004)-Synopsis.txt",
+        "ner": "Fegelein , Heinz Linge , Army , Joseph Goebbels , Traudl Junge , Heinrich Himmler , von Greim , Mohnke , Fritz Shimon Haber , Hitlers , Jodl , Eva , Wilhelm Mohnke , Karl Dnitz , Junge , Keitel , Germany Army , Walther Wenck , Burgdorf , Berlin , Haase , ErnstRobert Grawitz , Hermann Fegelein , Christian Berkel , Karl Koller , Hitler , Adolf , Rastenburg , ErnstGnther Schenck , Central Berlin , Blondi , Helmuth Weidling , Wilhelm Burgdorf , Krebs , Grawitz , Hermann Gring , Sieg Heil , Peter , Gerda , Clausewitz , Braun , Goebbels , Weildling , Steiner , Kranz , Peters , ErnstGnter Schenck , Tellermann , Peter Kranz , Weidling , Eva Braun , Speer , Werner Haase , Himmler , Linge , Otto Gnsche , Wilhelm Keitel , Reich Chancellery , Albert Speer , Hans Krebs , Felix Steiner , Wenck , Schenck , Air Force , Reich , East Prussia , Germany , Alfred Jowl , German , Shepard , Traudl"
+    },
+    {
+        "movieTitle": "Dr.Strangeloveor_HowILearnedtoStopWorryingandLovetheBomb(1964)-Synopsis.txt",
+        "ner": "United States , Army , Jack D , Kong , Ripper , Soviet , Pentagon , Strangelove , Air Force General Buck Turgidson , Dmitri Kissoff , Muffley , The Pentagon , Merkin Muffley , Washington , Earth , Burpelson , Turgidson , Kissoff , RAF , States , Lionel Mandrake , America , USA , Leo Szilard , Vera Lynn , Mandrake , Soviet Union , USSR"
+    },
+    {
+        "movieTitle": "EliteSquad_TheEnemyWithin(2010)-Synopsis.txt",
+        "ner": "Rio de Janeiro , Jos Padilha , Marcos Prado , Padilha , Nascimento , Retomada , Brulio Mantovani"
+    },
+    {
+        "movieTitle": "EternalSunshineoftheSpotlessMind(2004)-Synopsis.txt",
+        "ner": "Lacuna , Mierzwiak , Howard Mierzwiak , Mary , Clementine Kruczynski , Joel Barish , Clementine , Stan , Joel , Barish , Kruczynski , Patrick , Lacuna Corporation"
+    },
+    {
+        "movieTitle": "FannyandAlexander(1982)-Synopsis.txt",
+        "ner": "Fanny , Gustav , Isak , Ismael Retzinsky , Edvard , Oscar , Edvard Vergerus , Alexander , Ekdahl"
+    },
+    {
+        "movieTitle": "Fargo(1996)-Synopsis.txt",
+        "ner": "Gaear Grimsrud Peter Stormare , Radisson Hotel , Brandenburg , Jerry Wade , Mike Yanagita , Florida , Grossman , Wade , Stan Grossman Larry Brandenburg , Marge Gunderson Frances McDormand , Jerry Anderso , Buscemi , Hardees , Scotty , Denman , GMAC , Jerry Jerry , Gundersons , Jean , Gaear , Marge Park , Marge Wade , Minneapolis , Carl Gaear , Olson , Jose Feliciano , Macy , Rudrd , Blue Ox Motel , Mohra , Anderson , Lou Jean , Wade Gustafson Harve Presnell , Jean Kristin Rudrd , Reilly , Gaear Carl , Park , Lou , Jean Lou , Gerry Olson , Mike , Fargo , Shep Proudfoot Steve Reevis , Denman Stan Grossman , North Dakota , Lundegaard , Shep Proudfoot , Norm Marge , Carl Jean , Norm , Wayzata , Scotty Tony Denman , Ciera , Bismarck , Jerry Lundegaard William H , Jerry , Carl Showalter Steve Buscemi , Minnesota , Brainerd , Jerry Shep , Stan , Carl Carl , Mike Yanagita Steve Park , Shep , Norm John Carroll Lynch , Grimsrud , Stan Grossman , Carl , Paul Bunyan , Wade Wade , Marge , Ciera Marge , Moose Lake , Minnesota State Police"
+    },
+    {
+        "movieTitle": "FightClub(1999)-Synopsis.txt",
+        "ner": "Leto , Tyler Durden , Lou , Durden , Pitt , Marla Singer Helena Bonham Carter , Marla , Joon Kim , Robert ` Bob'Paulson Meat Loaf , gynecomastia , Jared Leto , Lou Peter Iacangelo , Bob , Edward Norton , Ikea , Iacangelo , Tyler , Zach Grenier , Tyler Brad Pitt"
+    },
+    {
+        "movieTitle": "FindingNemo(2003)-Synopsis.txt",
+        "ner": "Dafoe , Squirt Nicholas Bird , Rush , Bruce Barry Humphries , Marlin Albert Brooks , Nemo Dafoe , Jordan Ranft , EAC , Nigel Geoffrey Rush , Austin Pendleton , Ray , Stephen Root , Peach , Darla , Dory , Brad Garrett , Marlin , Jacques , Bruce Spence , Eric Bana , Erik Per Sullivan , Janney , Bill Hunter , Nigel , Flo Vicki Lewis , Nemo Alexander Gould , Ray Bob Peterson , Darla LuLu Ebeling , Joe Ranft , Humphries , Sherman , Bruce , Wannahockaloogie , Perkins , Deb , Gill Willem Dafoe , Dory Ellen DeGeneres , Sydney , Jerry , Elizabeth Perkins , Gill , Squirt , John Ratzenberger , Crush , Ranft , Nemo , Erica Beck , DeGeneres , Andrew Stanton , Allison Janney"
+    },
+    {
+        "movieTitle": "ForaFewDollarsMore(1965)-Synopsis.txt",
+        "ner": "Tucumcari , Santa Cruz , Eastwood , Cavanagh , Van Cleef , El Indio , Mortimer , Agua Caliente , Guy Calloway , El Paso , Henry , Monco , Fort Knox , Manco , Nino , Red Baby Cavanagh , Indio"
+    },
+    {
+        "movieTitle": "Forrest.txt",
+        "ner": "Greenbow , Bubba , Dan , Washington , Forrest , Alabama , Vietnam , Forrest Gump , Apple Computer , Forrest Jenny , Jenny , Savannah , Georgia , George"
+    },
+    {
+        "movieTitle": "FullMetalJacket(1987)-Synopsis.txt",
+        "ner": "South Carolina , South Vietnamese Army , Rafterman , Lockhart John Terry , South Vietnam , Eightball Dorian Harewood , Earl , Parris Island , Eightball , Lee Ermey , North Vietnamese Army , Ed O'Ross , Phu Bai , Doc Jay Jon Stafford , Pyle , Joker Matthew Modine , Harewood , Gomer Pyle Vincent D'Onofrio , Cowboy Arliss Howard , Virgin Mary , Tan Hung Francione , Adam Baldwin , Howard , Marine Corps Training Camp , Joker , Jung , Marine , Hartman , Creed , Texas , Marines , Kieron Jecchinis , Lusthog Squad , Viet Cong , Leanne Hong , Nguyen Hue Phong , Mother , Bruce Boa , Leonard Lawrence , Da Nang , Cowboy , Rafterman Kevyn Major Howard"
+    },
+    {
+        "movieTitle": "Gandhi(1982)-Synopsis.txt",
+        "ner": "Britain , Porbandar , Amritsar , Walker , India , Hunter Commission , Mohandas K , Reginald Dyer , Dyer , Jallianwala Bagh , Gandhi , South Africa , Mahatma Gandhi , Northern India"
+    },
+    {
+        "movieTitle": "GangsofWasseypur(2012)-Synopsis.txt",
+        "ner": "Shahid , Shahid Khan , Sultana , Ramadhir , Khan , Ramadhir Singh , Sardar , Sultana Daku , India"
+    },
+    {
+        "movieTitle": "Gladiator(2000)-Synopsis.txt",
+        "ner": "Aurelius , Maximus , Roman Army , North Africa , Gracchus , Zama , Lucilla , Hagen , Quintus , Roma Invicta , Commodus , Proximo , Rome , Gaul , Marcus Aurelius , Juba , Tigris , Zucchabar , Maximus Decimus Meridius , Cicero , Ostia"
+    },
+    {
+        "movieTitle": "GoneGirl(2014)-Synopsis.txt",
+        "ner": "Collings , Marybeth , Margo , Ellen , Greece , Fitzgerald , Tanner Bolt , Nick Nick , Missouri , Sharon Schieber , Rand , Brown , Andie , Nick Dunne , Jim , Desi , Noelle , Boney , Amy Nick , Andie Fitzgerald , Ellen Abbott , Gilpin , Nick , Rhonda Boney , Tommy , Noelle Hawthorne , Amy , Tommy O'Hara , Maureen , Desi Collings , Judy , Greta , Tommy Amy , Nick Amy , Jeff , Bill , Sharon , New York , Nancy , Rhonda , Jim Gilpin , Tanner , Hawthorne"
+    },
+    {
+        "movieTitle": "GonewiththeWind(1939)-Synopsis.txt",
+        "ner": "South Carolina , Mammy , Gable , Frank Kennedy Carroll Nye , Confederate Army , Suellen , Yankee , Ashley , India , Charleston , Paul Hurst , Irish , Carreen Ann Rutherford , Frank Kennedy , Hickman , Big Sam , Mammy Hattie McDaniel , Ricky Holt , Rhett Butler , Pittypat , Belle , Aunt Pittypat , Frank , Stuart Carleton Fred Crane , Atlanta , Carletons , Roberts , Charles , Melanie Hamilton Olivia de Havilland , Jeff , Jonas , New York City , Lee , Bonnie , Mexico , Hamilton , Lillian KembleCooper , Tara father , Scarlett Vivien Leigh , Tara Gable , Charles Hamilton , Bonnie Blue Butler , Prissy , Bonnie Cammie King Conlon , Phillip Trent , Suellen Evelyn Keyes , David Copperfield , Rhett Butler Clark Gable , Alicia Rhett , Ellen , Kelly Griffin , Jonas Wilkerson Victor Jory , McDaniel , England , Sherman , South , John Wilkes Howard C , London , Gerald O'Hara Thomas Mitchell , Pork Oscar Polk , Meade , Mitchell , Phyllis Douglas , Wilkes , Ashley Leslie Howard , New Orleans , Meade Harry Davenport , Aunt Pittypat Laura Hope Crews , Tara , George Reeves , Ward Bond , Prissy Butterfly McQueen , Mammy Mammy , Patrick Curtis , Meade Leona Roberts , Confederate , Eric Linden , Cliff Edwards , India Wilkes , Rhett , Belle Watling Ona Munson , Belle Watling , Scarlett , Charles Hamilton Rand Brooks , Georgia , KembleCooper , Ellen Barbara O'Neil , Butler , O'Hara , Jory , Melanie"
+    },
+    {
+        "movieTitle": "Goodfellas(1990)-Synopsis.txt",
+        "ner": "Batts , Lufthansa , Tampa , Paulie Cicero , Janice , Copacabana , Florida , Paulie , Paul Cicero , Henry , Tuddy , Lucchese , Karen , Pittsburgh , Jimmy , Paul , Hill , Tommy , Brooklyn , DeVito , JFK Airport , Jimmy Conway , FBI , Conway , John F , Oklahoma , Mafia , Billy Batts , East New York , Henry Hill , Air France , Lois , Gambinos , Cicero , Tommy DeVito , Janice Rossi"
+    },
+    {
+        "movieTitle": "GoodWillHunting(1997)-Synopsis.txt",
+        "ner": "Gerald Lambeau , Stanford , Lambeau , Sean Maguire , Skylar , Chuckie , Sean , California , Will , Chevy Nova , Harvard , Maguire , South Boston , Galois , MIT , Red Sox"
+    },
+    {
+        "movieTitle": "GranTorino(2008)-Synopsis.txt",
+        "ner": "Thao , Lake Shore Road , Youa , Labrador Retriever Daisy , Mitch , Polish American Ford , Steve , Thao Vang Lor , Korea , Father Janovich , Mitch rob Thao , Smokie , Dorothy , Sue , Walt , Gran Torino , Karen , Highland Park , Janovich , Walt Kowalski , Michigan , Kowalski"
+    },
+    {
+        "movieTitle": "GraveoftheFireflies(1988)-Synopsis.txt",
+        "ner": "Amy Jones , Seita Tsutomu Tatsumi , Setsuko Ayano Shiraishi , Seita , Yamaguchi , Imperial Navy , Robert Spencer , Akemi Yamaguchi , Rhoda Chrosite , Setsuko , Veronica Taylor , Navy , Yoshiko Shinohara , Kobe , Japan"
+    },
+    {
+        "movieTitle": "GroundhogDay(1993)-Synopsis.txt",
+        "ner": "Danny Rubin , Connors , Harold Ramis , Rita , Larry Chris Elliott , Phil Connors Bill Murray , Punxsutawney , Phil , Elliott , Sonny amp Cher , Rita Andie MacDowell , Pittsburgh , Pennsylvania , Rita of Connors"
+    },
+    {
+        "movieTitle": "GuardiansoftheGalaxy(2014)-Synopsis.txt",
+        "ner": "Thanos Josh Brolin , Groot Vin Diesel , Korrath , Peter Quill Wyatt Oleff , Benicio Del Toro , Nebula , Peter , Christopher Fairbank , Aster , Yondu Michael Rooker , Knowhere , Gamora , Gamora Zoe Saldana , Cosmo , Henry , Quill , Infinity Stone , Korath Djimon Hounsou , Nebula Karen Gillan , Ronan , Kree , Cooper , Dave Bautista , Hounsou , Rooker , Drax , Raccoon Bradley Cooper , Dark Aster , Milano , Ronan Lee , Earth , Xandar , Oleff , Korath , Lee , Peter Quill , Morag , Gregg Henry , Chris Pratt , Stan Lee , Yondu , Thanos"
+    },
+    {
+        "movieTitle": "hachi.txt",
+        "ner": "Shibuya , Hachiko , Japan"
+    },
+    {
+        "movieTitle": "HarryPotterandtheDeathlyHallows_Part2(2011)-Synopsis.txt",
+        "ner": "Hermione Emma Watson , Harry Potter Daniel Radcliffe , Army , Helga Hufflepuff , Hufflepuff , Tonks Natalia Tena , Hermione , Elder Wand , Lily Potter , Malfoy Manor , Ginny Bonnie Wright , Draco , Harry , Dobby , Forbidden Forest , Nagini , Fred James Phelps , Hogsmeade , Lupin David Thewlis , Hogwarts , Malfoy Tom Felton , Potter , Malfoy , Felton , Ollivander John Hurt , Ron , Lestrange , Voldemort Ralph Fiennes , Albus , Godric , Minerva McGonagall Maggie Smith , Ron Rupert Grint , Wandmaker , Snape Alan Rickman , Aberforth Dumbledore Ciarn Hinds , Snape , Albus Severus Potter , Narcissa Malfoy Helen McCrory , Gringotts , Dumbledore Michael Gambon , Neville , Godric Gryffindor , Dumbledore , Rowena Ravenclaw , Griphook Warwick Davis , Helena , Wand , Voldemort , Lewis , Bellatrix Helena Bonham Carter , Lily , Slytherin , Aberforth , Severus , McCrory , Neville Longbottom Matthew Lewis , McGonagall , Griphook , Hagrid Robbie Coltrane"
+    },
+    {
+        "movieTitle": "Heat(1995)-Synopsis.txt",
+        "ner": "LAPD , Roger Van Zant , Schwartz , Benny , Lauren , Charlene , Richard , Koreatown , Eady Neil , Albert Torena , Whittier , Hanna , Fresno , Alan Marciano , Albert , Justine , Eady , Zant , Far East National Bank , Cheritto , Charlene Shiherlis , Neil McCauley , Vincent , Detecive Casals , Dominic , Venice Boulevard , Breedan , Van Zant , McCauley , Los Angeles Police Department , Nate , Torena , Bob , Shiherlis , Hugh Benny , Bosko , Trejo , Michael Cheritto , LA Neil , Chris , Donald Breedan , Vincent Hanna , Kelso , Casals , Malibu Equity amp Investments , Waingro , Chris Shiherlis , Drucker , Neil , New Zealand"
+    },
+    {
+        "movieTitle": "HighNoon(1952)-Synopsis.txt",
+        "ner": "Harvey , Pell , Frank Miller , Ben Miller , Marshal Kane , Hadleyville , Amy , Kane , Jim Pierce , Helen , Fowler , Helen Ramirez , Colby , Pierce , Amy Fowler , Ramirez , Jack Colby , Will Kane , Marshal , Miller , Marshal Will Kane , Harvey Pell"
+    },
+    {
+        "movieTitle": "HotelRwanda(2004)-Synopsis.txt",
+        "ner": "Oliver , Paul , Hutu , Tatiana , UN , Paul Rusesabagina , Red Cross , Rusesabagina , Tutsi , Rwandan Army , Interhamwe , Sabena Htel des Mille Collines , George Rutaganda , United Nations , Augustin Bizimungu , Interahamwe"
+    },
+    {
+        "movieTitle": "Howl'sMovingCastle(2004)-Synopsis.txt",
+        "ner": "Akihiro Miwa , Lettie , Sophie , Tatsuya Gashin , Sophie Markl , Baish , Howl , Turniphead , King , Crispin Freeman , Devon , Kingsbury , Royal Sorcery Academy , Suliman , Markl Josh Hutcherson , Takuya Kimura , Jenkins , Lettie Jena Malone , Mari Devon , Calcifer , Pendragon , Daijir Harada , Lauren Bacall , Markl , Malone , Witch , Wizard Jenkins , Madam Suliman Blythe Danner , Sophie Emily Mortimer Japanese Chieko Baish , Haruko Kat , Rynosuke Kamiki , Kamiki , Sophie King , Sophie Suliman , Sophie Sophie , Madam Suliman , Markl Sophie , Hin"
+    },
+    {
+        "movieTitle": "HowtoTrainYourDragon(2010)-Synopsis.txt",
+        "ner": "Ferguson , Toothless , Hiccup , Jay Baruchel , Snotlout Jonah Hill , Gobber , Astrid , Stoick , Wiig , Craig Ferguson , Stoick Gerard Butler , Berk , Fishlegs Christopher MintzPlasse , Vikings , Ruffnut Kristen Wiig , Miller , Butler , Astrid America Ferrera"
+    },
+    {
+        "movieTitle": "Incendies(2010)-Synopsis.txt",
+        "ner": "MiddleEastern Christian , Nihad , Kfar Ryat , Janaan , Nawal , Daresh , Canada , Tareq , Abou Tareq , Simon , Jeanne , Kfar Khout , Sarwan"
+    },
+    {
+        "movieTitle": "Inception(2010)-Synopsis.txt",
+        "ner": "Cobb Eames , Maurice , Arthur , Maurice Pete Postlethwaite , Europe , Saito , Buenos Aires , Browning , Yusuf Dileep Rao , Arthur Joseph GordonLevitt , Rao , Yusuf , Eames , Cobb's , Caine , Mal , James , Masamune , Fischer Morrow , Tadashi TaiLi Lee , Peter Browning Tom Berenger , Taylor Geare , Nash , Saito Ken Watanabe , Roberts , Charles , Cotillard , Cobb Saito , Miles Michael Caine , New York City , Maurice Fischer , Phillipa Johnathan Geare , Dom Cobb Leonardo DiCaprio , Claire Geare , Tohoru Masamune , Cobb , Paris , Ariadne , Robert , Magnus Nolan , Tadashi , Cobb Mal , Eames Tom Hardy , Earl Cameron , Haas , Arthur for Cobb , Cobb James , Ariadne Ellen Page , Mombasa , Boeing , DiCaprio , Robert Fischer Cillian Murphy , Somnacin , America , Mal Marion Cotillard , Nash Lukas Haas , Cobol Engineering , Los Angeles , Ariadne Mal"
+    },
+    {
+        "movieTitle": "IndianaJonesandtheLastCrusade(1989)-Synopsis.txt",
+        "ner": "Jones , Jones Indy , Elsa Schneider , Donovan , Nazi , Sheriff , Indiana Jones , Brody , Monument Valley , Henry , Ankara , Jordan , Berlin Flughafen , Indiana , Luftwaffe , Henry Jones , Indy Junior Sallah , Irene , Jesus Christ , Atlantic , Marcus , Nazis , Berlin , Venice , Turkey , Indy , Jr , Schneider , Walter Donovan , Hitler , Greek , Elsa , Marcus Brody , Coronado , Utah , Germany , Sallah"
+    },
+    {
+        "movieTitle": "InfernalAffairs(2002)-Synopsis.txt",
+        "ner": "Cheung , Lau KinMing , Yan , Tsui WaiKeung , Mary , OCTB , Ming , Chen WingYan , CIB , Lee , Wong , Sam , Yip , Lee Ming , Keung , Lau , Del Piero , Hon Sam"
+    },
+    {
+        "movieTitle": "InglouriousBasterds(2009)-Synopsis.txt",
+        "ner": "Wuttke , Mata Hari , LaPadite , Mhring , Donowitz , Hans Landa Christoph Waltz , Jackson , France , Shosanna , Stolz , Bowie , Emmanuelle Mimieux , Marcel Jacky Ido , Willem Wicki Gedeon Burkhard , Francesca Mondino Julie Dreyfus , Bridget , Mathilda , Omar Ulmer Omar Doom , Denis Mnochet , Basterds , Landa , auf Wiedersehen , Burkhard , Pitt , Wicki , Butz Snke Mhring , Joseph Goebbels Sylvester Groth , Hitler , Werner Rachtman Richard Sammel , Butz , Paris , Bridget Von Hammersmark , Shosanna Mlanie Laurent , Normandy , Dreyfus , von Hammersmark , Germanborn Basterds , Mimieux , Fehling , Winnetou , Stiglitz , Bridget von Hammersmark , Marcel , Novak , Zoller , Wilhelm Alexander Fehling , Nazi , Edgar Wallace , Jew Hunter , Goebbels , Adolf Hitler Martin Wuttke , Aldo Raine Brad Pitt , Laurent , Ulmer , Eric , Omar Ulmer , Raine , Bridget leg , Perrier , Mnochet , Harvey Keitel , Nazis , Donny Donowitz Eli Roth , Hugo Stigliz Til Schweiger , Archie Hicox Michael Fassbender , Hicox , Beethoven , Dieter Hellstrom August Diehl , Nantucket Island , America , Samuel L , Hammersmark , Rachtman , Winston Churchill Rod Taylor , Wilhelm , Brhl , Ed Fenech Mike Myers , Sammel , Bridget von Hammersmark Diane Kruger , Utivich , Fredrick Zoller Daniel Brhl , Hellstrom"
+    },
+    {
+        "movieTitle": "Interstellar(2014)-Synopsis.txt",
+        "ner": "Cuba , Brand , Mann , Doyle , Getty , Midwestern , Amelia , Rockies , Jessie , Saturn , Cooper Station , Amelia Brand , Cooper , John Brand , O'Neill , Earth , Tom , Murph , Murph Cooper , Joe Cooper , Nikolai Rom Romilly , Edmonds , America , Donald , NASA , Romilly , Cooper Donald , Lois , Coop , Morse , Colorado , Edmond , Gargantua , Miller , Midwest"
+    },
+    {
+        "movieTitle": "Interstellar.txt",
+        "ner": "Cuba , Brand , Mann , Doyle , Getty , Midwestern , Amelia , Rockies , Jessie , Saturn , Cooper Station , Amelia Brand , Cooper , John Brand , O'Neill , Earth , Tom , Murph , Murph Cooper , Joe Cooper , Nikolai Rom Romilly , Edmonds , America , Donald , NASA , Romilly , Cooper Donald , Lois , Coop , Morse , Colorado , Edmond , Gargantua , Miller , Midwest"
+    },
+    {
+        "movieTitle": "IntheNameoftheFather(1993)-Synopsis.txt",
+        "ner": "Gerry amp Gerry , Charlie , Belfast , England , Annie MaGuire , Ronnie Smalls , Conlon , Charlie Burke , Annie , Gareth , Joe , Barker , London , Annie Maguire , Carole , IRA , Gerry Conlon , Jim , Gerry amp Paul , Patrick Armstrong , Guildford , McAndrews , Paul , Guilford , Gareth Peirce , Peirce , Carole Richardson , Giuseppe Conlon , Smalls , Guiseppe , Joe McAndrews , Giuseppe amp Gerry , Gerry , Dickson , Patrick , Guildford Four , Paddy Armstrong , Burke , Irish Republican Army , Paul Hill , Giuseppe"
+    },
+    {
+        "movieTitle": "IntotheWild(2007)-Synopsis.txt",
+        "ner": "United States , Oxfam , Wayne Westerberg , Westerberg , Emory University , Billie McCandless , California , Colorado River , Lake Mead , Rainey , McCandless , Walt , Carthage , Imperial Valley of California , Alexander Supertramp , Franz , Carine , Salton City , Virginia , Slab City , Ron Franz , McCandless Franz , Datsun , America , Mexico , Christopher McCandless , Tracy Tatro , Alaska , Jan Burres , Los Angeles , South Dakota"
+    },
+    {
+        "movieTitle": "IpMan(2008)-Synopsis.txt",
+        "ner": "Wing Chun , Hong Kong , Miura , Sato , Jin Shanzhao , Chow Chingchuen , Chow , Lin , Chun , Chun Kung Fu , Shanzhao , Li Zhao , Foshan , Bruce Lee , China , Japan , Zhao"
+    },
+    {
+        "movieTitle": "It'saWonderfulLife(1946)-Synopsis.txt",
+        "ner": "Wainwright , Bedford Falls , Welch , Violet Bick , Warner , Clarence Henry Travers , Europe , Bert , Florida , Gower , Harry , Billy , George , Ruth , Earth George , Hatch , Bailey Park , Potter , Henry Potter Lionel Barrymore , New York City , New York , Hatch Hatch , Albertson , Ernie Frank Faylen , George Bailey James Stewart , Ernie , Mary , BampL , Odbody , Martini , Travers , Harry Bailey , George Bailey , Clarence , Mitchell , Ruth Dakin , Hinds , Mary Hatch Donna Reed , Nick , Bert Ward Bond , Zuzu Karolyn Grimes , Edmunds , Earth , Sam Wainwright , Washington , Bailey , Samuel S , Martini William Edmunds , Sam Wainwright Frank Albertson , Pottersville , Zuzu , Todd Karns , Mary Hatch , Clarence Odbody , Violet Bick Gloria Grahame , Billy Thomas Mitchell"
+    },
+    {
+        "movieTitle": "ItHappenedOneNight(1934)-Synopsis.txt",
+        "ner": "Westley , Jericho , New York , Ellie Andrews , Andrews , Warne , Peter Warne"
+    },
+    {
+        "movieTitle": "Jaws(1975)-Synopsis.txt",
+        "ner": "Mayor Vaughn , Oceanographic Institute , Filley , Martin Brody Roy Scheider , Ellen , Quint , Ben Gardner Craig Kingsbury , Tom Cassidy , Jeff Hendricks Jeffrey Kramer , Brody , US Navy , Michael Chris Rebello , Hooper , Alex Kitner , Backlinie , Vaughn , Voorhees , New England , Ellen Lorraine Gary , Tom Cassidy Jonathan Filley , Indianapolis , Ellen Brody , Chrissie Watkins , Watkins , Chrissie Watkins Susan Backlinie , Sam Quint Robert Shaw , Chrissie , Ben Gardner , Gardner , Tom , Matt Hooper Richard Dreyfuss , Chrissy , Michael , Alex , Kitner Lee Fierro , Fierro , Shaw , Kitner , Hendricks , Ted Grossman , Alex Kitner Jeffrey Voorhees , Robert Nevin , Larry Vaughn Murray Hamilton"
+    },
+    {
+        "movieTitle": "JudgmentatNuremberg(1961)-Synopsis.txt",
+        "ner": "Nuremberg , Dan Haywood Spencer Tracy , Dietrich , Richard Widmark , Bertholt Marlene Dietrich , Janning , Haywood , Nazi , Dachau , Ernst Janning Burt Lancaster , America , Bertholt , Hitler , Halbestadt , Maximilian Schell , Ministry of Justice , Ernst Janning , Germany , Tracy"
+    },
+    {
+        "movieTitle": "JurassicPark(1993)-Synopsis.txt",
+        "ner": "Isla Nublar , Donald Genarro , TRex , Donald Gennaro , Costa Rica , Nedry Nedry , Ellie Sattler , Muldoon , Sattler , Grant , BioSyn , Rex , Nedry , Parasaurolophus , Arnold , Lex , Earth , InGen , Gennaro , Montana , Gennarro , John Hammond , Dominican Republic , Tim , Ford Explorers , Hammond , Malcolm , Ian Malcolm , Alan Grant"
+    },
+    {
+        "movieTitle": "KillBill_Vol.1(2003)-Synopsis.txt",
+        "ner": "Nikki , Sofie Fatale Julie Dreyfus , Bill David Carradine , Chiba , Michael Parks , Sofie , Hanzo , Gogo , El Paso , Gordon Liu , Pussy Wagon , Uma Thurman , Liu , Fox , Copperhead , Matsumoto , Gogo Yubari Chiaki Kuriyama , Michael Bowen , Jonathan Loughran , Auld Lang Syne , Deadly Vipers , Tokyo , Ishii , Elle Driver Daryl Hannah , Vernita , Vernita Green Vivica A , Johnny Mo ChiaHui Liu , ORen Ishii , Bill , ORen , Hattori Hanzo Shin , Shin , Okinawa , Black Mamba , Deadly Viper Assassination Squad , Pasadena , ORen Ishii Lucy Liu , California Mountain Snake , Elle , Cottonmouth , Nikki Ambrosia Kelley , Arlene Machiavelli"
+    },
+    {
+        "movieTitle": "L.A.Confidential(1997)-Synopsis.txt",
+        "ner": "Edmund , Jones , Smith , LAPD , Bracken , Meeks , Rita Hayworth , Reynold , Mickey Cohen , Roland Navarette , Matt Reynolds , Hollywood sleaze magazine , Lynn , Johnny Stompanato , Stensland , Reynolds , Lynn Bracken , Dudley , Vincennes , Matt , Dick Stensland , Susan Lefferts , Carlisle , Bisbee , Lake , Sugar Ray Collins , Thompson , Loew , Michael Breuning , Ellis Loew , Ed , Buzz Meeks , Rollo Tomasi , Sylvester Fitch , Bud , Lewis Fontaine , Exley , Ty Jones , Pierce Patchett , Fitch , The Los Angeles Times , Susan , LA District Attorney Loew , Jack Vincennes , Edmund Exley , Ed Exley , Hudgens , Fleur de Lis , Sid Hudgens , MacNeil Island , Cohen , Navarette , Veronica Lake , Ray Collins , Santa Monica , Wendell Bud White , Santa , Lefferts , Bud White , Tammy , Jack , Washington , Patchett , Breuning , Leland , Exley Exley , Dudley Smith , LA , Tammy Jordan , San Quentin State Penitentiary , White , Lewis , Tomasi , Arizona , Sid , Collins , PA , William Carlisle , Los Angeles"
+    },
+    {
+        "movieTitle": "LaDolceVita(1960)-Synopsis.txt",
+        "ner": "La Dolce Vita , Rome , Daniel , Marcello"
+    },
+    {
+        "movieTitle": "LaStrada(1954)-Synopsis.txt",
+        "ner": "Freespirited Gelsomina , Zampan , Gelsomina"
+    },
+    {
+        "movieTitle": "LawrenceofArabia(1962)-Synopsis.txt",
+        "ner": "Daraa , Jackson Bentley , Gasim , Tafas , Faisal , Brighton , Sinai Desert , Dryden , Arab , Arab Bureau , St Paul's Cathedral , British Army , Lawrence , Yenbo , Sherif Ali , Murray , Damascus , Farraj , Bey , Lawrence Arab , Bentley , Allenby , Aqaba , Cairo , Nefud Desert , Daud , Auda abu Tayi , Arabs , Ali , Jerusalem , Howeitat"
+    },
+    {
+        "movieTitle": "lebowski.txt",
+        "ner": "Jackie Treehornproduced , Jeffrey , LAPD , Catholic , Volkswagen , Viva Las Vegas , George Bush , Arthur , Maude , Kieffer , Larry , Creedence , Thornhill , Fawn , Fino , Jackie Treehorn , Kuwait , Kneutson , Da Fino , Palm Springs , Jeffrey Lebowski , Gutterballs , Larry Sellers , Lebowski , Uzi , Stranger , Bunny , Hawai'i , Marty , Dude , Arthur Digby Sellers , Smokey , Vietnam , Malibu , Bunny Lebowski , Sobchak , Uli , Walter Sobchak , Karl Hungus , Hungus , Franz , Big Lebowski , Arthur Sellers , Walter , Maude Lebowski , Shomer Shabbos , Donny , Ralph , Knox Harrington , Fino Minnesota , Jesus , Brandt , LA , Treehorn , Gary , Kerabatsos , Theodore Donald Donny Kerabatsos , Los Angeles"
+    },
+    {
+        "movieTitle": "LeSamoura__(1967)-Synopsis.txt",
+        "ner": "Valerie , Paris Metro , Alain Delon , Jan Lagrange , Costello , Jeff Costello"
+    },
+    {
+        "movieTitle": "LifeIsBeautiful(1997)-Synopsis.txt",
+        "ner": "Guido , Herr Lessing , Buongiorno Principessa , Dora , Eliseo Orefice , Regole del Campo , Guido Orefice , Arezzo , German , Italy , Giosu"
+    },
+    {
+        "movieTitle": "LifeofBrian(1979)-Synopsis.txt",
+        "ner": "Reg , Judith , Jesus , Brian Cohen , Romans , Pontius Pilate , Brian , Judea , People's Front of Judea , Mandy , Roman , Pilate , Nazareth , Brian Reg"
+    },
+    {
+        "movieTitle": "Lock,StockandTwoSmokingBarrels(1998)-Synopsis.txt",
+        "ner": "Big Chris , Eddie , Dean , Tom , Rory Breaker , Bacon , Chris , River Thames , Harry , Rory , Gary , Barry , Hatchet Harry Lonsdale , Little Chris , Toms , Nick"
+    },
+    {
+        "movieTitle": "L__on_TheProfessional(1994)-Synopsis.txt",
+        "ner": "DEA , Leon , Mathilda , Supreme Macaroni Company , Matilda , Mathilda Lon , Len , Roosevelt Island , Fatman , New York City , FBI , Little Italy , Lando , Gene Kelly , Mathilda Lando , Norman Stansfield , Stansfield , ESU , Tony , Lon , Lon Tony"
+    },
+    {
+        "movieTitle": "M(1931)-Synopsis.txt",
+        "ner": "Gnass , Georg John , Franz Friedrich Gnass , Schrnker Gustaf Grndgens , Elsie Beckmann , Ariston , Elsie Beckmann Inge Landgut , Hans Beckert , Beckert , Rudolf Blumner , Frau Beckmann Ellen Widmann , bush , Franz , Lohmann"
+    },
+    {
+        "movieTitle": "MadMax_FuryRoad(2015)-Synopsis.txt",
+        "ner": "Zo Kravitz , Dag Abbey Lee , Angharad Rosie HuntingtonWhiteley , Valkyrie Furiosa , HuntingtonWhiteley , Max Rockatansky Tom Hardy , Buzzards , Toecutter , Riley Keough , People Eater John Howard , Immortan Joe Hugh KeaysByrne , Richard Carter , Valkyrie , Joe , Rictus , Nicholas Hoult , Melissa Jaffer , Angharad , Max , Australia , Dag , Vuvalini , Angus Sampson , Green Place , Furiosa Max , Rictus Nathan Jones , Immortan Joe , Nux , Valhalla , Hardy , Hoult , Furiosa , Valkyrie Megan Gale , Gas Town , Courtney Eaton"
+    },
+    {
+        "movieTitle": "marine.txt",
+        "ner": "Morgan , Angela , Vescera , Triton , Marine John Triton , Rita , Bennett , Rome , Kate , John , Iraq"
+    },
+    {
+        "movieTitle": "MaryandMax(2009)-Synopsis.txt",
+        "ner": "Mary Toni Collette , Collette , Whitmore Max , Mary , Vera , Damien Popodopolous Eric Bana , Melbourne , Asperger , Max Henry IX , Henry , Len Hislop , Noel , Max , Australia , Mount Waverly , Whitmore Greek , Max Horowitz , Geyer , Vera Rene Geyer , Earl Grey , Henry VIII , Damien , Bana , Len , Max Jerry Horowitz Philip Seymour Hoffman , Scotland , New York City , New York , America , Desmond , Ethel , Mary Daisy Dinkle Bethany Whitmore , Noblet , Whitmore , Hislop , Barry Humphries , New Zealand , Hoffman"
+    },
+    {
+        "movieTitle": "Memento(2000)-Synopsis.txt",
+        "ner": "Jankis Harriet Sansom Harris , Sammy Jankis Stephen Tobolowsky , Polaroid , Leonard Shelby , Jimmy Grantz , Dodd Callum Keith Rennie , Joe Pantoliano , Lenny , Leonard Leonard , Leonard Teddy , Ferdy , Dodd , Jaguar , Sammy Jankis , Holden , John Edward Gammell , Teddy Teddy , Sammy , Leonard , Jimmy , Teddy , John G G , Pearce , Harris , Gammell , John Gs , Burt Mark Boone Junior , Jimmy Grantz Larry Holden , Natalie CarrieAnne Moss , Grantz , Leonard Shelby Guy Pearce , John G , Jorja Fox , Natalie"
+    },
+    {
+        "movieTitle": "MemoriesofMurder(2003)-Synopsis.txt",
+        "ner": "United States , Seoul , Seo , Park , Taeyoon , Seo Taeyoon , Park Dooman"
+    },
+    {
+        "movieTitle": "MillionDollarBaby(2004)-Synopsis.txt",
+        "ner": "Las Vegas , Maggie Maggie , Morgan Freeman , Dunn , Frankie Dunn , Frankie , Clint Eastwood , Kate , Maggie , Disneyland , Hillary Swank , Maggie Dunn"
+    },
+    {
+        "movieTitle": "Monsters,Inc.(2001)-Synopsis.txt",
+        "ner": "Henry J , Boo , Randall , Randall Boggs , Sully Boo , Mike , Michael Mike Wazowski , Monstropolis , Sullivan , Child Detection Agency , Roz , Waternoose , James P , Sully Kitty , Mike disguise Boo , Sully Sullivan , Sully , CDA , Himalayas , Sulley"
+    },
+    {
+        "movieTitle": "MontyPythonandtheHolyGrail(1975)-Synopsis.txt",
+        "ner": "Jones , Tim John Cleese , Yorkshire , French , Concorde Eric Idle , England , Arthur , Europe , King , John Young , Prince Herbert Terry Jones , Eric Idle , Mark Zycon , Aaaaarrrrrrggghhh , Dennis , Brother Maynard , Connie Booth , Bedevere , Dingo Carol Cleveland , Patsy Terry Gilliam , Galahad , Terry Jones , Brother Maynard Eric Idle , Bors , Alice , Cleese , Neil Innes , Lancelot , Herbert , Terry Gilliam , John Cleese , Camelot , Roger , Holy Hand Grenade of Antioch , Rita Davies , Palin , Michael Palin , Dingo , Arthur Graham Chapman , Patsy , Robin , Booth , Tim , Notappearinginthisfilm William Palin , Bors Terry Gilliam"
+    },
+    {
+        "movieTitle": "Mr.SmithGoestoWashington(1939)-Synopsis.txt",
+        "ner": "Boy Rangers , Smith , Jefferson Smith , Washington , Paine , Clarissa Saunders , Jim Taylor , Joseph Paine , Hopper , Senate , America , Hubert Happy Hopper , Taylor Smith , Sam Foley , Susan , Hubert , Taylor"
+    },
+    {
+        "movieTitle": "MyNeighborTotoro(1988)-Synopsis.txt",
+        "ner": "Amagasa , Mei , Shimamoto , Noriko Hidaka , Kanta , Toshiyuki Amagasa , Totoro , Chika Sakamoto Kusakabe , Tanie Kitabayashi , Tatsuo , Granny Pat Carroll , Yasuko , Tatsuo Tim Daly Japanese Shigesato Itoi , Yasuko Lea Salonga Japanese Sumi Shimamoto , Granny , Hidaka , Catbus , Satsuki , Kanta Paul"
+    },
+    {
+        "movieTitle": "Network(1976)-Synopsis.txt",
+        "ner": "Ecumenical Liberation Army , Diana , Schumacher , Saudi Arabian , UBS Evening News , Frank Hackett , Union Broadcasting System , CCA , UBS , Diana Christensen , Christensen , Howard Beale , Arthur Jensen , Beale , Hackett , Max , Communications Corporation of America , Jensen , Howard , Max Schumacher"
+    },
+    {
+        "movieTitle": "NoCountryforOldMen(2007)-Synopsis.txt",
+        "ner": "Luce Rains , Wendell , Jones , Ellis , Corbin Jones , Carla Jean , Chigurh Moss , Chigurh , Carson , Odessa , Zach Hopkins , Llewelyn Moss , Chris Warner , Carson Wells Woody Harrelson , Beth Grant , Stephen Root , Mathew Greer , Lamkin , Jean , Bell Tommy Lee Jones , Marc Miles , Dillahunt , Harrelson , Corbin , Mexico , Brolin , TX , Rodger Boyce , Ana Reeder , Gene Jones , Moss Miles , Bell , Corbin Corbin , Anton Chigurh Javier Bardem , Sheriff Bell , El Paso , Ellis Barry Corbin , Wendell Garret Dillahunt , Llewelyn Moss Josh Brolin , Reeder , Dallas , Rio Grande , Greer Greer , Ford , Norteo Band , West Texas , Moss , Carla Jean Kelly Macdonald , Wells , Loretta Tess Harper Jones , Kathy Lamkin"
+    },
+    {
+        "movieTitle": "NorthbyNorthwest(1959)-Synopsis.txt",
+        "ner": "Glen Cove , Ober , Townsend , Rushmore , James Mason , Licht Robert Ellenstein , TownsendVandamm , Thornhill , Rogers , Valerian Adam Williams , Northwest Airlines , United Nations , Leonard , Long Island , Park Service , Laura , Townsend Josephine Hutchinson , Baywood , Thornhill Cary Grant , General Assembly , Kendall , Anna , Lester Townsend Philip Ober , New York , Michigan , Rapid City , Kaplan , Lester Townsend Roger , Eva Marie Saint , Vandamm , Chicago , Leonard Martin Landau , Grant , Larrabee , Indianapolis , Junket Edward Binns , Babson , Anna Nora Marlowe , Lester Townsend , Washington , Larrabee Edward Platt , Clara Thornhill Jessie Royce Landis , Eve Kendall , Licht , Roger , Binns , Ellenstein , Carroll , Mason , USA , Manhattan , America , George Kaplan , Valerian , Leo G , Phillip Vandamm , South Dakota , Roger Thornhill"
+    },
+    {
+        "movieTitle": "Oldboy(2003)-Synopsis.txt",
+        "ner": "Seoul , Magic Blue Dragon , Park , JooHwan , Evergreen , Chinese , Ella Wheeler Wilcox , Blue Dragon , Woojin , Mr Han , Daesu Daesu , Han , Mido , Kim JaHyun , Sooah , Daesu , Sweden"
+    },
+    {
+        "movieTitle": "OnceUponaTimeinAmerica(1984)-Synopsis.txt",
+        "ner": "Moe , Whitey Patsy , NY , Max Pesci , Rapp , Whitey , Joe , Fat Moe , Bugsy , California , Detroit , Joe Burt Young , Fat Moe Larry Rapp , Vincent Aiello Danny Aiello , Frankie , Deborah Elizabeth McGovern , Max , Long Island , Whitey Noodles , Jimmy , David , Chicken Joe , Bailey , Niro , Deborah , Chris Bailey , Pesci , Carol Tuesday Weld , Jimmy Clean Hands O'Donnell Treat Williams , Cockeye , Carol , New York City , Shark , Aiello , Patrick Patsy Goldberg James Hayden , Manhattan , Federal Reserve , Peggy , Patsy , Philip Cockeye Stein William Forsythe , Deborah Jennifer Connelly , Connelly , Max Bercovic James Woods , Frankie Manoldi Joe Pesci , Capuano , Dominic , David Noodles Aaronson Robert De Niro , Buffalo"
+    },
+    {
+        "movieTitle": "OnceUponaTimeintheWest(1968)-Synopsis.txt",
+        "ner": "Sweetwater , Cheyenne Harmonica , Jason Robards , Timmy , Charles Bronson , Woody Strode , Frank Henry Fonda , Al Mulock , McBain , Robards , Jill , Bronson Frank , Frank Morton , Morton , Morton Gabriele Ferzetti , Wobbles , Harmonica , Ennio Morricone , Wolff , Lionel Stander , Sam , Pacific , Jill Harmonica , Cheyenne , Navajo , Southwest of America , Jill man , New Orleans , Jack Elam , Brett McBain Frank Wolff , Maureen , Frank , Keenan Wynn , Sam Paolo Stoppa , Flagstone , Yuma , Brett McBain , Stoppa , Frank Jill , Old West , Patrick , John Cage , Jill Claudia Cardinale , Wynn , Atlantic Ocean"
+    },
+    {
+        "movieTitle": "OneFlewOvertheCuckoo'sNest(1975)-Synopsis.txt",
+        "ner": "Cheswick , Turkle , Spivey , ECT , Randle Patrick McMurphy , Oregon , Charlie Cheswick , Canada , Ratched , Mac , Bromden , Billy Bibbit , McMurphy , Billy"
+    },
+    {
+        "movieTitle": "OntheWaterfront(1954)-Synopsis.txt",
+        "ner": "Charlie , Doyle , Edie Edie , Catholic , Kayo Dugan , Kayo , Big Mac , Terry Terry , Joey Doyle , Barney , Tillio , Dugan , Johnny Friendly , Pop Doyle , Johnny , Gent , Edie , Jerry G , Barry , Terry Johnny , Wilson , Jimmy , Charley , Terry of Edie , Joey , Eve Doyle , Johnny Johnny , Hell , Barry Terry , New York City , Mac , Crime Commission , Terry , Father Barry , Waterfront Crime Commission , Terry You , John Friendly , KO Dugan , Terry Malloy"
+    },
+    {
+        "movieTitle": "Pan'sLabyrinth(2006)-Synopsis.txt",
+        "ner": "Navarra , Garcs , Francisco Franco , Ferreiro , Spain , Franco , Moanna , Tarta , King , Tenyearold Ofelia , Vidal , Faun Ofelia , Carmen , Pedro , Ofelia Carmen , Faun , Ofelia , Glasgow , Tarta Vidal , Dawn"
+    },
+    {
+        "movieTitle": "Papillon(1973)-Synopsis.txt",
+        "ner": "France , Devil's Island , Clusiot , Julot , Maturette , Honduras , Laurent , Mother Superior Papillon , Degas , French Guiana , Dega , Papillon"
+    },
+    {
+        "movieTitle": "PathsofGlory(1957)-Synopsis.txt",
+        "ner": "Antihill , SaintAuban , Anthill , Roget , Rousseau , Private Ferol , Boulanger , Arnaud , Paul Mireau , Dax , Dax Roget , Switzerland , France , Broulard , Either Boulanger , French Army , Roget Roget , Ferol , Hussar , Paris , George Broulard , Germany , Mireau"
+    },
+    {
+        "movieTitle": "Persona(1966)-Synopsis.txt",
+        "ner": "Michail Lermontov , Warsaw , Elisabet Vogler , Vogler , KarlHenrik , Elisabet Elisabet , Bergman , Elisabet , Alma"
+    },
+    {
+        "movieTitle": "PiratesoftheCaribbean_TheCurseoftheBlackPearl(2003)-Synopsis.txt",
+        "ner": "Commodore Norrington , Norrington , Royal Navy , Commodore , Weatherby Swann , Isla de Muerta , Elizabeth burns , British Royal Navy , Jack , Tortuga , Jack Sparrow , Jamaica , Barbossa Elizabeth , First Mate Barbossa , Bill , Will Turner , Port Royal , James Norrington , William Bootstrap Bill Turner , Will , Sparrow , Barbossa , Turner , Swann , Gibbs , Pearl , Elizabeth"
+    },
+    {
+        "movieTitle": "Platoon(1986)-Synopsis.txt",
+        "ner": "United States , Sandy , Doc , Audie Murphy , Barnes Rhah , Tex , NVA , Ebenhoch , South Vietnam , Tony Hoyt , Bravo Company , Crawford , Barnes , Tubbs , Rhah , Vietnam , North Vietnamese Army , Harold , Wolfe , Chris Taylor , Sal , Lerner , Murphy , Morehouse , Southeast Asia , Taylor , Manny Washington , Francis , American , Gardner , Harris , Parker , O'Neil , Junior , Bunny , America , Viet Cong , Elias , Warren , Red O'Neil , Air Force , Fu Sheng , Doc Gomez , Da Nang"
+    },
+    {
+        "movieTitle": "PrincessMononoke(1997)-Synopsis.txt",
+        "ner": "Smith , Spirit , Jigo Ashitaka , Mononoke , Kaya Tara Strong , Ashitaka Billy Crudup , Toki , Masahiko Nishimura , Nago , Hiisama , Jigo Billy Bob Thornton , Lord Asano , Kouroku , Toki Jada Pinkett Smith , Okkoto Eboshi , Tsunehiko Kamij , Iron Town , Gonza John DiMaggio , Eboshi Ashitaka , Ashitaka Ashitaka , Emishi , Ashitaka , Iron Towners , Okkoto , Forest , Asano , Hiisama Mitsuko Mori , Gonza , Mononoke San , Town , Anderson , San Moro , Yuriko Ishida , Moro Gillian Anderson , Moro , kodama , San Attacks San , Akihiro Miwa , Yko Tanaka , Yakul , Ashitaka Eboshi , Lady Eboshi , Lady Eboshi Minnie Driver , Jigo , Walker , Eboshi , Jisan , Yji Matsuda , Mikado , Nago Moro , Kaoru Kobayashi , San Akihiro Miwa , John DeMita , David , Tara , Keith David , Kaya , Forest Spirit , San , Tatara , Lord Okkoto , DemonOkkoto , Eboshi Gonza , Sumi Shimamoto"
+    },
+    {
+        "movieTitle": "prisoners.txt",
+        "ner": "Jones , Joy Birch , Milland , Dovers , Dover , Kellers , Birch , Holly Jones , Barry Milland , Keller Dover , Eliza , Keller Alex , Joy , Taylor , Holly , Dunn , Ralph , O'Malley , Franklin , Alex , Grace Dovers , Anna , Loki , Dover Jones , Anna Dover , Father Dunn , Keller , Nancy , Grace , Franklin Birch , Patrick Dunn , Alex Jones"
+    },
+    {
+        "movieTitle": "Psycho(1960)-Synopsis.txt",
+        "ner": "Norman Bates , County Court House , Marion Crane Janet Leigh , Fairvale , Lowery Vaughn Taylor , Lila , Mother Bates , Phoenix , Norman met Marion , Arbogast , California , Sam Loomis John Gavin , Lurene Tuttle , Sam , Norman Norman , Sam Oakland , Cassidy Frank Albertson , Norman , Taylor , Norman Bates Anthony Perkins , Mort Mills , Miles Miles , Chambers , John McIntire , Bates , Marion , Sam Loomis , Simon Oakland , Arbogast Martin Balsam , Loomis , Mother , Leigh , Lila Crane Vera Miles , John Anderson , Bates Motel , Lowery"
+    },
+    {
+        "movieTitle": "PulpFiction(1994)-Synopsis.txt",
+        "ner": "Pumpkin Tim Roth , Butch , Bunny Amanda Plummer , Jones , Pumpkin Jackson , Mia , Lance , Marvin , Vega , Jackson , Jules Winnfield Samuel L , Whitaker , Hawthorne Grill , Ezekiel , Knoxville , Tennessee , Wolf , Keitel , Fabienne Maria de Medeiros , Marsellus , Lance Eric Stoltz , Jules , Maynard , Antoine , Honey Bunny , Mia Uma Thurman , Wallace , Bunny , Stephen Hibbert , Bonnie , Jimmie Quentin Tarantino , Jimmie , Brett , Pumpkin , Hibbert , Brett Frank Whaley , Vincent , Sunset Boulevard , Vincent Vega John Travolta , Esmarelda , Zed Peter Greene , Fabienne , Walken , Esmarelda Angela Jones , Butch Coolidge Bruce Willis , Travolta , San Fernando Valley , Maynard Duane Whitaker , Vietnam , Thurman , Koons , Marsellus Wallace Ving Rhames , Willis , Monster Joe , Tarantino , Winston Wolf Harvey Keitel , Vincent Vega , Plummer , Jack Rabbit Slim , Marsellus Wallace , Koons Christopher Walken , Marvin Phil LaMarr , Los Angeles"
+    },
+    {
+        "movieTitle": "RagingBull(1980)-Synopsis.txt",
+        "ner": "Batts , Bronx , Cleveland , Marcel Cerdan , Salvy Batts , LaMotta Vickie , Jake , Jimmy Reeves , Janiro , Salvy , Vickie , Sugar Ray , Miami , LaMotta , Joey LaMotta , Jake LaMotta , Tommy Como , Joey , Sugar Ray Robinson , Tony Janiro , New York City , Copca , United States Army , Billy Fox , Laurent Dauthuille , Como , Briggs Stadium"
+    },
+    {
+        "movieTitle": "RaidersoftheLostArk(1981)-Synopsis.txt",
+        "ner": "Marion Ravenwood , Marrakesh , Jones , Army , Moses , Jones Jones , Indy of Dietrich , Nazi , Toht , Sorenson , Sallah John RhysDavies , Nepal , Sapito Alfred Molina , Sapito , Army Intelligence , Ravenwood , Dietrich Wolf Kahler , Rene Belloq Paul Freeman , Tanis , Harrison Ford , Forrestal , Abner Ravenwood , Marcus , US , Ronald Lacey , Nazis , Dietrich , Marion Karen Allen , Reggie , Jock Fred Sorenson , Ford , Indy , US Marines , Egypt , Marion , Cairo , Jock , Elliott , Belloq , Marrakesh Belloq , Sallah , Henry Indiana Jones , Marcus Brody Denholm Elliott"
+    },
+    {
+        "movieTitle": "Ran(1985)-Synopsis.txt",
+        "ner": "Akira Kurosawa , Jiro Masatora Ichimonji , Kurosawa , Lear , Saburo Naotora Ichimonji , Hidetora Ichimonji , Kyoami , Hidetora , Ichimonji , Taro Takatora Ichimonji"
+    },
+    {
+        "movieTitle": "Rashomon(1950)-Synopsis.txt",
+        "ner": "Tajomaru"
+    },
+    {
+        "movieTitle": "RearWindow(1954)-Synopsis.txt",
+        "ner": "Thomas J , Lisa Carol Fremont , Doyle , Army , Jeffries Stella , Lisa , Jeff Jeffries , Lars Thorwald , Jeff , Girl , New York , Jeffries Jeffries , Stella , Jeffries , Thorwald"
+    },
+    {
+        "movieTitle": "Rebecca(1940)-Synopsis.txt",
+        "ner": "Rebecca , Jack Favell , Maximilian de Winter , Frank Crawley , Maxim , England , Crawley , Rebecca Rebecca , Caroline de Winter , London , Monte Carlo , Danvers , Maxim Rebecca , Manderley , Favell , Edythe Van Hopper , Cornwall"
+    },
+    {
+        "movieTitle": "RequiemforaDream(2000)-Synopsis.txt",
+        "ner": "Wayans , Harry Goldfarb Jared Leto , Seymour , Burstyn TV , Florida , Abe , Burstyn , Marion Silver Jennifer Connelly , Harry , Big Tim , Coney Island , Arnold Sean Gullette , Lianna Pai , Abe Rabinowitz Mark Margolis , Arnold , Brighton Beach , Connelly Harry , Brooklyn , Tappy Tibbons Christopher McDonald , Tyrone Love Marlon Wayans , Sara Goldfarb Ellen Burstyn , Marion , Manhattan , New York , Sara , Connelly , Tyrone , Tim"
+    },
+    {
+        "movieTitle": "ReservoirDogs(1992)-Synopsis.txt",
+        "ner": "Eddie Eddie , Holdaway , Eddie , Guy Eddie , Marvin , Nice Guy Eddie , Joe , Larry , Brown , OrangeFreddy , Detroit , Nice Guy Eddie Cabot , Pink , Marvin Nash , Orange , Pam Grier , Freddy Newendyke , Nash , Joe Cabot , Nice , White , Blonde , Cabot , Madonna , Los Angeles"
+    },
+    {
+        "movieTitle": "Rocky(1976)-Synopsis.txt",
+        "ner": "Kensington , Tony Gazzo , Butkus , Creed Paulie , Mike , Paulie , Al Silvani , Mick , Sam , Buddy , Tony , Philadelphia Pennsylvania , Adrian , Creed , Philadelphia , Pat , Rocky Butkus , Mickey , Rocky , New York City , Apollo Creed , Gazzo , Jergens , Dipper Brown , Frankford Avenue , Marie , Adriana"
+    },
+    {
+        "movieTitle": "RomanHoliday(1953)-Synopsis.txt",
+        "ner": "Hepburn , Smith , Hennessy , Joe Bradley , Irving Radovich , Anya , Joe , Vespa , Ann , Joe Hepburn , Bradley , Anya Smith , Irving , Rome , Radovich , Peck , Colosseum"
+    },
+    {
+        "movieTitle": "SavingPrivateRyan(1998)-Synopsis.txt",
+        "ner": "Edith Piaf , Minnesota Miller , Army , Anderson Dennis Farina , French , Joerg Stadler , Europe , Henderson , American Ranger , Richard Reiben Edward Burns , James F , Italy , Irwin Wade Giovanni Ribisi , Jackson , Merderet River , France , Hitler Youth , US Army , Wade , Caparzo , Omaha Beach , Stadler , Daniel Jackson Barry Pepper , Danny , Omaha , Angels , James , Young , Ribisi , James Ryan , Parker , James Ryan Matt Damon , Adrian Caparzo Vin Diesel , Ryan Harrison Young , Ryan , Africa , Anderson , Normandy , Pennsylvania , Miller , United States , James Francis Ryan , Horvath , Ryan Ryan , Iowa , Reiben , Horvath Horvath , James Francis , Upham Jeremy Davies , Sizemore , Lincoln , Joerg Stadler Ryan , Timothy E , George Marshall , David , Fillion Fillion , Harrison Young , Ted Danson , Danson , Fuck Hitler , George Marshall Harve Presnell , Upham , Brooklyn , Presnell , Abraham Lincoln , Mike Horvath Tom Sizemore , Mellish , Corporal Henderson , John H , America , Ryan Nathan Fillion , James Frederick Ryan , Alamo , Ramelle , Miller Tom Hanks , Parker Demetri Goritsas , Stanley Mellish Adam Goldberg Mellish , Comp"
+    },
+    {
+        "movieTitle": "Scarface(1983)-Synopsis.txt",
+        "ner": "Cuba , Alberto , Reuben , Omar Surez , Florida , Palm Grove , Miriam Colon , Alejandro Sosa Paul Shenar , Nick Elvira , Surez , Lpez , Navy , Tony , Elvira Hancock Michelle Pfeiffer , Ray , Miami , Sheffield , Bernstein , Omar , UN , IRS , Frank , General Assembly , Uzi , Hector , Freedomtown , Babylon Club , New York City , New York , Miami Beach , Lpez Robert Loggia , Chi Chi , Bolivian , Elvira , Geno Silva , CIA , Abraham , Manolo Manny Ray Ribiera Steven Bauer , Israel , Frank Lpez , Tony Montana Al Pacino , Bolivia , Gina , Mel Bernstein Harris Yulin , Sosa , INS , Fidel Castro , Gina Mary Elizabeth Mastrantonio , Nick , Salazar , Manny Ray , Seidelbaum , Manny , Mel Seidelbaum Ted Beniades , Montana , Charles Goodson Gregg Henry , USA , Angel Fernndez Pepe Serna , Mexco , Lopez , Nick The Pig , Colombian , Murray Abraham , Tony Montana , Rebenga , Mark Margolis , Emilio Rebenga Roberto Contreras"
+    },
+    {
+        "movieTitle": "Schindler'sList(1993)-Synopsis.txt",
+        "ner": "Helen Hirsch , Schindler Jews , Europe , Paszw , Polish Army , Moravia , Israel , Nazi , Bad Tolz , Auschwitz , Gth , Herr Direktor , Caroline Goodall , Schindler , Ben Kingsley , Stern , Rudolf Hss HansMichael Rehberg , Itzhak Stern , Red Army , Nazis , Kingsley , Oskar Schindler Liam Neeson , Krakow , Soviet Red Army , Yad Vashem of Jerusalem , Berlin , Oskar Schindler , Helen , Brinnlitz , Czechoslovakia , Hitler , Hirsch , Itzhak Stern Ben Kingsley , Poland , German Army , Goodall , Amon Gth Ralph Fiennes"
+    },
+    {
+        "movieTitle": "Se7en(1995)-Synopsis.txt",
+        "ner": "Doe , Ernest Hemingway , Somerset , Schanz , Springfield , Victor Michael Reid MacKay , David Mills Brad Pitt , Eli Gould , John Doe , Wild Billy Martin Serene , Mills , Victor , Bob Mack , Araskog , David , Gould , Freeman , Gould Julie Araskog , Leland Orser , Pitt , Eli Gould Gene Borkan , FBI , Tracy Mills Gwyneth Paltrow , Milton , MacKay , William Somerset Morgan Freeman , Heidi Schanz , Cat Mueller , Tracy"
+    },
+    {
+        "movieTitle": "SevenSamurai(1954)-Synopsis.txt",
+        "ner": "Yohei , Kyz , Gorobei , Shichirji , Kikuchiyo , Kambei , Katsushir , Heihachi , Shino"
+    },
+    {
+        "movieTitle": "ShutterIsland(2010)-Synopsis.txt",
+        "ner": "Shutter Island , Chuck Chuck , Aule , McPherson , Dachau , Dolores , Chuck Aule , Teddy Teddy , Teddy McPherson , Sheehan , Teddy , Laeddis , Boston Harbour , Marshals Teddy Daniels , George Noyce , Chuck , TeddyLaeddis , Shaheen , Rachel , Noyce , Cawley , Oklahoma , FBI , Marshal Service , Chuck Cawley , Naehring , Teddy Daniels , Germany , Hes"
+    },
+    {
+        "movieTitle": "SinCity(2005)-Synopsis.txt",
+        "ner": "Old Town , Wendy , Roark , Wendy Goldie , Junior Hartigan , Marv , Dwight Jackie Boy , Jackie Jackie , Bob , Dallas , Jackie , Kevin , Basin City , Becky , Gail , Bastard , Lucille , Junior , Jackie Boy , Nancy , Cardinal Roark , Goldie , Bastard Hartigan , Dwight , Manute , Miho , Shellie , Jack Rafferty , Hartigan"
+    },
+    {
+        "movieTitle": "Singin'intheRain(1952)-Synopsis.txt",
+        "ner": "Dan , Kathy , Lina Lamont , Don Lockwood , Selden , Cosmo , Lockwood , Lina , Don , Kathy Selden , Simpson , Lamont , Cosmo Brown"
+    },
+    {
+        "movieTitle": "Snatch.(2000)-Synopsis.txt",
+        "ner": "Antwerp , Gorgeous George , Tommy , Doug , Frankie Four Fingers , Avi , Mickey , Mullet , O'Neil , BulletTooth Tony , Vinny , London , Turkish , New York , Frankie , Mickey burns , Rosebud , Sol , Tyrone , Tony , Boris , George , Brick Top , Goregous George , Mickey O'Neil"
+    },
+    {
+        "movieTitle": "Solaris(1972)-Synopsis.txt",
+        "ner": "Chris Gibarian , Chris Kelvin Donatas Banionis , Kelvin , Hari Hari , Vitalik Kerdimun , Gibarian Sos Sargsyan , Haris , Nikolay Grinko , Banionis , Berton Vladislav Dvorzhetskiy , Snaut Snaut , Mankind , Olga Kizilova , Teykh , Sancho , Olga Barnet , Gibarian , Earth , Vishnyakov , Sartorius Anatoliy Solonitsyn , Solaristics , Faust , Johann Sebastian Bach , Hari , Chris , Natalya Bondarchuk , Messenger Georgiy Teykh , Sartorius , Snaut , Berton , Don Quixote , Fechner , Snaut Jri Jrvet , Messenger"
+    },
+    {
+        "movieTitle": "SomeLikeItHot(1959)-Synopsis.txt",
+        "ner": "Shell Oil Jr , Charlie , Toothpick Charlie , Beinstock , Josephine , Chicago , Joe Jerry , Nellie , Sig Poliakoff , Florida , Joe , Little Bonaparte , Osgood , Sugar Kowalczyk , Urbana , Spats Colombo , Thompson , Osgood Jerry , Jerry , Illinois , Daphne , Colombo , Shell Oil Corporation , Joe amp Jerry , Osgood Osgood , Mulligan , Poliakoff , Bonaparte"
+    },
+    {
+        "movieTitle": "SpiritedAway(2001)-Synopsis.txt",
+        "ner": "Hayao Miyazaki , Lin Susan Egan , Zeneba Suzanne Pleshette , Miyazaki , Granny Granny , Noface , Kohaku River , Kohaku River Haku , Jason Marsden , Chihiro , Lin , Michael Chiklis , Bh Tara Strong , Noface Sen , Sen Zeniba , Dad , Yubababird , Chihiro Chihiro , Granny , Sen let Lin , Chihiro Sen , Tenyearold Chihiro Daveigh Chase , Yubaba Suzanne Pleshette , Suzanne Pleshette , Pleshette , Sen , Kamajii David Ogden Stiers , Granny Sen , Zeneba , Haku , Lin Lin , John Ratzenberger , Zeniba , Lauren Holly , Kamajii , Bergen , Chihiro Marsden , Lin Sen , Bob Bergen , Yubaba"
+    },
+    {
+        "movieTitle": "Spring,Summer,Fall,Winter...andSpring(2003)-Synopsis.txt",
+        "ner": "Buddha , Heart Sutra , Buddhist , Korea"
+    },
+    {
+        "movieTitle": "Stalker(1979)-Synopsis.txt",
+        "ner": "Porcupine , Arseny Tarkovsky , Fyodor Tyuchev , Wallace , Monkey , Beethoven"
+    },
+    {
+        "movieTitle": "StandbyMe(1986)-Synopsis.txt",
+        "ner": "Billy Casey Siemaszko , Denny John Cusack , Marshall Bell , Charlie , Teddy Duchamp Corey Feldman , Ray Brower , Denny , Yankee , Vern Tessio Jerry O'Connell , Bronder , O'Connell , Wheaton , Gordie , Billy , Jason Naylor , Teddy , Ray , Charlie Hogan Gary Riley , Gordie Lachance Wil Wheaton , Chambers River Phoenix , Merrill Kiefer Sutherland , Milo Pressman William Bronder , Milo , Chambers , Richard Dreyfuss , Chris , Dreyfuss , Brower , Lardass , Frances Lee McCain , Chance Quinn , Bradley Gregg , Vern , Vince Desjardins Jason Oliver , Normandy , Luttrell , McCain , Lardass Hogan Andy Lindberg"
+    },
+    {
+        "movieTitle": "StarWars(1977)-Synopsis.txt",
+        "ner": "Jones , Darth Vader David Prowse , Drewe Henley , Luke , Devastator , Jir , Ben Kenobi , Beru , ObiWan Kenobi , Jawas , Senate , Kenobi , Dodonna Alex McCrindle , Denis Lawson , Mission Control , Old Republic , Mos Eisley , James Earl Jones , Imperial Military Academy , Ben Kenobi Alec Guinness , Tarkin , Garven , Imperial Fleet , Uncle Owen , Jedi Knight , Bast , Jabba , Han Solo Harrison Ford , Angus MacInnes , Ben , Fisher , Peter Cushing , Alderaan , Greedo , Anchorhead , Kenny Baker , Mos Eisley Cantina , Baker , Biggs , Paul Blake , Cassio Tagge Don Henderson , Anthony Daniels , Death Star , Motti , Jedi , Vader , Biggs Darklighter Garrick Hagon , Schofield , Luke Skywalker Mark Hamill , Chewbacca Peter Mayhew , Chewbacca , Imperial Outland Regions , Backstabber , General ARea Defense Integration Antispacecraft Network , Conan Motti Richard LeParmentier , Hutt , Black Squadron , Imperial Senate , Red Squadron , Leia Carrie Fisher , Owen , Mordramin Bast Leslie Schofield , Beru Shelagh Fraser , Anakin , Darth Vader , Han , Gold Squadron , Dune Sea , Tagge , Greedo Maria De Aragon , Yavin , Jir Al Lampert , Owen Lars Phil Brown , ObiWan , Leia , Dantooine"
+    },
+    {
+        "movieTitle": "StarWars_EpisodeV-TheEmpireStrikesBack(1980)-Synopsis.txt",
+        "ner": "Ozzel , Williams , Lando Calrissian Billy Dee Williams , Luke , Anthony Daniels , Anakin Master , Lando , Jedi Master ObiWan Kenobi Alec Guinness , Piett , Vader , Hoth , Dagobah , Luke Skywalker Mark Hamill , Yoda Luke , Yoda , Chewbacca Peter Mayhew , Bespin , Chewbacca , Cloud City , Fett , Hutt , Falcon Leia , David Prowsevoice James Earl Jones , Leia Carrie Fisher , Lando Calrissian , Han Solo Harrison Ford , Boba Fett , Anakin , Jeremy Bulloch , Darth Vader , ATAT , Ben , Han , Luke Skywalker , Yavin , Kenny Baker , Palpatine , Leia , ObiWan"
+    },
+    {
+        "movieTitle": "StarWars_EpisodeVI-ReturnoftheJedi(1983)-Synopsis.txt",
+        "ner": "Williams , Jedi Knight Luke Skywalker Mark Hamill , Darth Vader David Prowse , Yoda Frank Oz , Luke , ObiWan Kenobi , McDiarmid , Sebastian Shaw , Boushh , Endor , Denis Lawson , Anakin Skywalker , Sullust , Guinness , James Earl Jones , Tatooine , Ackbar , Carkoon , Jabba , Skywalker , ObiWan Kenobi Alec Guinness , Luke Skywalker , Emperor , Kenny Baker , Palpatine , Oz , Lando Calrissian Billy Dee Williams , Lawson , Anthony Daniels , Larry Ward , Lando , Jedi , Vader , Leia Organa Carrie Fisher , Ian McDiarmid , Dagobah , Rebel Alliance , Yoda , Hamill , Chewbacca Peter Mayhew , Chewbacca , Red , Warwick Davis , Hutt , Lando Calrissian , Lord Vader , Anakin , Darth Vader , Han , Boba Fett Jeremy Bulloch , Leia , ObiWan"
+    },
+    {
+        "movieTitle": "StrangersonaTrain(1951)-Synopsis.txt",
+        "ner": "Haines , Washington , Bruno , Anne , Barbara , Morton , Miriam , Guy drops Guy , Miriam Guy , Anthony , Guy Haines , Anne Morton , Guy , Bruno Anthony"
+    },
+    {
+        "movieTitle": "SunsetBlvd.(1950)-Synopsis.txt",
+        "ner": "Gillis , Betty Schaefer , Max Von Mayerling , DeMille , Schaefer , Joe , Max Mayerling , California , Gordon Cole , Joe Gillis , Cole , Max , Cecil B , Isotta Fraschini Tipo 8A , Ohio , Paramount Pictures , Betty , Artie Green , Norma , Artie , Green , Sheldrake , Sunset Boulevard , Norma Desmond , Mayerling , Los Angeles"
+    },
+    {
+        "movieTitle": "TaxiDriver(1976)-Synopsis.txt",
+        "ner": "Marine , Wizard , Betsy , Tom , Charles Palantine , Bickle , Iris , Travis , Kris Kristofferson , New York City , Manhattan , New York , Travis Bickle , Alphabet City , Secret Service , Palantine"
+    },
+    {
+        "movieTitle": "Terminator2_JudgmentDay(1991)-Synopsis.txt",
+        "ner": "Sarah Connor Linda Hamilton , Kyle Reese Michael Biehn , John , Nicaragua , Epatha Merkerson , Cyberdyne Systems , Morton , Pescadero State Hospital , Lewis Don Stanton , Douglas , Sarah Connor , Connor John , Skynet , Danny , West Highland , Guerra , Miles , Todd Xander Berkeley , John Terminator , George Thorogood , Pescadero Hospital , Stanton , Biehn , Miles Bennett Dyson , Miles Dyson , Gibbel , Dean Norris , Nixon , Sarah , Silberman , Pescadero , SWAT , Tim Danny Cooksey , Reese , Danny DeVaughn Nixon , Connor , Dyson , Janelle , Enrique , Arnold Schwarzenegger , Max , Tarissa , Peter Silberman Earl Boen , Douglas Ken Gibbel , Heckler amp Koch , Janelle Voight Jenette Goldstein , Harley , Enrique Salceda Castulo Guerra , Galleria , John Connor , Cyberdyne , Terminator , Dan Stanton , Kyle , Lewis , Miles Dyson Joe Morton , Tim John , Minigun , Tim , Todd , Robert Patrick , Kyle Reese , Los Angeles"
+    },
+    {
+        "movieTitle": "TheApartment(1960)-Synopsis.txt",
+        "ner": "New York City , Charlie , Upper West Side , Fran Kubelik , Sheldrake , Kubelik , Baxter"
+    },
+    {
+        "movieTitle": "TheAvengers(2012)-Synopsis.txt",
+        "ner": "Tony Stark , Natasha , Clint Hawkeye Barton Jeremy Renner , Pepper Potts Gwyneth Paltrow , New Mexico , Stark Industries , Eastern Europe , Natasha Romanoff Scarlett Johansson , India , Jackson , Captain America , Romanoff , JARVIS , Rogers , Tony , Thor , Nick Fury Samuel L , Steve Rogers , New York , Santa Fe , Phil Coulson Clark Gregg , Selvig , Hemsworth , Bruce Banner Mark Ruffalo , Asgard , NYPD , World Security Council , Renner , Chris Evans , Asguardian , Bruce Banner , London , Gregg , Loki Tom Hiddleston , Erik Selvig Stellan Skarsgrd , Washington DC , Chitauri , Calcutta , Barton , Johansson , Robert Downey Jr , Clint Barton , Maria Hill Cobie Smulders , WSC , Coulson , Earth , Tesseract , Foster , Hulk , Avengers , Nick Fury , Jane Foster , Jr , Loki , Manhattan , Hawkeye , Stuttgart , ACDC , Thor Chris Hemsworth , Germany"
+    },
+    {
+        "movieTitle": "TheBattleofAlgiers(1966)-Synopsis.txt",
+        "ner": "Jaffar , Paris , Ali , Amway , FLN , Algeria"
+    },
+    {
+        "movieTitle": "TheBestYearsofOurLives(1946)-Synopsis.txt",
+        "ner": "Butch , Fred Derry , Army , Wilma buttons Homer , Fred , Europe , Homer , Wilma , Bill , Army Air Forces , Peggy , Pacific , Marie , Boone City , Al Stevenson , Homer Parrish , Air Force , Milly , Al"
+    },
+    {
+        "movieTitle": "TheBourneUltimatum(2007)-Synopsis.txt",
+        "ner": "Bourne , Moscow , Vosen , David Webb , Treadstone , Tangier , Albert Hirsch , Bouksani , CIA , Jason Bourne , Ross , Noah Vosen , Waterloo Station , Ward Abbott Treadstone , Nicky Parsons , Landy , Desh , Desh Bouksani , Neal Daniels , Simon Ross , Paz , Daniels , Martin Kreutz , Blackbriar , Madrid , Parsons , New York City , Hirsch , Ezra Kramer , Paris , Marie , Pamela Landy , East River , Kirill"
+    },
+    {
+        "movieTitle": "TheBridgeontheRiverKwai(1957)-Synopsis.txt",
+        "ner": "Horne , Yai , Hayakawa , American Navy , Nicholson Alec Guinness , Jack Hawkins , Joyce Geoffrey Horne , Shears , Saito Sessue Hayakawa , Saito , Sri Lanka , Holden , Clipton James Donald , Burma , Major Clipton , Navy , Guinness , Clipton , Geneva , Ann Sears , Kwai River , William Holden , Colombo , Hawkins , Burmese , Reeves Peter Williams , Nicholson , Japan , John Boxer , Joyce"
+    },
+    {
+        "movieTitle": "TheDarkKnight(2008)-Synopsis.txt",
+        "ner": "Hong Kong , Lau Security Investments , Loeb , Wayne Enterprises , Rachel Dawes , Gotham General Hospital , Knight , James Gordon , Rachel Dent , Gotham , Gambol , Arkham Asylum , Falcone , Schiff , Rachel , Maroni , Lucius , Thomas Schiff , Gordon Dent , Major Crimes Unit , Bruce Wayne , Batman , Coleman Reese , Ramirez , Harvey Dent , Gotham City Police Department , Dent , Harvey , Wayne Wayne , Salvatore Maroni , Wayne , Mayor , Alfred Wayne , Gordon Gordon , Reese , Anna Ramirez , Barbara , Burma , Engle , Bruce , Lau , Fox , Jimmy , Wuertz , Joker , Gordon , Lucius Fox , GCN , Rachel Wayne , Gotham City , Alfred Rachel , Mike Engle , Janet Surrillo , Alfred , Gotham General , Fox of Wayne Enterprises , Smith amp Wesson , Harvey TwoFace , Joker got Joker"
+    },
+    {
+        "movieTitle": "TheDarkKnightRises(2012)-Synopsis.txt",
+        "ner": "Massi Furlan , Jen , Stryver , Estes , Petrov , Miranda , Miranda Tate Marion Cotillard , Bill Cowher , Daggett , Foley Kelly , Gotham , Selina pistolpunches Stryver , Selina Kyle Anne Hathaway , Aidan Gillen , Rachel , Steelers , Lucius , John Blake Joseph GordonLevitt , Brooklyn Bridge , James Gordon Gary Oldman , Queensboro Bridge , Barsad Josh Stewart , Batman , Lucius Fox Morgan Freeman , Batsignal , Fredericks , Harvey Dent , Wayne Manor , Kyle Kyle , Ward , Brucein , Blake , Lamborghini , Gotham Stock Exchange , Oldman , Gordon Gordon , Hines Ward , MirandaTalia , David Dayan Fisher , Barsad , Jen Juno Temple , Philip Stryver Burn Gorman , Bruce Fox , Ben Roethlisberger , Gotham City , Tyler Ross Reggie Lee , EMP , Alfred , Alfred let Bruce , Mike Wallace , Selina Kyle , Jones , Army , Ravenstahl , Swithin , Wayne Enterprises , Miranda Tate , Alfred Michael Caine , Jonathan Crane Cillian Murphy , Italy , Deshi , Kelly , Hathaway , Father Reilly Chris Ellis , Al Ghul , Heath Miller , Jansen , Bruce Wayne Christian Bale , Bale , Troy Polamalu , Gotham Rogues , Cotillard , Batpod , Bruce Wayne , Mark Jones Daniel Sunjata , Rapid City , East River , Tom Hardy , Wayne , Peter , CIA , Heinz Field , Florence , Bruce , Wayne Foundation , Fox , Wilson , Gotham's Police Department , Gordon , Rapid City Monuments , Earth , Pavel , Freeman , Leonid Pavel Alon Aboutboul , McGarrity , Selina , Byron Gilly Brett Cullen , Bane , Talia , Peter Foley Matthew Modine , John Daggett Ben Mendelsohn , Manhattan , Kyle , Foley , Robin , Simon Jansen Will Estes , Bill Wilson , Kelly Brent Briscoe , Ra"
+    },
+    {
+        "movieTitle": "TheDeerHunter(1978)-Synopsis.txt",
+        "ner": "Stanley Myers , Saigon , Myers , NVA , Steve , Clairton , Stan , John , Mike , Michael , Vietnam , North Vietnamese Army , US Army , Angela , America , Steven , Linda , Axel , Grinda , Stanley , Pennsylvania , Western Pennsylvania , Julin Grinda , Nick"
+    },
+    {
+        "movieTitle": "TheElephantMan(1980)-Synopsis.txt",
+        "ner": "Man , Pathological Society , Merricks , England , Frederick Treves , London , Adam S , John Merrick , France , Treves , Kendal , Gottbetter , Merrick"
+    },
+    {
+        "movieTitle": "TheGeneral(1926)-Synopsis.txt",
+        "ner": "Atlantic , Annabelle , Annabelle Johnnie , Johnnie Annabelle , Johnnie Gray , Rock River , Texas , Yanks , Yankee , Gray , Yankees , Johnnie , Anderson , Georgia , Chattanooga , Marietta , Kingston , Thatcher"
+    },
+    {
+        "movieTitle": "TheGodfather(1972)-Synopsis.txt",
+        "ner": "Enzo , Carlo , Bruno Tattaglia , Tattaglia , Castellano , Thompson , Rocco Lampone , Duvall , Don Emilio Barzini Richard Conte , Don Corleone , Tom , Corleone , Kay Don , Moe Greene , Clemenza , Fabrizio Angelo Infanti , Kay Adams Diane Keaton , Moe , Vito , Woltz , Gabriele Torrei , Don Phillip Tattaglia Victor Rendina , Paulie Gatto , Sollozzo , Paulie , Johnny , Martino , Gatto , Don Vito Corleone , Tessio , Lenny Montana , Apollonia , Fontane , Las Vegas , Luca Brasi , Amerigo Bonasera , McCluskey Sterling Hayden , Sonny , Vito Corleone , Brando , Don Tommasino Corrado Gaipa , Corleone Family , Don Vito , Little Italy , Bruno Tattaglia Tony Giorgio , Salvatore Tessio Abe Vigoda , Carlo Rizzi Gianni Russo , Sonny James Caan , Fredo , Marley , Hagen , Apollonia Vitelli Simonetta Stefanelli , Italy , Jack Woltz John Marley , Don Barzini , Hayden , Vito Marlon Brando , Brasi , Cazale , Carlo Rizzi , Connie , Calo Franco Citti , Don Cuneo Rudy Bond , Costello , Sicily , Russo , Tom Hagen , New York , Al Neri Richard Bright , Rocco , Corleone Mafia , Caan , Bonasera , Corleones , Michael Al Pacino , Don Tattaglia , Kay , Clemenza Richard S , Mike , Rizzi , Long Island Causeway , Rocco Lampone Tom Rosqui , Willi Cicci , Tom Hagen Robert Duvall , Carlo Michael , Willi Cicci Joe Spinell , Virgil The Turk Sollozzo Al Lettieri , Don Stracci Don Costello , Fredo Corleone , Lucy Mancini Jeannie Linero , Nevada , Fredo John Cazale , Khartoum , Johnny Fontane Al Martino , Barzini , Hollywood , Marines , McCluskey , Michael , Manhattan , America , Mafia , Al Neri , Don , Moe Greene Alex Rocco , Anthony Anthony Gounaris , Los Angeles , Connie Talia Shire , Greene"
+    },
+    {
+        "movieTitle": "TheGodfather_PartII(1974)-Synopsis.txt",
+        "ner": "Cuba , Don Fanucci , Carson City , United States Marine Corps , Fredo , Hagen , Florida , Senate , Frankie , Don Ciccio , Don Tomasello , Pat Geary , Ola , Carlo Rizzi , Antonio Andolini , Rocco Lampone , Connie , Miami , Frank , Fredo You , Tom , Corleone , Sal Tessio , Cicci , Merl Johnson , Batista , Sicily , Moe Greene , Genco Pura Olive Oil Company , Pentangeli , Tom Hagen , Havana , New York City , Clemenza , New York , Peter Clemenza , Senate Committee , Neri , Rosato Brothers , Lake Tahoe , Michael Corleone , Vito , The Black Hand , Mary , Kay , Israel , Sollozzo , Rizzi , Ciccio , Willi Cicci , Black Hand , Carmella Corleone , Tessio , Genco Abbandando , Fanucci , Nevada , Geary , Pearl Harbor , Washington , Sonny , Vito who Ciccio , Brooklyn , Vito Corleone , Frank Pentangeli , Hyman Roth , McCluskey , Roth , Michael , Ellis Island , Rosato , Frank Five Angels Pentangeli , America , FBI , Fulgencio Batista , Mafia , Al Neri , Johnny Ola , Rosatos"
+    },
+    {
+        "movieTitle": "TheGoldRush(1925)-Synopsis.txt",
+        "ner": "Jack , Auld Lang Syne , Black Larsen , Jack Cameron , Turkey , Hank Curtis , Big Jim McKay , McKay , Monte Carlo , Curtis , Jim , Spades , Jacks , Alaska , Georgia , Larsen , Big Jim"
+    },
+    {
+        "movieTitle": "TheGood,theBadandtheUgly(1966)-Synopsis.txt",
+        "ner": "Arch Stanton , Catholic , Tuco Benedicto Pacifico Juan Maria Ramirez , Angel , Wallace , Blondie , Juan , New Mexico , Carson , Gottbetter , Sad Hill , Tuco , Bill Carson , Arch Stanton Adam S , Stanton"
+    },
+    {
+        "movieTitle": "TheGraduate(1967)-Synopsis.txt",
+        "ner": "Elaine mother , Northeast , Delta Chi Fraternity , Berkeley , Williams College , Carl Elaine , Webb , Robinson , Ben Braddock Dustin Hoffman , Benjamin , Benjamin Elaine , Robinson Anne Bancroft , Elaine Katharine Ross , Ben , Santa Barbara , Carl , Bancroft , Benjamin Benjamin , Pasadena , Los Angeles , Elaine , Hoffman"
+    },
+    {
+        "movieTitle": "TheGrandBudapestHotel(2014)-Synopsis.txt",
+        "ner": "Gustave Gustave , Clotilde , Serge , Zero , Chuck Retrieving Agatha , Mr Kovacs , Carolina , Dmitri , Henckel , Grand Budapest Hotel , Gunther , Gustave Suite , Dmitri Dmitri , Martin , Kovac , Mendl , Marguerite , Dino , Grand Budapest Hotel Gustave , Budapest , Wolf , Agatha , Zubrowka , Madame D , Georges , The Grand Budapest Hotel , Gabelmeister , Ludwig , Jean , Albert , Moustafa , South America , Zero Moustafa , Gustave H , Laetizia , Henckels , Robin , Gustave When Gustave , Serge X , Gustave , Jopling , Kovacs , Ivan"
+    },
+    {
+        "movieTitle": "TheGrapesofWrath(1940)-Synopsis.txt",
+        "ner": "Darwell , Ma Joad Jane Darwell , California , Grandma Zeffie Tilbury , Casy John Carradine , Oklahoma , Tom Joad Henry Fonda , Grandpa Charley Grapewin , Tom , Fonda , Casy"
+    },
+    {
+        "movieTitle": "TheGreatDictator(1940)-Synopsis.txt",
+        "ner": "Schultz , Osterlich , Napaloni , Benzino Napaloni , Hynkel , Barber , Jaeckel , Richard Wagner , Garbitsch , Hannah , Tomainia"
+    },
+    {
+        "movieTitle": "TheGreatEscape(1963)-Synopsis.txt",
+        "ner": "Ramsey , Hilts , Ives , Sedgwick , Blythe , Bartlet , Pitt , Bartley , Scrounger Hendley , Velinski , Switzerland , Hiltz"
+    },
+    {
+        "movieTitle": "TheGreenMile(1999)-Synopsis.txt",
+        "ner": "Burt , Percy , Elaine Paul , Bitterbuck , Top Hat , John , Jingles Paul , Wharton , Paul Edgecomb Tom Hanks , Brutus , Del , Fred Astaire , Harry , Melinda , Delecroix , William Wharton , Cromwell , John Coffey , Coffey , Elaine Eve Brent , Percy Wetmore Doug Hutchison , Paul , Paul Edgecomb Dabbs Greer , Hal Moores James Cromwell , Burt Hammersmith Gary Sinise , Eduard Delecroix Michael Jeter , Harry Terwilliger Jeffrey DeMunn , Brent , Moores , Hal , John Coffey Michael Clarke Duncan , John Morse , Howell David Morse , Duncan , Dean Stanton Barry Pepper , Arlen Bitterbuck , Harry Dean Stanton , Eduard Delecroix , Elaine , Jan Bonnie Hunt"
+    },
+    {
+        "movieTitle": "TheHelp(2011)-Synopsis.txt",
+        "ner": "Aibileen Clark Viola Davis , Celia Foote Jessica Chastain , Aibileen , University of Mississippi , Emma Henry , Junior League , Foote , Jackson , Henry , Minny Jackson Octavia Spencer , Minny , Johnny Mike Vogel , Mae Mobley , Mississippi , Mae , Skeeter son , TwoSlice Hilly , New York , Elizabeth Leefolt Ahna O'Reilly , Skeeter , Mae Mobley Eleanor Henry , Elaine Stein , Janney , Eugenia Skeeter Phelan Emma Stone , Elizabeth , Elaine , Chicago , Yule Mae , Charlotte , Spencer , Charlotte Allison Janney , Walters Sissy Spacek , Elaine Stein Mary Steenburgen , Constantine , Howard , Myrna , Lowell , Tyson , Minny Foote , Constantine Cicely Tyson , Aibeleen , Hilly Holbrook Bryce Dallas Howard , Celia , Medgar Evars , LaChanze , Skeeter Skeeter , Hilly , Yule Mae Aunjanue Ellis , Rachel LaChanze , Stuart Whitworth Chris Lowell , Celia Foote"
+    },
+    {
+        "movieTitle": "TheHunt(2012)-Synopsis.txt",
+        "ner": "Marcus , Theo , Nadja , Lucas , Klara"
+    },
+    {
+        "movieTitle": "TheImitationGame(2014)-Synopsis.txt",
+        "ner": "Churchill , Smith , Alan fires Alan , Denniston Charles Dance , John , Bletchley , Christopher Jack Bannon , John Cairncross , Alan Detective , Enigma , Alan Turing , Heil Hitler , Nock , Cambridge , Bletchley Park , Denniston , Alan Nock , Berlin , Secret Intelligence Service Headquarters , UK , Stewart , Hugh Alexander , Cairncross , Christopher , Matthew , Charles , Bannon , Hitler , Hugh Alexander Matthew Goode , Cumberbatch , Stalin , Knightley Knightley , Alexander , John Cairncross Matthew Beard , Manchester , Elizabeth II , Park , Moscow , England , Peter , Nazi , Alan Turing Benedict Cumberbatch , London , Menzies , Joan Clarke Keira Knightley , Knightley , Alan , Hugh , Superintendent Smith , Atlantic , Britain , Joan , Helen , Peter Hilton Matthew Beard , Winston Churchill , Knightley Alan , Alan Alan , Commander , Alan Knightley , Stewart Menzies"
+    },
+    {
+        "movieTitle": "TheIntouchables(2011)-Synopsis.txt",
+        "ner": "France , Eleonore , Yvonne , Driss , Senegal , Elisa , Magalie , Paris , Cabourg , Dunkirk , Philippe , Adama"
+    },
+    {
+        "movieTitle": "TheKing'sSpeech(2010)-Synopsis.txt",
+        "ner": "Bertie , Bertie Hamlet , George V , Prince , Christian Bertie , Lionel Logue , Lionel Logue Geoffrey Rush , John , Balmoral Castle , Christian , Duke of York , Edward VIII , Spall , Shakespeare , Church of England , Wallis Simpson Eve Best , Gambon , David , Cosmo Lang Derek Jacobi , Wembley Stadium , George V Michael Gambon , Logue , Buckingham Palace , Pearce , VIII , Albert , Winston Churchill Timothy Spall , Wales , Lionel , United Kingdom , Wallis Simpson , Bertie Colin Firth , Edward , Elizabeth Helena Bonham Carter , George VI , Germany , Wallis"
+    },
+    {
+        "movieTitle": "TheLionKing(1994)-Synopsis.txt",
+        "ner": "Lane , Jones , Marin , Sarabi , Rafiki Robert Guillaume , Simba , Mufasas , Zazu , Simba Mufasas , Broderick , Sarabi Madge Sinclair , Hakuna Matata , Nala , Simbas , Rock , Guillaume , Shenzi , Ernie Sabella , Shenzi Whoopi Goldberg , Goldberg , Banzai , Matthew Broderick , Ed Jim Cummings , Banzai Cheech Marin , Ed , Rafiki Simba , Mufasa , Calame , Jeremy Irons , Simba Jonathan Taylor Thomas , Timon Nathan Lane , Nala Niketa Calame , Timon , Pumbaa , Irons , Sarafina Zoe Leader , Nala Moira Kelly , Zazu Rowan Atkinson , Sabella , Rafikis , Rafiki , Africa , Mufasa James Earl Jones , Simba Jones"
+    },
+    {
+        "movieTitle": "TheLivesofOthers(2006)-Synopsis.txt",
+        "ner": "Wiesler , Georg Dreyman , West , Sieland , East Berlin , Europe , Der Spiegel , Henckel , Jerska , Stasi , Gerd Wiesler Ulrich Mhe , Bruno Hempf Thomas Thieme , Grubitz , ChristaMaria Sieland Martina Gedeck , Lazlo , Gedeck , Lenin , East Germany , SED , Berlin , Anton Grubitz Ulrich Tukur , Florian Henckel von Donnersmarck , Beethoven , Erich Honecker , ChristaMaria Wiesler , Hungary , Appassionata Beethoven , Albert Jerska Volkmar Kleinert , ChristaMaria , West Germany , Dreyman , Culture Department , Hempf , Georg Dreyman Sebastian Koch"
+    },
+    {
+        "movieTitle": "TheLordoftheRings_TheFellowshipoftheRing(2001)-Synopsis.txt",
+        "ner": "Gimli , Baraddr , Arwen , Frodo Baggins , Isildur , Rivendell , Baggins , Lurtz , Elf Legolas , Gilgalad , Weathertop , Middleearth , Bree , Sam , Gandalf , Mordor , Saruman , Balrog , Sauron , Gollum , Khazaddm , Moria , Pippin , Bilbo Baggins , River Anduin , Dwarf Gimli , Gondor , Isengard , Rivendell Frodo , Elendil , Orthanc , Galadriel , Frodo , Elrond , Parth Galen , Aragorn , Lothlrien , Mount Doom , Boromir , Nazgl , Strider , Bilbo , Legolas , Urukhai"
+    },
+    {
+        "movieTitle": "TheLordoftheRings_TheReturnoftheKing(2003)-Synopsis.txt",
+        "ner": "Gimli , Dunharrow , Arwen , Minas Morgul , Thoden Bernard Hill , West , Dead Army , Thoden , Serkis , Isildur , Denethor , Sam Sean Astin , David Wenham , Smagol Andy Serkis , Sam , Fangorn , Boromir Sean Bean , Gondorian , Smagol , Cirith Ungol , Sauron , Dagol Thomas Robins , Rosie , Gimli John RhysDavies , omer Karl Urban , Legolas Orlando Bloom , Wood , Elendil , Grima Brad Dourif , Mindolluin , Galadriel , Elrond , Lee , Baraddur , Bag End , Saruman Christopher Lee , Mount Doom , Faramir , Westmarch , Shelob , Aragorn Gandalf , Bilbo , Rosie Cotton Sarah McLeod , Treebeard , Boyd , Viggo Mortensen , Dimholt , Eldarion Sadwyn Brophy , Eldar , Dominic Monaghan , Narsil , Mmakil , Minas Tirith , Rivendell , Arwen Liv Tyler , Valinor , Weathertop , City of Kings , Dourif , Anduril , Gandalf , Hornburg , Merry , Saruman , Gollum , Gandalf Ian McKellen , Monaghan , Harad , Rohan , Pippin , Edoras , Gondor , Grima , Isengard , Snowmane Snowmane , Angmar , Osgiliath , Witchking , Pippin Billy Boyd , Frodo , Anduin , Frodo Elijah Wood , Robins , Dagol , Osgiliath Faramir , Aragorn , Boromir , Middle Earth , John Noble , Rohirrim , Legolas"
+    },
+    {
+        "movieTitle": "TheLordoftheRings_TheTwoTowers(2002)-Synopsis.txt",
+        "ner": "Gimli , Arwen , Thoden , Merry amp Pippin , Sam , Fangorn , Smagol , Sauron , Khazaddm , Ithilien , Easterlings , Galadriel , Sam amp Gollum , Elrond , Shadowfax , Brego , Faramir , Treebeard , Wormtongue , Henneth Annn , Emyn Muil , Council , Warg , Rivendell , Haldir , Gandalf , Hornburg , Mordor , Saruman , Balrog , Fangorn Forest , Gollum , Rohan , Ringwraith , Pippin , Grma , Edoras , Dunland , Gondor , Isengard , Grma Wormtongue , Orthanc , Osgiliath , Frodo , Lrien , Aragorn , Wormtongue amp , Boromir , Rohirrim , Urukhai , Legolas"
+    },
+    {
+        "movieTitle": "TheMalteseFalcon(1941)-Synopsis.txt",
+        "ner": "Wilmer Cook , Spain , Europe , Thursby , Miles Archer , Jacobi , Sam Spade , Miss Wonderly , Tom Polhaus , Wilmer , Sam , Effie , Rhea Gutman , Spade , La Paloma , Brigid , Malta , Archer , Wonderly , Joel Cairo , Cairo , Casper Gutman , Floyd Thursby , O'Shaughnessy , Brigid O'Shaughnessy , Gutman"
+    },
+    {
+        "movieTitle": "TheMatrix(1999)-Synopsis.txt",
+        "ner": "Cypher Joe Pantoliano , Tae Kwon , Jiu Jitsu , Smith , Jones , Morpheus , Deja , Trinity , Neo Keanu Reeves , Brown Paul Goddard , Oracle Gloria Foster , Thomas A , Agent Smith , Metacortex , Mouse Matt Doran , Brown , Wonderland , Neo Neo , Tank , Apoc , Cypher , Reeves , Tank Marcus Chong , Neo , Alice , Nebudchanezzar , Nebuchadnezzar , IRS , Robert Taylor , Laurence Fishburne , EMP , Moss , Thomas Anderson , Dozer , Kung Fu , Dozer Anthony Ray Parker , Julian Arahanga , Fishburne , Anderson , Switch Belinda McClory , Mopheus , Zion , Kempo"
+    },
+    {
+        "movieTitle": "TheNightoftheHunter(1955)-Synopsis.txt",
+        "ner": "Hunter , Uncle Birdie , Rachel Cooper , Ben Harper , Ruby , Harry Powell , Icey , Rachel , Willa , John , Harper , Ben , Jenny , Cooper , Birdie , Powell , Moundsville Penitentiary , Pearl"
+    },
+    {
+        "movieTitle": "ThePianist(2002)-Synopsis.txt",
+        "ner": "Itzak Heller , Warsaw , Wladek , Janina , Godlewska , Polish Army , Nazi , France , Chopin , Janina Godlewska , BBC , Szalas , Dorota , Gebczynski , Szpilman , Halina , Hosenfeld , Britain , Nazis , Umschlagplatz , Henryk , Wilm Hosenfeld , Soviet Red Army , Wladyslaw Szpilman , Wladyslaw , Treblinka , Warsaw Uprising , Poland , German Army , Germany , Wladek Hosenfeld , Majorek"
+    },
+    {
+        "movieTitle": "ThePrestige(2006)-Synopsis.txt",
+        "ner": "Bordon , Thomas Edison , Lord Caldlow , Robert Angier Hugh Jackman , England , Sarah , Sarah Rebecca Hall , Julia , Angier , Michael Caine , Edison , Nikola Tesla David Bowie , Serkis , Caldlow , Chinese , Borden Angier , London , Nicola Tesla , Colorado Springs , Julia Piper Perabo , Jess Borden , Man , Borden , Alfred Borden Christian Bale , Cutter , Great Danton , Alley , Danton , Bale , Alley Andy Serkis , Tesla , Jessica , Jackman , Chung Ling Soo Chao Li Chi , America , Olivia Wenscombe Scarlett Johansson , Jay , Milton Ricky Jay , Pike , Milton , Jess , Gerald Root Hugh Jackman , Colorado , Olivia , Jess Samantha Mahurin , Fallon , Rocky Mountains"
+    },
+    {
+        "movieTitle": "ThePrincessBride(1987)-Synopsis.txt",
+        "ner": "Rugen Christopher Guest , Diego Montoya , Falk , Fezzik , Rugen Inigo , Anne Dyson , Humperdinck Chris Sarandon , Westley Westley , Rugen Roberts , Morgenstern , Willoughby Gray , Inigo Montoya , Florin , Fred Savage , Max , Valerie Carol Kane , Valerie , Westley , Vizzini , Yellin , Rugen , Cary Elwes , Yellin Malcolm Storry , Count Rugen , Peter Falk , Prince Humperdinck , Buttercup Westley , Roberts , Sicilian Wallace Shawn , Humperdinck , Montoya , Peter Cook , Crystal , Buttercup Roberts , Inigo Montoya Mandy Patinkin , Max Billy Crystal , Buttercup , Dread Pirate Roberts , Robin Wright , Inigo , Albino Mel Smith"
+    },
+    {
+        "movieTitle": "ThereWillBeBlood(2007)-Synopsis.txt",
+        "ner": "Paul , Daniel Plainview , Mary , Paul Sunday , New Mexico , Little Boston , Planview , California , San Francisco , Henry , Mexico , Kansas , Fletcher , Plainview , William Bandy , Eli , Wisconsin , Bandy , Daniel , Abel"
+    },
+    {
+        "movieTitle": "TheSecretinTheirEyes(2009)-Synopsis.txt",
+        "ner": "Huracn , Benjamn , Sandoval , Irene MenndezHastings , Racing Club , Isidoro Gmez , Buenos Aires , Molinari , Hastings , Morales , Romano , Ricardo Morales , Pablo Sandoval , Espsito , Gmez , Irene Hastings , Irene , Chivilcoy , Benjamn Espsito"
+    },
+    {
+        "movieTitle": "TheSeventhSeal(1957)-Synopsis.txt",
+        "ner": "Mia KNIGHT , MIA , Frjestad , Christ , Skat , Mia , Jonas Skat , Jof , MIA Mikael , MIA Jof , Death KNIGHT KNIGHT , KNIGHT , Roskilde , Jesus Christ , Block , RAVEL , MIKAEL , Elsinore , Raval , PLOG , Jesus , Sin , Lord , MIA pats , JONS , RAVAL , JONAS SKAT , SKAT , God , Plog , MIA Jonas , Mikael , Antonius Block"
+    },
+    {
+        "movieTitle": "TheShawshankRedemption(1994)-Synopsis.txt",
+        "ner": "Figaro , Rita Hayworth , Andy Dufresne Tim Robbins , Norton , Robbins , Senate , Randall Stephens , Maine National Bank , Pacific , Mozart , Heywood , Tommy Gil Bellows , Samuel Norton Bob Gunton , Tommy , Zihuatanejo , Red , Ellis Boyd Redding Morgan Freeman , Brooks Hatlen James Whitmore , IRS , Gunton , Buxton , Hadley , Texas , Boggs Mark Rolston , Portland , Byron Hadley Clancy Brown , Shawshank , Brooks , Mexico , Raquel Welch , Rolston , Fort Hancock , Maine , Andy"
+    },
+    {
+        "movieTitle": "TheShining(1980)-Synopsis.txt",
+        "ner": "Delbert Grady , Wendy Shelley Duvall , Wendy , Nelson , Jack Torrance Jack Nicholson , Lloyd , Joe Turkel , Florida , Crothers , Lisa Burns , Nicholson Nicholson , Lia Beldam , Tony , Stuart Ullman Barry Nelson , Danny , Billie Gibson , Duvall , Danny Danny Lloyd , Jack , Dick Hallorann Scatman Crothers , JOHNNY Jack , Louise Burns , Gold Room , Grady , Ullman , Dick , Jack Jack , Charles Grady , Delbert Grady Philip Stone , Colorado , Nicholson"
+    },
+    {
+        "movieTitle": "TheSilenceoftheLambs(1991)-Synopsis.txt",
+        "ner": "United States , Gumb , Lecter , FBI Academy , Justice Department , Jame Gumb , Hannibal Lecter , Crawford , Catherine Martin , Ruth Martin , Martin , Tennessee , Benjamin Raspail , Baltimore State Hospital , FBI Training Facility , West Virginia , Gordon , Starling , Frederica Bimmel , Jack Crawford , Illinois , Virginia , Quantico , Frederick Chilton , Calumet City , Johns Hopkins Hospital , Bimmel , Bill , Bahamas , FBI , Clarice Starling , Chilton , Buffalo Bill , Starling Lecter , Jack Gordon"
+    },
+    {
+        "movieTitle": "TheSixthSense(1999)-Synopsis.txt",
+        "ner": "Earth , Anna Crowe , Malcolm Crowe , Crowe , Kyra Collins , Lynn , Anna , Cole Sear , Grey , Cole , Vincent Grey , Collins , Vincent , Malcolm , Kyra"
+    },
+    {
+        "movieTitle": "TheSting(1973)-Synopsis.txt",
+        "ner": "Jones , Johnny Hooker Robert Redford , Snyder Charles Durning , Loretta Dimitra Arliss , Chicago , Harold Gould , Durning Durning , Lonnegan , Hooker , Gondorff , Dana Elcar , Arliss , Chicago Hooker , Illinois , Loretta , Solino , Loretta Solino , Luther Coleman Robert Earl Jones , Doyle Lonnegan Robert Shaw , Gondorff Newman , Henry Gondorff Paul Newman , Lonnegan Hooker , Durning , FBI , Polk , Newman , Snyder , Joliet , Western Union , Luther"
+    },
+    {
+        "movieTitle": "TheTerminator(1984)-Synopsis.txt",
+        "ner": "Polaroid , Sarah , Silberman , John , Ginger , John Connor , Reese , Griffith Park Observatory , Mexico , Kyle , Connor , Matt , Traxler , Nike , Sarah Connor , Skynet , Peter Silberman , Griffith Park , Kyle Reese , Los Angeles"
+    },
+    {
+        "movieTitle": "TheThing(1982)-Synopsis.txt",
+        "ner": "Nauls , Palmer , Richard Dysart , Polis , Thomas G , Masur , Clark Richard Masur , Garry , MacReady Kurt Russell , Carter , MacReady , TNT , Bennings Peter Maloney , Wilford Brimley , Dysart , Mac Polis , Childs , Clark , Norris Charles Hallahan , Garry Donald Moffat , David , Earth , Palmer David Clennon , Waites , Fuchs Joel Polis , Maloney , Bennings , Norris , Blair , Antarctica , Mac , Gary , Fuchs , Childs Keith David"
+    },
+    {
+        "movieTitle": "TheThirdMan(1949)-Synopsis.txt",
+        "ner": "Holly Winkel , Winkel Erich Ponto , Calloway , Carol Reed , Popescu , Harry Lime , Alida Valli , Bleibtreu , Anna Schmidt , Schmidt Calloway , Harry Lime Orson Welles , Harry , Hedwig Bleibtreu , Popescu Siegfried Breuer , Winkel , Martins , Major Calloway , Baron Kurtz , Vienna , Kurtz , Holly , Holly Martins , Holly Martins Joseph Cotten , Ferris , Paul Hrbiger , Calloway Calloway , Crabbin Wilfrid HydeWhite , Joseph , Paine , Trevor Howard , Austria , Lime , Joseph Harbin , Cotten , Paine Bernard Lee , Anna , Calloway Anna , America , Harbin , Hrbiger , Kurtz Ernst Deutsch , Holly Kurtz , Crabbin , Schmidt , Casanova Club"
+    },
+    {
+        "movieTitle": "TheTreasureoftheSierraMadre(1948)-Synopsis.txt",
+        "ner": "Gold Hat , Cody , Mexico , Curtin , Bob Curtin , Fred Dobbs , Howard , Dobbs"
+    },
+    {
+        "movieTitle": "TheTrumanShow(1998)-Synopsis.txt",
+        "ner": "Vivien , Louis Coltrane , Volkswagen , Lauren , Fritz Dominique , Muriel Moore , Chicago , Harris Harris , Christof , Florida , Emmerich , Seahaven , Marco Rubeo , Seahaven Island , Harbor Island , Fiji , Nastassja Schmiedt , Truman , Rubeo , LaurenSylvia , Truman Burbank Jim Carrey , Marlon Noah Emmerich , Harris , Christof Ed Harris , Brian Delate , Lauren Natascha McElhone , Meryl , Sylvia , Blair Slater , Marlon , Holland Taylor , Judy Clayton , Lawrence Peter Krause , Linney , Meryl Laura Linney , Silvia Garland"
+    },
+    {
+        "movieTitle": "TheUsualSuspects(1995)-Synopsis.txt",
+        "ner": "Baer , Fenster , Kevin Spacey , Todd Hockney Kevin Pollak , Sze , Kobayashi Pete Postlethwaite , California , Verbal Kint , Dean Keaton Gabriel Byrne , Edie , Edie Finneran Suzy Amis , Amis , Fred Fenster Benicio Del Toro , Jack Baer Giancarlo Esposito , San Pedro , Redfoot , Dave Kujan Chazz Palminteri , Turkey , Roger , Keyser , McManus , Byrne , Hockney , New York City , Queens , New York , FBI , Keaton , Baldwin , Kobayashi , Keyser Sze , Kujan , Kint , Michael McManus Stephen Baldwin , Kobayashi Amis , Peter Greene"
+    },
+    {
+        "movieTitle": "TheWagesofFear(1953)-Synopsis.txt",
+        "ner": "Mario , Hernandez , Linda , Jo join Jo , Smerloff , Frenchmen Mario , Jo , Bimba , Nazis , Bill O'Brien , Johann Strauss , Blue Danube , Bernardo , La Piedras , Mario Mario , Dick , Bill , USA , Las Piedras , Corsica , Southern Oil Company , Corsario , Southern Mexico , Paris , Luigi , Big Bosses of SOC , O'Brien , Strauss , Jo But"
+    },
+    {
+        "movieTitle": "TheWizardofOz(1939)-Synopsis.txt",
+        "ner": "Jack Haley , Dorothy Gale Judy Garland , Miss Gulch , Wizard , Margaret Hamilton , West , Tin Man , Haley , Henry , Toto , Zeke Bert Lahr , Blandick , Glinda , Hunk Ray Bolger , Frank Morgan , Ray Bolger , Bert Lahr , Morgan , Gulch , Auntie Em , Tin Woodman , Garland , Blandick Auntie Em Clara Blandick , Glinda Billie Burke , Hickory Jack Haley , Hamilton , Kansas , Dorothy , Henry Charley Grapewin , Emerald City , Burke"
+    },
+    {
+        "movieTitle": "TheWolfofWallStreet(2013)-Synopsis.txt",
+        "ner": "Cuba , Petrillo , Naomi Naomi , Denham Dietl , Department of Justice , Sorel , Naomi , Chantalle , Stratton Oakmont , Brad , Forbes Magazine , Italy , Jaguar , Donnie Azoff , Bo Dietl , Madden , Aunt Emma , Popeye , Belfort , Naomi Lapaglia , Teresa Petrillo , Skyler , Jordan , Navy , Patrick Denham , Long Island , Forbes , Denham , Oakmont , Robin Hood , Wolfie , Emma , Dietl , Aerotyne , Ming , Riskin , Chester , Teresa , Queens , New York , Chester Ming , Manny Riskin , Nicky Koskoff , Toby Welch , Lemmons , Brad Donnie , Rocco , Bayside , Nicholas , Hildy , Rugrat , Stratton Oakmont, Inc , Stratton , Wall Street , Caribbean , England , Lamborghini , Disney , Iowa , London , Switzerland , Lemmon , Mary Lous , Mark , Robbie Feinberg , Dwayne , Steve Madden , Kodak , Max , Mad Max , Dept of Justice , Las Vegas , Mark Hanna , Alden Kupferberg , Jordan Riskin , Donnie Donnie , Dubuque , Jordan Belfort , Venice , Peter DeBlasio , Manny , Grenada , FBI , Jean Jacques Sorel , Bloody Marys , Portofino , Auckland , Bo , New Zealand , Donnie"
+    },
+    {
+        "movieTitle": "ThroneofBlood(1957)-Synopsis.txt",
+        "ner": "Miki , Washizu , Kunimaru , Kurosawa , Macbeth Miki , Asaji , North Castle , Noriyasu , Forest Castle"
+    },
+    {
+        "movieTitle": "ToKillaMockingbird(1962)-Synopsis.txt",
+        "ner": "Jean Louise , Jem , Calpurnia , Boo Radley , Dubose , Dill , Atticus Ewell , Stephanie , Arthur , Alabama , Radley , Mayella , Cunningham , Jean Louise Scout Finch , Taylor , Boo , Walter , Atticus , Tom , Macomb , Bob Ewell , Mayella Ewell , Helen , Robinson , Tate , Walter Cunningham , FDR , Ewell , Sykes , Maudie , Tom Robinson"
+    },
+    {
+        "movieTitle": "TouchofEvil(1958)-Synopsis.txt",
+        "ner": "Los Robles , Al Schwartz , Susan Vargas , Adair , Gould , Mexico City , Schwartz , Grandi , Rudy Linnekar , Mike , Quinlan , Menzies , Tanya , Vargas , Mexico , Joe Grandi , Sanchez , Susan , Linnekar , Marcia , Pete Menzies , Hank Quinlan , PanAmerican Narcotics Commission"
+    },
+    {
+        "movieTitle": "ToyStory(1995)-Synopsis.txt",
+        "ner": "Detten , Buzz Lightyear Tim Allen , Laurie Metcalf , Andy Davis John Morris , Sid Erik von Detten , Woody Tom Hanks , Morris , Woody , Debi Derryberry , Davis , Sid , Hannah Sarah Freeman , Andy , Jeff Pidgeon"
+    },
+    {
+        "movieTitle": "ToyStory3(2010)-Synopsis.txt",
+        "ner": "Molly Barbie , Ken let Buzz , Ken , Army Men Sarge , Jessie , Big Baby , Woody , Hamm , Caterpillar , Molly , Andy Davis , Sarge , Piggy Bank , Buzz Lightyear , Rex , Baby , Lotso , Sunnyside Daycare , Buster , Sunnyside , Buzz , Bonnie , Daisy , Barbie , Andy"
+    },
+    {
+        "movieTitle": "Trainspotting(1996)-Synopsis.txt",
+        "ner": "Ewan McGregor , Jonny Lee Miller , Carlyle , London , Allison , Tommy amp Lizzy , Begbie , Diane Kelly Macdonald , Renton , Tommy Kevin McKidd , Spud , Diane , Dawn , Sick Boy , Lizzy , Tommy , Spud Ewen Bremner , Mark Renton , Lizzy Pauline Lynch , McKidd , Swanney , Mikey Forrester Irvine Welsh , Peter Mullan , Dale Winton , Frank Begbie Robert Carlyle , Edinburgh"
+    },
+    {
+        "movieTitle": "TwelveMonkeys(1995)-Synopsis.txt",
+        "ner": "Railly , Jones , New York , James Cole , James , Jose , Army , Peters , Goines , Kathryn Railly , Cole , Jeffrey Goines"
+    },
+    {
+        "movieTitle": "Udaan(2010)-Synopsis.txt",
+        "ner": ""
+    },
+    {
+        "movieTitle": "Underground(1995)-Synopsis.txt",
+        "ner": "Fritz , Josip Broz Tito , Royal Yugoslav Army , Natalija , Petar Popara Blacky , Yugoslavia , Natalija Zovkov , Natalija Marko , Vera , Nazi , Blacky , Jovans , Communist Party , Petar Popara , Gestapo , Belgrade , Jelena , Jovan , Zovkov , Crni , Franz , Marko , Kalemegdan , Marko Dren , Bata , Soni , Red Army , Nazis , Austria , Marko Marko , Rankovi , Trieste , Leka , Eastern Front , Mayakovsky , German , Edvard Kardelj , Ivan , Tito"
+    },
+    {
+        "movieTitle": "Unforgiven(1992)-Synopsis.txt",
+        "ner": "Rubinek , William Munny , Ned Logan Morgan Freeman , Little Bill , Bob Richard Harris , Ned , Mike , Skinny , San Francisco , Campbell , Mucci , Davey Rob Campbell , Bob , Munny , Beauchamp Saul Rubinek , Scofield Kid Jaimz Woolvett , Garfield , Freeman , Eastwood , Davey , Bill Daggett Gene Hackman , Harris , William Munny Clint Eastwood , Delilah , Beauchamp , Bill , Wyoming , Strawberry Alice Frances Fisher , Skinny Dubois Anthony James , Sally , Big Whiskey , Mike David Mucci"
+    },
+    {
+        "movieTitle": "Up(2009)-Synopsis.txt",
+        "ner": "Leary , Lindo , Ellie , Gamma Jerome Ranft , Charles Muntz Christopher Plummer , Carls , Charles Muntz , Russell Jordan Nagai , Carl Falls , Kevin , Bob Peterson , Docter Ellie , Beta Delroy Lindo , Muntzs , John Ratzenberger , Ellie Elie Docter , Paradise Falls , Carl Carl , Russell , South America , Carl , Docter , Carl Fredricksen Jeremy Leary , Kevin Russell , Muntz"
+    },
+    {
+        "movieTitle": "Vertigo(1958)-Synopsis.txt",
+        "ner": "Ernie , Ferguson , Spain , Elster , Europe , Redwood , Salina , Dolores , Juan Bautista , Bernard Hermanns , Gavin , San Francisco , Big Basin Redwoods State Park , Judy Barton , Barton , Barton Scottie , Fort Point , Gavin Elster , McKittrick Hotel , John Scottie Ferguson , Pop Liebel , Marjorie Midge Wood , Alfred Hitchcock , Judy , Wood , Argosy Book Shop , Midge , Kansas , Scottie , Carlotta , Madeleine , Madeleine Elster , Carlotta Valdes"
+    },
+    {
+        "movieTitle": "VforVendetta(2005)-Synopsis.txt",
+        "ner": "United States , Lacan , Delia , Finch Stephen Rea , house of parliament , Parliament , Old Bailey , Creedy Beneath , Natalie Portman , England , Governmentsponsored , Islington , Wightman , London , Delia Sinad Cusack , Portman , Adolph Hitler , Enfield , Creedy Tim PigottSmith , Creedy , Archbishop , Roman , Cusack , Nietzsche , Finch , Lewis Prothero , William Rookwood , Valerie , US , Dietrich , Prothero , Unbeknownst , Justice , Fawkes , Benny Hill , Evey Natalie Portman , Evey , Adam Sutler John Hurt , Strength Through Unity , America , Guy Fawkes , Deitrich , Hitler , Adam Sutler , Sutler , Deitrich Stephen Fry , Valerie Natasha Wightman , Rea"
+    },
+    {
+        "movieTitle": "WALL__E(2008)-Synopsis.txt",
+        "ner": "Earth , John John Ratzenberger , Gopher , Garlin , WALLE , John , McCrea , Burtt , MO Ben Burtt , MacInTalk , Elissa Knight , Knight , Ratzenberger , Ben Burtt , McCrea Jeff Garlin"
+    },
+    {
+        "movieTitle": "Warrior(2011)-Synopsis.txt",
+        "ner": "Philly , Atlantic City , Tommy Conlon , Pete Mad Dog Grimes , Conlon , Brendan , Sparta , MMA , YouTube , Iraq , El Paso , Paddy Conlon , The Marine Corps , Tess , Mad Dog Grimes , Principal Zito , Ahab , Grimes , Pittsburgh , Koba , Paddy , Brendan Conlon , Tommy , Frank , Philadelphia , Mad Dog , Marines , Joe Zito , Zito , Optionless Brendan , Beethoven , Dick , Marine Corps , Chevy , TX , New Jersey , Frank Campana , Tommy K , Tommy Riordon"
+    },
+    {
+        "movieTitle": "whiplash.txt",
+        "ner": "Andrew Fletcher , Carl Tanner , JVC , Metz , Shaffer , Sean Casey , Neimann , Nicole , Sean , Andrew why Fletcher , USA , Fletcher , Terence Fletcher , Ryan , Terence , Andrews , Andrew , Billy , Tanner , Andrew Neimann , Ryan Connelly"
+    },
+    {
+        "movieTitle": "Who'sAfraidofVirginiaWoolf_(1966)-Synopsis.txt",
+        "ner": "Virginia Woolf , New England , Martha , George , Midwest , Nick"
+    },
+    {
+        "movieTitle": "WildStrawberries(1957)-Synopsis.txt",
+        "ner": "Sigfrid , Kindahl , Isak , Stockholm , Viktor , Hamburg , Lund , Evald , Borg , Agda , Italy , Marianne , Ingrid Thulin , Sara , Strindberg , Victor Sjstrm , Jullan Kindahl , Ingmar Bergman , Lake Vttern , Isak Borg , Andersson , Anders , Bibi Andersson"
+    },
+    {
+        "movieTitle": "witness.txt",
+        "ner": "Robarts , Bermuda , Wilfred , Wilfred Robarts , Leonard Vole , Christine Vole , Plimsoll , Leonard , Mrs Christine Vole , Vole , Emily French , London , Christine"
+    },
+    {
+        "movieTitle": "WitnessfortheProsecution(1957)-Synopsis.txt",
+        "ner": "Robarts , Bermuda , Wilfred , Wilfred Robarts , Leonard Vole , Christine Vole , Plimsoll , Leonard , Vole , Emily French , London , Christine"
+    },
+    {
+        "movieTitle": "X-Men_DaysofFuturePast(2014)-Synopsis.txt",
+        "ner": "Kitty , BeastHank , Bishop , Erik Lehnsherr , Nixon , Trask Industries , Lady Deathstrike , Charles Charles , William Stryker , Jean Gray , Sunspot , Logan , Vietnam , Pentagon , MagnetoErik Lensherr , Havok , Azazel , Emma Frost , Wolverine , Kitty Pryde , Kennedy , Potomac River , Erik , US , Washington , Scott Summers , Patrick Stewart , Congress , Metro , Richard Nixon , Raven , Charles , Gray , Bolivar Trask , Charles Xavier , Hank , Sabah Nur , Washington DC Magneto , John F , Paris , White House , Magneto , Pryde , Trask , Stryker , Xavier , Warpath"
+    },
+    {
+        "movieTitle": "yojimbo.txt",
+        "ner": "Nui , Sanjuro Kuwabatake , Seibei , Yoichiro , Kohei amp Nui , Kannuki , Unosuke Sanjuro , Sanjuro , Tokuemon , Sanjuro Sanjuro , cooper , Tazaemon , Ushitora , Orin , Inokichi , Unosuke , Kohei , Gonji"
+    }
+]

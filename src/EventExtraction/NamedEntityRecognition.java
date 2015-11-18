@@ -33,7 +33,7 @@ public class NamedEntityRecognition {
 	    patternList = createPatternArrayList();
 	    
 	    for(String line : plotLines){
-		    System.out.println(classifier.classifyWithInlineXML(line));
+		    //System.out.println(classifier.classifyWithInlineXML(line));
 		    String classifiedString = classifier.classifyWithInlineXML(line);
 		    ArrayList<String> data = (ArrayList<String>) getTagValues(classifiedString,patternList);
 		    for(String str : data){
