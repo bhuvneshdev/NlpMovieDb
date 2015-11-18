@@ -21,6 +21,9 @@ public class NamedEntityRecognition {
 	
 	private static ArrayList<Pattern> patternList = new ArrayList<Pattern>();
 	
+	/* Pass a String 
+	 * Returns a set of NER of that String
+	 */
 	public static Set<String> getNamedEntities(String plot) throws ClassCastException, ClassNotFoundException, IOException{
 		
 		namedEntities = new HashSet<String>();
@@ -66,4 +69,7 @@ public class NamedEntityRecognition {
 	    return tagValues;
 	}
 
+	
+	
+	
 }
