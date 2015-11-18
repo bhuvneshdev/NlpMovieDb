@@ -24,12 +24,16 @@ public class NERSimilarity {
 	 * Returns a hashmap of <MovieName, MatchCount , Total> 
 	 * for all movies corresponding to a query
 	 */
-	ArrayList<NERMatchData> nerTable = new ArrayList<NERMatchData>();
+	private static ArrayList<NERMatchData> nerTable = new ArrayList<NERMatchData>();
 	
-	public static void getNERSimilarityTable(String query) throws ClassCastException, ClassNotFoundException, IOException, JSONException{
+	public static ArrayList<NERMatchData> getNERSimilarityTable(String query) throws ClassCastException, ClassNotFoundException, IOException, JSONException{
 		
 		Set<String> nerQuerySet = NamedEntityRecognition.getNamedEntities(query);
-		System.out.println(nerQuerySet.toString());
+		int totalNERQueryCount = nerQuerySet.size();
+		if(totalNERQueryCount == 0){
+			return null;
+		}
+		//System.out.println(nerQuerySet.toString());
 		
 		ArrayList<String> allFilesName = HelperClass.getAllFileNamesInFolder("Data//CoreferencedPlots//");
 		for(String fileName : allFilesName){
@@ -41,15 +45,38 @@ public class NERSimilarity {
 		//System.out.println(jsonArray.toString(4));
 		
 		for(int i =0 ; i< jsonArray.length() ; i++){
+			int intersectionCount = 0;
 			JSONObject jsonObject = jsonArray.getJSONObject(i);
 			String movieTitle = (String) jsonObject.get("movieTitle");
 			String[] movieNERArray = jsonObject.get("ner").toString().split(","); 
 			//System.out.println(movieTitle);
-			System.out.println(getNER(movieNERArray).toString());
-			
+			Set<String> nerPlotSet = getNER(movieNERArray);
+			if(nerPlotSet.size() == 0){
+				return null;
+			}
+			else{
+				Set<String> intersection = new HashSet<String>(nerPlotSet);
+				intersection.retainAll(nerQuerySet);
+				intersectionCount = intersection.size();
+				if(intersectionCount > 0){
+					NERMatchData dataRow = new NERMatchData(movieTitle, intersectionCount, nerQuerySet.size() , getArrayListFromSet(intersection));
+					nerTable.add(dataRow);
+				}
+			}
 		}
+		System.out.println(nerTable.size());
+		
+		return nerTable;
 	}
 	
+	private static ArrayList<String> getArrayListFromSet(Set<String> intersection) {
+		ArrayList<String> arrayList = new ArrayList<String>();
+		for(String str: intersection){
+			arrayList.add(str);
+		}
+		return arrayList;
+	}
+
 	public static Set<String> getNER(String[] nerStringArray){
 		Set<String> movieNERSet = new HashSet<String>();
 		for(String str: nerStringArray){

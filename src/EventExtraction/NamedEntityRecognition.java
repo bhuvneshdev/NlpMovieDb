@@ -40,7 +40,7 @@ public class NamedEntityRecognition {
 		    String classifiedString = classifier.classifyWithInlineXML(line);
 		    ArrayList<String> data = (ArrayList<String>) getTagValues(classifiedString,patternList);
 		    for(String str : data){
-		    	namedEntities.add(str);
+		    	namedEntities.add(str.toLowerCase());
 		    }
 	    }
 	    		
