@@ -1,5 +1,6 @@
 package SearchingEngine;
 
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
@@ -26,14 +27,12 @@ import edu.stanford.nlp.util.CoreMap;
 				new LeacockChodorow(db), new Lesk(db), new WuPalmer(db),
 				new Resnik(db), new JiangConrath(db), new Lin(db), new Path(db) };
 		*/
-		public static void eventSimilarity(ArrayList<String> eventsFromLinesInPlot,ArrayList<String> eventsFromLinesInQuery){
+		public static void eventSimilarity(ArrayList<String> eventsFromLinesInPlot,ArrayList<String> eventsFromLinesInQuery, PrintWriter writer){
 			int events_match_count=0;
 			double avg_event_match = 0;
 			for(String q: eventsFromLinesInQuery){
 					String[] q_tokens_temp = q.split(",");
 					String[] q_tokens = q_tokens_temp[1].split("-");
-//					String[] q_tokens_temp= eventsFromLinesInQuery.get(2).split(",");
-//					String[] q_tokens = q_tokens_temp[1].split("-");
 					for(String p: eventsFromLinesInPlot){
 						String[] p_tokens_temp = p.split(",");
 						String[] p_tokens = p_tokens_temp[1].split("-");
@@ -46,8 +45,8 @@ import edu.stanford.nlp.util.CoreMap;
 						if(s_lin==1.7976931348623157E308) s_lin = 1.5;
 						if((s_path + s_lin)/2 > 0.4){
 							
-							System.out.println("Similarity Score PATH: "+"("+q_tokens[0]+","+l1.get(0)+")" + " " +"("+p_tokens[0]+","+l2.get(0)+")"+"  -  "+s_path);
-							System.out.println("Similarity Score LIN: "+"("+q_tokens[0]+","+l1.get(0)+")" + " " +"("+p_tokens[0]+","+l2.get(0)+")"+"  -  "+s_lin);
+							writer.println("Similarity Score PATH: "+"("+q_tokens[0]+","+l1.get(0)+")" + " " +"("+p_tokens[0]+","+l2.get(0)+")"+"  -  "+s_path);
+							writer.println("Similarity Score LIN: "+"("+q_tokens[0]+","+l1.get(0)+")" + " " +"("+p_tokens[0]+","+l2.get(0)+")"+"  -  "+s_lin);
 							events_match_count++;
 							avg_event_match= avg_event_match + Math.max(s_path, s_lin);
 							break;
@@ -58,11 +57,11 @@ import edu.stanford.nlp.util.CoreMap;
 				}
 			avg_event_match = avg_event_match/eventsFromLinesInQuery.size();
 			for(double t = 0.7;t<=0.8;t=t+0.01){
-				if(events_match_count==eventsFromLinesInQuery.size() && avg_event_match>=t) System.out.println("MATCH! for threshold: "+t);
+				if(events_match_count>=eventsFromLinesInQuery.size()/2 && avg_event_match>=t) writer.println("MATCH! for threshold: "+t);
 			}
-			System.out.println("Number of query events = "+eventsFromLinesInQuery.size());
-			System.out.println("Number of query events that match with this plot = "+events_match_count);
-			System.out.println("Average event score for this movie = "+avg_event_match);
+			writer.println("Number of query events = "+eventsFromLinesInQuery.size());
+			writer.println("Number of query events that match with this plot = "+events_match_count);
+			writer.println("Average event score for this movie = "+avg_event_match);
 		}
 		
 		private static List<String> StanfordLemmatizer(String string) {
