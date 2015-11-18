@@ -27,7 +27,8 @@ import edu.stanford.nlp.util.CoreMap;
 				new Resnik(db), new JiangConrath(db), new Lin(db), new Path(db) };
 		*/
 		public static void eventSimilarity(ArrayList<String> eventsFromLinesInPlot,ArrayList<String> eventsFromLinesInQuery){
-				
+			int events_match_count=0;
+			double avg_event_match = 0;
 			for(String q: eventsFromLinesInQuery){
 					String[] q_tokens_temp = q.split(",");
 					String[] q_tokens = q_tokens_temp[1].split("-");
@@ -43,12 +44,25 @@ import edu.stanford.nlp.util.CoreMap;
 						double s_lin = new Lin(db).calcRelatednessOfWords(l1.get(0), l2.get(0));
 						if(s_path==1.7976931348623157E308) s_path = 1.5;
 						if(s_lin==1.7976931348623157E308) s_lin = 1.5;
-						if(s_path>.4 || s_lin>.4) System.out.println("Implement the ranking of plots!!");
+						if((s_path + s_lin)/2 > 0.4){
+							
+							System.out.println("Similarity Score PATH: "+"("+q_tokens[0]+","+l1.get(0)+")" + " " +"("+p_tokens[0]+","+l2.get(0)+")"+"  -  "+s_path);
+							System.out.println("Similarity Score LIN: "+"("+q_tokens[0]+","+l1.get(0)+")" + " " +"("+p_tokens[0]+","+l2.get(0)+")"+"  -  "+s_lin);
+							events_match_count++;
+							avg_event_match= avg_event_match + Math.max(s_path, s_lin);
+							break;
+						}
 //							System.out.println("Similarity Score PATH:"+"("+q_tokens[0]+","+l1.get(0)+")" + " " +"("+p_tokens[0]+","+l2.get(0)+")"+"-"+s_path);
 //						System.out.println("Similarity Score LIN:"+"("+q_tokens[0]+","+l1.get(0)+")" + " " +"("+p_tokens[0]+","+l2.get(0)+")"+"-"+s_lin);
 					}
 				}
-//				double temp = new Lin(db).calcRelatednessOfWords("cutting", "killing");
+			avg_event_match = avg_event_match/eventsFromLinesInQuery.size();
+			for(double t = 0.7;t<=0.8;t=t+0.01){
+				if(events_match_count==eventsFromLinesInQuery.size() && avg_event_match>=t) System.out.println("MATCH! for threshold: "+t);
+			}
+			System.out.println("Number of query events = "+eventsFromLinesInQuery.size());
+			System.out.println("Number of query events that match with this plot = "+events_match_count);
+			System.out.println("Average event score for this movie = "+avg_event_match);
 		}
 		
 		private static List<String> StanfordLemmatizer(String string) {

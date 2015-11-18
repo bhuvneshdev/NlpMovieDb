@@ -1,0 +1,13 @@
+version-17,describes-24,<NULL>
+<NULL>,look-4,La_Dolce_Vita-6:site
+film-2,begins-3,<NULL>
+<NULL>,flying-9,<NULL>
+helicopter-14,carries-15,aloft-19:modifier
+helicopter-14,carries-15,statue-18:recipient
+layer-63,deepens-67,journey-68:recipient
+<NULL>,viewed-54,way-57:is_participant_in
+Beast-32,beckons-42,<NULL>
+Marcello-49,chooses-50,life-53:recipient
+Marcello-47,chooses-50,life-53:recipient
+journey-3,includes-4,encounters-5:recipient
+life-19,descended-21,despair-23:modified_to
