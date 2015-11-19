@@ -43,6 +43,10 @@ public class NERMatchData {
 		this.nerMatches = nerMatches;
 		
 	};
+	
+	public String getMovieName(){
+		return this.movieName;
+	}
 
 	@Override
 	public String toString(){

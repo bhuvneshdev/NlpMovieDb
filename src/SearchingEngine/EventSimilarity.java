@@ -43,7 +43,7 @@ import edu.stanford.nlp.util.CoreMap;
 				new Resnik(db), new JiangConrath(db), new Lin(db), new Path(db) };
 		*/
 		
-		public static ArrayList<EventSimilarityMatchData> getEventSimilarityTable(String str_query){
+		public static ArrayList<EventSimilarityMatchData> getEventSimilarityTable(String str_query, float threshold){
 			
 			
 			str_query = Jsoup.parse(str_query).text();
@@ -78,13 +78,13 @@ import edu.stanford.nlp.util.CoreMap;
 				} catch (IOException e) {
 					e.printStackTrace();
 				}
-				eventSimilarity(eventsFromLinesInPlotLemma, eventsFromLinesInQueryLemma,fileEntry.getName());
+				eventSimilarity(eventsFromLinesInPlotLemma, eventsFromLinesInQueryLemma,fileEntry.getName(),threshold);
 				eventsFromLinesInPlotLemma.clear();
 			}
 			return ESTable;
 		}
 		
-		public static void eventSimilarity(ArrayList<String> eventsFromLinesInPlotLemma,ArrayList<String> eventsFromLinesInQueryLemma, String movieName){
+		public static void eventSimilarity(ArrayList<String> eventsFromLinesInPlotLemma,ArrayList<String> eventsFromLinesInQueryLemma, String movieName, float threshold){
 			ArrayList<String> q_EventSimilarityMatches = new ArrayList<String>();
 			ArrayList<String> p_EventSimilarityMatches = new ArrayList<String>();
 			EventSimilarityMatchData object;
@@ -115,8 +115,8 @@ import edu.stanford.nlp.util.CoreMap;
 				}
 			avg_event_match = avg_event_match/(eventsFromLinesInQueryLemma.size()-eventsDeletedFromQuery);
 
-			if(events_match_count>=(eventsFromLinesInQueryLemma.size()-eventsDeletedFromQuery)/2 && avg_event_match>=0.8){
-				object = new EventSimilarityMatchData(movieName, events_match_count, eventsFromLinesInQueryLemma.size()-eventsDeletedFromQuery, q_EventSimilarityMatches, p_EventSimilarityMatches);
+			if(events_match_count>=(eventsFromLinesInQueryLemma.size()-eventsDeletedFromQuery)/2 && avg_event_match>=threshold){
+				object = new EventSimilarityMatchData(movieName, events_match_count, eventsFromLinesInQueryLemma.size()-eventsDeletedFromQuery, threshold, q_EventSimilarityMatches, p_EventSimilarityMatches);
 				ESTable.add(object);
 			}
 		}
