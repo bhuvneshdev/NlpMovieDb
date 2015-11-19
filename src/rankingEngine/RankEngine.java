@@ -15,6 +15,7 @@ public class RankEngine {
 	public static ArrayList<String> getRankedList(ArrayList<EventSimilarityMatchData> eventTable, 
 			ArrayList<NERMatchData> nerTable){
 		
+		
 		ArrayList<String> movieList = new ArrayList<String>();
 		Set<String> movieListFromEventMatch = new HashSet<String>();
 		Set<String> movieListFromNERMatch = new HashSet<String>();
