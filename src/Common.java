@@ -26,5 +26,13 @@ public class Common {
 		}
 		*/
 		
+		/*
+		FileWriter file = new FileWriter("Data//NERPlots//allMoviesNER.txt");
+		file.write(jsonArray.toString(4));
+		file.flush();
+		file.close();
+		
+		 */
+		
 	}
 }
