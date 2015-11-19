@@ -1,0 +1,11 @@
+sit
+work
+touch
+name
+die
+return
+accompany
+wait
+greet
+teach
+go
