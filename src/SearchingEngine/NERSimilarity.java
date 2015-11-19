@@ -49,8 +49,10 @@ public class NERSimilarity {
 			JSONObject jsonObject = jsonArray.getJSONObject(i);
 			String movieTitle = (String) jsonObject.get("movieTitle");
 			String[] movieNERArray = jsonObject.get("ner").toString().split(","); 
-			//System.out.println(movieTitle);
 			Set<String> nerPlotSet = getNER(movieNERArray);
+			//System.out.println(movieTitle);
+			//System.out.println(getArrayListFromSet(nerQuerySet).toString());
+			//System.out.println(getArrayListFromSet(nerPlotSet).toString());
 			if(nerPlotSet.size() == 0){
 				return null;
 			}
@@ -63,8 +65,9 @@ public class NERSimilarity {
 					nerTable.add(dataRow);
 				}
 			}
+			//System.out.println("=============================");
 		}
-		System.out.println(nerTable.size());
+		//System.out.println(nerTable.size());
 		
 		return nerTable;
 	}
