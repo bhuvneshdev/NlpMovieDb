@@ -48,6 +48,10 @@ public class EventSimilarityMatchData {
 	public String getMovieName(){
 		return this.movieName;
 	}
+	
+	public int getMatchCount(){
+		return this.matchCount;
+	}
 
 	@Override
 	public String toString(){

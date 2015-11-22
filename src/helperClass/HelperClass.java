@@ -5,6 +5,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Set;
 
 import org.apache.commons.io.IOUtils;
 
@@ -69,5 +70,14 @@ public class HelperClass {
 		}
 		return data;
 	}
+	
+	public static ArrayList<String> getArrayListFromString(Set<String> set){
+		ArrayList<String> arrayList = new ArrayList<String>();
+		for(String str: set){
+			arrayList.add(str);
+		}
+		return arrayList;
+	}
 
+	
 }

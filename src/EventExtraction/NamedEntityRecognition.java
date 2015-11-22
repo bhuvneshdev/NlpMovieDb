@@ -70,6 +70,30 @@ public class NamedEntityRecognition {
 	}
 
 	
+	public static Set<String> getAllCharacterNames(String plot) throws ClassCastException, ClassNotFoundException, IOException{
+		
+		namedEntities = new HashSet<String>();
+		
+		String serializedClassifier = "edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz";
+	    
+		AbstractSequenceClassifier<CoreLabel> classifier = CRFClassifier.getClassifier(serializedClassifier);
+	    
+		String[] plotLines = plot.split("\\.") ;
+		patternList.add(TAG_REGEX_PERSON);
+	    
+	    for(String line : plotLines){
+		    //System.out.println(classifier.classifyWithInlineXML(line));
+		    String classifiedString = classifier.classifyWithInlineXML(line);
+		    ArrayList<String> data = (ArrayList<String>) getTagValues(classifiedString,patternList);
+		    for(String str : data){
+		    	namedEntities.add(str.toLowerCase());
+		    }
+	    }
+	    		
+		return namedEntities;
+	}
+	
+	
 	
 	
 }
