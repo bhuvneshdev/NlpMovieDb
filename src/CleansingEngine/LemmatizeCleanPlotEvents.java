@@ -39,6 +39,26 @@ public class LemmatizeCleanPlotEvents {
 				e.printStackTrace();
 			}
 			
+			if(!new File("Data//EventExtractedCleanPlotsLemmaRepeated", fileEntry.getName()).exists()){
+				ArrayList<String> setLemmas = new ArrayList<String>();
+				Path file = Paths.get("Data//EventExtractedCleanPlotsLemmaRepeated//"+fileEntry.getName());
+				Charset charset = Charset.forName("US-ASCII");
+				try (BufferedWriter writer = Files.newBufferedWriter(file, charset)) {
+					for(String p: eventsFromLinesInPlot){
+							String[] p_tokens_temp = p.split(",");
+							String[] p_tokens = p_tokens_temp[1].split("-");
+							List<String> l1 = EventSimilarity.StanfordLemmatizer(p_tokens[0]);
+							setLemmas.add(l1.get(0));
+					}
+					for(String p: setLemmas){
+						String temp = p+'\n';
+					    writer.write(temp, 0, temp.length());
+					}
+				} catch (IOException x) {
+				    System.err.format("IOException: %s%n", x);
+				}
+			}
+			
 			if(!new File("Data//EventExtractedCleanPlotsLemma", fileEntry.getName()).exists()){
 				Set<String> setLemmas = new HashSet<String>();
 				Path file = Paths.get("Data//EventExtractedCleanPlotsLemma//"+fileEntry.getName());

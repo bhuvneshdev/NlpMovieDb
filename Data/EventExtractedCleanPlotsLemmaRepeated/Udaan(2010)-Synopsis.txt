@@ -1,0 +1,4 @@
+abandon
+get
+stick
+get
