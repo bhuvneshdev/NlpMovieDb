@@ -15,7 +15,7 @@ public class Input {
 	public static void startSearch(String query) throws ClassCastException, ClassNotFoundException, IOException, JSONException{
 		
 		System.out.println("===========Event Similarity Match =========");
-		ArrayList<EventSimilarityMatchData> eventTable = EventSimilarity.getEventSimilarityTable(query,0.82f);
+		ArrayList<EventSimilarityMatchData> eventTable = EventSimilarity.getEventSimilarityTable(query,0.8f);
 		if(eventTable != null){
 			System.out.println("Possible Matches : " + eventTable.size());
 			for(EventSimilarityMatchData row : eventTable){
