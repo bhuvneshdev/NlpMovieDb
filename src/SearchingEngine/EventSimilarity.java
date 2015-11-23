@@ -14,6 +14,9 @@ import java.util.List;
 import java.util.Properties;
 import java.util.Set;
 
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
 import org.jsoup.Jsoup;
 
 import database.EventSimilarityMatchData;
@@ -85,11 +88,13 @@ import edu.stanford.nlp.util.CoreMap;
 		}
 		
 		public static void eventSimilarity(ArrayList<String> eventsFromLinesInPlotLemma,ArrayList<String> eventsFromLinesInQueryLemma, String movieName, float threshold){
+			System.out.println(movieName);
 			ArrayList<String> q_EventSimilarityMatches = new ArrayList<String>();
 			ArrayList<String> p_EventSimilarityMatches = new ArrayList<String>();
 			EventSimilarityMatchData object;
 			int events_match_count=0;
 			double avg_event_match = 0;
+			double score=0;
 			int eventsDeletedFromQuery = 0;
 			for(String q: eventsFromLinesInQueryLemma){
 //					String[] q_tokens_temp = q.split(",");
@@ -102,11 +107,48 @@ import edu.stanford.nlp.util.CoreMap;
 							double s_lin = new Lin(db).calcRelatednessOfWords(q, p);
 							if(s_path==1.7976931348623157E308) s_path = 1.5;
 							if(s_lin==1.7976931348623157E308) s_lin = 1.5;
+							
 							if((s_path + s_lin)/2 > 0.4){
-								events_match_count++;
-								avg_event_match= avg_event_match + Math.max(s_path, s_lin);
-								q_EventSimilarityMatches.add(q);
-								p_EventSimilarityMatches.add(p);
+								double idf = 0;
+								File folder = new File("Data//EventExtractedCleanPlotsLemmaTfidf");
+								for (File fileEntry : folder.listFiles()) {
+									if(fileEntry.getName().equalsIgnoreCase(movieName)){
+										JSONParser parser = new JSONParser();
+										try {
+											
+									            Object obj = parser.parse(new FileReader(
+									                    "Data//EventExtractedCleanPlotsLemmaTfidf//"+movieName));
+									 
+									            JSONObject jsonObject = (JSONObject) obj;
+									            JSONObject childJsonObject = (JSONObject) jsonObject.get(p);
+									            double tf,tfidf;
+//									            tf = (double) childJsonObject.get("tf");
+									            idf = (double) childJsonObject.get("idf");
+//									            tfidf = (double) childJsonObject.get("tfidf");
+//									            double w = (double) jsonObject.get(p);
+									            
+									            System.out.println("Weight of "+p+" IDF: "+idf);
+//									            int intTF,intIDF,intTFIDF;
+//									            intTF = (int) (tf*1000);
+//									            intIDF = (int) (idf*100/4.91);
+//									            System.out.println("Cumulative weight: "+(intTF+intIDF));
+//									            System.out.println("Cumulative weight using multiply: "+(intTF*Math.exp(idf)));
+									            break;
+											
+									        } catch (Exception e) {
+									            e.printStackTrace();
+									        }
+									}
+								}
+								
+							
+//								if(idf>0.4){
+									System.out.println("Match : "+q+","+p +","+(s_path + s_lin)/2);
+									events_match_count++;
+									avg_event_match= avg_event_match + Math.max(s_path, s_lin);
+									q_EventSimilarityMatches.add(q);
+									p_EventSimilarityMatches.add(p);
+//								}
 								break;
 							}
 						}
@@ -114,9 +156,11 @@ import edu.stanford.nlp.util.CoreMap;
 					else eventsDeletedFromQuery++;
 				}
 			avg_event_match = avg_event_match/(eventsFromLinesInQueryLemma.size()-eventsDeletedFromQuery);
-
+			score = ((events_match_count*100/(eventsFromLinesInQueryLemma.size()-eventsDeletedFromQuery)) + (avg_event_match*100/1.5))/2;
+			System.out.println("Score: "+score);
+			System.out.println("-----------------------");
 			if(events_match_count>=(eventsFromLinesInQueryLemma.size()-eventsDeletedFromQuery)/2 && avg_event_match>=threshold){
-				object = new EventSimilarityMatchData(movieName, events_match_count, eventsFromLinesInQueryLemma.size()-eventsDeletedFromQuery, threshold, q_EventSimilarityMatches, p_EventSimilarityMatches);
+				object = new EventSimilarityMatchData(movieName, events_match_count, eventsFromLinesInQueryLemma.size()-eventsDeletedFromQuery, threshold,score, q_EventSimilarityMatches, p_EventSimilarityMatches);
 				ESTable.add(object);
 			}
 		}
