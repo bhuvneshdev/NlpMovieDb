@@ -31,7 +31,7 @@ public class KeywordExtraction {
 		JSONObject jsonObject = new JSONObject(responseString);
 		
 		 
-		System.out.println(jsonObject.toString(4));
+		//System.out.println(jsonObject.toString(4));
 		
 		JSONArray jsonKeywordsArray = jsonObject.getJSONArray("keywords");
 		for(int i =0 ; i< jsonKeywordsArray.length() ; i++){

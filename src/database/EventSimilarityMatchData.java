@@ -6,7 +6,7 @@ public class EventSimilarityMatchData {
 	public String movieName;
 	public int matchCount;
 	public int totalCount;
-	public double score;
+	public int score;
 	public double threshold;
 	public ArrayList<String> EventSimilarityMatches;
 	public ArrayList<String> plotEventSimilarityMatches;
@@ -16,7 +16,7 @@ public class EventSimilarityMatchData {
 		this.matchCount = matchCount;
 		this.totalCount = totalCount;
 		this.threshold = threshold;
-		this.score = score;
+		this.score = (int)score;
 		for(String str : EventSimilarityMatches){
 			this.EventSimilarityMatches.add(str);
 		}
@@ -30,7 +30,7 @@ public class EventSimilarityMatchData {
 		this.matchCount = matchCount;
 		this.totalCount = totalCount;
 		this.threshold = threshold;
-		this.score = score;
+		this.score = (int)score;
 		this.EventSimilarityMatches = EventSimilarityMatches;
 		this.plotEventSimilarityMatches = plotEventSimilarityMatches;
 	}
@@ -40,7 +40,7 @@ public class EventSimilarityMatchData {
 		this.matchCount = matchCount;
 		this.totalCount = totalCount;
 		this.threshold = 0.8;
-		this.score = score;
+		this.score = (int)score;
 		for(String str : EventSimilarityMatches){
 			this.EventSimilarityMatches.add(str);
 		}
@@ -57,7 +57,7 @@ public class EventSimilarityMatchData {
 		return this.matchCount;
 	}
 	
-	public double getScore(){
+	public int getScore(){
 		return this.score;
 	}
 	
