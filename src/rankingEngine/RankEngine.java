@@ -1,21 +1,104 @@
 package rankingEngine;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashSet;
 import java.util.Set;
 
+import database.EntityMatchData;
 import database.EventSimilarityMatchData;
 import database.NERMatchData;
+import database.RankingData;
 import SearchingEngine.EventSimilarity;
 
 public class RankEngine {
 
-	public static ArrayList<String> rankedList = new ArrayList<String>();
+	private static ArrayList<String> rankedList = new ArrayList<String>();
+	private static ArrayList<RankingData> rankTable = new ArrayList<RankingData>();
 	
-	public static ArrayList<String> getRankedList(ArrayList<EventSimilarityMatchData> eventTable, 
-			ArrayList<NERMatchData> nerTable){
+	public static ArrayList<RankingData> getRankedList(ArrayList<EventSimilarityMatchData> eventTable, 
+			ArrayList<NERMatchData> nerTable , ArrayList<EntityMatchData> entityTable){
+			
+		Set<String> movieList = new HashSet<String>();
+		
+		//Insert rows or data for events
+		for(EventSimilarityMatchData eventRow: eventTable){
+			String movieTitle = eventRow.getMovieName();
+			//Fresh Created Row
+			if(!movieList.contains(movieTitle)){
+				RankingData rankRow = new RankingData();
+				rankRow.setMovieTitle(movieTitle);
+				rankRow.setEventScore(eventRow.getScore());
+				rankTable.add(rankRow);
+				movieList.add(movieTitle);
+			}
+			
+			else{
+				int index = getRankTableRowNumber(movieTitle);
+				rankTable.get(index).setEventScore(eventRow.getScore());
+			}
+		}
+		
+		//Insert rows or data for ner
+		for(NERMatchData nerRow: nerTable){
+			String movieTitle = nerRow.getMovieName();
+			//Fresh Created Row
+			if(!movieList.contains(movieTitle)){
+				RankingData rankRow = new RankingData();
+				rankRow.setMovieTitle(movieTitle);
+				rankRow.setNerScore(nerRow.getScore());
+				rankTable.add(rankRow);
+				movieList.add(movieTitle);
+			}
+			else{
+				int index = getRankTableRowNumber(movieTitle);
+				rankTable.get(index).setNerScore(nerRow.getScore());
+			}
+		}
 		
 		
+		//Insert rows or data for Entities
+		
+		for(EntityMatchData entityRow: entityTable){
+			String movieTitle = entityRow.getMovieName();
+			//Fresh Created Row
+			if(!movieList.contains(movieTitle)){
+				RankingData rankRow = new RankingData();
+				rankRow.setMovieTitle(movieTitle);
+				rankRow.setEntityScore(entityRow.getScore());
+				rankTable.add(rankRow);
+				movieList.add(movieTitle);
+			}
+			else{
+				int index = getRankTableRowNumber(movieTitle);
+				rankTable.get(index).setEntityScore(entityRow.getScore());
+			}
+		}
+		
+		for(RankingData row : rankTable){
+			int score = row.getEventScore() + row.getNerScore() + row.getEntityScore();
+			row.setTotalScore(score);
+		}
+		//Sorting the Ranking Table
+		Collections.sort(rankTable, new Comparator<RankingData>(){
+		     public int compare(RankingData dataRow1, RankingData dataRow2){
+		         if(dataRow1.getTotalScore() == dataRow2.getTotalScore())
+		             return 0;
+		         return dataRow1.getTotalScore() < dataRow2.getTotalScore() ? 1 : -1;
+		     }
+		});
+		
+		
+		
+		return rankTable;
+		
+		
+		
+		
+		
+		
+		/*
 		ArrayList<String> movieList = new ArrayList<String>();
 		Set<String> movieListFromEventMatch = new HashSet<String>();
 		Set<String> movieListFromNERMatch = new HashSet<String>();
@@ -29,13 +112,7 @@ public class RankEngine {
 			events.add(movieScoreData);
 		}
 		
-		/*
-		for(MovieScoreData event : events){
-			System.out.println(event.movieName + "  " + event.eventMatchCount);
-		}
-		*/
-		
-		System.out.println("===== Event Match =====");
+				System.out.println("===== Event Match =====");
 		for(EventSimilarityMatchData eventRow : eventTable ){
 			movieListFromEventMatch.add(eventRow.getMovieName());
 		}
@@ -47,13 +124,6 @@ public class RankEngine {
 		
 		Set<String> intersection = new HashSet<String>(movieListFromEventMatch); // use the copy constructor
 		intersection.retainAll(movieListFromNERMatch);
-		
-		/*
-		System.out.println("======Intersection ====");
-		for(String str: intersection){
-			System.out.println(str);
-		}
-		*/
 		
 		for(String str: intersection){
 			rankedList.add(str);
@@ -73,11 +143,26 @@ public class RankEngine {
 			rankedList.add(row.movieName);
 		}
 		
-		
+	
 		return rankedList;
+		
+		*/
 		
 	}
 	
+	private static int getRankTableRowNumber(String movieTitle) {
+		// TODO Auto-generated method stub
+		int index=0;
+		for(int i =0 ; i<rankTable.size(); i++){
+			String movieNameExisting = rankTable.get(i).getMovieTitle(); 
+			if(movieNameExisting.equalsIgnoreCase(movieTitle)){
+				index =i;
+				break;
+			}
+		}
+		return index;
+	}
+
 	public static class MovieScoreData{
 		String movieName;
 		int eventMatchCount;
@@ -87,7 +172,6 @@ public class RankEngine {
 			this.eventMatchCount = matchCount;
 		}
 	}
-	
 	
 	
 	
