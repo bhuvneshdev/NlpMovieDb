@@ -1,0 +1,12 @@
+<NULL>,dealing-11,<NULL>
+treatment-3,tries-25,<NULL>
+<NULL>,dividing-35,fief-38:recipient
+retirement-37,left-33,<NULL>
+Jiro_Masatora_Ichimonji-26,vie-27,power-29:destination
+Taro_Takatora_Ichimonji-24,vie-27,power-29:destination
+son-4,faces-8,wrath-13:recipient
+thirst-20,caused-16,<NULL>
+Kyoami-2,makes-6,commentary-8:recipient
+Hidetora-10,discovers-11,madness-15:recipient
+Hidetora-10,discovers-11,himself-13:destination
+Hidetora-10,tries-25,<NULL>
