@@ -92,69 +92,94 @@ import edu.stanford.nlp.util.CoreMap;
 			ArrayList<String> q_EventSimilarityMatches = new ArrayList<String>();
 			ArrayList<String> p_EventSimilarityMatches = new ArrayList<String>();
 			EventSimilarityMatchData object;
+			Set<String> eventsFromLinesInPlotLemmaSet = new HashSet<String>();
+			for(String temp: eventsFromLinesInPlotLemma) eventsFromLinesInPlotLemmaSet.add(temp);
+			
+			//variable declarations
+			double max,eventMax;;
+			String plot = new String();
+			String query = new String();
+			boolean flag;
 			int events_match_count=0;
 			double avg_event_match = 0;
 			double score=0;
 			int eventsDeletedFromQuery = 0;
+			
+			//loop over each query event
 			for(String q: eventsFromLinesInQueryLemma){
-//					String[] q_tokens_temp = q.split(",");
-//					String[] q_tokens = q_tokens_temp[1].split("-");
-//					l1 = StanfordLemmatizer(q_tokens[0]);
+					max = 0;     // reset for each new query
+					flag = false;   // so far the query has'nt hit any plot event
+					
 					if(!q.equalsIgnoreCase("am") && !q.equalsIgnoreCase("are") && !q.equalsIgnoreCase("is") && !q.equalsIgnoreCase("was") && !q.equalsIgnoreCase("were") && !q.equalsIgnoreCase("being") && !q.equalsIgnoreCase("can") && !q.equalsIgnoreCase("could") && !q.equalsIgnoreCase("do") && !q.equalsIgnoreCase("did") && !q.equalsIgnoreCase("does") && !q.equalsIgnoreCase("doing") && !q.equalsIgnoreCase("be") && !q.equalsIgnoreCase("am") && !q.equalsIgnoreCase("have") && !q.equalsIgnoreCase("has") && !q.equalsIgnoreCase("had") && !q.equalsIgnoreCase("having") && !q.equalsIgnoreCase("may") && !q.equalsIgnoreCase("might") && !q.equalsIgnoreCase("must") && !q.equalsIgnoreCase("shall") && !q.equalsIgnoreCase("should") && !q.equalsIgnoreCase("will") && !q.equalsIgnoreCase("would") && !q.equalsIgnoreCase("'s")){
-						for(String p: eventsFromLinesInPlotLemma){
-							WS4JConfiguration.getInstance().setMFS(true);
-							double s_path = new Path(db).calcRelatednessOfWords(q, p);
-							double s_lin = new Lin(db).calcRelatednessOfWords(q, p);
-							if(s_path==1.7976931348623157E308) s_path = 1.5;
-							if(s_lin==1.7976931348623157E308) s_lin = 1.5;
-							
-							if((s_path + s_lin)/2 > 0.4){
-								double idf = 0;
-								File folder = new File("Data//EventExtractedCleanPlotsLemmaTfidf");
-								for (File fileEntry : folder.listFiles()) {
-									if(fileEntry.getName().equalsIgnoreCase(movieName)){
-										JSONParser parser = new JSONParser();
-										try {
-											
-									            Object obj = parser.parse(new FileReader(
-									                    "Data//EventExtractedCleanPlotsLemmaTfidf//"+movieName));
-									 
-									            JSONObject jsonObject = (JSONObject) obj;
-									            JSONObject childJsonObject = (JSONObject) jsonObject.get(p);
-									            double tf,tfidf;
-//									            tf = (double) childJsonObject.get("tf");
-									            idf = (double) childJsonObject.get("idf");
-//									            tfidf = (double) childJsonObject.get("tfidf");
-//									            double w = (double) jsonObject.get(p);
-									            
-									            System.out.println("Weight of "+p+" IDF: "+idf);
-//									            int intTF,intIDF,intTFIDF;
-//									            intTF = (int) (tf*1000);
-//									            intIDF = (int) (idf*100/4.91);
-//									            System.out.println("Cumulative weight: "+(intTF+intIDF));
-//									            System.out.println("Cumulative weight using multiply: "+(intTF*Math.exp(idf)));
-									            break;
-											
-									        } catch (Exception e) {
-									            e.printStackTrace();
-									        }
-									}
-								}
+						if(!eventsFromLinesInPlotLemmaSet.contains(q)){
+							//loop over all plot events
+							for(String p: eventsFromLinesInPlotLemma){
 								
-							
-//								if(idf>0.4){
-									System.out.println("Match : "+q+","+p +","+(s_path + s_lin)/2);
-									events_match_count++;
-									avg_event_match= avg_event_match + Math.max(s_path, s_lin);
-									q_EventSimilarityMatches.add(q);
-									p_EventSimilarityMatches.add(p);
-//								}
-								break;
+								//similarity score calculation: Lin and path
+								WS4JConfiguration.getInstance().setMFS(true);
+								double s_path = new Path(db).calcRelatednessOfWords(q, p);
+								double s_lin = new Lin(db).calcRelatednessOfWords(q, p);
+								if(s_path==1.7976931348623157E308) s_path = 1.5;
+								if(s_lin==1.7976931348623157E308) s_lin = 1.5;
+								
+								//thresholding and maximum hit so far
+								if((s_path + s_lin)/2 > 0.4 && (s_path + s_lin)/2>max){
+									flag = true; 
+									max = Math.max(s_path,s_lin);
+									double idf = 0;
+									File folder = new File("Data//EventExtractedCleanPlotsLemmaTfidf");
+									for (File fileEntry : folder.listFiles()) {
+										if(fileEntry.getName().equalsIgnoreCase(movieName)){
+											JSONParser parser = new JSONParser();
+											try {
+												
+										            Object obj = parser.parse(new FileReader(
+										                    "Data//EventExtractedCleanPlotsLemmaTfidf//"+movieName));
+										 
+										            JSONObject jsonObject = (JSONObject) obj;
+										            JSONObject childJsonObject = (JSONObject) jsonObject.get(p);
+										            double tf,tfidf;
+	//									            tf = (double) childJsonObject.get("tf");
+										            idf = (double) childJsonObject.get("idf");
+	//									            tfidf = (double) childJsonObject.get("tfidf");
+	//									            double w = (double) jsonObject.get(p);
+										            
+										            System.out.println("Weight of "+p+" IDF: "+idf);
+										            break;
+												
+										        } catch (Exception e) {
+										            e.printStackTrace();
+										        }
+										} // if end
+									} // for ifidf end
+									
+									query = q;
+									plot = p;	
+									
+								}
+							} // inner for end
+							eventMax = max;
+							if(flag){
+								System.out.println("Match : "+query+","+plot +","+eventMax);
+								events_match_count++;
+								avg_event_match= avg_event_match + eventMax;
+								q_EventSimilarityMatches.add(query);
+								p_EventSimilarityMatches.add(plot);
 							}
+						}
+						else{
+							eventMax = 1.5;
+							flag = true;
+							System.out.println("Match : "+q+","+q +","+eventMax);
+							events_match_count++;
+							avg_event_match= avg_event_match + eventMax;
+							q_EventSimilarityMatches.add(q);
+							p_EventSimilarityMatches.add(q);
 						}
 					}
 					else eventsDeletedFromQuery++;
-				}
+				} // outer for end
+			
 			avg_event_match = avg_event_match/(eventsFromLinesInQueryLemma.size()-eventsDeletedFromQuery);
 			score = ((events_match_count*100/(eventsFromLinesInQueryLemma.size()-eventsDeletedFromQuery)) + (avg_event_match*100/1.5))/2;
 			System.out.println("Score: "+score);
