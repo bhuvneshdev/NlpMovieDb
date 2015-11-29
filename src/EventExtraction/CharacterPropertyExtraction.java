@@ -25,6 +25,7 @@ public class CharacterPropertyExtraction implements Comparator<String>{
 			System.out.println(name);
 		}
 	}
+	
 	public static void setCharacterPropertyExtraction()  throws IOException, ClassCastException, ClassNotFoundException, JSONException {
 		
 		//String plotString = HelperClass.getDataInFile("Data//CoreferencePlots//", "Forrest.txt");
