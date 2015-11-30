@@ -1,0 +1,279 @@
+{
+  "movieName": "TheWizardofOz(1939)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Dorothy_Gale_Judy_Garland",
+      "recipients": [
+        "teenager",
+        "home",
+        "house",
+        "aid",
+        "Kansas",
+        "Road",
+        "road",
+        "scarecrow",
+        "trees",
+        "Man",
+        "broomstick",
+        "cat",
+        "power",
+        "balloon",
+        "bed",
+        "Marvel",
+        "laughter"
+      ],
+      "verbs": [
+        "be",
+        "return",
+        "enter",
+        "seek",
+        "go",
+        "set",
+        "follow",
+        "meet",
+        "incite",
+        "dous",
+        "have",
+        "believe",
+        "wake",
+        "tell",
+        "raise"
+      ],
+      "traits": [
+        "happy"
+      ],
+      "semanticRoles": [
+        "operator",
+        "dreamer",
+        "entity entering",
+        "thing hit",
+        "beginner",
+        "corpse",
+        "threat",
+        "thing given",
+        "Agent / entity seeking",
+        "wanter",
+        "agent",
+        "causal agent",
+        "achiever",
+        "first thing being tied",
+        "causer of action",
+        "impelled action",
+        "money",
+        "entity now fresh",
+        "snatched",
+        "chess player",
+        "douser",
+        "alarm clock",
+        "Speaker",
+        "Agent",
+        "entity being bothered"
+      ]
+    },
+    {
+      "characterName": "Toto",
+      "recipients": [
+        "Hamilton",
+        "basket",
+        "Dorothy",
+        "hair",
+        "help",
+        "curtain"
+      ],
+      "verbs": [
+        "bite",
+        "jump",
+        "run",
+        "have",
+        "escape",
+        "pull"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "biter",
+        "impelled action",
+        "operator",
+        "snatched",
+        "entity escaping",
+        "puller"
+      ]
+    },
+    {
+      "characterName": "witch",
+      "recipients": [
+        "Land",
+        "sister",
+        "Dorothy",
+        "friends",
+        "field",
+        "monkeys",
+        "hourglass",
+        "witch",
+        "Scarecrow"
+      ],
+      "verbs": [
+        "rule",
+        "be",
+        "threaten",
+        "hinder",
+        "conjure",
+        "skywrite",
+        "send",
+        "turn",
+        "guard",
+        "set"
+      ],
+      "traits": [
+        "dead"
+      ],
+      "semanticRoles": [
+        "decider",
+        "agent",
+        "stopper",
+        "creator",
+        "sender",
+        "turner",
+        "finder",
+        "guard",
+        "guarded",
+        "water",
+        "impelled action"
+      ]
+    },
+    {
+      "characterName": "Glinda_Billie_Burke",
+      "recipients": [
+        "Dorothy",
+        "Slippers",
+        "Glinda"
+      ],
+      "verbs": [
+        "give",
+        "save",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "giver",
+        "entity giving advice",
+        "entity saving money",
+        "explainer",
+        "Utterance",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Wizard",
+      "recipients": [
+        "Emerald_City",
+        "Wizard",
+        "friends",
+        "reception",
+        "guards",
+        "humbug",
+        "balloon",
+        "home",
+        "Oz",
+        "rulers",
+        "Tin_Man"
+      ],
+      "verbs": [
+        "life",
+        "give",
+        "frustrated",
+        "help",
+        "see",
+        "be",
+        "propose",
+        "take",
+        "come",
+        "appoint"
+      ],
+      "traits": [
+        "powerful",
+        "great",
+        "pleased",
+        "socalled",
+        "abashed"
+      ],
+      "semanticRoles": [
+        "alive entity",
+        "thing given",
+        "giver",
+        "Stimulusr",
+        "helper",
+        "viewer",
+        "speaker",
+        "entity proposing",
+        "appointer",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "friends",
+      "recipients": [
+        "Morgan",
+        "Emerald_City"
+      ],
+      "verbs": [
+        "see",
+        "return"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Theme (action or object being prevented)",
+        "entity threatened",
+        "entity frustrated",
+        "viewer",
+        "project",
+        "bringer",
+        "the target"
+      ]
+    },
+    {
+      "characterName": "monkeys",
+      "recipients": [
+        "party",
+        "others",
+        "Toto",
+        "Dorothy"
+      ],
+      "verbs": [
+        "attack",
+        "scatter",
+        "snatch"
+      ],
+      "traits": [
+        "winged"
+      ],
+      "semanticRoles": [
+        "sent",
+        "attacker",
+        "distributor",
+        "snatched",
+        "thing striving"
+      ]
+    },
+    {
+      "characterName": "Marvel",
+      "recipients": [
+        "levers",
+        "microphone",
+        "Hunk_Ray_Bolger",
+        "Garland"
+      ],
+      "verbs": [
+        "pull",
+        "speak",
+        "farmhand",
+        "believe"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "talker",
+        "puller",
+        "Utterance"
+      ]
+    }
+  ]
+}

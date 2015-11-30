@@ -1,0 +1,350 @@
+{
+  "movieName": "MyNeighborTotoro(1988)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "girls",
+      "recipients": [
+        "windows",
+        "doors",
+        "mother",
+        "home",
+        "fur",
+        "air",
+        "morning",
+        "tree",
+        "picnic"
+      ],
+      "verbs": [
+        "open",
+        "tell",
+        "walk",
+        "cling",
+        "wake",
+        "find",
+        "enjoy"
+      ],
+      "traits": [
+        "ill",
+        "excited"
+      ],
+      "semanticRoles": [
+        "thing brought",
+        "explorer",
+        "finder",
+        "agent",
+        "opener",
+        "impelled agent",
+        "thing viewed",
+        "legislative body",
+        "Speaker",
+        "walker",
+        "clingy thing",
+        "alarm clock",
+        "noticer",
+        "putter",
+        "enjoyer",
+        "Utterance",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "Satsuki",
+      "recipients": [
+        "end",
+        "downstairs",
+        "morning",
+        "lunch",
+        "school",
+        "home",
+        "hat",
+        "path",
+        "raspberries",
+        "Granny",
+        "Mei",
+        "shelter",
+        "father",
+        "company",
+        "house",
+        "shoe",
+        "relief",
+        "permission"
+      ],
+      "verbs": [
+        "run",
+        "go",
+        "cook",
+        "arrive",
+        "find",
+        "exchange",
+        "see",
+        "take",
+        "return",
+        "place",
+        "discover",
+        "rush",
+        "yell",
+        "identify",
+        "ask"
+      ],
+      "traits": [
+        "surprised"
+      ],
+      "semanticRoles": [
+        "operator",
+        "cook",
+        "finder",
+        "walker",
+        "agent",
+        "viewer",
+        "allower",
+        "agreer",
+        "putter",
+        "entity changing",
+        "entity leaving",
+        "entity awake",
+        "causer of motion",
+        "Yeller",
+        "speaker",
+        "beginner",
+        "entity afraid",
+        "caller",
+        "asker"
+      ]
+    },
+    {
+      "characterName": "She",
+      "recipients": [
+        "mess",
+        "finger",
+        "crack",
+        "Tanie_Kitabayashi"
+      ],
+      "verbs": [
+        "startle",
+        "reach",
+        "run"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "thing striving",
+        "cause of surprise",
+        "operator"
+      ]
+    },
+    {
+      "characterName": "Mei",
+      "recipients": [
+        "hands",
+        "Mei",
+        "itself",
+        "respects",
+        "school",
+        "shelter",
+        "father",
+        "none",
+        "Totoro",
+        "umbrella",
+        "hospital"
+      ],
+      "verbs": [
+        "\u0027s",
+        "fall",
+        "identify",
+        "offer",
+        "stay",
+        "take",
+        "return",
+        "see",
+        "go"
+      ],
+      "traits": [
+        "past"
+      ],
+      "semanticRoles": [
+        "player",
+        "destination",
+        "caller",
+        "interpreter",
+        "misser",
+        "thing found",
+        "boastful talker",
+        "thing viewed",
+        "thing given",
+        "thing put",
+        "[causer of growth - should be possible]",
+        "viewer",
+        "looker",
+        "entity awake",
+        "decider",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Granny",
+      "recipients": [
+        "meal",
+        "girls",
+        "Satsuki"
+      ],
+      "verbs": [
+        "prepared",
+        "tell",
+        "explain"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "criticizer",
+        "thing viewed",
+        "wanter",
+        "Speaker",
+        "explainer"
+      ]
+    },
+    {
+      "characterName": "family",
+      "recipients": [
+        "night",
+        "box",
+        "lunch",
+        "ears",
+        "hides",
+        "figure",
+        "ride",
+        "time",
+        "hair"
+      ],
+      "verbs": [
+        "enjoy",
+        "place",
+        "notice",
+        "follow",
+        "take"
+      ],
+      "traits": [
+        "past"
+      ],
+      "semanticRoles": [
+        "enjoyer",
+        "Sayer",
+        "putter",
+        "noticer",
+        "path walked",
+        "causal agent"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "girls",
+        "path",
+        "Shimamoto",
+        "weekend"
+      ],
+      "verbs": [
+        "encourage",
+        "find",
+        "call",
+        "come"
+      ],
+      "traits": [
+        "Shimamoto",
+        "able",
+        "fine"
+      ],
+      "semanticRoles": [
+        "convincer",
+        "finder",
+        "entity in motion"
+      ]
+    },
+    {
+      "characterName": "they",
+      "recipients": [
+        "Mei",
+        "hole",
+        "afternoon",
+        "home"
+      ],
+      "verbs": [
+        "sneak",
+        "disappear",
+        "walk"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity sneaking",
+        "noticed",
+        "thing followed",
+        "causal agent",
+        "thing following",
+        "walker",
+        "entity in motion"
+      ]
+    },
+    {
+      "characterName": "companion",
+      "recipients": [
+        "they",
+        "edge"
+      ],
+      "verbs": [
+        "notice",
+        "chase",
+        "follow"
+      ],
+      "traits": [
+        "larger",
+        "blue"
+      ],
+      "semanticRoles": [
+        "noticer",
+        "follower",
+        "causal agent"
+      ]
+    },
+    {
+      "characterName": "Totoro",
+      "recipients": [
+        "Totoro",
+        "search",
+        "clearing",
+        "contact",
+        "Mei",
+        "nothing",
+        "top",
+        "hole",
+        "him",
+        "Satsuki"
+      ],
+      "verbs": [
+        "father",
+        "sleep",
+        "come",
+        "find",
+        "have",
+        "join",
+        "mimic",
+        "pull",
+        "beg",
+        "take",
+        "watch"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "father",
+        "sleeper",
+        "finder",
+        "giver",
+        "original",
+        "copy",
+        "agent",
+        "first thing being tied",
+        "puller",
+        "causal agent",
+        "begger"
+      ]
+    }
+  ]
+}

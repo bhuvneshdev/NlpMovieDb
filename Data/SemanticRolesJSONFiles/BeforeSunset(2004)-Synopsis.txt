@@ -1,0 +1,132 @@
+{
+  "movieName": "BeforeSunset(2004)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Celine",
+      "recipients": [
+        "Vienna",
+        "Sunrise",
+        "viewer",
+        "audience",
+        "time",
+        "boyfriend",
+        "America",
+        "date",
+        "addresses",
+        "point",
+        "moment",
+        "hand",
+        "car",
+        "Jesse",
+        "apartment",
+        "scene",
+        "song",
+        "Baby",
+        "Celine",
+        "guitar"
+      ],
+      "verbs": [
+        "meet",
+        "see",
+        "appear",
+        "share",
+        "have",
+        "live",
+        "die",
+        "exchange",
+        "reach",
+        "arrive",
+        "play",
+        "persuade",
+        "dance",
+        "mutter"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "applauded",
+        "viewer",
+        "sharer",
+        "invited",
+        "Theme (action or object being prevented)",
+        "alive entity",
+        "Sayer",
+        "agent",
+        "replier",
+        "puller",
+        "thing striving",
+        "impelled agent",
+        "player",
+        "convincer",
+        "dancer",
+        "speaker"
+      ]
+    },
+    {
+      "characterName": "Jesse",
+      "recipients": [
+        "Vienna",
+        "Sunrise",
+        "tour",
+        "reading",
+        "Shakespeare",
+        "time",
+        "Celine",
+        "son",
+        "addresses",
+        "moment",
+        "marriage",
+        "apartment",
+        "scene",
+        "CD"
+      ],
+      "verbs": [
+        "meet",
+        "do",
+        "have",
+        "invite",
+        "return",
+        "exchange",
+        "confess",
+        "arrive",
+        "play"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "inviter",
+        "one half",
+        "speaker",
+        "agent",
+        "thing put",
+        "new knower",
+        "admitter",
+        "student",
+        "player",
+        "interviewee",
+        "agent smiling"
+      ]
+    },
+    {
+      "characterName": "journalists",
+      "recipients": [
+        "ways",
+        "beginning",
+        "Jesse"
+      ],
+      "verbs": [
+        "represent",
+        "interview"
+      ],
+      "traits": [
+        "present",
+        "convinced"
+      ],
+      "semanticRoles": [
+        "thing wanted",
+        "entity taking place of other",
+        "interviewer"
+      ]
+    }
+  ]
+}

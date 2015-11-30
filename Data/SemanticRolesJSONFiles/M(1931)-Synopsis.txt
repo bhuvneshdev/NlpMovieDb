@@ -1,0 +1,89 @@
+{
+  "movieName": "M(1931)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "police",
+      "recipients": [
+        "volumes",
+        "business",
+        "origin",
+        "apartment",
+        "Beckert",
+        "moment"
+      ],
+      "verbs": [
+        "compile",
+        "ruin",
+        "trace",
+        "come",
+        "enter"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "turner",
+        "examiner",
+        "agent",
+        "destroyer",
+        "copier",
+        "entity getting warning",
+        "entity entering"
+      ]
+    },
+    {
+      "characterName": "Beckert",
+      "recipients": [
+        "store",
+        "girl",
+        "M",
+        "back",
+        "mistake",
+        "home",
+        "killer"
+      ],
+      "verbs": [
+        "lead",
+        "transfer",
+        "make",
+        "be"
+      ],
+      "traits": [
+        "evil"
+      ],
+      "semanticRoles": [
+        "thing following",
+        "leader",
+        "entity clutched",
+        "creator",
+        "thing found",
+        "thing being removed",
+        "explainer",
+        "controller",
+        "vehicle or path",
+        "thing turning",
+        "thing held",
+        "place or thing entered"
+      ]
+    },
+    {
+      "characterName": "beggars",
+      "recipients": [
+        "man",
+        "killer",
+        "Schrnker"
+      ],
+      "verbs": [
+        "follow",
+        "capture",
+        "contact"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "causal agent",
+        "contactor",
+        "getter"
+      ]
+    }
+  ]
+}
