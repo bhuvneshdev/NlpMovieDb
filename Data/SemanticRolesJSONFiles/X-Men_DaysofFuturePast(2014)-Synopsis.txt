@@ -1,0 +1,1165 @@
+{
+  "movieName": "X-Men_DaysofFuturePast(2014)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "humans",
+      "recipients": [
+        "sentinels",
+        "humans",
+        "probability"
+      ],
+      "verbs": [
+        "create",
+        "begin",
+        "hold"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "creator",
+        "Thing begun - NP",
+        "holder",
+        "beginner",
+        "thing increasing",
+        "experiencer"
+      ]
+    },
+    {
+      "characterName": "sentinels",
+      "recipients": [
+        "extinction",
+        "leaves",
+        "sentinels",
+        "hand",
+        "powers",
+        "door",
+        "room",
+        "use",
+        "ways",
+        "half",
+        "Magneto",
+        "future",
+        "Iceman",
+        "group"
+      ],
+      "verbs": [
+        "find",
+        "get",
+        "absorb",
+        "melt",
+        "adapt",
+        "go",
+        "rip",
+        "kill",
+        "breach",
+        "confront"
+      ],
+      "traits": [
+        "invading",
+        "able",
+        "operational",
+        "few",
+        "more",
+        "multiple"
+      ],
+      "semanticRoles": [
+        "thing created",
+        "finder",
+        "thing found",
+        "breaker",
+        "receiver",
+        "absorber",
+        "causer of continuing event",
+        "agent",
+        "entity entering",
+        "killer",
+        "attacker",
+        "loose thing",
+        "thing held",
+        "action allowed",
+        "thing shown",
+        "beast of burden",
+        "legislative body",
+        "thing given",
+        "shooter",
+        "controlled",
+        "ripper",
+        "beginner",
+        "scared entity",
+        "confrontational entity",
+        "goal"
+      ]
+    },
+    {
+      "characterName": "Charles_Xavier",
+      "recipients": [
+        "time",
+        "assassination",
+        "arms",
+        "mind",
+        "ability",
+        "Logan",
+        "man",
+        "Magneto",
+        "Charles",
+        "powers",
+        "Erik",
+        "herself",
+        "everything",
+        "Mystique",
+        "way",
+        "ground",
+        "serum",
+        "hearing",
+        "focus",
+        "people",
+        "airport",
+        "Washington_DC",
+        "place",
+        "her",
+        "conversation",
+        "power",
+        "She",
+        "plea",
+        "control",
+        "Xavier"
+      ],
+      "verbs": [
+        "go",
+        "stop",
+        "take",
+        "read",
+        "use",
+        "help",
+        "be",
+        "assist",
+        "loathe",
+        "see",
+        "protect",
+        "persuade",
+        "explain",
+        "tell",
+        "give",
+        "fall",
+        "keep",
+        "bring",
+        "depart",
+        "find",
+        "freeze",
+        "spot",
+        "have",
+        "make",
+        "agree",
+        "welcome"
+      ],
+      "traits": [
+        "aware",
+        "broken",
+        "tired",
+        "strong"
+      ],
+      "semanticRoles": [
+        "teller of tale",
+        "speaker",
+        "planner",
+        "impelled agent",
+        "experiencer",
+        "thing viewed",
+        "reader",
+        "question",
+        "User",
+        "helper",
+        "entity refusing",
+        "agreer",
+        "entity confronted",
+        "viewer",
+        "replier",
+        "thing ignored",
+        "Thing thought about",
+        "explainer",
+        "Agent/Entity Trying",
+        "convincer",
+        "Speaker",
+        "giver",
+        "Agent",
+        "Keeper",
+        "Sayer",
+        "assured one",
+        "bringer",
+        "needer",
+        "entity leaving",
+        "finder",
+        "causer of freezing",
+        "knower",
+        "first thing being pinned",
+        "creator",
+        "hoper",
+        "pointer",
+        "theme",
+        "releaser",
+        "thing welcomed",
+        "welcomer",
+        "beginner"
+      ]
+    },
+    {
+      "characterName": "Warpath",
+      "recipients": [
+        "which",
+        "Bishop"
+      ],
+      "verbs": [
+        "absorb",
+        "spot"
+      ],
+      "traits": [
+        "sentinel"
+      ],
+      "semanticRoles": [
+        "new knower",
+        "thing given",
+        "absorber",
+        "Agent/Entity Trying",
+        "thing hit",
+        "helper",
+        "corpse",
+        "finder",
+        "thing stabbed"
+      ]
+    },
+    {
+      "characterName": "Sunspot",
+      "recipients": [
+        "Warpath",
+        "energy",
+        "cocoon",
+        "death",
+        "Sunspot",
+        "Iceman",
+        "neck"
+      ],
+      "verbs": [
+        "give",
+        "form",
+        "strangle",
+        "grab"
+      ],
+      "traits": [
+        "sentinel"
+      ],
+      "semanticRoles": [
+        "giver",
+        "causer of engagement",
+        "creator",
+        "beginner",
+        "stranger",
+        "breaker",
+        "entity strangled",
+        "thing kept",
+        "grabber"
+      ]
+    },
+    {
+      "characterName": "it",
+      "recipients": [
+        "Erik",
+        "gift",
+        "pain"
+      ],
+      "verbs": [
+        "see",
+        "be"
+      ],
+      "traits": [
+        "clear",
+        "nice",
+        "risky",
+        "apparent",
+        "obvious"
+      ],
+      "semanticRoles": [
+        "entity drenched",
+        "utterance",
+        "viewer",
+        "thing designed"
+      ]
+    },
+    {
+      "characterName": "sentinel",
+      "recipients": [
+        "ground",
+        "Bishop",
+        "Kitty",
+        "punch",
+        "Warpath",
+        "Colossus",
+        "Storm",
+        "skin",
+        "fights",
+        "targets"
+      ],
+      "verbs": [
+        "knock",
+        "intercept",
+        "catch",
+        "kill",
+        "sneak",
+        "form",
+        "stab",
+        "flank",
+        "find"
+      ],
+      "traits": [
+        "towering",
+        "third"
+      ],
+      "semanticRoles": [
+        "hitter",
+        "interceptor",
+        "receiver",
+        "thing created",
+        "killer",
+        "entity sneaking",
+        "impelled agent",
+        "caller",
+        "intentional cutter",
+        "creator",
+        "stabber",
+        "things on the side",
+        "Thinker",
+        "causer of continuing event",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Bishop",
+      "recipients": [
+        "sentinel",
+        "blast",
+        "room",
+        "consciousness",
+        "others",
+        "sequence",
+        "rifle"
+      ],
+      "verbs": [
+        "fire",
+        "arrive",
+        "lose",
+        "warn",
+        "disappear",
+        "shoot"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity intercepted",
+        "shooter",
+        "causal agent",
+        "sent",
+        "thing found",
+        "asking price",
+        "entity (e.g. region) bombarded"
+      ]
+    },
+    {
+      "characterName": "Kitty",
+      "recipients": [
+        "room",
+        "lie",
+        "sequence",
+        "Bishop",
+        "lot"
+      ],
+      "verbs": [
+        "arrive",
+        "have",
+        "disappear",
+        "send",
+        "lose"
+      ],
+      "traits": [
+        "final"
+      ],
+      "semanticRoles": [
+        "entity intercepted",
+        "Sayer",
+        "causal agent",
+        "explainer",
+        "sender",
+        "theme"
+      ]
+    },
+    {
+      "characterName": "Iceman",
+      "recipients": [
+        "slide",
+        "fire",
+        "itself",
+        "barrier"
+      ],
+      "verbs": [
+        "use",
+        "encase",
+        "reinforce"
+      ],
+      "traits": [
+        "sentinel"
+      ],
+      "semanticRoles": [
+        "User",
+        "putter",
+        "entity grabbed",
+        "entity leaving",
+        "strengthener",
+        "corpse",
+        "thing viewed"
+      ]
+    },
+    {
+      "characterName": "mutants",
+      "recipients": [
+        "jet",
+        "group",
+        "place",
+        "line",
+        "time",
+        "threat",
+        "preparations",
+        "Kitty",
+        "sigh",
+        "future"
+      ],
+      "verbs": [
+        "disembark",
+        "greet",
+        "take",
+        "make",
+        "be",
+        "die"
+      ],
+      "traits": [
+        "future",
+        "remaining",
+        "discerning",
+        "dangerous"
+      ],
+      "semanticRoles": [
+        "passenger(s)",
+        "greeter",
+        "creator",
+        "player",
+        "experiencer"
+      ]
+    },
+    {
+      "characterName": "group",
+      "recipients": [
+        "help",
+        "piece",
+        "Logan",
+        "Xavier",
+        "Kitty"
+      ],
+      "verbs": [
+        "enlist",
+        "arrive",
+        "include"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing greeted",
+        "signer",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "we",
+      "recipients": [
+        "scene",
+        "artifacts",
+        "vault",
+        "helmet",
+        "people"
+      ],
+      "verbs": [
+        "experience",
+        "see"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "student",
+        "intentional cutter",
+        "experiencer"
+      ]
+    },
+    {
+      "characterName": "Mystique",
+      "recipients": [
+        "Bolivar_Trask",
+        "official",
+        "nightclub",
+        "window",
+        "station",
+        "Magneto",
+        "mission",
+        "takes",
+        "moment",
+        "gun",
+        "Trask",
+        "Mystique"
+      ],
+      "verbs": [
+        "assassinate",
+        "seduce",
+        "jump",
+        "ambush",
+        "stop",
+        "use",
+        "drop",
+        "kill",
+        "be"
+      ],
+      "traits": [
+        "wounded"
+      ],
+      "semanticRoles": [
+        "assassin",
+        "thing gotten",
+        "thing found",
+        "replier",
+        "seducer",
+        "action being stopped",
+        "thing dragged",
+        "ambusher",
+        "institution",
+        "impelled agent",
+        "User",
+        "aimer",
+        "entity doing the dropping",
+        "killer",
+        "decider"
+      ]
+    },
+    {
+      "characterName": "Bolivar_Trask",
+      "recipients": [
+        "members",
+        "room",
+        "officials",
+        "pavement"
+      ],
+      "verbs": [
+        "convince",
+        "enter",
+        "obtain"
+      ],
+      "traits": [
+        "present"
+      ],
+      "semanticRoles": [
+        "person assassinated",
+        "Agent/Entity Trying",
+        "convincer",
+        "scientist",
+        "entity entering",
+        "projectile",
+        "thing given",
+        "Sayer",
+        "receiver",
+        "corpse",
+        "first thing being locked",
+        "accused"
+      ]
+    },
+    {
+      "characterName": "her",
+      "recipients": [
+        "someone",
+        "past",
+        "probes",
+        "Washington_DC",
+        "gun",
+        "stronghold"
+      ],
+      "verbs": [
+        "send",
+        "resist",
+        "depart",
+        "pull",
+        "flood"
+      ],
+      "traits": [
+        "quick",
+        "incapable"
+      ],
+      "semanticRoles": [
+        "sender",
+        "Theme (action or object being prevented)",
+        "thing hit",
+        "corpse",
+        "resister",
+        "entity leaving",
+        "puller",
+        "thing freezing",
+        "killer",
+        "impelled agent",
+        "causer",
+        "thing stabbed"
+      ]
+    },
+    {
+      "characterName": "Wolverine",
+      "recipients": [
+        "past",
+        "Charles_Xavier",
+        "Erik_Lehnsherr",
+        "Beast",
+        "damage",
+        "sentinel",
+        "Magneto"
+      ],
+      "verbs": [
+        "go",
+        "convince",
+        "distract",
+        "inflict",
+        "charge"
+      ],
+      "traits": [
+        "unable"
+      ],
+      "semanticRoles": [
+        "convincer",
+        "entity sucked in",
+        "agent or Stimulusr",
+        "inflicter"
+      ]
+    },
+    {
+      "characterName": "Erik_Lehnsherr",
+      "recipients": [
+        "arms",
+        "Charles",
+        "guards",
+        "speed",
+        "Erik",
+        "plane",
+        "exchange",
+        "one",
+        "gun",
+        "unthinkable",
+        "bullet"
+      ],
+      "verbs": [
+        "take",
+        "ask",
+        "kill",
+        "use",
+        "protect",
+        "cause",
+        "be",
+        "apologize",
+        "strip",
+        "do",
+        "guide"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "impelled agent",
+        "thing viewed",
+        "asker",
+        "killer",
+        "preparer",
+        "User",
+        "shouter",
+        "Thing thought about",
+        "forcer",
+        "Sayer",
+        "claimer",
+        "Agent/Entity Trying",
+        "entity saving money",
+        "apologist",
+        "remover",
+        "aimer",
+        "action being stopped",
+        "thing tackled",
+        "guide"
+      ]
+    },
+    {
+      "characterName": "Logan",
+      "recipients": [
+        "himself",
+        "bed",
+        "daughter",
+        "future",
+        "men",
+        "dilapidated",
+        "Charles",
+        "way",
+        "friends",
+        "right",
+        "face",
+        "case",
+        "anybody",
+        "Logan",
+        "Paris",
+        "Raven",
+        "anyone",
+        "memories",
+        "mansion",
+        "professor",
+        "mind",
+        "glimpses",
+        "conversation",
+        "what",
+        "power",
+        "images",
+        "Mystique",
+        "schoolchildren",
+        "Iceman",
+        "Storm",
+        "Beast",
+        "Rogue",
+        "Jean_Gray",
+        "Xavier"
+      ],
+      "verbs": [
+        "find",
+        "guard",
+        "be",
+        "take",
+        "drive",
+        "see",
+        "force",
+        "punch",
+        "plead",
+        "ask",
+        "tell",
+        "convince",
+        "stop",
+        "recognize",
+        "regain",
+        "leave",
+        "need",
+        "try",
+        "have",
+        "accomplish",
+        "use",
+        "show",
+        "wake",
+        "hear",
+        "encounter"
+      ],
+      "traits": [
+        "able",
+        "unconscious",
+        "surprised"
+      ],
+      "semanticRoles": [
+        "alarm clock",
+        "finder",
+        "looker",
+        "new knower",
+        "receiver",
+        "Thing thought about",
+        "guard",
+        "asker",
+        "projectile",
+        "entity causing cure",
+        "driver",
+        "viewer",
+        "thing rejected",
+        "forcer",
+        "speaker",
+        "agent",
+        "thing thrown",
+        "begger",
+        "convincer",
+        "Speaker",
+        "impelled agent",
+        "project",
+        "entity confronted",
+        "Utterance",
+        "thing given",
+        "applauder",
+        "knower",
+        "legislative body",
+        "entity leaving",
+        "recoverer",
+        "needer",
+        "Agent/Entity Trying",
+        "reader",
+        "experiencer",
+        "User",
+        "doer",
+        "shower",
+        "theme",
+        "entity encountering something",
+        "understander",
+        "misser"
+      ]
+    },
+    {
+      "characterName": "Nixon",
+      "recipients": [
+        "panel",
+        "program",
+        "funding",
+        "presentation",
+        "detector",
+        "sentinels",
+        "threat",
+        "conference",
+        "event",
+        "nation",
+        "curtains",
+        "bunker",
+        "room",
+        "disguise",
+        "monster"
+      ],
+      "verbs": [
+        "convince",
+        "get",
+        "demonstrate",
+        "pull",
+        "have",
+        "protect",
+        "hold",
+        "present",
+        "address",
+        "drop",
+        "flee",
+        "emerge",
+        "mystique",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent/Entity Trying",
+        "convincer",
+        "thing rejected",
+        "receiver",
+        "demonstrator",
+        "puller",
+        "holder",
+        "wanter",
+        "giver",
+        "entity doing the dropping",
+        "addresser",
+        "fleer",
+        "first thing being locked",
+        "thing exiting"
+      ]
+    },
+    {
+      "characterName": "officer",
+      "recipients": [
+        "camp",
+        "tent",
+        "man",
+        "jurisdiction"
+      ],
+      "verbs": [
+        "walk",
+        "find",
+        "have"
+      ],
+      "traits": [
+        "highranking",
+        "Vietnamese"
+      ],
+      "semanticRoles": [
+        "finder",
+        "walker",
+        "Sayer",
+        "informed",
+        "reactor"
+      ]
+    },
+    {
+      "characterName": "Stryker",
+      "recipients": [
+        "whereabouts",
+        "meeting",
+        "Stryker",
+        "powers"
+      ],
+      "verbs": [
+        "ask",
+        "be",
+        "take",
+        "use"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "shower",
+        "corpse",
+        "asker",
+        "thing viewed",
+        "replier",
+        "User"
+      ]
+    },
+    {
+      "characterName": "She",
+      "recipients": [
+        "Stryker",
+        "attempt",
+        "moment",
+        "helmet",
+        "thing",
+        "hero"
+      ],
+      "verbs": [
+        "kill",
+        "make",
+        "knock",
+        "remove",
+        "do",
+        "be"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "beginner",
+        "killer",
+        "owner",
+        "creator",
+        "thing gotten",
+        "substance harvested",
+        "entity removing",
+        "hitter",
+        "Sayer",
+        "action being stopped",
+        "controlled"
+      ]
+    },
+    {
+      "characterName": "mutant",
+      "recipients": [
+        "Havok",
+        "president",
+        "scene",
+        "structure"
+      ],
+      "verbs": [
+        "be",
+        "save",
+        "stand"
+      ],
+      "traits": [
+        "fellow",
+        "bluish"
+      ],
+      "semanticRoles": [
+        "entity saving money",
+        "causal agent"
+      ]
+    },
+    {
+      "characterName": "Hank",
+      "recipients": [
+        "door",
+        "Logan",
+        "Beast",
+        "Paris",
+        "Raven",
+        "Angel",
+        "Erik",
+        "Hank",
+        "serum",
+        "Mystique"
+      ],
+      "verbs": [
+        "answer",
+        "rebuff",
+        "transform",
+        "throw",
+        "be",
+        "stop",
+        "come",
+        "tackle",
+        "get",
+        "find"
+      ],
+      "traits": [
+        "mutant"
+      ],
+      "semanticRoles": [
+        "replier",
+        "rejecter",
+        "thing given",
+        "beginner",
+        "thrower",
+        "walker",
+        "corpse",
+        "experimental subject",
+        "tackler",
+        "action being stopped",
+        "causer of motion",
+        "receiver",
+        "Agent/Entity Trying",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Magneto",
+      "recipients": [
+        "killing",
+        "years",
+        "ability",
+        "whatever",
+        "Beast",
+        "escape",
+        "her",
+        "metal",
+        "facility",
+        "bearings",
+        "vault",
+        "helmet",
+        "stadium",
+        "event",
+        "past",
+        "sentinels",
+        "XJet",
+        "barrier",
+        "room",
+        "foundation",
+        "debris",
+        "Wolverine",
+        "defense",
+        "assault",
+        "back",
+        "door",
+        "cameras",
+        "world",
+        "Magneto"
+      ],
+      "verbs": [
+        "serve",
+        "use",
+        "choose",
+        "restrain",
+        "make",
+        "kill",
+        "rip",
+        "enter",
+        "open",
+        "be",
+        "take",
+        "levitate",
+        "control",
+        "arrive",
+        "drop",
+        "create",
+        "hurl",
+        "stop",
+        "excavate",
+        "aim",
+        "address"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "target of hatred",
+        "worker",
+        "thing kept",
+        "thing broken",
+        "User",
+        "picker",
+        "Agent",
+        "creator",
+        "entity ambushed",
+        "claimer",
+        "killer",
+        "wanter",
+        "noter",
+        "ripper",
+        "entity entering",
+        "opener",
+        "causer of levitation",
+        "controller",
+        "causer of transformation",
+        "injured party",
+        "entity doing the dropping",
+        "entity leaving",
+        "poster",
+        "corpse",
+        "thing in motion",
+        "hurler",
+        "excavator",
+        "aimer",
+        "addresser",
+        "explainer",
+        "speaker",
+        "Sayer",
+        "impelled agent",
+        "beginner",
+        "pacified entity",
+        "thing turning",
+        "fleer",
+        "action allowed"
+      ]
+    },
+    {
+      "characterName": "herself",
+      "recipients": [
+        "secretary",
+        "file",
+        "herself",
+        "Trask",
+        "gun",
+        "threat"
+      ],
+      "verbs": [
+        "ask",
+        "pull",
+        "disguise",
+        "shoot",
+        "drop",
+        "be"
+      ],
+      "traits": [
+        "defiant"
+      ],
+      "semanticRoles": [
+        "entity disguised",
+        "studier",
+        "finder",
+        "puller",
+        "asker",
+        "seducer",
+        "causer of disguise",
+        "beginner",
+        "shooter",
+        "entity doing the dropping",
+        "impelled agent"
+      ]
+    },
+    {
+      "characterName": "official",
+      "recipients": [
+        "Trask",
+        "William_Stryker"
+      ],
+      "verbs": [
+        "get",
+        "like"
+      ],
+      "traits": [
+        "Vietnamese"
+      ],
+      "semanticRoles": [
+        "thing planned",
+        "receiver",
+        "impersonater",
+        "seduced",
+        "liker"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "movieName": "SunsetBlvd.(1950)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Joe",
+      "recipients": [
+        "films",
+        "Sheldrake",
+        "money",
+        "house",
+        "party",
+        "mansion",
+        "returns",
+        "Norma",
+        "facts",
+        "packing",
+        "fear",
+        "discovery",
+        "voiceover"
+      ],
+      "verbs": [
+        "make",
+        "persuade",
+        "borrow",
+        "escape",
+        "call",
+        "leaf",
+        "hide",
+        "begin",
+        "express",
+        "enfold"
+      ],
+      "traits": [
+        "dismayed"
+      ],
+      "semanticRoles": [
+        "creator",
+        "Agent/Entity Trying",
+        "convincer",
+        "borrower",
+        "finder",
+        "student",
+        "entity escaping",
+        "entity leaving",
+        "vehicle or path",
+        "beginner",
+        "speaker"
+      ]
+    },
+    {
+      "characterName": "Gillis",
+      "recipients": [
+        "house",
+        "Norma",
+        "situation",
+        "itself",
+        "films",
+        "Betty_Schaefer",
+        "gigolo",
+        "relationship",
+        "threats"
+      ],
+      "verbs": [
+        "explore",
+        "flatter",
+        "accept",
+        "watch",
+        "let",
+        "meet",
+        "be",
+        "terminate",
+        "live",
+        "inform",
+        "ignore"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "explorer",
+        "agent",
+        "Stimulusr of gratification",
+        "viewer",
+        "acceptor",
+        "beginner",
+        "experiencer",
+        "explainer",
+        "thing hit",
+        "allower",
+        "Agent/Entity Trying",
+        "achiever",
+        "chooser",
+        "alive entity",
+        "informer",
+        "entity leaving",
+        "ignorer"
+      ]
+    },
+    {
+      "characterName": "Norma",
+      "recipients": [
+        "rent",
+        "criticism",
+        "mail",
+        "suicide",
+        "attention",
+        "clothing",
+        "love",
+        "retreats",
+        "Gillis",
+        "room",
+        "Cecil_B",
+        "while",
+        "himself",
+        "series",
+        "script",
+        "sort",
+        "time",
+        "state",
+        "staircase",
+        "speech",
+        "film"
+      ],
+      "verbs": [
+        "pay",
+        "hear",
+        "receive",
+        "have",
+        "lavish",
+        "buy",
+        "fall",
+        "slap",
+        "send",
+        "speak",
+        "undergo",
+        "discover",
+        "insinuate",
+        "break",
+        "slip",
+        "descend",
+        "make"
+      ],
+      "traits": [
+        "welcome",
+        "Norma",
+        "unable"
+      ],
+      "semanticRoles": [
+        "target of gratification",
+        "payer or buyer",
+        "creator",
+        "entity refusing",
+        "buyer",
+        "giver",
+        "agent",
+        "action allowed",
+        "sender",
+        "thinker",
+        "beginner",
+        "talker",
+        "vehicle or path",
+        "applauded",
+        "entertained",
+        "thing found",
+        "place",
+        "entity sucked in",
+        "object of affection",
+        "suggester",
+        "finder",
+        "life",
+        "thing forgotten",
+        "informed",
+        "entity coping",
+        "breaker",
+        "induced agent",
+        "entity descending"
+      ]
+    },
+    {
+      "characterName": "Max",
+      "recipients": [
+        "mansion",
+        "belongings",
+        "fantasy",
+        "studio",
+        "Norma",
+        "Joe"
+      ],
+      "verbs": [
+        "move",
+        "feed",
+        "drive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "mover",
+        "causal agent",
+        "informer",
+        "driver",
+        "student",
+        "insister",
+        "player"
+      ]
+    },
+    {
+      "characterName": "Max_Mayerling",
+      "recipients": [
+        "Norma",
+        "love",
+        "director",
+        "Joe"
+      ],
+      "verbs": [
+        "apologize",
+        "make",
+        "be",
+        "confess",
+        "leave"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "creator",
+        "apologist",
+        "holder",
+        "speaker"
+      ]
+    }
+  ]
+}

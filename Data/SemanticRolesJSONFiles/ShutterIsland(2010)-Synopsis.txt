@@ -1,0 +1,918 @@
+{
+  "movieName": "ShutterIsland(2010)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Rachel",
+      "recipients": [
+        "day",
+        "night",
+        "Island",
+        "fact",
+        "life",
+        "home",
+        "anyone",
+        "therapy",
+        "room",
+        "physician",
+        "Teddy",
+        "imposter"
+      ],
+      "verbs": [
+        "escape",
+        "be",
+        "believe",
+        "encounter",
+        "kill",
+        "attend",
+        "go",
+        "have",
+        "warn",
+        "ask"
+      ],
+      "traits": [
+        "bloody",
+        "other"
+      ],
+      "semanticRoles": [
+        "entity escaping",
+        "Sayer",
+        "entity covering",
+        "pretender",
+        "entity encountering something",
+        "acceptor",
+        "entity refusing",
+        "killer",
+        "entity leaving",
+        "thing attending",
+        "causal agent",
+        "thing found",
+        "Thinker",
+        "Agent",
+        "asker"
+      ]
+    },
+    {
+      "characterName": "Aule",
+      "recipients": [
+        "island",
+        "partners",
+        "things"
+      ],
+      "verbs": [
+        "go",
+        "be",
+        "get",
+        "say"
+      ],
+      "traits": [
+        "unhelpful"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "Sayer",
+        "entity in motion",
+        "new knower",
+        "speaker"
+      ]
+    },
+    {
+      "characterName": "Teddy",
+      "recipients": [
+        "toilet",
+        "window",
+        "Chuck",
+        "legend",
+        "warden",
+        "headache",
+        "records",
+        "Rachel",
+        "note",
+        "morning",
+        "conversations",
+        "advice",
+        "Teddy",
+        "himself",
+        "death",
+        "gun",
+        "spar",
+        "accent",
+        "dislike",
+        "huff",
+        "investigation",
+        "glass",
+        "intention",
+        "night",
+        "interviews",
+        "people",
+        "hospital",
+        "experiments",
+        "one",
+        "name",
+        "prisoner",
+        "sequence",
+        "dream",
+        "crap",
+        "walk",
+        "row",
+        "look",
+        "Noyce",
+        "husband",
+        "girl",
+        "water",
+        "which",
+        "way",
+        "lighthouse",
+        "bottom",
+        "cliff",
+        "cave",
+        "woman",
+        "trauma",
+        "medication",
+        "hands",
+        "road",
+        "Dr",
+        "wife",
+        "island",
+        "car",
+        "guard",
+        "rifle",
+        "beginning",
+        "patient",
+        "kids",
+        "distance",
+        "table",
+        "children",
+        "choice",
+        "fantasy",
+        "reality",
+        "end",
+        "doctors"
+      ],
+      "verbs": [
+        "throw",
+        "look",
+        "talk",
+        "be",
+        "meet",
+        "have",
+        "need",
+        "ask",
+        "do",
+        "left",
+        "give",
+        "wound",
+        "bleed",
+        "slide",
+        "notice",
+        "take",
+        "storm",
+        "end",
+        "break",
+        "bluff",
+        "kill",
+        "mention",
+        "tell",
+        "come",
+        "beat",
+        "find",
+        "demand",
+        "get",
+        "Rachel",
+        "save",
+        "see",
+        "carry",
+        "try",
+        "climb",
+        "reach",
+        "stop",
+        "confront",
+        "leave",
+        "blow",
+        "make",
+        "swim",
+        "sneak",
+        "hold",
+        "believe",
+        "create",
+        "attack",
+        "grab",
+        "shoot",
+        "scoop",
+        "place",
+        "shot",
+        "blame",
+        "continue",
+        "accept",
+        "act",
+        "force"
+      ],
+      "traits": [
+        "ill",
+        "suspicious",
+        "incredulous",
+        "sure",
+        "convincing",
+        "possible",
+        "okay",
+        "intent",
+        "able"
+      ],
+      "semanticRoles": [
+        "thrower",
+        "looker",
+        "Sayer",
+        "talker",
+        "thing known or thought",
+        "achiever",
+        "explainer",
+        "creation",
+        "creator",
+        "needer",
+        "asker",
+        "entity leaving",
+        "giver",
+        "thing given",
+        "Stimulusr of injury",
+        "rememberer",
+        "causer of bloodshed",
+        "entity suffering",
+        "agent",
+        "noticer",
+        "Intentional agent",
+        "breaker",
+        "misleader",
+        "question",
+        "cause",
+        "shower",
+        "Agent/Entity Trying",
+        "thing assigned",
+        "receiver",
+        "thing gotten",
+        "killer",
+        "sent",
+        "suspecter",
+        "speaker",
+        "Speaker",
+        "toucher",
+        "Agent",
+        "Thinker",
+        "wanter",
+        "Utterance",
+        "User",
+        "entity grabbed",
+        "food",
+        "finder",
+        "entity in motion",
+        "new knower",
+        "looked at",
+        "promiser",
+        "thing following",
+        "entity saving money",
+        "viewer",
+        "carrier",
+        "player",
+        "subject",
+        "climber",
+        "thing striving",
+        "entity deceived",
+        "shaker",
+        "substance smoking",
+        "meal",
+        "action being stopped",
+        "confrontational entity",
+        "walker",
+        "wind",
+        "decider",
+        "mover",
+        "operator",
+        "swimmer",
+        "entity sneaking",
+        "holder",
+        "attacker",
+        "denier",
+        "grabber",
+        "shooter",
+        "scooper",
+        "putter",
+        "loved",
+        "blamer",
+        "admitter",
+        "picker",
+        "causer of continuation",
+        "causal agent",
+        "acceptor",
+        "alive entity",
+        "patient",
+        "forcer"
+      ]
+    },
+    {
+      "characterName": "wife",
+      "recipients": [
+        "fire",
+        "Teddy",
+        "lighthouse",
+        "trouble",
+        "help"
+      ],
+      "verbs": [
+        "die",
+        "talk",
+        "tell",
+        "go",
+        "have",
+        "need"
+      ],
+      "traits": [
+        "dead"
+      ],
+      "semanticRoles": [
+        "talker",
+        "corpse",
+        "Speaker",
+        "thing forgotten",
+        "thing viewed",
+        "Sayer",
+        "player",
+        "agent smiling",
+        "projectile",
+        "layer",
+        "needer"
+      ]
+    },
+    {
+      "characterName": "Chuck",
+      "recipients": [
+        "conversation",
+        "Teddy",
+        "warden",
+        "Rachel",
+        "interviews",
+        "island",
+        "grounds",
+        "sanctuary",
+        "Chuck",
+        "basement",
+        "patient",
+        "centre",
+        "file",
+        "way",
+        "Marshal",
+        "agent"
+      ],
+      "verbs": [
+        "bring",
+        "refer",
+        "meet",
+        "ask",
+        "have",
+        "explore",
+        "leave",
+        "find",
+        "catch",
+        "help",
+        "pull",
+        "take",
+        "talk",
+        "be"
+      ],
+      "traits": [
+        "sorry",
+        "superior"
+      ],
+      "semanticRoles": [
+        "bringer",
+        "labeller",
+        "achiever",
+        "asker",
+        "offended",
+        "question",
+        "entity leaving",
+        "explorer",
+        "finder",
+        "alive entity",
+        "Utterance",
+        "art",
+        "thing gotten",
+        "receiver",
+        "helper",
+        "project",
+        "viewer",
+        "sleeper",
+        "User",
+        "puller",
+        "thing pulled",
+        "person doing the cooling",
+        "Sayer",
+        "subject",
+        "talker",
+        "Agent/Entity Trying",
+        "Speaker",
+        "thing viewed",
+        "entity deceived",
+        "entity with a bobbing head"
+      ]
+    },
+    {
+      "characterName": "warden",
+      "recipients": [
+        "Aule",
+        "McPherson",
+        "facility"
+      ],
+      "verbs": [
+        "take",
+        "tell"
+      ],
+      "traits": [
+        "deputy"
+      ],
+      "semanticRoles": [
+        "goal",
+        "Speaker",
+        "Sayer",
+        "agent smiling"
+      ]
+    },
+    {
+      "characterName": "patients",
+      "recipients": [
+        "firearms",
+        "agents",
+        "patients",
+        "Dr",
+        "session",
+        "story"
+      ],
+      "verbs": [
+        "give",
+        "be",
+        "meet",
+        "concoct"
+      ],
+      "traits": [
+        "dangerous",
+        "wandering"
+      ],
+      "semanticRoles": [
+        "entity housed",
+        "thing required",
+        "giver",
+        "Utterance",
+        "receiver",
+        "thing given",
+        "achiever",
+        "thing",
+        "interviewee",
+        "thing gotten",
+        "allower",
+        "Sayer",
+        "User"
+      ]
+    },
+    {
+      "characterName": "McPherson",
+      "recipients": [
+        "argument",
+        "patients",
+        "car",
+        "Hes",
+        "hospital",
+        "packs"
+      ],
+      "verbs": [
+        "require",
+        "tell",
+        "\u0027s",
+        "take",
+        "give"
+      ],
+      "traits": [
+        "deputy"
+      ],
+      "semanticRoles": [
+        "requirer",
+        "Speaker",
+        "giver",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "people",
+      "recipients": [
+        "troublemakers",
+        "guard"
+      ],
+      "verbs": [
+        "be",
+        "attend"
+      ],
+      "traits": [
+        "other",
+        "wrong"
+      ],
+      "semanticRoles": [
+        "thing",
+        "corpse",
+        "entity getting warning",
+        "Utterance",
+        "thing attending"
+      ]
+    },
+    {
+      "characterName": "Cawley",
+      "recipients": [
+        "Teddy",
+        "Chuck",
+        "office",
+        "chair",
+        "fire",
+        "island",
+        "patient",
+        "truth",
+        "Dr",
+        "Cawley",
+        "gun",
+        "everything",
+        "doctors"
+      ],
+      "verbs": [
+        "have",
+        "\u0027s",
+        "Laeddis",
+        "come",
+        "be",
+        "realize",
+        "call",
+        "tell",
+        "show",
+        "erase",
+        "stop"
+      ],
+      "traits": [
+        "superior",
+        "able"
+      ],
+      "semanticRoles": [
+        "Sayer",
+        "thing",
+        "project",
+        "Speaker",
+        "creator",
+        "entity undergoing lobotomy",
+        "thing gotten",
+        "new knower",
+        "thing seen/shown",
+        "shower",
+        "thing given",
+        "eraser"
+      ]
+    },
+    {
+      "characterName": "doctor",
+      "recipients": [
+        "water",
+        "pills",
+        "doctor",
+        "couple",
+        "Hes",
+        "Chuck",
+        "bullets",
+        "guard",
+        "people",
+        "truth",
+        "help",
+        "breakdown",
+        "world",
+        "wife"
+      ],
+      "verbs": [
+        "give",
+        "take",
+        "see",
+        "be",
+        "kill",
+        "tell",
+        "accept",
+        "get",
+        "have",
+        "create",
+        "ask"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "giver",
+        "thing given",
+        "action allowed",
+        "agent",
+        "Sayer",
+        "conjecturer",
+        "viewer",
+        "killer",
+        "asker",
+        "question",
+        "Speaker",
+        "Utterance",
+        "sent",
+        "breaker",
+        "causal agent",
+        "pointer",
+        "thing hit",
+        "shower",
+        "creator",
+        "acceptor",
+        "receiver",
+        "feeler"
+      ]
+    },
+    {
+      "characterName": "children",
+      "recipients": [
+        "rest",
+        "dinner",
+        "table",
+        "kids"
+      ],
+      "verbs": [
+        "tour",
+        "have",
+        "put"
+      ],
+      "traits": [
+        "dead"
+      ],
+      "semanticRoles": [
+        "tourist",
+        "thing put",
+        "thing scooped"
+      ]
+    },
+    {
+      "characterName": "patient",
+      "recipients": [
+        "water",
+        "something",
+        "Aule",
+        "Teddy",
+        "Noyce"
+      ],
+      "verbs": [
+        "get",
+        "tell",
+        "run",
+        "grab"
+      ],
+      "traits": [
+        "mental",
+        "dangerous",
+        "last",
+        "former",
+        "fellow"
+      ],
+      "semanticRoles": [
+        "entity escaping",
+        "receiver",
+        "Speaker",
+        "operator",
+        "causer of choking",
+        "grabber",
+        "entity attacked"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "Chuck",
+        "violence",
+        "men",
+        "army",
+        "board",
+        "facility"
+      ],
+      "verbs": [
+        "offend",
+        "see",
+        "be",
+        "consult",
+        "use"
+      ],
+      "traits": [
+        "violent"
+      ],
+      "semanticRoles": [
+        "offender",
+        "viewer",
+        "operator",
+        "Logical subject",
+        "Sayer",
+        "consulter",
+        "knower",
+        "User"
+      ]
+    },
+    {
+      "characterName": "woman",
+      "recipients": [
+        "something",
+        "Chuck",
+        "interview",
+        "notebook",
+        "Rachel",
+        "doctor",
+        "kids"
+      ],
+      "verbs": [
+        "write",
+        "ask",
+        "grab",
+        "be",
+        "kill"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "grabber",
+        "asker",
+        "thing viewed",
+        "entity committed",
+        "killer",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "Laeddis",
+      "recipients": [
+        "worker",
+        "arsonist",
+        "scar",
+        "lighthouse",
+        "Noyce",
+        "lobotomy",
+        "lot"
+      ],
+      "verbs": [
+        "be",
+        "have",
+        "take",
+        "do"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "planner",
+        "builder"
+      ]
+    },
+    {
+      "characterName": "Hes",
+      "recipients": [
+        "whites",
+        "Hes",
+        "Rachel",
+        "cell",
+        "eyes",
+        "Teddy",
+        "time"
+      ],
+      "verbs": [
+        "like",
+        "take",
+        "find",
+        "go",
+        "open",
+        "look",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "causer of transformation",
+        "liker",
+        "insister",
+        "allower",
+        "finder",
+        "looker",
+        "opener"
+      ]
+    },
+    {
+      "characterName": "guard",
+      "recipients": [
+        "Teddy",
+        "guard",
+        "stairs",
+        "top",
+        "Dr"
+      ],
+      "verbs": [
+        "chew",
+        "ask",
+        "knock",
+        "kill",
+        "run",
+        "get",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "chewer",
+        "asker",
+        "killer",
+        "hitter",
+        "thing hit",
+        "question",
+        "corpse",
+        "operator",
+        "receiver",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Noyce",
+      "recipients": [
+        "wife",
+        "Noyce",
+        "plant",
+        "patient",
+        "what",
+        "name"
+      ],
+      "verbs": [
+        "forget",
+        "yell",
+        "tell",
+        "be",
+        "ask",
+        "say",
+        "call"
+      ],
+      "traits": [
+        "only"
+      ],
+      "semanticRoles": [
+        "Utterance",
+        "forgetter",
+        "entity saving money",
+        "Yeller",
+        "Speaker",
+        "thing gotten",
+        "Sayer",
+        "asker",
+        "question",
+        "thing hit"
+      ]
+    },
+    {
+      "characterName": "They",
+      "recipients": [
+        "woman",
+        "story",
+        "Teddy",
+        "Chuck",
+        "conversation",
+        "Cawley",
+        "roleplay"
+      ],
+      "verbs": [
+        "commit",
+        "concoct",
+        "fool",
+        "have",
+        "begin",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causal agent",
+        "beginner",
+        "trickster",
+        "User",
+        "Agent",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "kids",
+      "recipients": [
+        "Cawley",
+        "therapy",
+        "school",
+        "lake"
+      ],
+      "verbs": [
+        "treat",
+        "use",
+        "be",
+        "`",
+        "look"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "corpse",
+        "Agent/Entity Trying",
+        "User",
+        "assumer of attribute",
+        "looker"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "movieName": "TheGreenMile(1999)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "man",
+      "recipients": [
+        "pieces",
+        "William_Wharton",
+        "child"
+      ],
+      "verbs": [
+        "take",
+        "name",
+        "kill"
+      ],
+      "traits": [
+        "old",
+        "gigantic",
+        "muscular"
+      ],
+      "semanticRoles": [
+        "killer"
+      ]
+    },
+    {
+      "characterName": "Paul",
+      "recipients": [
+        "TV",
+        "movie",
+        "story",
+        "guard",
+        "mindset",
+        "problem",
+        "night",
+        "Percy",
+        "rehearsal",
+        "infection",
+        "pain",
+        "day",
+        "doctor",
+        "cell",
+        "washroom",
+        "morning",
+        "town",
+        "defender",
+        "John",
+        "hope",
+        "prison",
+        "it",
+        "mouse",
+        "Paul",
+        "ultimatum",
+        "Melinda",
+        "Hal",
+        "dinner",
+        "guards",
+        "acts",
+        "John_Coffey",
+        "belief",
+        "God",
+        "leaving",
+        "wife",
+        "Coffey",
+        "request",
+        "beginning",
+        "son",
+        "Elaine",
+        "Mr"
+      ],
+      "verbs": [
+        "watch",
+        "see",
+        "tell",
+        "be",
+        "have",
+        "discuss",
+        "meet",
+        "berate",
+        "do",
+        "instruct",
+        "confront",
+        "suffer",
+        "approach",
+        "visit",
+        "feel",
+        "go",
+        "present",
+        "decide",
+        "put",
+        "leave",
+        "hand",
+        "pick",
+        "give",
+        "invite",
+        "sneak",
+        "talk",
+        "ask",
+        "offer",
+        "mention",
+        "take",
+        "believe"
+      ],
+      "traits": [
+        "elderly",
+        "older",
+        "old"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "walker",
+        "Speaker",
+        "sent",
+        "thing given",
+        "finder",
+        "goal",
+        "theorist",
+        "achiever",
+        "discussant",
+        "yeller",
+        "feeler",
+        "project",
+        "instructor",
+        "confrontational entity",
+        "entity suffering",
+        "entity grabbed",
+        "asker",
+        "one party",
+        "giver",
+        "entity leaving",
+        "decider",
+        "picker",
+        "pointer",
+        "inviter",
+        "entity healed",
+        "wanter",
+        "entity sneaking",
+        "announcer",
+        "talker",
+        "causer of continuing event",
+        "knower",
+        "Sayer",
+        "speaker",
+        "carer",
+        "thing viewed"
+      ]
+    },
+    {
+      "characterName": "John",
+      "recipients": [
+        "Paul",
+        "hand",
+        "Melinda",
+        "connection",
+        "prison",
+        "Percy"
+      ],
+      "verbs": [
+        "grab",
+        "put",
+        "try",
+        "break",
+        "return"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing brought",
+        "grabber",
+        "holder",
+        "allower",
+        "Sayer",
+        "thing given",
+        "Agent/Entity Trying",
+        "helper",
+        "agreer",
+        "horrified entity",
+        "breaker",
+        "causer of continuation",
+        "cougher"
+      ]
+    },
+    {
+      "characterName": "Percy_Wetmore_Doug_Hutchison",
+      "recipients": [
+        "inmate",
+        "frustration",
+        "nephew",
+        "Percy",
+        "administrator",
+        "execution",
+        "mouse",
+        "fury",
+        "connections",
+        "wife",
+        "Wharton",
+        "medication",
+        "terror",
+        "himself",
+        "men",
+        "what",
+        "chair",
+        "Mile",
+        "sponge",
+        "everything",
+        "agreement",
+        "chest",
+        "revolver",
+        "cell"
+      ],
+      "verbs": [
+        "lash",
+        "be",
+        "keep",
+        "put",
+        "witness",
+        "spot",
+        "go",
+        "use",
+        "retrieve",
+        "wet",
+        "threaten",
+        "do",
+        "walk",
+        "soak",
+        "set",
+        "honor",
+        "empty"
+      ],
+      "traits": [
+        "happy",
+        "stupid",
+        "furious",
+        "worth",
+        "catatonic"
+      ],
+      "semanticRoles": [
+        "sent",
+        "tier",
+        "Keeper",
+        "employer",
+        "thing kept",
+        "wanter",
+        "agent",
+        "finder",
+        "yelled at",
+        "carer",
+        "User",
+        "entity grabbed",
+        "patient",
+        "student",
+        "impelled agent",
+        "entity confronted",
+        "entity leaving",
+        "speaker",
+        "receiver",
+        "walker",
+        "cause",
+        "agreer",
+        "honorer",
+        "entity gagged",
+        "talker",
+        "thing released",
+        "causal agent",
+        "causer of leaning",
+        "thing acquired"
+      ]
+    },
+    {
+      "characterName": "John_Coffey",
+      "recipients": [
+        "crime",
+        "mouse",
+        "care",
+        "murderer",
+        "what",
+        "Melinda",
+        "hand",
+        "pain",
+        "show"
+      ],
+      "verbs": [
+        "mention",
+        "take",
+        "ask",
+        "be",
+        "see",
+        "meet",
+        "place",
+        "feel"
+      ],
+      "traits": [
+        "innocent",
+        "excited",
+        "unsure"
+      ],
+      "semanticRoles": [
+        "speaker",
+        "Agent/Entity Trying",
+        "talker",
+        "asker",
+        "entity volunteering",
+        "destination",
+        "entity escaping",
+        "thing wanted",
+        "knower",
+        "viewer",
+        "leader",
+        "achiever",
+        "thing given",
+        "putter",
+        "person convicted",
+        "question",
+        "wanter",
+        "causer of continuation",
+        "wisher",
+        "feeler",
+        "announcer",
+        "thing viewed"
+      ]
+    },
+    {
+      "characterName": "Hal_Moores_James_Cromwell",
+      "recipients": [
+        "Paul",
+        "papers",
+        "conversation"
+      ],
+      "verbs": [
+        "meet",
+        "give",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "giver",
+        "speaker",
+        "Utterance",
+        "other party",
+        "agent",
+        "causer of collapse"
+      ]
+    },
+    {
+      "characterName": "guards",
+      "recipients": [
+        "everything",
+        "room",
+        "mouse",
+        "Del",
+        "hose",
+        "shock",
+        "fool",
+        "Percy"
+      ],
+      "verbs": [
+        "check",
+        "find",
+        "allow",
+        "use",
+        "watch",
+        "make",
+        "confront"
+      ],
+      "traits": [
+        "other"
+      ],
+      "semanticRoles": [
+        "finder",
+        "checker",
+        "allower",
+        "entity attacked",
+        "User",
+        "creator",
+        "agent",
+        "confrontational entity",
+        "invited"
+      ]
+    },
+    {
+      "characterName": "Melinda",
+      "recipients": [
+        "XRay",
+        "tumor",
+        "changes",
+        "memory",
+        "pendant",
+        "Coffey"
+      ],
+      "verbs": [
+        "have",
+        "experience",
+        "lose",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity suffering",
+        "other party",
+        "experiencer",
+        "thing tried",
+        "goal",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "others",
+      "recipients": [
+        "Percy",
+        "rehearsal",
+        "chair",
+        "public",
+        "record"
+      ],
+      "verbs": [
+        "hurt",
+        "do",
+        "prep",
+        "go",
+        "gag",
+        "seize"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "shooter",
+        "agent",
+        "preparer",
+        "Reporter",
+        "thing found",
+        "causer of gagging",
+        "entity afraid"
+      ]
+    },
+    {
+      "characterName": "Del",
+      "recipients": [
+        "mouse",
+        "Mr",
+        "Percy"
+      ],
+      "verbs": [
+        "find",
+        "keep",
+        "delight",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "Keeper",
+        "action allowed",
+        "agent",
+        "place",
+        "giver",
+        "person punished"
+      ]
+    },
+    {
+      "characterName": "William_Wharton",
+      "recipients": [
+        "people",
+        "holdup",
+        "trance",
+        "life",
+        "fury",
+        "Percy",
+        "men"
+      ],
+      "verbs": [
+        "kill",
+        "be",
+        "spring",
+        "take",
+        "grab"
+      ],
+      "traits": [
+        "responsible"
+      ],
+      "semanticRoles": [
+        "killer",
+        "thing gotten",
+        "receiver",
+        "angry entity",
+        "sent",
+        "thing wrapped (e.g.",
+        "spitter",
+        "grabber",
+        "thing carried"
+      ]
+    },
+    {
+      "characterName": "Jingles",
+      "recipients": [
+        "room",
+        "fire",
+        "pain"
+      ],
+      "verbs": [
+        "run",
+        "catch",
+        "roll"
+      ],
+      "traits": [
+        "entire",
+        "horrified"
+      ],
+      "semanticRoles": [
+        "operator",
+        "carer",
+        "receiver",
+        "roller"
+      ]
+    }
+  ]
+}

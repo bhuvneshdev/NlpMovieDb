@@ -1,0 +1,331 @@
+{
+  "movieName": "RaidersoftheLostArk(1981)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "leader",
+      "recipients": [
+        "fragments",
+        "bullwhip",
+        "man"
+      ],
+      "verbs": [
+        "examine",
+        "pull",
+        "disarm"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "examiner",
+        "sent",
+        "entity removing weapons",
+        "puller"
+      ]
+    },
+    {
+      "characterName": "Jones",
+      "recipients": [
+        "antechamber",
+        "stones",
+        "idol",
+        "Jones",
+        "pit",
+        "himself"
+      ],
+      "verbs": [
+        "find",
+        "avoid",
+        "make",
+        "replace",
+        "give",
+        "arrive",
+        "pull",
+        "retrieve"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "creator",
+        "avoider",
+        "replacer",
+        "operator",
+        "thing given",
+        "giver",
+        "thing used",
+        "manager",
+        "puller",
+        "receiver",
+        "fleer"
+      ]
+    },
+    {
+      "characterName": "Indy",
+      "recipients": [
+        "Jock_Fred_Sorenson",
+        "Reggie",
+        "class",
+        "Staff",
+        "promise",
+        "Egypt",
+        "pal",
+        "them",
+        "order",
+        "swordsman",
+        "drink",
+        "sorrows",
+        "shaman",
+        "Marion",
+        "her",
+        "plan",
+        "convoy",
+        "horse",
+        "ceremony",
+        "mayhem",
+        "what"
+      ],
+      "verbs": [
+        "rescue",
+        "find",
+        "teach",
+        "offer",
+        "fly",
+        "see",
+        "fight",
+        "shot",
+        "shoot",
+        "drown",
+        "free",
+        "tell",
+        "pursue",
+        "take",
+        "watch",
+        "withstand",
+        "have"
+      ],
+      "traits": [
+        "pleased",
+        "unimpressed",
+        "shocked",
+        "alive"
+      ],
+      "semanticRoles": [
+        "thing monopolized",
+        "finder",
+        "rescuer",
+        "teacher",
+        "upset entity",
+        "breaker",
+        "new knower",
+        "viewer",
+        "entity attacked",
+        "first fighter",
+        "shooter",
+        "goal",
+        "entity covering",
+        "entity providing freedom",
+        "Agent",
+        "entity sneaking",
+        "entity trapped",
+        "thing hit",
+        "entity escaping",
+        "Speaker",
+        "thing found",
+        "thing following",
+        "wanter",
+        "knower",
+        "entity withstanding",
+        "causative agent",
+        "thing appearing"
+      ]
+    },
+    {
+      "characterName": "Belloq",
+      "recipients": [
+        "statue",
+        "top",
+        "bluff",
+        "threat"
+      ],
+      "verbs": [
+        "take",
+        "climb",
+        "trek",
+        "call",
+        "carry"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing found",
+        "talker",
+        "entity seated",
+        "climber",
+        "entity in motion",
+        "grabber",
+        "thing acquired",
+        "carrier"
+      ]
+    },
+    {
+      "characterName": "Abner_Ravenwood",
+      "recipients": [
+        "friend",
+        "location",
+        "headpiece",
+        "Staff"
+      ],
+      "verbs": [
+        "be",
+        "determine",
+        "need"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "decider",
+        "action allowed",
+        "needer"
+      ]
+    },
+    {
+      "characterName": "officers",
+      "recipients": [
+        "Elliott",
+        "Abner_Ravenwood",
+        "cable"
+      ],
+      "verbs": [
+        "talk",
+        "intercept",
+        "read"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "talker",
+        "wanter",
+        "worried entity",
+        "interceptor",
+        "reader"
+      ]
+    },
+    {
+      "characterName": "Nazis",
+      "recipients": [
+        "Tanis",
+        "top"
+      ],
+      "verbs": [
+        "discover",
+        "trek"
+      ],
+      "traits": [
+        "nowterrified"
+      ],
+      "semanticRoles": [
+        "finder",
+        "action allowed",
+        "project",
+        "thing followed",
+        "User",
+        "Keeper",
+        "causative agent",
+        "entity in motion",
+        "entity attacked"
+      ]
+    },
+    {
+      "characterName": "Ark",
+      "recipients": [
+        "tablets",
+        "what"
+      ],
+      "verbs": [
+        "hold",
+        "contain"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "holder",
+        "construction",
+        "thing in motion",
+        "vehicle or path",
+        "contents",
+        "thing being moved",
+        "container",
+        "thing opening",
+        "thing viewed",
+        "commodity",
+        "entity sealed"
+      ]
+    },
+    {
+      "characterName": "Marion_Ravenwood",
+      "recipients": [
+        "Ronald_Lacey",
+        "restaurant",
+        "bar",
+        "what",
+        "fire",
+        "process",
+        "ship",
+        "ceremony",
+        "mayhem"
+      ],
+      "verbs": [
+        "fly",
+        "run",
+        "know",
+        "open",
+        "seize",
+        "board",
+        "watch",
+        "withstand"
+      ],
+      "traits": [
+        "bitter",
+        "alive"
+      ],
+      "semanticRoles": [
+        "operator",
+        "confrontational entity",
+        "acceptor",
+        "entity attacked",
+        "entity trapped",
+        "logical subject",
+        "object accompanied",
+        "alive entity",
+        "thing found",
+        "knower",
+        "new knower",
+        "intentional cutter",
+        "thing thrown",
+        "opener",
+        "agent",
+        "entity escaping",
+        "passenger",
+        "entity made free",
+        "entity withstanding",
+        "causative agent"
+      ]
+    },
+    {
+      "characterName": "Toht",
+      "recipients": [
+        "bar",
+        "hostage",
+        "headpiece"
+      ],
+      "verbs": [
+        "enter",
+        "hold",
+        "find"
+      ],
+      "traits": [
+        "ready"
+      ],
+      "semanticRoles": [
+        "entity entering",
+        "holder",
+        "finder",
+        "entity escaping"
+      ]
+    }
+  ]
+}
