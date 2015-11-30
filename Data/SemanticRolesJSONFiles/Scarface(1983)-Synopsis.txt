@@ -1,0 +1,616 @@
+{
+  "movieName": "Scarface(1983)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "man",
+      "recipients": [
+        "search",
+        "claims",
+        "May",
+        "asylum",
+        "cars",
+        "trades",
+        "Manny"
+      ],
+      "verbs": [
+        "be",
+        "name",
+        "deal",
+        "contact"
+      ],
+      "traits": [
+        "Cuban",
+        "astute",
+        "wealthy",
+        "wrong"
+      ],
+      "semanticRoles": [
+        "dealer",
+        "contactor",
+        "thing viewed",
+        "corpse",
+        "thing needed",
+        "sleeper",
+        "thing thrown"
+      ]
+    },
+    {
+      "characterName": "Tony",
+      "recipients": [
+        "riot",
+        "Rebenga",
+        "job",
+        "product",
+        "cash",
+        "Tony",
+        "night",
+        "Lpez_Robert_Loggia",
+        "lady",
+        "mother",
+        "back",
+        "life",
+        "nothing",
+        "deal",
+        "Omar",
+        "Frank",
+        "money",
+        "time",
+        "Elvira",
+        "proposal",
+        "return",
+        "conduct",
+        "Gina",
+        "Manny",
+        "office",
+        "none",
+        "control",
+        "prison",
+        "evasion",
+        "group",
+        "board",
+        "officer",
+        "anybody",
+        "man",
+        "patrons",
+        "thoughts",
+        "himself",
+        "obsession",
+        "house",
+        "top",
+        "mansion",
+        "what",
+        "friend",
+        "actions",
+        "love",
+        "gunpoint",
+        "balcony",
+        "state",
+        "position",
+        "staircase",
+        "pool"
+      ],
+      "verbs": [
+        "kill",
+        "receive",
+        "purchase",
+        "give",
+        "confront",
+        "impress",
+        "meet",
+        "show",
+        "turn",
+        "want",
+        "warn",
+        "save",
+        "trust",
+        "explain",
+        "earn",
+        "reply",
+        "seek",
+        "make",
+        "tax",
+        "follow",
+        "berate",
+        "ask",
+        "arrive",
+        "visit",
+        "have",
+        "state",
+        "spiral",
+        "serve",
+        "call",
+        "introduce",
+        "be",
+        "see",
+        "lead",
+        "tell",
+        "inform",
+        "understand",
+        "harbor",
+        "go",
+        "take",
+        "do",
+        "contemplate",
+        "love",
+        "throw",
+        "hear",
+        "snap",
+        "fall"
+      ],
+      "traits": [
+        "little",
+        "own",
+        "civilian",
+        "plus",
+        "disturbed",
+        "protective"
+      ],
+      "semanticRoles": [
+        "item being labelled",
+        "noticed",
+        "killer",
+        "agreer",
+        "achiever",
+        "agent",
+        "[causer of growth - should be possible]",
+        "thing given",
+        "Thing Sold",
+        "purchaser",
+        "impelled agent",
+        "giver",
+        "money",
+        "entity confronted",
+        "confrontational entity",
+        "receiver",
+        "seduced",
+        "shower",
+        "wanter",
+        "turner",
+        "Utterance",
+        "truster",
+        "avoider",
+        "sent",
+        "helper",
+        "entity saving money",
+        "event",
+        "causer of movement",
+        "allower",
+        "Thing thought about",
+        "insister",
+        "thing brought",
+        "deceived",
+        "food",
+        "explainer",
+        "Sayer",
+        "earner",
+        "replier",
+        "animate",
+        "entity leaving",
+        "Agent / entity seeking",
+        "creator",
+        "thing trembling",
+        "entity in motion",
+        "entity proposing",
+        "entity distracted",
+        "causal agent",
+        "yeller",
+        "asker",
+        "manager",
+        "entity escaping",
+        "entity attacked",
+        "one party",
+        "corpse",
+        "first arguer",
+        "beginner",
+        "announcer",
+        "mover",
+        "worker",
+        "Yeller",
+        "entity making introduction",
+        "entity being introduced",
+        "viewer",
+        "leader",
+        "Speaker",
+        "informer",
+        "holder",
+        "understander",
+        "accused",
+        "shooter",
+        "person surprised",
+        "regreter",
+        "new knower",
+        "thinker",
+        "lover",
+        "thrower",
+        "speaker",
+        "Keeper",
+        "thing hit",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Manny",
+      "recipients": [
+        "Mafia",
+        "offer",
+        "job",
+        "car",
+        "henchmen",
+        "Tony",
+        "nick",
+        "wound",
+        "comment",
+        "home",
+        "her",
+        "Frank",
+        "relationship",
+        "secret"
+      ],
+      "verbs": [
+        "receive",
+        "wait",
+        "gun",
+        "save",
+        "arrive",
+        "make",
+        "take",
+        "ward",
+        "visit",
+        "execute",
+        "begin",
+        "keep"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity contacted",
+        "achiever",
+        "agent",
+        "entity saving money",
+        "shooter",
+        "creator",
+        "question",
+        "avoider",
+        "one party",
+        "killer",
+        "beginner",
+        "Keeper",
+        "Sayer",
+        "looker",
+        "informed"
+      ]
+    },
+    {
+      "characterName": "Frank_Lpez",
+      "recipients": [
+        "murder",
+        "hierarchy",
+        "crew",
+        "troubles",
+        "Tony",
+        "millions",
+        "line",
+        "case",
+        "deal",
+        "none",
+        "hitmen",
+        "Bernstein",
+        "involvement",
+        "forgiveness"
+      ],
+      "verbs": [
+        "request",
+        "hire",
+        "have",
+        "chew",
+        "establish",
+        "come",
+        "tell",
+        "negotiate",
+        "warn",
+        "be",
+        "take",
+        "send",
+        "confirm",
+        "beg"
+      ],
+      "traits": [
+        "worried",
+        "tight"
+      ],
+      "semanticRoles": [
+        "employer",
+        "Theme (action or object being prevented)",
+        "approver",
+        "chewer",
+        "agent",
+        "Speaker",
+        "negotiator",
+        "decider",
+        "sender",
+        "other party",
+        "confirmer",
+        "begger",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Chi_Chi",
+      "recipients": [
+        "car",
+        "henchmen",
+        "Tony",
+        "nick",
+        "Frank"
+      ],
+      "verbs": [
+        "wait",
+        "gun",
+        "save",
+        "arrive",
+        "visit"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity saving money",
+        "shooter",
+        "one party",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Hector",
+      "recipients": [
+        "cocaine",
+        "Tony",
+        "Angel"
+      ],
+      "verbs": [
+        "give",
+        "sell",
+        "dismember"
+      ],
+      "traits": [
+        "slow"
+      ],
+      "semanticRoles": [
+        "giver",
+        "Seller",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Gina_Mary_Elizabeth_Mastrantonio",
+      "recipients": [
+        "Miami",
+        "brother",
+        "Tony",
+        "relationship",
+        "anybody"
+      ],
+      "verbs": [
+        "live",
+        "see",
+        "idolize",
+        "follow",
+        "tell",
+        "begin",
+        "date",
+        "surprise",
+        "reveal",
+        "shoot"
+      ],
+      "traits": [
+        "attractive"
+      ],
+      "semanticRoles": [
+        "alive entity",
+        "viewer",
+        "patient",
+        "causal agent",
+        "admirer",
+        "Speaker",
+        "wanter",
+        "courted",
+        "yelled at",
+        "admitter",
+        "beginner",
+        "assigner of date",
+        "thing viewed",
+        "surpriser",
+        "speaker",
+        "new knower",
+        "loved",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "mother",
+      "recipients": [
+        "whom",
+        "Tony",
+        "money",
+        "life"
+      ],
+      "verbs": [
+        "see",
+        "scorn",
+        "accept",
+        "tell",
+        "accuse"
+      ],
+      "traits": [
+        "full"
+      ],
+      "semanticRoles": [
+        "person putting on clothes",
+        "viewer",
+        "scorner",
+        "acceptor",
+        "Speaker",
+        "accuser",
+        "other party",
+        "entity corrupted"
+      ]
+    },
+    {
+      "characterName": "Omar",
+      "recipients": [
+        "deal",
+        "talking",
+        "negotiator",
+        "phone",
+        "informant"
+      ],
+      "verbs": [
+        "set",
+        "do",
+        "be",
+        "use"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "insister",
+        "User",
+        "corpse",
+        "something"
+      ]
+    },
+    {
+      "characterName": "Sosa",
+      "recipients": [
+        "tolerance",
+        "Tony",
+        "betray",
+        "plan",
+        "rest",
+        "line",
+        "Sosa",
+        "crew",
+        "suspect",
+        "revenge",
+        "squad"
+      ],
+      "verbs": [
+        "have",
+        "bring",
+        "warn",
+        "doublecross",
+        "work",
+        "establish",
+        "trick",
+        "need",
+        "be",
+        "send"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Sayer",
+        "viewer",
+        "speaker",
+        "bringer",
+        "agreer",
+        "deceiver",
+        "money or attention",
+        "agent",
+        "entity tricked",
+        "entity making guarantee",
+        "needer",
+        "sender",
+        "promiser",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "himself",
+      "recipients": [
+        "attention",
+        "money",
+        "power",
+        "cop"
+      ],
+      "verbs": [
+        "crave",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "wanter",
+        "Wanter",
+        "utterance",
+        "thing understood",
+        "entity armed"
+      ]
+    },
+    {
+      "characterName": "Bernstein",
+      "recipients": [
+        "Bernstein",
+        "dollars",
+        "Elvira",
+        "ally"
+      ],
+      "verbs": [
+        "help",
+        "have",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "sent",
+        "project",
+        "helper",
+        "insister"
+      ]
+    },
+    {
+      "characterName": "journalist",
+      "recipients": [
+        "corruption",
+        "General_Assembly",
+        "cartel",
+        "children",
+        "wife",
+        "world",
+        "partners"
+      ],
+      "verbs": [
+        "expose",
+        "address",
+        "pick"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "exposer",
+        "person assassinated",
+        "addresser",
+        "picker",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "mercenaries",
+      "recipients": [
+        "guards",
+        "estate",
+        "gate",
+        "mansion",
+        "point"
+      ],
+      "verbs": [
+        "kill",
+        "breach",
+        "attack",
+        "swarm"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "killer",
+        "beginner",
+        "breaker",
+        "the swarmer",
+        "attacker"
+      ]
+    }
+  ]
+}

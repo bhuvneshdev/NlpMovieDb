@@ -1,0 +1,1053 @@
+{
+  "movieName": "SpiritedAway(2001)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Chihiro",
+      "recipients": [
+        "statue",
+        "building",
+        "river",
+        "Jason_Marsden",
+        "buildings",
+        "shes",
+        "Chihiro",
+        "pig",
+        "bridge",
+        "Kamajii_David_Ogden_Stiers",
+        "job",
+        "parents",
+        "stairway",
+        "setup",
+        "lump",
+        "furnace",
+        "shoes",
+        "socks",
+        "elevator",
+        "cigarette",
+        "spell",
+        "work",
+        "contract",
+        "name"
+      ],
+      "verbs": [
+        "see",
+        "find",
+        "get",
+        "meet",
+        "run",
+        "recognize",
+        "think",
+        "turn",
+        "make",
+        "have",
+        "descend",
+        "ask",
+        "haul",
+        "pick",
+        "toss",
+        "leave",
+        "escape",
+        "smoke",
+        "lift",
+        "help",
+        "sign",
+        "be"
+      ],
+      "traits": [
+        "whiny",
+        "small",
+        "known"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "thing given",
+        "impelled agent",
+        "explorer",
+        "entity in motion",
+        "applauder",
+        "finder",
+        "receiver",
+        "entity leaving",
+        "Utterance",
+        "achiever",
+        "operator",
+        "Thinker",
+        "alarm clock",
+        "Speaker",
+        "thing found",
+        "turner",
+        "assured one",
+        "swallower",
+        "thing released",
+        "creator",
+        "thing viewed",
+        "wanter",
+        "helper",
+        "entity descending",
+        "asker",
+        "Keeper",
+        "tosser(s)",
+        "carrier",
+        "picker",
+        "entity scolded",
+        "thanker",
+        "entity escaping",
+        "causer of smoke emission",
+        "thinker",
+        "causer of continuation",
+        "elevator",
+        "question",
+        "project",
+        "causal agent",
+        "signer",
+        "replier"
+      ]
+    },
+    {
+      "characterName": "parents",
+      "recipients": [
+        "turn",
+        "sight",
+        "road",
+        "Chihiro",
+        "pigs",
+        "Sen",
+        "car"
+      ],
+      "verbs": [
+        "take",
+        "follow",
+        "persuade",
+        "be",
+        "scold",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "driver",
+        "causal agent",
+        "looker",
+        "convincer",
+        "turner",
+        "consumer",
+        "thing found",
+        "project",
+        "thing picked",
+        "criticizer",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "road",
+      "recipients": [
+        "tunnel",
+        "Chihiro",
+        "creeps"
+      ],
+      "verbs": [
+        "end",
+        "give"
+      ],
+      "traits": [
+        "decayed",
+        "old",
+        "bumpy"
+      ],
+      "semanticRoles": [
+        "thing following",
+        "Intentional agent",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "boy",
+      "recipients": [
+        "Chihiro",
+        "incantation"
+      ],
+      "verbs": [
+        "assure",
+        "recite",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "causer of assurance",
+        "giver",
+        "speaker",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "bird",
+      "recipients": [
+        "woman",
+        "Sen"
+      ],
+      "verbs": [
+        "look",
+        "enable",
+        "turn"
+      ],
+      "traits": [
+        "smaller",
+        "humanheaded",
+        "identical",
+        "tiny",
+        "buglike"
+      ],
+      "semanticRoles": [
+        "looker",
+        "thing that was locked",
+        "allower",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "woman",
+      "recipients": [
+        "breath",
+        "baby",
+        "mouse",
+        "Yubababird",
+        "bird",
+        "facsimile",
+        "heads",
+        "Zeneba_Suzanne_Pleshette"
+      ],
+      "verbs": [
+        "hold",
+        "turn",
+        "explain"
+      ],
+      "traits": [
+        "young",
+        "shocked"
+      ],
+      "semanticRoles": [
+        "holder",
+        "question",
+        "viewer",
+        "agreer",
+        "looker",
+        "turner",
+        "explainer"
+      ]
+    },
+    {
+      "characterName": "staff",
+      "recipients": [
+        "god",
+        "staff",
+        "tub"
+      ],
+      "verbs": [
+        "greet",
+        "fend",
+        "get",
+        "bring"
+      ],
+      "traits": [
+        "bathhouse"
+      ],
+      "semanticRoles": [
+        "greeter",
+        "REC",
+        "entity getting by",
+        "entity with a nose",
+        "thing surrounding",
+        "receiver",
+        "bringer",
+        "thing brought"
+      ]
+    },
+    {
+      "characterName": "Bob_Bergen",
+      "recipients": [
+        "companion",
+        "handful",
+        "Sen",
+        "floor",
+        "fall"
+      ],
+      "verbs": [
+        "speak",
+        "offer",
+        "approach",
+        "let"
+      ],
+      "traits": [
+        "silent"
+      ],
+      "semanticRoles": [
+        "talker",
+        "cause of surprise",
+        "allower"
+      ]
+    },
+    {
+      "characterName": "frog",
+      "recipients": [
+        "Chihiro",
+        "spirit",
+        "room",
+        "night"
+      ],
+      "verbs": [
+        "see",
+        "saw",
+        "meet",
+        "go"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "thing closing",
+        "thing in a case",
+        "achiever",
+        "meal",
+        "swimmer"
+      ]
+    },
+    {
+      "characterName": "Haku",
+      "recipients": [
+        "Chihiro",
+        "name",
+        "character",
+        "ChihiroSen",
+        "henchman",
+        "Sen",
+        "clothes",
+        "card",
+        "something",
+        "Kamajii",
+        "itself",
+        "seal",
+        "tail",
+        "bird",
+        "form",
+        "shaft",
+        "inside",
+        "part",
+        "bathhouse",
+        "Pleshette",
+        "room",
+        "what",
+        "me",
+        "care",
+        "Yubaba"
+      ],
+      "verbs": [
+        "tell",
+        "know",
+        "say",
+        "show",
+        "assign",
+        "\u0027s",
+        "find",
+        "lead",
+        "give",
+        "try",
+        "go",
+        "cover",
+        "attach",
+        "steal",
+        "snap",
+        "shred",
+        "fall",
+        "bleed",
+        "eat",
+        "change",
+        "appear",
+        "help",
+        "wake",
+        "want",
+        "slice",
+        "take",
+        "fly"
+      ],
+      "traits": [
+        "serious",
+        "ill"
+      ],
+      "semanticRoles": [
+        "User",
+        "Speaker",
+        "Sayer",
+        "knower",
+        "shower",
+        "item being addressed (letter",
+        "agent",
+        "finder",
+        "leader",
+        "giver",
+        "forgetter",
+        "Agent/Entity Trying",
+        "new knowledge",
+        "coverer",
+        "thing led",
+        "causer of bloodshed",
+        "thief",
+        "speaker",
+        "consumer",
+        "first struggler",
+        "causer of transformation",
+        "Thinker",
+        "project",
+        "helper",
+        "thing broken",
+        "alarm clock",
+        "wanter",
+        "replier",
+        "cutter",
+        "controlled",
+        "goal",
+        "entity forgiven",
+        "achiever",
+        "promiser"
+      ]
+    },
+    {
+      "characterName": "Pleshette",
+      "recipients": [
+        "seal",
+        "Haku",
+        "glumly"
+      ],
+      "verbs": [
+        "want",
+        "help",
+        "say"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing turning",
+        "wanter",
+        "Sayer",
+        "helper",
+        "project"
+      ]
+    },
+    {
+      "characterName": "Kamajii_David_Ogden_Stiers",
+      "recipients": [
+        "what",
+        "Kamajii",
+        "sootballs",
+        "Chihiro",
+        "woman",
+        "granddaughter",
+        "home",
+        "tickets",
+        "treasure",
+        "Something"
+      ],
+      "verbs": [
+        "start",
+        "tell",
+        "scold",
+        "ask",
+        "say",
+        "offer",
+        "give",
+        "fly"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing found",
+        "Agent",
+        "Speaker",
+        "Utterance",
+        "Intentional agent",
+        "criticizer",
+        "asker",
+        "Sayer",
+        "thing given",
+        "giver",
+        "finder",
+        "thing covered",
+        "explainer",
+        "sleeper"
+      ]
+    },
+    {
+      "characterName": "name",
+      "recipients": [
+        "Lin_Susan_Egan",
+        "Sen"
+      ],
+      "verbs": [
+        "be",
+        "belong"
+      ],
+      "traits": [
+        "pretty",
+        "real",
+        "Granny_Sen"
+      ],
+      "semanticRoles": [
+        "thing known or thought",
+        "possession",
+        "thing forgotten",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "way",
+      "recipients": [
+        "mask",
+        "robe",
+        "spot"
+      ],
+      "verbs": [
+        "wear",
+        "standing"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing remaining",
+        "creation",
+        "wearer",
+        "causal agent",
+        "machine"
+      ]
+    },
+    {
+      "characterName": "sootballs",
+      "recipients": [
+        "weight",
+        "elevators",
+        "sootballs"
+      ],
+      "verbs": [
+        "collapse",
+        "take",
+        "bring"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity scolded",
+        "Keeper",
+        "causer of collapse",
+        "pretender",
+        "alive entity",
+        "bringer",
+        "thing brought"
+      ]
+    },
+    {
+      "characterName": "Yubaba",
+      "recipients": [
+        "something",
+        "desk",
+        "foolishness",
+        "which",
+        "Sen",
+        "job",
+        "contract",
+        "bird",
+        "balcony",
+        "power",
+        "apartment",
+        "mudpile",
+        "phone",
+        "playroom",
+        "baby",
+        "Haku",
+        "control",
+        "Noface",
+        "world",
+        "test"
+      ],
+      "verbs": [
+        "give",
+        "work",
+        "call",
+        "blame",
+        "lift",
+        "turn",
+        "fly",
+        "exert",
+        "sens",
+        "identify",
+        "assign",
+        "complain",
+        "come",
+        "find",
+        "take",
+        "get",
+        "tell",
+        "want",
+        "return",
+        "tear",
+        "control"
+      ],
+      "traits": [
+        "delighted"
+      ],
+      "semanticRoles": [
+        "giver",
+        "blamer",
+        "agreer",
+        "complainer",
+        "Sayer",
+        "elevator",
+        "turner",
+        "exerciser",
+        "sensor",
+        "caller",
+        "agent",
+        "digger",
+        "finder",
+        "entity leaving",
+        "receiver",
+        "Speaker",
+        "asker",
+        "wanter",
+        "looker",
+        "puller",
+        "controller"
+      ]
+    },
+    {
+      "characterName": "Lin",
+      "recipients": [
+        "spirit",
+        "Lin",
+        "assistant",
+        "clothing",
+        "Sen",
+        "room",
+        "bathhouse",
+        "floor",
+        "today",
+        "tub",
+        "John_Ratzenberger",
+        "bedtime",
+        "employee",
+        "boat",
+        "station"
+      ],
+      "verbs": [
+        "call",
+        "distract",
+        "ask",
+        "give",
+        "take",
+        "wash",
+        "get",
+        "send",
+        "clean",
+        "sit",
+        "turn"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent or Stimulusr",
+        "entity distracted",
+        "asker",
+        "giver",
+        "Sayer",
+        "agent of washing",
+        "receiver",
+        "entity leaving",
+        "sender",
+        "cleaner",
+        "finder",
+        "helper",
+        "payer or buyer",
+        "shower",
+        "implier",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "spirit",
+      "recipients": [
+        "way",
+        "Sen",
+        "spirit",
+        "frog",
+        "voice",
+        "gold",
+        "everything",
+        "uglier",
+        "staffer",
+        "people",
+        "monster"
+      ],
+      "verbs": [
+        "make",
+        "give",
+        "find",
+        "eat",
+        "use",
+        "dispense",
+        "grow",
+        "see",
+        "drop",
+        "be"
+      ],
+      "traits": [
+        "radish",
+        "silent",
+        "stink",
+        "glad",
+        "noface"
+      ],
+      "semanticRoles": [
+        "causal agent",
+        "thing viewed",
+        "creator",
+        "looker",
+        "cause of freedom",
+        "thing cleaned",
+        "finder",
+        "giver",
+        "thing found",
+        "goal",
+        "attractor",
+        "consumer",
+        "User",
+        "[causer of growth - should be possible]",
+        "agent",
+        "viewer",
+        "entity doing the dropping"
+      ]
+    },
+    {
+      "characterName": "Lin_Sen",
+      "recipients": [
+        "smell",
+        "what",
+        "Haku",
+        "dresses",
+        "shoes",
+        "bridge",
+        "way",
+        "night",
+        "clothes",
+        "card",
+        "name",
+        "Sen",
+        "dragon",
+        "Kamajii",
+        "spirit",
+        "they",
+        "staff",
+        "tub",
+        "tokens",
+        "something",
+        "bedtime",
+        "place",
+        "stuff",
+        "piggery",
+        "gift",
+        "doors",
+        "declines",
+        "bird",
+        "Yubaba",
+        "blood",
+        "room",
+        "form",
+        "shaft",
+        "which",
+        "seal",
+        "Sen_let_Lin",
+        "trouble",
+        "Noface",
+        "bit",
+        "conductor",
+        "tickets",
+        "spell",
+        "Zeneba",
+        "test",
+        "ride",
+        "tea",
+        "slug",
+        "parents",
+        "Granny",
+        "crowd",
+        "evaporates",
+        "hand"
+      ],
+      "verbs": [
+        "smell",
+        "say",
+        "wake",
+        "left",
+        "make",
+        "cross",
+        "need",
+        "forget",
+        "look",
+        "realize",
+        "see",
+        "cover",
+        "turn",
+        "take",
+        "clean",
+        "use",
+        "feel",
+        "sit",
+        "ask",
+        "get",
+        "taste",
+        "open",
+        "run",
+        "offer",
+        "unlock",
+        "hear",
+        "show",
+        "go",
+        "fall",
+        "step",
+        "admit",
+        "call",
+        "present",
+        "break",
+        "pass",
+        "let",
+        "give",
+        "apologize",
+        "talk",
+        "help",
+        "meet",
+        "forgive",
+        "tell",
+        "fly",
+        "pick"
+      ],
+      "traits": [
+        "quiet",
+        "careful",
+        "suspicious",
+        "own",
+        "small",
+        "fine"
+      ],
+      "semanticRoles": [
+        "entity with a nose",
+        "creator",
+        "thing given",
+        "asker",
+        "Sayer",
+        "feeler",
+        "entity leaving",
+        "alarm clock",
+        "observer",
+        "crosser",
+        "thing led",
+        "thing found",
+        "rememberer",
+        "forgetter",
+        "needer",
+        "thing forgotten",
+        "speaker",
+        "consumer",
+        "viewer",
+        "new knower",
+        "looker",
+        "turner",
+        "coverer",
+        "question",
+        "thing following",
+        "sent",
+        "entity in motion",
+        "agent or Stimulusr",
+        "thing assigned",
+        "talker",
+        "Agent/Entity Trying",
+        "cleaner",
+        "User",
+        "receiver",
+        "taster",
+        "Speaker",
+        "opener",
+        "operator",
+        "thing viewed",
+        "finder",
+        "noticer",
+        "entity with a key",
+        "action allowed",
+        "shower",
+        "player",
+        "killer",
+        "causer of movement",
+        "agreer",
+        "admitter",
+        "Utterance",
+        "meal",
+        "giver",
+        "breaker",
+        "legislative body",
+        "allower",
+        "inviter",
+        "apologist",
+        "Thinker",
+        "achiever",
+        "helper",
+        "forgiver",
+        "climber",
+        "thing carried",
+        "entity covering",
+        "picker",
+        "entity scolded"
+      ]
+    },
+    {
+      "characterName": "You",
+      "recipients": [
+        "girl",
+        "breath",
+        "home",
+        "right"
+      ],
+      "verbs": [
+        "`",
+        "breathe",
+        "go",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "breather",
+        "thing given",
+        "applauder",
+        "thing gotten",
+        "knower",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "I",
+      "recipients": [
+        "you",
+        "job",
+        "oath",
+        "anybody",
+        "gold"
+      ],
+      "verbs": [
+        "give",
+        "work",
+        "take",
+        "get"
+      ],
+      "traits": [
+        "angry"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "giver",
+        "receiver",
+        "guesser",
+        "needer",
+        "handler",
+        "Thinker"
+      ]
+    },
+    {
+      "characterName": "baby",
+      "recipients": [
+        "arm",
+        "room"
+      ],
+      "verbs": [
+        "break",
+        "eat"
+      ],
+      "traits": [
+        "enormous",
+        "big",
+        "faux"
+      ],
+      "semanticRoles": [
+        "alarm clock",
+        "thing found",
+        "creator",
+        "allower",
+        "agent",
+        "breaker",
+        "thing turning",
+        "consumer",
+        "turner",
+        "thing gotten",
+        "talker",
+        "complainer"
+      ]
+    },
+    {
+      "characterName": "gold",
+      "recipients": [
+        "dirt"
+      ],
+      "verbs": [
+        "turn"
+      ],
+      "traits": [
+        "more"
+      ],
+      "semanticRoles": [
+        "[causer of growth - should be possible]",
+        "beast of burden",
+        "thing ending",
+        "Logical subject",
+        "snatched",
+        "thing given",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "Noface",
+      "recipients": [
+        "people",
+        "Sen",
+        "gold",
+        "remainder",
+        "train",
+        "bathhouse",
+        "frog"
+      ],
+      "verbs": [
+        "swallow",
+        "call",
+        "offer",
+        "eat",
+        "follow",
+        "get",
+        "hurt",
+        "cough"
+      ],
+      "traits": [
+        "lonely",
+        "sure"
+      ],
+      "semanticRoles": [
+        "swallower",
+        "tennant",
+        "[causer of growth - should be possible]",
+        "thing viewed",
+        "thing wanted",
+        "entity leaving",
+        "complainer",
+        "wanter",
+        "consumer",
+        "Sayer",
+        "impelled action",
+        "causal agent",
+        "thing gotten",
+        "receiver",
+        "needer",
+        "agent",
+        "cougher",
+        "agent/cause",
+        "causative agent",
+        "agreer",
+        "question"
+      ]
+    }
+  ]
+}

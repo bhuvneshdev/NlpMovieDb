@@ -1,0 +1,419 @@
+{
+  "movieName": "OnceUponaTimeinAmerica(1984)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "David_Noodles_Aaronson_Robert_De_Niro",
+      "recipients": [
+        "absence",
+        "notice",
+        "rabbi",
+        "summons",
+        "himself",
+        "reburial",
+        "who",
+        "watch",
+        "Max",
+        "leadership",
+        "Capuano",
+        "Bugsy",
+        "heist",
+        "woman",
+        "love",
+        "encounter",
+        "Connelly",
+        "code",
+        "time",
+        "brothel",
+        "exchange",
+        "police",
+        "fact",
+        "fight",
+        "site",
+        "money",
+        "connection",
+        "mansion"
+      ],
+      "verbs": [
+        "NY",
+        "receive",
+        "investigate",
+        "set",
+        "see",
+        "use",
+        "demand",
+        "find",
+        "share",
+        "allow",
+        "retaliate",
+        "hit",
+        "rape",
+        "reveal",
+        "force",
+        "adhere",
+        "get",
+        "join",
+        "tip",
+        "be",
+        "provoke",
+        "show",
+        "suspect",
+        "go"
+      ],
+      "traits": [
+        "suspicious",
+        "angry",
+        "liable",
+        "concerned",
+        "unconvinced",
+        "archaic"
+      ],
+      "semanticRoles": [
+        "Utterance",
+        "beginner",
+        "examiner",
+        "agent",
+        "viewer",
+        "User",
+        "asker",
+        "finder",
+        "admirer",
+        "sharer",
+        "wanter",
+        "secret agent",
+        "thing hit",
+        "thing thrown",
+        "allower",
+        "stabber",
+        "violent entity",
+        "thing picked",
+        "thing released",
+        "assaulter",
+        "thing provoked",
+        "thing wanted",
+        "entity removing",
+        "speaker",
+        "forcer",
+        "agent/causer of adhesion",
+        "Thinker",
+        "receiver",
+        "impelled agent",
+        "cause",
+        "planner",
+        "causer",
+        "shower",
+        "suspecter",
+        "one party",
+        "achiever",
+        "entity refusing",
+        "experiencer"
+      ]
+    },
+    {
+      "characterName": "Max",
+      "recipients": [
+        "watch",
+        "boys",
+        "leadership",
+        "charismatic",
+        "Noodles",
+        "business",
+        "themselves",
+        "system",
+        "idea",
+        "Max",
+        "persona",
+        "exchange",
+        "death",
+        "span",
+        "glimpse"
+      ],
+      "verbs": [
+        "keep",
+        "leaf",
+        "share",
+        "be",
+        "pick",
+        "set",
+        "serve",
+        "like",
+        "join",
+        "create",
+        "fake",
+        "tell",
+        "feel",
+        "catch"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "Keeper",
+        "thing found",
+        "admirer",
+        "creator",
+        "sharer",
+        "thing following",
+        "thing hit",
+        "picker",
+        "agent",
+        "explainer",
+        "operator",
+        "worker",
+        "thing wanted",
+        "entity removing",
+        "liker",
+        "Sayer",
+        "thing gotten",
+        "abandoner",
+        "planner",
+        "first thing being tied",
+        "thing provoked",
+        "thing burning",
+        "faker",
+        "corpse",
+        "Speaker",
+        "feeler",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "boys",
+      "recipients": [
+        "Whitey",
+        "Capuano",
+        "invention",
+        "earnings",
+        "briefcase",
+        "locker"
+      ],
+      "verbs": [
+        "watch",
+        "show",
+        "stash",
+        "rent"
+      ],
+      "traits": [
+        "present"
+      ],
+      "semanticRoles": [
+        "harassed",
+        "place",
+        "victim",
+        "receiver",
+        "money or attention",
+        "creator",
+        "achiever",
+        "shower",
+        "rend-er",
+        "agent",
+        "entity removing",
+        "entity attacked"
+      ]
+    },
+    {
+      "characterName": "policeman",
+      "recipients": [
+        "boys",
+        "Dominic",
+        "Whitey_Noodles",
+        "cop"
+      ],
+      "verbs": [
+        "harass",
+        "stop",
+        "stab"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "botherer",
+        "Agent/Entity Trying",
+        "stabber",
+        "criminal"
+      ]
+    },
+    {
+      "characterName": "Whitey",
+      "recipients": [
+        "boys",
+        "watch",
+        "rooftops",
+        "friend",
+        "work",
+        "Bugsy",
+        "Noodles",
+        "sex"
+      ],
+      "verbs": [
+        "bully",
+        "take",
+        "walk",
+        "see",
+        "pay",
+        "do",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "bully",
+        "walker",
+        "viewer",
+        "causal agent",
+        "payer or buyer",
+        "acquiescer"
+      ]
+    },
+    {
+      "characterName": "gang",
+      "recipients": [
+        "control",
+        "broker",
+        "diamonds",
+        "Pesci",
+        "men",
+        "leader",
+        "assistance",
+        "leaders",
+        "attention",
+        "strike",
+        "scheme",
+        "work",
+        "themselves"
+      ],
+      "verbs": [
+        "be",
+        "rob",
+        "give",
+        "kill",
+        "aid",
+        "offer",
+        "turn",
+        "concoct",
+        "find"
+      ],
+      "traits": [
+        "new"
+      ],
+      "semanticRoles": [
+        "projectile",
+        "robber",
+        "thing wanted",
+        "achiever",
+        "killer",
+        "giver",
+        "agent",
+        "beginner",
+        "helper",
+        "turner",
+        "violent entity",
+        "Utterance",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Deborah",
+      "recipients": [
+        "advances",
+        "distance",
+        "train",
+        "area"
+      ],
+      "verbs": [
+        "ignore",
+        "board",
+        "live"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "ignorer",
+        "passenger",
+        "alive entity"
+      ]
+    },
+    {
+      "characterName": "son",
+      "recipients": [
+        "son",
+        "work",
+        "workers",
+        "officers",
+        "switch"
+      ],
+      "verbs": [
+        "tell",
+        "let",
+        "call",
+        "discover"
+      ],
+      "traits": [
+        "newborn"
+      ],
+      "semanticRoles": [
+        "thing changing",
+        "allower",
+        "Utterance",
+        "Speaker",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Connelly",
+      "recipients": [
+        "California",
+        "Aiello"
+      ],
+      "verbs": [
+        "leave",
+        "spot"
+      ],
+      "traits": [
+        "reluctant"
+      ],
+      "semanticRoles": [
+        "entity leaving",
+        "planner",
+        "victim",
+        "finder",
+        "person doing the closing"
+      ]
+    },
+    {
+      "characterName": "bodyguards",
+      "recipients": [
+        "hospital",
+        "money"
+      ],
+      "verbs": [
+        "celebrate",
+        "make"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "corpse",
+        "honorer",
+        "Thinker",
+        "causer of growth",
+        "creator",
+        "needer"
+      ]
+    },
+    {
+      "characterName": "Rapp",
+      "recipients": [
+        "key",
+        "locker",
+        "station",
+        "inside",
+        "case"
+      ],
+      "verbs": [
+        "retrieve",
+        "find",
+        "go"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "finder"
+      ]
+    }
+  ]
+}

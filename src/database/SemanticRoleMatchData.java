@@ -2,7 +2,7 @@ package database;
 
 import java.util.ArrayList;
 
-public class SemanticRoleMatchData {
+public class SemanticRoleMatchData{
 	public String noun;
 	public ArrayList<String> traits;
 	public ArrayList<String> semanticRoles;
@@ -86,7 +86,7 @@ public class SemanticRoleMatchData {
 	@Override
 	public String toString(){
 		String result = "";
-		result = "NOUN: " + this.noun + " | TRAITS: " + this.traits.toString() + " | SEMANTIC ROLES: " + this.semanticRoles.toString() + " | RECEPIENTS: " + this.recepients.toString() + " | RELATED NOUNS: " + this.relatedNouns.toString() + " | VERBS: " + this.verbs.toString(); 
+		result = "NOUN: " + this.noun + " | TRAITS: " + this.traits.toString() + " | SEMANTIC ROLES: " + this.semanticRoles.toString() + " | RECEPIENTS: " + this.recepients.toString() + " | RELATED NOUNS: " + this.relatedNouns.toString() + " | VERBS: " + this.verbs.toString() + " " + this.weight; 
 		return result;
 	}
 	
@@ -99,5 +99,6 @@ public class SemanticRoleMatchData {
 	public int getWeight(){
 		return this.weight;
 	}
+	
 	
 }

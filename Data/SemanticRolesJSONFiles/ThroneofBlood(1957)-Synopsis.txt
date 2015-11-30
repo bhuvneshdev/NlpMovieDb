@@ -1,0 +1,171 @@
+{
+  "movieName": "ThroneofBlood(1957)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "enemies",
+      "recipients": [
+        "castle",
+        "spirit",
+        "gates"
+      ],
+      "verbs": [
+        "return",
+        "meet",
+        "approach"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity defeated",
+        "achiever",
+        "Utterance",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Washizu",
+      "recipients": [
+        "Washizu",
+        "guards",
+        "shock",
+        "deed",
+        "guard",
+        "chance",
+        "banquet",
+        "decision",
+        "son",
+        "sight",
+        "troops",
+        "enemies"
+      ],
+      "verbs": [
+        "kill",
+        "poison",
+        "return",
+        "slay",
+        "have",
+        "leaf",
+        "tell",
+        "panic",
+        "get"
+      ],
+      "traits": [
+        "unsure",
+        "unable",
+        "confident",
+        "impossible"
+      ],
+      "semanticRoles": [
+        "discussant",
+        "thing handled",
+        "killer",
+        "corpse",
+        "suspicion: what arg0 thinks",
+        "something",
+        "entity leaving",
+        "Utterance",
+        "place",
+        "Speaker",
+        "planner",
+        "beginner",
+        "new knower",
+        "knower",
+        "entity doomed",
+        "receiver",
+        "Agent/Entity Trying",
+        "entity giving in"
+      ]
+    },
+    {
+      "characterName": "wife",
+      "recipients": [
+        "Washizu",
+        "back",
+        "what",
+        "guard"
+      ],
+      "verbs": [
+        "manipulate",
+        "do",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "handler",
+        "Speaker",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "Asaji",
+      "recipients": [
+        "shock",
+        "sword",
+        "murder",
+        "child",
+        "Washizu",
+        "guest"
+      ],
+      "verbs": [
+        "put",
+        "grab",
+        "yell",
+        "bear",
+        "tell"
+      ],
+      "traits": [
+        "pregnant"
+      ],
+      "semanticRoles": [
+        "grabber",
+        "Yeller",
+        "holder",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "son",
+      "recipients": [
+        "what",
+        "friend",
+        "child"
+      ],
+      "verbs": [
+        "say",
+        "bear"
+      ],
+      "traits": [
+        "own"
+      ],
+      "semanticRoles": [
+        "Sayer",
+        "action allowed",
+        "holder",
+        "Utterance",
+        "shower",
+        "entity escaping"
+      ]
+    },
+    {
+      "characterName": "troops",
+      "recipients": [
+        "confidence",
+        "arrows",
+        "master"
+      ],
+      "verbs": [
+        "share",
+        "begin"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "sharer",
+        "viewer",
+        "noticer",
+        "thing gotten",
+        "beginner",
+        "turner"
+      ]
+    }
+  ]
+}

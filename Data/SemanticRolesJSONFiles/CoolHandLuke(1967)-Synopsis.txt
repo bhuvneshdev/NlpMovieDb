@@ -1,0 +1,276 @@
+{
+  "movieName": "CoolHandLuke(1967)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Luke",
+      "recipients": [
+        "prison",
+        "rank",
+        "Army",
+        "truck",
+        "something",
+        "what",
+        "prisoners",
+        "attitude",
+        "streak",
+        "ability",
+        "eggs",
+        "blue",
+        "night",
+        "money",
+        "telegram",
+        "time",
+        "God",
+        "opportunity",
+        "sentence",
+        "Luke",
+        "individual",
+        "church",
+        "window",
+        "warden",
+        "hospital",
+        "antihero",
+        "model",
+        "injustice",
+        "hypocricy"
+      ],
+      "verbs": [
+        "arrive",
+        "bust",
+        "enter",
+        "get",
+        "say",
+        "left",
+        "become",
+        "encourage",
+        "admire",
+        "eat",
+        "decide",
+        "collect",
+        "receive",
+        "escape",
+        "admonish",
+        "beg",
+        "seize",
+        "tell",
+        "be",
+        "go",
+        "ask",
+        "mock",
+        "make",
+        "unmask"
+      ],
+      "traits": [
+        "little"
+      ],
+      "semanticRoles": [
+        "breaker",
+        "entity entering",
+        "receiver",
+        "creator",
+        "Sayer",
+        "giver",
+        "thing hit",
+        "User",
+        "entity leaving",
+        "thing gotten",
+        "thing carried",
+        "thing set",
+        "convincer",
+        "agent or entity competing",
+        "Agent/Entity Trying",
+        "admirer",
+        "consumer",
+        "decider",
+        "entity succeeding",
+        "agent",
+        "entity escaping",
+        "wanter",
+        "persuader",
+        "digger",
+        "impelled agent",
+        "burier",
+        "tormented",
+        "begger",
+        "guard",
+        "thing broken",
+        "thing given",
+        "Utterance",
+        "Speaker",
+        "asker",
+        "projectile",
+        "mocker",
+        "manager",
+        "discloser"
+      ]
+    },
+    {
+      "characterName": "warden",
+      "recipients": [
+        "death",
+        "will",
+        "warden"
+      ],
+      "verbs": [
+        "use",
+        "break",
+        "take"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "reader",
+        "first thing being locked",
+        "User",
+        "claimer",
+        "decider",
+        "breaker",
+        "mocked",
+        "insister",
+        "leader"
+      ]
+    },
+    {
+      "characterName": "Dragline",
+      "recipients": [
+        "leader",
+        "power",
+        "authority",
+        "Luke",
+        "match",
+        "pulp",
+        "bets",
+        "consequences",
+        "guard",
+        "prisoners",
+        "scene"
+      ],
+      "verbs": [
+        "be",
+        "see",
+        "take",
+        "arrange",
+        "have",
+        "pound",
+        "weigh",
+        "attack",
+        "regale"
+      ],
+      "traits": [
+        "respectful"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "builder",
+        "agent",
+        "thing hit",
+        "causer of continuation",
+        "beginner",
+        "decider",
+        "measurer",
+        "wanter",
+        "entity subdued",
+        "attacker"
+      ]
+    },
+    {
+      "characterName": "prisoners",
+      "recipients": [
+        "job",
+        "hours",
+        "vicariously"
+      ],
+      "verbs": [
+        "perform",
+        "earn",
+        "complete",
+        "stop"
+      ],
+      "traits": [
+        "new",
+        "enthusiastic",
+        "other",
+        "fellow",
+        "former"
+      ],
+      "semanticRoles": [
+        "begger",
+        "beginner",
+        "walker",
+        "entity changing",
+        "very good entity",
+        "impelled agent",
+        "thing held",
+        "performer",
+        "earner",
+        "finisher",
+        "letter",
+        "persuaded agent",
+        "entity being entertained"
+      ]
+    },
+    {
+      "characterName": "guards",
+      "recipients": [
+        "spectacle",
+        "will",
+        "Luke"
+      ],
+      "verbs": [
+        "turn",
+        "break",
+        "force"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "challenged (champion?)",
+        "turner",
+        "leader",
+        "decider",
+        "breaker",
+        "forcer",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "God",
+      "recipients": [
+        "warden",
+        "God",
+        "escape"
+      ],
+      "verbs": [
+        "spare",
+        "help"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity spared",
+        "savior",
+        "appealed to",
+        "question",
+        "helper"
+      ]
+    },
+    {
+      "characterName": "guard",
+      "recipients": [
+        "sunglasses",
+        "life"
+      ],
+      "verbs": [
+        "wear",
+        "take",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity attacked",
+        "wearer",
+        "manager",
+        "entity confined",
+        "thing broken",
+        "giver"
+      ]
+    }
+  ]
+}

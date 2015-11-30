@@ -1,0 +1,757 @@
+{
+  "movieName": "SinCity(2005)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Man",
+      "recipients": [
+        "Customer",
+        "morning",
+        "check",
+        "who"
+      ],
+      "verbs": [
+        "approach",
+        "shoot",
+        "cash",
+        "be"
+      ],
+      "traits": [
+        "brutish"
+      ],
+      "semanticRoles": [
+        "shooter",
+        "casher",
+        "Sayer",
+        "thing viewed"
+      ]
+    },
+    {
+      "characterName": "Customer",
+      "recipients": [
+        "Basin_City",
+        "Man",
+        "phone",
+        "elevator"
+      ],
+      "verbs": [
+        "be",
+        "arrange",
+        "get",
+        "see"
+      ],
+      "traits": [
+        "beautiful",
+        "tired"
+      ],
+      "semanticRoles": [
+        "entity in motion",
+        "builder",
+        "projectile",
+        "receiver",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "They",
+      "recipients": [
+        "love",
+        "mother",
+        "night",
+        "alley",
+        "car"
+      ],
+      "verbs": [
+        "fall",
+        "harm",
+        "spend",
+        "meet",
+        "leave"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "talker",
+        "creator",
+        "agent",
+        "achiever",
+        "corpse",
+        "entity leaving",
+        "thing following"
+      ]
+    },
+    {
+      "characterName": "Junior",
+      "recipients": [
+        "Nancy",
+        "day"
+      ],
+      "verbs": [
+        "use",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Theme (action or object being prevented)",
+        "Agent/Entity Trying",
+        "User",
+        "entity assaulted",
+        "patient",
+        "thing following"
+      ]
+    },
+    {
+      "characterName": "Nancy",
+      "recipients": [
+        "Hartigan",
+        "identity",
+        "location",
+        "dancer",
+        "stage",
+        "passionately",
+        "motel"
+      ],
+      "verbs": [
+        "visit",
+        "write",
+        "conceal",
+        "be",
+        "leap",
+        "kiss",
+        "go",
+        "love"
+      ],
+      "traits": [
+        "11yearold",
+        "careful",
+        "beautiful",
+        "nineteen"
+      ],
+      "semanticRoles": [
+        "victim",
+        "corpse",
+        "thing used",
+        "one party",
+        "promiser",
+        "agent",
+        "applauder",
+        "kisser",
+        "lover",
+        "speaker",
+        "entity brutalized",
+        "Utterance",
+        "screamer",
+        "entity whipped"
+      ]
+    },
+    {
+      "characterName": "Hartigan",
+      "recipients": [
+        "force",
+        "heart",
+        "Bob",
+        "Hartigan",
+        "prison",
+        "years",
+        "Nancy",
+        "misshapen",
+        "forces",
+        "bar",
+        "fire",
+        "way",
+        "tone",
+        "noose",
+        "Farm",
+        "leave",
+        "hanging",
+        "himself",
+        "Junior",
+        "home",
+        "police",
+        "suicide"
+      ],
+      "verbs": [
+        "retire",
+        "have",
+        "tell",
+        "finish",
+        "goad",
+        "be",
+        "spend",
+        "receive",
+        "recognize",
+        "lead",
+        "leave",
+        "return",
+        "feel",
+        "hang",
+        "brutalize",
+        "take",
+        "survive",
+        "free",
+        "follow",
+        "send",
+        "wait",
+        "commit"
+      ],
+      "traits": [
+        "good",
+        "disturbed",
+        "late",
+        "reluctant",
+        "alive"
+      ],
+      "semanticRoles": [
+        "Thing thought about",
+        "retiree",
+        "Speaker",
+        "projectile",
+        "Intentional agent",
+        "Thing finishing",
+        "Urger",
+        "thing kept",
+        "thing tried",
+        "other party",
+        "vehicle or path",
+        "student",
+        "thing hit",
+        "applauder",
+        "thing set",
+        "leader",
+        "new knower",
+        "entity leaving",
+        "Agent/Entity Trying",
+        "player",
+        "feeler",
+        "admitter",
+        "speaker",
+        "killer",
+        "thing suspended",
+        "agent",
+        "entity providing freedom",
+        "survivor",
+        "causal agent",
+        "sender",
+        "knower"
+      ]
+    },
+    {
+      "characterName": "Bob",
+      "recipients": [
+        "Bob",
+        "Hartigan",
+        "apartment"
+      ],
+      "verbs": [
+        "stop",
+        "shoot",
+        "meet",
+        "drive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "action being stopped",
+        "Agent/Entity Trying",
+        "thing hit",
+        "Utterance",
+        "shooter",
+        "knower",
+        "Person goaded",
+        "achiever",
+        "apologist",
+        "goal",
+        "driver"
+      ]
+    },
+    {
+      "characterName": "officers",
+      "recipients": [
+        "police",
+        "apartment",
+        "way",
+        "love",
+        "guard"
+      ],
+      "verbs": [
+        "greet",
+        "make",
+        "have",
+        "standing"
+      ],
+      "traits": [
+        "more",
+        "other"
+      ],
+      "semanticRoles": [
+        "creator",
+        "greeter",
+        "corpse",
+        "relenter",
+        "causal agent"
+      ]
+    },
+    {
+      "characterName": "Marv",
+      "recipients": [
+        "man",
+        "violence",
+        "code",
+        "rounds",
+        "sins",
+        "priest",
+        "gun",
+        "house",
+        "consciousness",
+        "Lucille",
+        "cop",
+        "sister",
+        "revenge",
+        "what",
+        "beating",
+        "Kevin",
+        "him",
+        "wolf",
+        "Roark",
+        "head",
+        "surgery",
+        "hospital",
+        "confession",
+        "murder",
+        "Wendy_Goldie"
+      ],
+      "verbs": [
+        "be",
+        "flinch",
+        "life",
+        "have",
+        "make",
+        "confess",
+        "point",
+        "suggest",
+        "kill",
+        "go",
+        "regain",
+        "torture",
+        "explain",
+        "get",
+        "need",
+        "take",
+        "trick",
+        "dismember",
+        "allow",
+        "receive",
+        "spend",
+        "sign",
+        "put",
+        "call"
+      ],
+      "traits": [
+        "surprised",
+        "responsible"
+      ],
+      "semanticRoles": [
+        "enjoyer",
+        "entity flinching",
+        "alive entity",
+        "causer of waking",
+        "entity experiencing confusion",
+        "knower",
+        "thing set",
+        "creator",
+        "speaker",
+        "Utterance",
+        "pointer",
+        "Sayer",
+        "killer",
+        "thing pausing",
+        "entity assaulted",
+        "thing hit",
+        "recoverer",
+        "informed",
+        "torturer",
+        "thing gotten",
+        "question or thing in doubt",
+        "explainer",
+        "receiver",
+        "needer",
+        "deceiver",
+        "meal",
+        "allower",
+        "agent",
+        "entity in motion / \u0027comer\u0027",
+        "signer",
+        "releaser",
+        "other party",
+        "action allowed",
+        "sent"
+      ]
+    },
+    {
+      "characterName": "Goldie",
+      "recipients": [
+        "Marv",
+        "love",
+        "slut",
+        "echelons",
+        "help"
+      ],
+      "verbs": [
+        "come",
+        "profess",
+        "be",
+        "servicing",
+        "go"
+      ],
+      "traits": [
+        "beautiful",
+        "dead"
+      ],
+      "semanticRoles": [
+        "professor",
+        "doer"
+      ]
+    },
+    {
+      "characterName": "police",
+      "recipients": [
+        "way",
+        "Marv",
+        "mob",
+        "corruption",
+        "story",
+        "them"
+      ],
+      "verbs": [
+        "fight",
+        "arrive",
+        "keep",
+        "reveal",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "first fighter",
+        "thing greeted",
+        "thing given",
+        "explainer",
+        "shooter",
+        "agent",
+        "Keeper",
+        "speaker",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Lucille",
+      "recipients": [
+        "police",
+        "Marv",
+        "hand",
+        "death"
+      ],
+      "verbs": [
+        "give",
+        "inform",
+        "cut",
+        "investigate",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "giver",
+        "intentional cutter",
+        "informer",
+        "beginner",
+        "examiner",
+        "Speaker",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Kevin",
+      "recipients": [
+        "Marv",
+        "cannibal",
+        "protege"
+      ],
+      "verbs": [
+        "assault",
+        "knock",
+        "be"
+      ],
+      "traits": [
+        "agile",
+        "close"
+      ],
+      "semanticRoles": [
+        "assaulter",
+        "hitter",
+        "corpse",
+        "thing gotten",
+        "victim"
+      ]
+    },
+    {
+      "characterName": "prostitutes",
+      "recipients": [
+        "store",
+        "Farm",
+        "task",
+        "corpses",
+        "gang",
+        "Jackie_Boy",
+        "mob",
+        "traitor",
+        "fire",
+        "men"
+      ],
+      "verbs": [
+        "go",
+        "drive",
+        "be",
+        "loot",
+        "kill",
+        "keep",
+        "have",
+        "open"
+      ],
+      "traits": [
+        "other",
+        "selfmotivated"
+      ],
+      "semanticRoles": [
+        "buyer",
+        "driver",
+        "meal",
+        "thing gotten",
+        "killer",
+        "causer of continuing event",
+        "looter",
+        "Keeper",
+        "opener"
+      ]
+    },
+    {
+      "characterName": "cop",
+      "recipients": [
+        "Dwight",
+        "cop"
+      ],
+      "verbs": [
+        "follow",
+        "let"
+      ],
+      "traits": [
+        "last"
+      ],
+      "semanticRoles": [
+        "tortured",
+        "confirmer",
+        "causal agent",
+        "allower",
+        "action allowed"
+      ]
+    },
+    {
+      "characterName": "Cardinal_Roark",
+      "recipients": [
+        "murder",
+        "surgery",
+        "grandson",
+        "Roark",
+        "revenge"
+      ],
+      "verbs": [
+        "be",
+        "pay",
+        "give",
+        "put",
+        "get"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "admitter",
+        "corpse",
+        "payer or buyer",
+        "giver",
+        "thing given",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "Jackie_Boy",
+      "recipients": [
+        "Shellie"
+      ],
+      "verbs": [
+        "persuade",
+        "leave"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent/Entity Trying",
+        "convincer",
+        "action allowed",
+        "entity leaving",
+        "Utterance",
+        "corpse",
+        "thing viewed"
+      ]
+    },
+    {
+      "characterName": "Shellie",
+      "recipients": [
+        "friends",
+        "apartment",
+        "Jackie_Boy",
+        "bathroom",
+        "Jack_Rafferty"
+      ],
+      "verbs": [
+        "let",
+        "go",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "allower",
+        "impelled agent",
+        "person in the bathroom",
+        "place"
+      ]
+    },
+    {
+      "characterName": "Dwight",
+      "recipients": [
+        "throat",
+        "razor",
+        "Jackie",
+        "spree",
+        "Dwight_Jackie_Boy",
+        "brakes",
+        "home",
+        "head",
+        "explosives"
+      ],
+      "verbs": [
+        "hold",
+        "sneak",
+        "tell",
+        "end",
+        "follow",
+        "slam",
+        "drive",
+        "exchange",
+        "detonate",
+        "packed"
+      ],
+      "traits": [
+        "rescued"
+      ],
+      "semanticRoles": [
+        "Intentional agent",
+        "holder",
+        "entity sneaking",
+        "Speaker",
+        "knower",
+        "decider",
+        "causal agent",
+        "needer",
+        "finder",
+        "appealed to",
+        "thing given",
+        "entity taunted",
+        "thinker",
+        "thing following",
+        "thrower",
+        "driver",
+        "place",
+        "entity covering",
+        "new knower",
+        "agent",
+        "bomber",
+        "packer"
+      ]
+    },
+    {
+      "characterName": "Miho",
+      "recipients": [
+        "Dwight",
+        "head",
+        "Miho"
+      ],
+      "verbs": [
+        "follow",
+        "retrieve",
+        "kill"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causal agent",
+        "receiver",
+        "killer",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Manute",
+      "recipients": [
+        "trip",
+        "Gail",
+        "Becky",
+        "intention"
+      ],
+      "verbs": [
+        "know",
+        "kidnap",
+        "hold",
+        "announce"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "allower",
+        "knower",
+        "holder",
+        "kidnapper",
+        "announcer"
+      ]
+    },
+    {
+      "characterName": "Bastard",
+      "recipients": [
+        "hail",
+        "car",
+        "They",
+        "Nancy",
+        "Bastard",
+        "head",
+        "pulp"
+      ],
+      "verbs": [
+        "survive",
+        "follow",
+        "crash",
+        "whip",
+        "confront",
+        "beat"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "survivor",
+        "beginner",
+        "causal agent",
+        "causer of damage",
+        "impelled action",
+        "injured party",
+        "causer",
+        "Agent/Entity Trying",
+        "confrontational entity",
+        "entity confronted",
+        "stabber",
+        "corpse",
+        "agent"
+      ]
+    }
+  ]
+}
