@@ -1,0 +1,890 @@
+{
+  "movieName": "ThePrestige(2006)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "trick",
+      "recipients": [
+        "act",
+        "masterpiece",
+        "gadgetry",
+        "trapdoor"
+      ],
+      "verbs": [
+        "be",
+        "involve"
+      ],
+      "traits": [
+        "magic",
+        "disappearing",
+        "transporting",
+        "famous",
+        "Angier",
+        "disappearingbirdinthecage",
+        "new",
+        "dramatic"
+      ],
+      "semanticRoles": [
+        "performance",
+        "thing created",
+        "deed",
+        "thing known or thought",
+        "thing appearing",
+        "original",
+        "thing eliminated"
+      ]
+    },
+    {
+      "characterName": "magician",
+      "recipients": [
+        "magician",
+        "performance",
+        "extreme",
+        "trick"
+      ],
+      "verbs": [
+        "put",
+        "life",
+        "go",
+        "do"
+      ],
+      "traits": [
+        "fellow",
+        "elderly",
+        "Chinese",
+        "old",
+        "front"
+      ],
+      "semanticRoles": [
+        "shower",
+        "alive entity"
+      ]
+    },
+    {
+      "characterName": "Robert_Angier_Hugh_Jackman",
+      "recipients": [
+        "trick",
+        "tank",
+        "rival",
+        "intruder",
+        "hotel",
+        "room",
+        "partners",
+        "wrists",
+        "ankles",
+        "alias",
+        "magician",
+        "Borden",
+        "funeral",
+        "which",
+        "gun",
+        "bullet",
+        "suit",
+        "ideas",
+        "happiness",
+        "love",
+        "stage",
+        "version",
+        "hat",
+        "one",
+        "Olivia",
+        "wigs",
+        "him",
+        "box",
+        "Fallon",
+        "secret",
+        "exchange",
+        "America",
+        "Tesla",
+        "end",
+        "disgust",
+        "England",
+        "machine",
+        "glory"
+      ],
+      "verbs": [
+        "attempt",
+        "fall",
+        "be",
+        "head",
+        "sit",
+        "tie",
+        "use",
+        "watch",
+        "confront",
+        "accept",
+        "put",
+        "shoot",
+        "wear",
+        "debut",
+        "recognize",
+        "get",
+        "spot",
+        "follow",
+        "feel",
+        "copy",
+        "throw",
+        "send",
+        "phase",
+        "nail",
+        "kidnap",
+        "know",
+        "ask",
+        "leaf",
+        "track",
+        "come",
+        "take",
+        "offer",
+        "care"
+      ],
+      "traits": [
+        "difficult",
+        "concerned",
+        "surprised",
+        "disguised",
+        "unable",
+        "double",
+        "remorseless"
+      ],
+      "semanticRoles": [
+        "subject",
+        "User",
+        "Utterance",
+        "asker",
+        "Logical subject",
+        "Sayer",
+        "project",
+        "leader",
+        "guesser",
+        "beginner",
+        "entity planted",
+        "agent",
+        "thinker",
+        "sent",
+        "confrontational entity",
+        "acceptor",
+        "owner",
+        "shooter",
+        "entity in motion",
+        "wanter",
+        "wearer",
+        "causer of appearance",
+        "applauder",
+        "receiver",
+        "lecturer",
+        "finder",
+        "causal agent",
+        "feeler",
+        "Speaker",
+        "speaker",
+        "copyist",
+        "thrower",
+        "walker",
+        "employer",
+        "knower",
+        "sender",
+        "decider",
+        "controlled",
+        "eliminator",
+        "agreer",
+        "thing gotten",
+        "nailer",
+        "kidnapper",
+        "entity leaving",
+        "thing following",
+        "new knower",
+        "thing given",
+        "unifier",
+        "entity covering",
+        "entity confronted",
+        "projectile",
+        "carer",
+        "kicker"
+      ]
+    },
+    {
+      "characterName": "machine",
+      "recipients": [
+        "Borden",
+        "doom"
+      ],
+      "verbs": [
+        "allow",
+        "invite"
+      ],
+      "traits": [
+        "electrical",
+        "giant",
+        "assistant",
+        "own"
+      ],
+      "semanticRoles": [
+        "construction",
+        "allower",
+        "thing used",
+        "examined",
+        "entity refined",
+        "inviter",
+        "thing brought",
+        "thing kept"
+      ]
+    },
+    {
+      "characterName": "we",
+      "recipients": [
+        "audience",
+        "timelines",
+        "Angier",
+        "diary",
+        "prologue"
+      ],
+      "verbs": [
+        "learn",
+        "follow",
+        "saw"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "student",
+        "causal agent",
+        "finder",
+        "visitor",
+        "viewer",
+        "causer of looping"
+      ]
+    },
+    {
+      "characterName": "Alfred_Borden_Christian_Bale",
+      "recipients": [
+        "way",
+        "day",
+        "execution",
+        "Borden",
+        "diary",
+        "welcome",
+        "trick",
+        "knot",
+        "family",
+        "background",
+        "tricks",
+        "magician",
+        "bowl",
+        "minutes",
+        "aunt",
+        "acquaintance",
+        "Julia",
+        "which",
+        "Sarah",
+        "wife",
+        "magic",
+        "secrets",
+        "hand",
+        "fence",
+        "cabinet",
+        "gloves",
+        "version",
+        "Angier",
+        "leg",
+        "items",
+        "loyalty",
+        "place",
+        "word",
+        "secret",
+        "affair",
+        "point",
+        "Fallon",
+        "care",
+        "Olivia",
+        "times",
+        "machine",
+        "idea",
+        "stagehands",
+        "night",
+        "performance",
+        "stage",
+        "anything",
+        "life",
+        "cell",
+        "end",
+        "child",
+        "revenge",
+        "ball",
+        "brother"
+      ],
+      "verbs": [
+        "force",
+        "be",
+        "face",
+        "give",
+        "get",
+        "do",
+        "use",
+        "embarrass",
+        "come",
+        "create",
+        "watch",
+        "admire",
+        "have",
+        "help",
+        "strike",
+        "rety",
+        "put",
+        "tie",
+        "marry",
+        "explain",
+        "quit",
+        "keep",
+        "love",
+        "stop",
+        "rig",
+        "wear",
+        "control",
+        "influence",
+        "break",
+        "humiliate",
+        "plant",
+        "question",
+        "write",
+        "pursue",
+        "instruct",
+        "genuinely",
+        "go",
+        "build",
+        "test",
+        "see",
+        "sneak",
+        "save",
+        "involve",
+        "destroy",
+        "offer",
+        "figure",
+        "learn",
+        "tell"
+      ],
+      "traits": [
+        "afraid",
+        "ambitious",
+        "disguised",
+        "unable",
+        "dismayed"
+      ],
+      "semanticRoles": [
+        "forcer",
+        "looker",
+        "entity in motion",
+        "entity refusing",
+        "thing given",
+        "giver",
+        "receiver",
+        "action allowed",
+        "information",
+        "entity planted",
+        "User",
+        "causer of shame",
+        "wisher",
+        "creator",
+        "claimer",
+        "sent",
+        "agent",
+        "admirer",
+        "Agent/Entity Trying",
+        "helper",
+        "thing viewed",
+        "animate",
+        "entity confronted",
+        "knower",
+        "owner",
+        "causer",
+        "Agent",
+        "explainer",
+        "asker",
+        "projectile",
+        "quitter",
+        "impelled agent",
+        "Keeper",
+        "Sayer",
+        "lover",
+        "admitter",
+        "action being stopped",
+        "applauded",
+        "thing found",
+        "thing following",
+        "manipulator",
+        "causal agent",
+        "wearer",
+        "Utterance",
+        "improver",
+        "controller",
+        "influenced",
+        "influencer",
+        "breaker",
+        "Stimulusr of humiliation",
+        "causer of continuing event",
+        "maker of sounds",
+        "humiliated entity",
+        "putter",
+        "betrayed",
+        "digger",
+        "question",
+        "wanter",
+        "instructor",
+        "builder",
+        "examiner",
+        "entity mystified",
+        "Speaker",
+        "viewer",
+        "entity sneaking",
+        "entity saving money",
+        "criminal",
+        "entity blamed",
+        "thing decorated",
+        "Thinker",
+        "thinker",
+        "student",
+        "subject",
+        "entity leaving",
+        "entity reclaimed",
+        "operator",
+        "entity with a bobbing head"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "magician",
+        "machinery",
+        "Angier",
+        "Borden",
+        "attention",
+        "prestige",
+        "stage",
+        "profile",
+        "machine",
+        "trapdoor",
+        "Man",
+        "line",
+        "wound"
+      ],
+      "verbs": [
+        "be",
+        "build",
+        "get",
+        "\u0027s",
+        "keep",
+        "use",
+        "rig",
+        "create",
+        "mutter",
+        "die"
+      ],
+      "traits": [
+        "disappeared"
+      ],
+      "semanticRoles": [
+        "builder",
+        "creator",
+        "entity selected",
+        "receiver",
+        "thing named",
+        "misser",
+        "Keeper",
+        "User",
+        "manipulator",
+        "knower",
+        "speaker"
+      ]
+    },
+    {
+      "characterName": "Cutter",
+      "recipients": [
+        "engineer",
+        "Jess_Samantha_Mahurin",
+        "what",
+        "judge",
+        "Angier",
+        "Borden",
+        "day",
+        "glass",
+        "bar",
+        "trick",
+        "Fallon",
+        "stage",
+        "idea",
+        "machine",
+        "parts",
+        "Jess_Borden"
+      ],
+      "verbs": [
+        "be",
+        "appear",
+        "confide",
+        "send",
+        "break",
+        "approach",
+        "copy",
+        "get",
+        "kidnap",
+        "run",
+        "bring",
+        "reiterate",
+        "tell"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "utterance",
+        "speaker",
+        "employee",
+        "thing positioned",
+        "sender",
+        "breaker",
+        "new employee",
+        "insister",
+        "copyist",
+        "creator",
+        "Thinker",
+        "receiver",
+        "kidnapper",
+        "operator",
+        "finder",
+        "new knower",
+        "bringer",
+        "announcer",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "diary",
+      "recipients": [
+        "time",
+        "thread",
+        "fake"
+      ],
+      "verbs": [
+        "document",
+        "frame",
+        "be"
+      ],
+      "traits": [
+        "encrypted"
+      ],
+      "semanticRoles": [
+        "thing given",
+        "provider of evidence",
+        "message decoded",
+        "decorator",
+        "creation",
+        "person gloating"
+      ]
+    },
+    {
+      "characterName": "Nikola_Tesla_David_Bowie",
+      "recipients": [
+        "Borden",
+        "machine",
+        "deal",
+        "funding",
+        "Edison",
+        "Tesla",
+        "Colorado",
+        "time",
+        "secret",
+        "keyword",
+        "cat",
+        "Serkis",
+        "hat",
+        "middle",
+        "care",
+        "box"
+      ],
+      "verbs": [
+        "build",
+        "take",
+        "run",
+        "tell",
+        "testing",
+        "zap",
+        "\u0027s",
+        "be",
+        "harm",
+        "refine",
+        "leave",
+        "leaf"
+      ],
+      "traits": [
+        "notorious"
+      ],
+      "semanticRoles": [
+        "thing viewed",
+        "builder",
+        "question",
+        "provider",
+        "agreer",
+        "thing followed",
+        "entity hounded",
+        "operator",
+        "achiever",
+        "entity refusing",
+        "Speaker",
+        "examined",
+        "examiner",
+        "destroyer",
+        "agent",
+        "Thinker",
+        "amazed entity",
+        "knower",
+        "purifier",
+        "causer of continuation",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "manager",
+      "recipients": [
+        "Angier",
+        "promoter",
+        "sight"
+      ],
+      "verbs": [
+        "tell",
+        "demonstrate",
+        "disappear"
+      ],
+      "traits": [
+        "ready",
+        "secretive"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "performer",
+        "demonstrator",
+        "thing becoming visible",
+        "causal agent",
+        "destroyed"
+      ]
+    },
+    {
+      "characterName": "Alley_Andy_Serkis",
+      "recipients": [
+        "gatehouse",
+        "Angier",
+        "satisfaction",
+        "watch",
+        "Borden",
+        "Tesla",
+        "Colorado",
+        "spot",
+        "cat",
+        "hat",
+        "machine"
+      ],
+      "verbs": [
+        "come",
+        "help",
+        "take",
+        "hold",
+        "steal",
+        "testing",
+        "warn",
+        "chain",
+        "refine"
+      ],
+      "traits": [
+        "assistant"
+      ],
+      "semanticRoles": [
+        "helper",
+        "Sayer",
+        "holder",
+        "thief",
+        "examiner",
+        "causer of connection",
+        "amazed entity",
+        "Utterance",
+        "asker",
+        "purifier",
+        "causer of continuation"
+      ]
+    },
+    {
+      "characterName": "assistant",
+      "recipients": [
+        "Tesla",
+        "bombshell",
+        "audience"
+      ],
+      "verbs": [
+        "ask",
+        "be",
+        "come"
+      ],
+      "traits": [
+        "lovely"
+      ],
+      "semanticRoles": [
+        "thing viewed",
+        "asker",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "Fallon",
+      "recipients": [
+        "background",
+        "while",
+        "Borden",
+        "Angier",
+        "fingers",
+        "face"
+      ],
+      "verbs": [
+        "come",
+        "shot",
+        "confront",
+        "shoot",
+        "have"
+      ],
+      "traits": [
+        "last"
+      ],
+      "semanticRoles": [
+        "person kidnapped",
+        "thing gotten",
+        "buried",
+        "shooter",
+        "dealer",
+        "impelled agent",
+        "Utterance",
+        "confrontational entity"
+      ]
+    },
+    {
+      "characterName": "Sarah",
+      "recipients": [
+        "acquaintance",
+        "Borden",
+        "magic",
+        "herself",
+        "workroom"
+      ],
+      "verbs": [
+        "strike",
+        "encourage",
+        "love",
+        "hang"
+      ],
+      "traits": [
+        "happy"
+      ],
+      "semanticRoles": [
+        "animate",
+        "one half",
+        "convincer",
+        "claimer",
+        "Speaker",
+        "lover",
+        "agent",
+        "loved",
+        "entity experiencing confusion",
+        "thing looked at or for or on"
+      ]
+    },
+    {
+      "characterName": "one",
+      "recipients": [
+        "Cutter",
+        "buildup",
+        "context",
+        "man"
+      ],
+      "verbs": [
+        "hire",
+        "sell",
+        "care"
+      ],
+      "traits": [
+        "uneven"
+      ],
+      "semanticRoles": [
+        "employer",
+        "Seller",
+        "entity covered",
+        "carer"
+      ]
+    },
+    {
+      "characterName": "Olivia",
+      "recipients": [
+        "love",
+        "trick",
+        "stumps",
+        "secret",
+        "Borden",
+        "idea",
+        "them",
+        "diary",
+        "future",
+        "Angier"
+      ],
+      "verbs": [
+        "fall",
+        "watch",
+        "see",
+        "get",
+        "work",
+        "be",
+        "like",
+        "tell",
+        "betray",
+        "produce",
+        "have",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "insister",
+        "viewer",
+        "receiver",
+        "secret agent",
+        "sent",
+        "liker",
+        "Speaker",
+        "helper",
+        "betrayer",
+        "entity confronted",
+        "creator",
+        "thing viewed",
+        "knower",
+        "thing used",
+        "giver",
+        "loved"
+      ]
+    },
+    {
+      "characterName": "cat",
+      "recipients": [
+        "hisses",
+        "procedure",
+        "door"
+      ],
+      "verbs": [
+        "like",
+        "run"
+      ],
+      "traits": [
+        "precious",
+        "black",
+        "unharmed"
+      ],
+      "semanticRoles": [
+        "thing used",
+        "entity damaged",
+        "(first) thing being chained",
+        "liker",
+        "mover",
+        "entity made free",
+        "operator"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "movieName": "TheSixthSense(1999)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Malcolm_Crowe",
+      "recipients": [
+        "home",
+        "event",
+        "night",
+        "Crowe",
+        "patient",
+        "fall",
+        "people",
+        "trust",
+        "purpose",
+        "Cole",
+        "wife",
+        "reason"
+      ],
+      "verbs": [
+        "return",
+        "recognize",
+        "treat",
+        "begin",
+        "see",
+        "earn",
+        "find",
+        "suggest",
+        "fulfill",
+        "speak"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "accused",
+        "assumer of attribute",
+        "applauder",
+        "applauded",
+        "projectile",
+        "beginner",
+        "haunted house (eg)",
+        "project",
+        "viewer",
+        "earner",
+        "Thinker",
+        "Agent/Entity Trying",
+        "finder",
+        "Sayer",
+        "entity advised",
+        "Thing ending",
+        "talker",
+        "fulfiller"
+      ]
+    },
+    {
+      "characterName": "Cole",
+      "recipients": [
+        "Crowe",
+        "truth",
+        "Cole",
+        "gun",
+        "room",
+        "father",
+        "box",
+        "Lynn",
+        "mother",
+        "answer",
+        "wife",
+        "world"
+      ],
+      "verbs": [
+        "confide",
+        "tell",
+        "ask",
+        "find",
+        "come",
+        "give",
+        "counsel",
+        "love",
+        "leave"
+      ],
+      "traits": [
+        "delusional",
+        "free"
+      ],
+      "semanticRoles": [
+        "speaker",
+        "Speaker",
+        "Agent/Entity Trying",
+        "decider",
+        "wanter",
+        "action allowed",
+        "obeyer",
+        "entity attacked",
+        "finder",
+        "question",
+        "asker",
+        "talker",
+        "thing given",
+        "giver",
+        "advisor",
+        "lover",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "mother",
+      "recipients": [
+        "child",
+        "back",
+        "Cole",
+        "recital"
+      ],
+      "verbs": [
+        "be",
+        "stay",
+        "believe",
+        "perform"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing seen/shown",
+        "performer",
+        "thing viewed",
+        "Utterance"
+      ]
+    }
+  ]
+}
