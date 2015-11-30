@@ -20,6 +20,11 @@ public class CharacterMatchData {
 		}
 	}
 	
+	public CharacterMatchData(String movieName, int matchCount, int totalCount){
+		this.movieName = movieName;
+		this.matchCount = matchCount;
+		this.totalCount = totalCount;
+	}
 	
 
 }

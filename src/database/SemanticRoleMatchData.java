@@ -9,6 +9,7 @@ public class SemanticRoleMatchData {
 	public ArrayList<String> recepients;
 	public ArrayList<String> relatedNouns;
 	public ArrayList<String> verbs;
+	public int weight;
 	
 	public SemanticRoleMatchData(String noun, ArrayList<String> traits, ArrayList<String> semanticRoles, ArrayList<String> recepients, ArrayList<String> relatedNouns, ArrayList<String> verbs){
 		this.noun =noun;
@@ -27,6 +28,7 @@ public class SemanticRoleMatchData {
 		this.recepients = new ArrayList<String>();
 		this.relatedNouns = new ArrayList<String>();
 		this.verbs = new ArrayList<String>();
+		setWeight();
 	}
 
 
@@ -54,11 +56,48 @@ public class SemanticRoleMatchData {
 		return this.verbs;
 	}
 	
+	
+	//Setters
+	public void setNoun(String noun){
+		this.noun = noun;
+	}
+	
+	public void setTraits(ArrayList<String> traits){
+		this.traits = traits;
+	}
+	
+	public void setSemanticRoles(ArrayList<String> semanticRoles){
+		this.semanticRoles = semanticRoles;
+	}
+	
+	public void setRecepients(ArrayList<String> recipients){
+		this.recepients = recipients;
+	}
+	
+	public void setRelatedNouns(ArrayList<String> relatedNouns){
+		this.relatedNouns = relatedNouns;
+	}
+	
+	public void setVerbs(ArrayList<String> verbs){
+		this.verbs = verbs;
+	}
+	
+	
 	@Override
 	public String toString(){
 		String result = "";
 		result = "NOUN: " + this.noun + " | TRAITS: " + this.traits.toString() + " | SEMANTIC ROLES: " + this.semanticRoles.toString() + " | RECEPIENTS: " + this.recepients.toString() + " | RELATED NOUNS: " + this.relatedNouns.toString() + " | VERBS: " + this.verbs.toString(); 
 		return result;
+	}
+	
+	public void setWeight(){
+		int sum =0;
+		sum = traits.size() + semanticRoles.size() + recepients.size() + verbs.size();
+		this.weight = sum;
+	}
+	
+	public int getWeight(){
+		return this.weight;
 	}
 	
 }
