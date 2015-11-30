@@ -6,6 +6,7 @@ import java.util.Comparator;
 import java.util.HashSet;
 import java.util.Set;
 
+import database.CharacterMatchData;
 import database.EntityMatchData;
 import database.EventSimilarityMatchData;
 import database.NERMatchData;
@@ -18,7 +19,7 @@ public class RankEngine {
 	private static ArrayList<RankingData> rankTable = new ArrayList<RankingData>();
 	
 	public static ArrayList<RankingData> getRankedList(ArrayList<EventSimilarityMatchData> eventTable, 
-			ArrayList<NERMatchData> nerTable , ArrayList<EntityMatchData> entityTable){
+			ArrayList<NERMatchData> nerTable , ArrayList<EntityMatchData> entityTable, ArrayList<CharacterMatchData> characterTable){
 			
 		Set<String> movieList = new HashSet<String>();
 		
@@ -76,10 +77,31 @@ public class RankEngine {
 			}
 		}
 		
+		
+		//Insert rows or data for character
+		
+		for(CharacterMatchData characterRow: characterTable){
+			String movieTitle = characterRow.getMovieName();
+			//Fresh Created Row
+			if(!movieList.contains(movieTitle)){
+				RankingData rankRow = new RankingData();
+				rankRow.setMovieTitle(movieTitle);
+				rankRow.setCharacterScore(characterRow.getScore());
+				rankTable.add(rankRow);
+				movieList.add(movieTitle);
+			}
+			else{
+				int index = getRankTableRowNumber(movieTitle);
+				rankTable.get(index).setCharacterScore(characterRow.getScore());
+			}
+		}
+		
+				
 		for(RankingData row : rankTable){
-			int score = row.getEventScore() + row.getNerScore() + row.getEntityScore();
+			int score = row.getEventScore() + row.getNerScore() + row.getEntityScore() + row.getCharacterScore();
 			row.setTotalScore(score);
 		}
+		
 		//Sorting the Ranking Table
 		Collections.sort(rankTable, new Comparator<RankingData>(){
 		     public int compare(RankingData dataRow1, RankingData dataRow2){

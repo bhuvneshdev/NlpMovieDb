@@ -8,6 +8,7 @@ public class RankingData {
 	int eventScore;
 	int nerScore;
 	int entityScore;
+	int characterScore;
 	int totalScore;
 	
 	public RankingData(){
@@ -15,7 +16,9 @@ public class RankingData {
 		this.entityScore =0;
 		this.nerScore =0;
 		this.eventScore =0;
+		this.characterScore =0;
 		this.totalScore =0;
+		
 	}
 	
 	public void setMovieTitle(String movieTitle){
@@ -33,6 +36,10 @@ public class RankingData {
 	
 	public void setEventScore(int score){
 		this.eventScore = score;
+	}
+	
+	public void setCharacterScore(int score){
+		this.characterScore = score;
 	}
 	
 	public void setTotalScore(int score){
@@ -58,12 +65,16 @@ public class RankingData {
 	public int getEntityScore() {
 		return this.entityScore;
 	}
+	
+	public int getCharacterScore(){
+		return this.characterScore;
+	}
 
 	@Override
 	public String toString(){
 		String result = "";
-		result = this.movieTitle + " : " + this.eventScore + " , " + this.nerScore + " , " + 
-		this.entityScore + " , " + this.totalScore ; 
+		result = this.movieTitle.replace("-Synopsis.txt", "") + " : " + this.eventScore + " , " + this.nerScore + " , " + 
+		this.entityScore + " , " + this.characterScore + " , "+  this.totalScore ; 
 		return result;
 	}
 	

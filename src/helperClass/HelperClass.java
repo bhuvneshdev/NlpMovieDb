@@ -5,6 +5,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
@@ -12,7 +13,12 @@ import java.util.Set;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang3.StringUtils;
 
+import SearchingEngine.EventSimilarity;
+import database.EventSimilarityMatchData;
 import database.SemanticRoleMatchData;
+import edu.cmu.lti.lexical_db.ILexicalDatabase;
+import edu.cmu.lti.lexical_db.NictWordNet;
+import edu.cmu.lti.ws4j.impl.Lin;
 
 public class HelperClass {
 	
@@ -23,6 +29,9 @@ public class HelperClass {
 		System.out.println(fileName);
 	}
 	*/
+	
+	private static ILexicalDatabase db = new NictWordNet();
+	
 	public static ArrayList<String> getAllFileNamesInFolder(String folderPath){
 		ArrayList<String> fileList = new ArrayList<String>();
 		File IBFolder = new File(folderPath);
@@ -89,6 +98,25 @@ public class HelperClass {
 		for(int i=0;i<s1.size();i++){
 			for(int j=0;j<s2.size();j++){
 				if(StringUtils.getJaroWinklerDistance(s1.get(i), s2.get(j)) >= 0.90){
+					System.out.println(s1.get(i)+ "  " + s2.get(j));
+					count++;
+					break;
+				}
+			}
+		}
+		return count;
+	}
+	
+	public static int calScoreBySemanticMeaning(ArrayList<String> s1, ArrayList<String> s2){
+		int count = 0;
+		for(int i=0;i<s1.size();i++){
+			for(int j=0;j<s2.size();j++){
+				String first = s1.get(i);
+				String second = s2.get(j);
+				List<String> firstLemma = EventSimilarity.StanfordLemmatizer(first);
+				List<String> secondLemma = EventSimilarity.StanfordLemmatizer(second);
+				double simScore = new Lin(db).calcRelatednessOfWords(firstLemma.get(0), secondLemma.get(0));
+				if(simScore >= 0.90){
 					System.out.println(s1.get(i)+ "  " + s2.get(j));
 					count++;
 					break;

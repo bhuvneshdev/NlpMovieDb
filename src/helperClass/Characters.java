@@ -13,7 +13,7 @@ public class Characters {
 		for(SemanticRoleMatchData character : allCharacters){
 			int score = character.getRecepients().size() + character.getRelatedNouns().size() + 
 					character.getSemanticRoles().size() + character.getTraits().size() + character.getVerbs().size();
-			if(score >2){
+			if(score >1){
 				filteredCharacters.add(character);
 			}
 		}

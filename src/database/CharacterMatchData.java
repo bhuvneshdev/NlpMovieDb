@@ -26,5 +26,16 @@ public class CharacterMatchData {
 		this.totalCount = totalCount;
 	}
 	
-
+	@Override
+	public String toString(){
+		return this.movieName + "  " + String.valueOf(matchCount)  + ",  " + String.valueOf(totalCount); 
+	}
+	
+	public int getScore(){
+		return (this.matchCount*200)/this.totalCount;
+	}
+	
+	public String getMovieName(){
+		return this.movieName;
+	}
 }
