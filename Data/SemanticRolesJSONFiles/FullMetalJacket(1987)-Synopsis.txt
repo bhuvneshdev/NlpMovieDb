@@ -1,0 +1,306 @@
+{
+  "movieName": "FullMetalJacket(1987)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Hartman",
+      "recipients": [
+        "recruit",
+        "Joker",
+        "muster",
+        "morning",
+        "Virgin_Mary",
+        "atheist",
+        "job",
+        "Hartman",
+        "Pyle",
+        "demands",
+        "insults"
+      ],
+      "verbs": [
+        "give",
+        "ask",
+        "believe",
+        "\u0027s",
+        "promote",
+        "hold",
+        "assign",
+        "confront",
+        "hurl"
+      ],
+      "traits": [
+        "religious"
+      ],
+      "semanticRoles": [
+        "giver",
+        "asker",
+        "causer of continuation",
+        "causer of motion",
+        "decider",
+        "holder",
+        "thing held",
+        "thing impressed",
+        "agent",
+        "entity awake",
+        "confrontational entity",
+        "hurler"
+      ]
+    },
+    {
+      "characterName": "Joker",
+      "recipients": [
+        "Virgin_Mary",
+        "Pyle",
+        "friend",
+        "bunk",
+        "ears",
+        "watch",
+        "Da_Nang",
+        "Joker",
+        "base",
+        "story",
+        "stare",
+        "combat",
+        "commander",
+        "city",
+        "ride",
+        "gunner",
+        "officer",
+        "Cowboy",
+        "squad",
+        "rumor",
+        "Battle",
+        "sniper",
+        "rifle",
+        "sidearm",
+        "Mother"
+      ],
+      "verbs": [
+        "believe",
+        "help",
+        "attack",
+        "cover",
+        "discover",
+        "draw",
+        "calm",
+        "be",
+        "Joker",
+        "get",
+        "have",
+        "\u0027s",
+        "operatingbase",
+        "encounter",
+        "tell",
+        "look",
+        "meet",
+        "follow",
+        "accompany",
+        "find",
+        "drop",
+        "perform",
+        "shoot"
+      ],
+      "traits": [
+        "reluctant",
+        "alive",
+        "glad",
+        "afraid"
+      ],
+      "semanticRoles": [
+        "question",
+        "replier",
+        "causer of continuation",
+        "resister",
+        "thing in motion",
+        "thing given",
+        "helper",
+        "shower",
+        "attacker",
+        "agent",
+        "coverer",
+        "new knower",
+        "viewer",
+        "thing assigned",
+        "finder",
+        "artist",
+        "agent of calming",
+        "begger",
+        "receiver",
+        "wanter",
+        "claimer",
+        "mocked",
+        "knower",
+        "entity encountering something",
+        "Utterance",
+        "looker",
+        "Speaker",
+        "causal agent",
+        "achiever",
+        "Sayer",
+        "(first) thing(s) being unified",
+        "subject accompanier",
+        "entity doing the dropping",
+        "money",
+        "performer",
+        "shooter",
+        "person congratulated",
+        "announcer"
+      ]
+    },
+    {
+      "characterName": "Pyle",
+      "recipients": [
+        "pain",
+        "shapes",
+        "rifle",
+        "interaction",
+        "Cowboy",
+        "breakdown",
+        "mind",
+        "space",
+        "Joker",
+        "recognition",
+        "muzzle",
+        "trigger",
+        "himself"
+      ],
+      "verbs": [
+        "howl",
+        "go",
+        "talk",
+        "respond",
+        "confide",
+        "lose",
+        "stare",
+        "drop",
+        "aim",
+        "lower",
+        "nod",
+        "place",
+        "pull",
+        "kill"
+      ],
+      "traits": [
+        "angry",
+        "insane"
+      ],
+      "semanticRoles": [
+        "project",
+        "agent/cause of wrapping",
+        "howler",
+        "beginner",
+        "replier",
+        "talker",
+        "looker",
+        "speaker",
+        "thing found",
+        "entity becoming calm",
+        "entity confronted",
+        "entity doing the dropping",
+        "entity refusing",
+        "aimer",
+        "entity moving something downward",
+        "entity with a bobbing head",
+        "puller",
+        "killer",
+        "putter"
+      ]
+    },
+    {
+      "characterName": "Rafterman",
+      "recipients": [
+        "evening",
+        "Howard",
+        "ride",
+        "gunner",
+        "squad",
+        "sniper"
+      ],
+      "verbs": [
+        "talk",
+        "accompany",
+        "encounter",
+        "meet",
+        "arrive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "talker",
+        "subject accompanier",
+        "entity encountering something",
+        "achiever",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "people",
+      "recipients": [
+        "people",
+        "unit",
+        "opinion",
+        "experiences"
+      ],
+      "verbs": [
+        "tell",
+        "meet",
+        "share"
+      ],
+      "traits": [
+        "dead"
+      ],
+      "semanticRoles": [
+        "Utterance",
+        "Speaker",
+        "achiever",
+        "corpse",
+        "sharer"
+      ]
+    },
+    {
+      "characterName": "Marines",
+      "recipients": [
+        "soldier",
+        "services",
+        "Joker",
+        "distance"
+      ],
+      "verbs": [
+        "offer",
+        "congratulate"
+      ],
+      "traits": [
+        "resting",
+        "remaining",
+        "other"
+      ],
+      "semanticRoles": [
+        "other party",
+        "expresser",
+        "agent walking"
+      ]
+    },
+    {
+      "characterName": "Mother",
+      "recipients": [
+        "command",
+        "Mother",
+        "language",
+        "mercy"
+      ],
+      "verbs": [
+        "assume",
+        "put",
+        "pray",
+        "allow"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "declarer",
+        "pray-er",
+        "beginner",
+        "allower",
+        "decider",
+        "projectile"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,693 @@
+{
+  "movieName": "TheGeneral(1926)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "boys",
+      "recipients": [
+        "engineer",
+        "Gray",
+        "right",
+        "house"
+      ],
+      "verbs": [
+        "observe",
+        "follow"
+      ],
+      "traits": [
+        "admiring"
+      ],
+      "semanticRoles": [
+        "observer",
+        "causal agent",
+        "entity tricked",
+        "entity leaving",
+        "thing gotten"
+      ]
+    },
+    {
+      "characterName": "Gray",
+      "recipients": [
+        "Gray",
+        "boys",
+        "Annabelle",
+        "engine"
+      ],
+      "verbs": [
+        "go",
+        "trick",
+        "get",
+        "present"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing following",
+        "receiver",
+        "deceiver",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Annabelle",
+      "recipients": [
+        "Johnnie",
+        "kiss",
+        "money",
+        "trunk",
+        "line",
+        "rest",
+        "tender",
+        "water",
+        "fire",
+        "log",
+        "cab",
+        "Annabelle",
+        "engine",
+        "rail",
+        "middle",
+        "themselves",
+        "father"
+      ],
+      "verbs": [
+        "expect",
+        "give",
+        "retrieve",
+        "uncouple",
+        "get",
+        "do",
+        "show",
+        "feed",
+        "see",
+        "toss",
+        "reject",
+        "sweep",
+        "kiss",
+        "start",
+        "knock",
+        "move",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing given",
+        "expecter",
+        "giver",
+        "Speaker",
+        "fusser",
+        "receiver",
+        "thing found",
+        "first thing being tied",
+        "thing rising",
+        "thing brought",
+        "first thing being locked",
+        "thing led",
+        "thing gotten",
+        "logical subject",
+        "container",
+        "thing striving",
+        "shower",
+        "thing hit",
+        "causal agent",
+        "tosser(s)",
+        "viewer",
+        "rejecter",
+        "kisser",
+        "kissed",
+        "Agent",
+        "goal",
+        "action allowed",
+        "hitter",
+        "mover",
+        "pointer",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "line",
+        "Johnnie",
+        "pistol",
+        "belt",
+        "army"
+      ],
+      "verbs": [
+        "invite",
+        "find",
+        "follow",
+        "strap"
+      ],
+      "traits": [
+        "wounded",
+        "Annabelle"
+      ],
+      "semanticRoles": [
+        "signer",
+        "inviter",
+        "Thinker",
+        "thing viewed",
+        "fastener",
+        "finder",
+        "causal agent"
+      ]
+    },
+    {
+      "characterName": "Johnnie",
+      "recipients": [
+        "edge",
+        "shortcut",
+        "counter",
+        "times",
+        "disgrace",
+        "uniform",
+        "Johnnie",
+        "handcar",
+        "bicycle",
+        "Kingston",
+        "help",
+        "pin",
+        "flatcar",
+        "mortar",
+        "car",
+        "shower",
+        "handful",
+        "cannonball",
+        "cab",
+        "shot",
+        "canister",
+        "unstuck",
+        "boxcar",
+        "siding",
+        "timbers",
+        "engine",
+        "cowcatcher",
+        "end",
+        "time",
+        "dirt",
+        "deck",
+        "army",
+        "soldiers",
+        "table",
+        "food",
+        "number",
+        "sentry",
+        "window",
+        "Annabelle",
+        "forest",
+        "locomotive",
+        "morning",
+        "sack",
+        "bag",
+        "line",
+        "eyes",
+        "rope",
+        "tender",
+        "difficulty",
+        "rails",
+        "wall",
+        "pursuers",
+        "pistol",
+        "valve",
+        "spout",
+        "log",
+        "broom",
+        "fire",
+        "chain",
+        "middle",
+        "firewood",
+        "river",
+        "picket",
+        "Headquarters",
+        "officers",
+        "themselves",
+        "officer",
+        "gestures",
+        "battery",
+        "firing",
+        "artillerymen",
+        "flag",
+        "rock",
+        "General",
+        "salute",
+        "hand"
+      ],
+      "verbs": [
+        "back",
+        "run",
+        "try",
+        "be",
+        "follow",
+        "get",
+        "fall",
+        "see",
+        "leap",
+        "shout",
+        "pull",
+        "load",
+        "roll",
+        "return",
+        "prepare",
+        "put",
+        "push",
+        "slow",
+        "use",
+        "stop",
+        "start",
+        "throw",
+        "arrive",
+        "retreat",
+        "divert",
+        "notice",
+        "take",
+        "hide",
+        "knock",
+        "steal",
+        "climb",
+        "lead",
+        "empty",
+        "stuff",
+        "join",
+        "cover",
+        "tie",
+        "chop",
+        "search",
+        "find",
+        "have",
+        "open",
+        "replace",
+        "believe",
+        "toss",
+        "pick",
+        "uncouple",
+        "fasten",
+        "meet",
+        "stick",
+        "pour",
+        "hail",
+        "wear",
+        "warn",
+        "imitate",
+        "stand",
+        "yank",
+        "direct",
+        "save",
+        "mount",
+        "go",
+        "escort",
+        "hand",
+        "remove",
+        "kiss",
+        "pump"
+      ],
+      "traits": [
+        "valuable",
+        "busy",
+        "able"
+      ],
+      "semanticRoles": [
+        "Sayer",
+        "thing expected",
+        "signer",
+        "thing given",
+        "supporter",
+        "operator",
+        "thing rejected",
+        "understander",
+        "Agent/Entity Trying",
+        "thing kicked",
+        "invited",
+        "viewer",
+        "causal agent",
+        "thing following",
+        "receiver",
+        "shouter",
+        "puller",
+        "thing viewed",
+        "loader",
+        "roller",
+        "pusher",
+        "thinker",
+        "causer of deceleration",
+        "agent",
+        "User",
+        "Agent",
+        "thrower",
+        "noticer",
+        "retreater",
+        "Stimulusr of turning",
+        "entity crouching",
+        "legislative body",
+        "climber",
+        "thief",
+        "hitter",
+        "leader",
+        "decider",
+        "Keeper",
+        "packer",
+        "new knower",
+        "finder",
+        "coverer",
+        "fearful entity",
+        "chopper",
+        "searcher",
+        "helper",
+        "entity leaving",
+        "thing seen/shown",
+        "demonstrator",
+        "thing hit",
+        "opener",
+        "replacer",
+        "tosser(s)",
+        "picker",
+        "causer of connection",
+        "attempter",
+        "achiever",
+        "action allowed",
+        "entity trapped",
+        "gun/projectile",
+        "wearer",
+        "causer of transformation",
+        "place",
+        "thing strapped",
+        "imitator",
+        "director",
+        "entity saving money",
+        "remover",
+        "object accompanied",
+        "subject accompanier",
+        "giver",
+        "entity removing",
+        "kisser",
+        "pumper",
+        "repositioner"
+      ]
+    },
+    {
+      "characterName": "Anderson",
+      "recipients": [
+        "plan",
+        "uniform",
+        "look"
+      ],
+      "verbs": [
+        "hatch",
+        "unpack",
+        "remove",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causal agent",
+        "receiver",
+        "unpacker",
+        "first fighter",
+        "entity removing",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "army",
+      "recipients": [
+        "day",
+        "Confederates",
+        "bridge",
+        "rendezvous",
+        "retreat",
+        "town"
+      ],
+      "verbs": [
+        "attack",
+        "approach",
+        "retreat",
+        "march"
+      ],
+      "traits": [
+        "Confederate",
+        "whole",
+        "victorious"
+      ],
+      "semanticRoles": [
+        "noticed",
+        "legislative body",
+        "attacker",
+        "thing led",
+        "thing following",
+        "person surprised",
+        "retreater",
+        "agent walking"
+      ]
+    },
+    {
+      "characterName": "train",
+      "recipients": [
+        "father",
+        "Marietta",
+        "Shanty"
+      ],
+      "verbs": [
+        "enginehouse",
+        "stop"
+      ],
+      "traits": [
+        "second"
+      ],
+      "semanticRoles": [
+        "thing stolen",
+        "agent",
+        "Agent",
+        "action being stopped"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "engine",
+        "pin",
+        "Annabelle",
+        "river"
+      ],
+      "verbs": [
+        "start",
+        "remove",
+        "take",
+        "discover",
+        "ford"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "Agent",
+        "entity removing",
+        "finder",
+        "entity in motion"
+      ]
+    },
+    {
+      "characterName": "spies",
+      "recipients": [
+        "wires",
+        "guardrail",
+        "stones",
+        "Johnnie"
+      ],
+      "verbs": [
+        "cut",
+        "remove",
+        "see"
+      ],
+      "traits": [
+        "outnumbered"
+      ],
+      "semanticRoles": [
+        "intentional cutter",
+        "entity removing",
+        "viewer",
+        "puller",
+        "chopper",
+        "thing hit"
+      ]
+    },
+    {
+      "characterName": "General",
+      "recipients": [
+        "trestle",
+        "army",
+        "coat",
+        "General",
+        "Annabelle"
+      ],
+      "verbs": [
+        "pass",
+        "lead",
+        "give",
+        "pose"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causer of fast motion",
+        "legislative body",
+        "leader",
+        "Sayer",
+        "giver",
+        "thing given",
+        "impelled agent (often subsumed into arg0",
+        "player"
+      ]
+    },
+    {
+      "characterName": "Yanks",
+      "recipients": [
+        "water",
+        "boxcar",
+        "switch",
+        "track",
+        "cab",
+        "Annabelle",
+        "fire",
+        "chase",
+        "wall",
+        "couple"
+      ],
+      "verbs": [
+        "stop",
+        "release",
+        "throw",
+        "lift",
+        "start",
+        "give",
+        "clear",
+        "plan"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "releaser",
+        "elevator",
+        "thrower",
+        "Agent",
+        "giver",
+        "cleaner",
+        "planner",
+        "receiver",
+        "goal"
+      ]
+    },
+    {
+      "characterName": "shot",
+      "recipients": [
+        "Texas",
+        "river",
+        "car"
+      ],
+      "verbs": [
+        "miss",
+        "land",
+        "derail"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "misser",
+        "bomber",
+        "bringer",
+        "thing directed",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "boxcar",
+      "recipients": [
+        "Johnnie"
+      ],
+      "verbs": [
+        "get"
+      ],
+      "traits": [
+        "rear"
+      ],
+      "semanticRoles": [
+        "thing released",
+        "thing pushed",
+        "receiver",
+        "agent",
+        "entity derailed",
+        "beast of burden",
+        "thing changing"
+      ]
+    },
+    {
+      "characterName": "they",
+      "recipients": [
+        "fire",
+        "bear",
+        "place",
+        "cab",
+        "water",
+        "siding",
+        "boxcar",
+        "Yanks",
+        "switch"
+      ],
+      "verbs": [
+        "leave",
+        "encounter",
+        "stay",
+        "scramble",
+        "switch",
+        "meet"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "entity encountering something",
+        "Agent",
+        "attempter",
+        "causer of transformation",
+        "causer of falling",
+        "achiever"
+      ]
+    },
+    {
+      "characterName": "them",
+      "recipients": [
+        "trains",
+        "bridge",
+        "way",
+        "pole"
+      ],
+      "verbs": [
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "planner",
+        "thing gotten",
+        "impelled agent",
+        "retreater"
+      ]
+    },
+    {
+      "characterName": "officers",
+      "recipients": [
+        "pursuit",
+        "switch",
+        "Marietta"
+      ],
+      "verbs": [
+        "continue",
+        "fix",
+        "pull"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "entity drenched",
+        "thing hit",
+        "causer of continuation",
+        "thinker",
+        "agent",
+        "dealer",
+        "puller",
+        "Agent/Entity Trying"
+      ]
+    }
+  ]
+}

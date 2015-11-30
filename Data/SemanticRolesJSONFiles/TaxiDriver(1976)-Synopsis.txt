@@ -1,0 +1,332 @@
+{
+  "movieName": "TaxiDriver(1976)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Travis_Bickle",
+      "recipients": [
+        "depot",
+        "job",
+        "officer",
+        "man",
+        "apartment",
+        "Street",
+        "driving",
+        "Betsy",
+        "nerve",
+        "Palantine",
+        "aide",
+        "thing",
+        "theater",
+        "building",
+        "woman",
+        "interest",
+        "thief",
+        "face",
+        "scene",
+        "robbery",
+        "time",
+        "sex",
+        "Iris",
+        "day",
+        "window",
+        "note",
+        "Sport",
+        "suck",
+        "bouncer",
+        "Marine",
+        "letter"
+      ],
+      "verbs": [
+        "go",
+        "apply",
+        "be",
+        "spend",
+        "spy",
+        "work",
+        "intrigue",
+        "pick",
+        "\u0027s",
+        "take",
+        "park",
+        "look",
+        "develop",
+        "shoot",
+        "flee",
+        "walk",
+        "pay",
+        "have",
+        "convince",
+        "meet",
+        "write",
+        "say",
+        "unload",
+        "kill",
+        "stab",
+        "receive",
+        "return"
+      ],
+      "traits": [
+        "bloodsoaked"
+      ],
+      "semanticRoles": [
+        "applier",
+        "claimer",
+        "utterance",
+        "one participant",
+        "secret agent",
+        "agent",
+        "Revolted against",
+        "driver",
+        "haunted house (eg)",
+        "thing given",
+        "picker",
+        "question",
+        "replier",
+        "Utterance",
+        "parker",
+        "looker",
+        "walker",
+        "shooter",
+        "impelled agent",
+        "fleer",
+        "asker",
+        "sent",
+        "payer or buyer",
+        "Agent/Entity Trying",
+        "convincer",
+        "achiever",
+        "announcer",
+        "Sayer",
+        "thing following",
+        "projectile",
+        "stabber",
+        "killer",
+        "Thinker",
+        "mime",
+        "thing seen/shown",
+        "thanked",
+        "denier"
+      ]
+    },
+    {
+      "characterName": "Marine",
+      "recipients": [
+        "Marine",
+        "theater",
+        "advance",
+        "avail",
+        "shifts",
+        "evening",
+        "diner",
+        "something",
+        "what",
+        "decay",
+        "senator",
+        "president",
+        "dealer",
+        "number",
+        "focus",
+        "failure",
+        "hopeful",
+        "boss",
+        "list",
+        "mirror",
+        "speech",
+        "program",
+        "homemade",
+        "man",
+        "Sport",
+        "Betsy",
+        "look"
+      ],
+      "verbs": [
+        "be",
+        "try",
+        "make",
+        "work",
+        "go",
+        "have",
+        "consider",
+        "tell",
+        "vote",
+        "like",
+        "buy",
+        "find",
+        "blame",
+        "include",
+        "practice",
+        "begin",
+        "attach",
+        "hang",
+        "walk",
+        "confront",
+        "drop",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "creator",
+        "Agent/Entity Trying",
+        "subject/language",
+        "flirt",
+        "first item in comparison",
+        "thinker",
+        "Speaker",
+        "voter",
+        "planner",
+        "liker",
+        "buyer",
+        "finder",
+        "blamer",
+        "hoper",
+        "agent",
+        "beginner",
+        "practicer",
+        "asker",
+        "survivor",
+        "confrontational entity",
+        "walker",
+        "entity confronted",
+        "corpse",
+        "thing following",
+        "looker",
+        "thing stabbed",
+        "entity doing the dropping",
+        "receiver",
+        "causer of transformation",
+        "driver"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "Travis",
+        "wife",
+        "man",
+        "plans"
+      ],
+      "verbs": [
+        "tell",
+        "\u0027s"
+      ],
+      "traits": [
+        "lonely",
+        "young",
+        "depressed",
+        "unbalanced",
+        "neardead"
+      ],
+      "semanticRoles": [
+        "thing picked",
+        "Speaker",
+        "Utterance",
+        "thing suspended",
+        "thing continuing"
+      ]
+    },
+    {
+      "characterName": "Betsy",
+      "recipients": [
+        "date",
+        "character",
+        "Marine"
+      ],
+      "verbs": [
+        "agree",
+        "compare"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity spied/seen",
+        "question",
+        "interested entity",
+        "agreer",
+        "entity making comparison",
+        "talker",
+        "entity refusing",
+        "receiver",
+        "pursued",
+        "Logical subject"
+      ]
+    },
+    {
+      "characterName": "Sport",
+      "recipients": [
+        "Iris",
+        "bill",
+        "Travis",
+        "cigarette",
+        "Marine",
+        "neck"
+      ],
+      "verbs": [
+        "grab",
+        "give",
+        "convince",
+        "flick",
+        "follow",
+        "graze"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "giver",
+        "grabber",
+        "seducer",
+        "convincer",
+        "projectile",
+        "cause of motion",
+        "causal agent",
+        "cow"
+      ]
+    },
+    {
+      "characterName": "Iris",
+      "recipients": [
+        "way",
+        "day",
+        "offer"
+      ],
+      "verbs": [
+        "leave",
+        "meet",
+        "consider"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity grabbed",
+        "entity leaving",
+        "impelled agent",
+        "achiever",
+        "thinker",
+        "money"
+      ]
+    },
+    {
+      "characterName": "bouncer",
+      "recipients": [
+        "Marine",
+        "chin",
+        "head",
+        "bullet",
+        "himself"
+      ],
+      "verbs": [
+        "follow",
+        "fire",
+        "resign"
+      ],
+      "traits": [
+        "screaming"
+      ],
+      "semanticRoles": [
+        "causal agent",
+        "projectile",
+        "corpse",
+        "tackler",
+        "Agent/Entity Trying",
+        "shooter",
+        "resigner"
+      ]
+    }
+  ]
+}

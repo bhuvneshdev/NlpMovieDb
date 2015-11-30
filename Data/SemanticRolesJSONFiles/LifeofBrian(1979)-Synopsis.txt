@@ -1,0 +1,52 @@
+{
+  "movieName": "LifeofBrian(1979)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Brian_Cohen",
+      "recipients": [
+        "Maximus",
+        "man",
+        "episode",
+        "Roman"
+      ],
+      "verbs": [
+        "be",
+        "put"
+      ],
+      "traits": [
+        "actual"
+      ],
+      "semanticRoles": [
+        "thing held",
+        "[causer of growth - should be possible]",
+        "impelled agent",
+        "Agent/Entity Trying",
+        "causer of inspiration",
+        "thing gotten",
+        "person being crucified",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "crowd",
+      "recipients": [
+        "Roman",
+        "house"
+      ],
+      "verbs": [
+        "follow",
+        "\u0027s"
+      ],
+      "traits": [
+        "enormous"
+      ],
+      "semanticRoles": [
+        "intended audience",
+        "beginner",
+        "causal agent",
+        "guilty party",
+        "question"
+      ]
+    }
+  ]
+}
