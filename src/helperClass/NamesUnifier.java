@@ -24,7 +24,7 @@ import edu.stanford.nlp.util.CoreMap;
 
 public class NamesUnifier {
 	
-	public static String getStringWithUnifiedNames(String string){
+	public static void getStringWithUnifiedNames(String string){
 		String unifiedString="";
 		
 		// creates a StanfordCoreNLP object, with POS tagging, lemmatization, NER, parsing, and coreference resolution 
@@ -75,7 +75,7 @@ public class NamesUnifier {
 	    
 		
 		
-		return unifiedString;
+//		return unifiedString;
 	}
 	
 

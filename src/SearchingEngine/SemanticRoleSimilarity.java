@@ -18,7 +18,7 @@ public class SemanticRoleSimilarity {
 	
 	public static ArrayList<SemanticRoleMatchData> semanticRoles = new ArrayList<SemanticRoleMatchData>();
 	public static HashMap<String, String> hm = new HashMap<String,String>();
-	
+	public static int roleCount = 0;
 	public static ArrayList<SemanticRoleMatchData> semanticRoleSimilarity(String[] linesInPlot){
 		for(int i=0;i<linesInPlot.length;i++){
 			try{
@@ -58,10 +58,16 @@ public class SemanticRoleSimilarity {
 				ArrayList<Node> children = nd.getChildren();
 				for(int i=0;i<children.size();i++){
 					if(edgeList.get(i).equals("trait")){		
-						if(!semanticRoles.get(index).traits.contains(splitNodevalue(children.get(i).getValue())))	semanticRoles.get(index).traits.add(splitNodevalue(children.get(i).getValue()));
+						if(!semanticRoles.get(index).traits.contains(splitNodevalue(children.get(i).getValue()))){	
+							semanticRoles.get(index).traits.add(splitNodevalue(children.get(i).getValue()));
+							roleCount++;
+						}
 					}
 					else if(edgeList.get(i).equals("semantic_role")){		
-						if(!semanticRoles.get(index).semanticRoles.contains(children.get(i).getValue().substring(1, children.get(i).getValue().length())))  semanticRoles.get(index).semanticRoles.add(children.get(i).getValue().substring(1, children.get(i).getValue().length()));
+						if(!semanticRoles.get(index).semanticRoles.contains(children.get(i).getValue().substring(1, children.get(i).getValue().length()))){  
+							semanticRoles.get(index).semanticRoles.add(children.get(i).getValue().substring(1, children.get(i).getValue().length()));
+							roleCount++;
+						}
 					}
 				}
 			}
@@ -76,12 +82,14 @@ public class SemanticRoleSimilarity {
 					if(edgeList.get(i).equals("trait")){
 						if(!srTemp.traits.contains(splitNodevalue(children.get(i).getValue()))){	
 							srTemp.traits.add(splitNodevalue(children.get(i).getValue())); 
+							roleCount++;
 							flag = true;
 						}
 					}
 					else if(edgeList.get(i).equals("semantic_role")){
 						if(!srTemp.semanticRoles.contains(children.get(i).getValue().substring(1, children.get(i).getValue().length()))){  
 							srTemp.semanticRoles.add(children.get(i).getValue().substring(1, children.get(i).getValue().length())); 
+							roleCount++;
 							flag = true;
 						}
 					}
@@ -118,9 +126,11 @@ public class SemanticRoleSimilarity {
 						int index = getNounElementIndex(agentNodeValue);
 						if(!semanticRoles.get(index).recepients.contains(recepientNodeValue)){
 							semanticRoles.get(index).recepients.add(recepientNodeValue);
+							roleCount++;
 						}
 						if(!semanticRoles.get(index).verbs.contains(l1.get(0))){
 							semanticRoles.get(index).verbs.add(l1.get(0));
+							roleCount++;
 						}
 					}
 					else{
@@ -129,6 +139,7 @@ public class SemanticRoleSimilarity {
 						srTemp.recepients.add(recepientNodeValue);
 						srTemp.verbs.add(l1.get(0));
 						semanticRoles.add(srTemp);
+						roleCount=+2;
 					}
 				}
 			}
@@ -147,8 +158,14 @@ public class SemanticRoleSimilarity {
 	private static int getNounElementIndex(String value) {
 		int i=0;
 		for(SemanticRoleMatchData temp: semanticRoles){
-			if(temp.noun.equals(value)) return i;
-			else i++;
+			if(temp.noun.equalsIgnoreCase(value)) return i;
+			else{
+				String[] tokens1 = temp.noun.split("_");
+				for(int j=0;j<tokens1.length;j++){
+					if(value.equalsIgnoreCase(tokens1[j])) return i;
+				}
+			}
+			i++;
 		}
 		return -1;
 	}
@@ -156,7 +173,14 @@ public class SemanticRoleSimilarity {
 	private static boolean existsNoun(String value) {
 		// TODO Auto-generated method stub
 		for(SemanticRoleMatchData temp: semanticRoles){
-			if(temp.noun.equals(value)) return true;
+			if(temp.noun.equalsIgnoreCase(value)) return true;
+			else{
+				
+				String[] tokens1 = temp.noun.split("_");
+				for(int i=0;i<tokens1.length;i++){
+					if(value.equalsIgnoreCase(tokens1[i])) return true;
+				}
+			}
 		}
 		return false;
 	}
