@@ -20,6 +20,7 @@ public class SemanticRoleSimilarity {
 	public static HashMap<String, String> hm = new HashMap<String,String>();
 	public static int roleCount = 0;
 	public static ArrayList<SemanticRoleMatchData> semanticRoleSimilarity(String[] linesInPlot){
+		semanticRoles.clear();
 		for(int i=0;i<linesInPlot.length;i++){
 			try{
 				SentenceToGraph stg = new SentenceToGraph();

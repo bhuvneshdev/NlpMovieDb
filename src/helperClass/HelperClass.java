@@ -5,9 +5,14 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Set;
 
 import org.apache.commons.io.IOUtils;
+import org.apache.commons.lang3.StringUtils;
+
+import database.SemanticRoleMatchData;
 
 public class HelperClass {
 	
@@ -77,6 +82,27 @@ public class HelperClass {
 			arrayList.add(str);
 		}
 		return arrayList;
+	}
+	
+	public static int calScore(ArrayList<String> s1, ArrayList<String> s2){
+		int count = 0;
+		for(int i=0;i<s1.size();i++){
+			for(int j=0;j<s2.size();j++){
+				if(StringUtils.getJaroWinklerDistance(s1.get(i), s2.get(j)) >= 0.90){
+					System.out.println(s1.get(i)+ "  " + s2.get(j));
+					count++;
+					break;
+				}
+			}
+		}
+		return count;
+	}
+	
+	public static void topTenCharactersMap(Map<String, ArrayList<SemanticRoleMatchData>> arg){
+		for(Entry<String, ArrayList<SemanticRoleMatchData>> entry: arg.entrySet()){
+			ArrayList<SemanticRoleMatchData> characterArray = entry.getValue();
+			
+		}
 	}
 
 	

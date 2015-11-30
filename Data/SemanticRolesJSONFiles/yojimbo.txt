@@ -1,0 +1,544 @@
+{
+  "movieName": "yojimbo.txt",
+  "characters": [
+    {
+      "characterName": "ronin",
+      "recipients": [
+        "century",
+        "path",
+        "guard",
+        "tavern",
+        "gang",
+        "home",
+        "hoodlums",
+        "cooper",
+        "amount",
+        "salary",
+        "position",
+        "name"
+      ],
+      "verbs": [
+        "wander",
+        "be",
+        "engulf",
+        "summons",
+        "go",
+        "kill",
+        "tell",
+        "return",
+        "negotiate",
+        "agree"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity in motion",
+        "insulted",
+        "entity confronted",
+        "entity causing engulfing",
+        "Sayer",
+        "impelled agent",
+        "inviter",
+        "promiser",
+        "killer",
+        "Speaker",
+        "employee",
+        "agreer",
+        "negotiator"
+      ]
+    },
+    {
+      "characterName": "son",
+      "recipients": [
+        "gang",
+        "life",
+        "trot",
+        "guard",
+        "owner",
+        "tavern",
+        "Gonji"
+      ],
+      "verbs": [
+        "join",
+        "want",
+        "see",
+        "wander",
+        "be"
+      ],
+      "traits": [
+        "teenage"
+      ],
+      "semanticRoles": [
+        "yelled at",
+        "wanter",
+        "agent",
+        "entity leaving",
+        "viewer",
+        "entity in motion",
+        "thing pulled"
+      ]
+    },
+    {
+      "characterName": "gang",
+      "recipients": [
+        "ronin",
+        "search"
+      ],
+      "verbs": [
+        "confront",
+        "desperately"
+      ],
+      "traits": [
+        "nearby",
+        "whole"
+      ],
+      "semanticRoles": [
+        "first thing being tied",
+        "confrontational entity",
+        "invited",
+        "thing cut"
+      ]
+    },
+    {
+      "characterName": "Gonji",
+      "recipients": [
+        "rice",
+        "saki",
+        "ronin",
+        "hiearchy",
+        "note",
+        "debree",
+        "Seibei",
+        "corner",
+        "men",
+        "story",
+        "cooper",
+        "Gonji",
+        "chaos",
+        "Sanjuro",
+        "Inokichi",
+        "coffin",
+        "food"
+      ],
+      "verbs": [
+        "have",
+        "explain",
+        "take",
+        "go",
+        "tell",
+        "get",
+        "ask",
+        "view",
+        "carry",
+        "convince",
+        "dupe"
+      ],
+      "traits": [
+        "shocked"
+      ],
+      "semanticRoles": [
+        "explainer",
+        "Agent/Entity Trying",
+        "Speaker",
+        "Utterance",
+        "receiver",
+        "question",
+        "asker",
+        "carrier",
+        "impelled agent",
+        "convincer",
+        "tricker",
+        "Thought",
+        "thing viewed",
+        "thing cut"
+      ]
+    },
+    {
+      "characterName": "Seibei",
+      "recipients": [
+        "boss",
+        "brothel",
+        "going",
+        "them",
+        "Seibei",
+        "ronin",
+        "Ushitora",
+        "name",
+        "territory",
+        "chip",
+        "location",
+        "coffin",
+        "spectacle"
+      ],
+      "verbs": [
+        "be",
+        "run",
+        "tell",
+        "accept",
+        "employ",
+        "attack",
+        "ask",
+        "hand",
+        "have",
+        "carry",
+        "watch"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "operator",
+        "appointer",
+        "Speaker",
+        "acceptor",
+        "thing accepted",
+        "wanter",
+        "employer",
+        "planner",
+        "attacker",
+        "Sayer",
+        "asker",
+        "knower",
+        "corpse",
+        "promiser",
+        "Intentional agent",
+        "secret agent",
+        "impelled agent",
+        "giver",
+        "Utterance",
+        "speaker",
+        "carrier",
+        "thing being removed"
+      ]
+    },
+    {
+      "characterName": "Ushitora",
+      "recipients": [
+        "Tokuemon",
+        "Seibei"
+      ],
+      "verbs": [
+        "appoint",
+        "tell",
+        "eliminate"
+      ],
+      "traits": [
+        "widelyrecognized",
+        "youngest"
+      ],
+      "semanticRoles": [
+        "decider",
+        "appointer",
+        "entity attacked",
+        "promiser",
+        "Intentional agent",
+        "Thought",
+        "thing surrounding",
+        "Speaker",
+        "Utterance",
+        "entity removing"
+      ]
+    },
+    {
+      "characterName": "Tokuemon",
+      "recipients": [
+        "while",
+        "Nui",
+        "night",
+        "Kohei"
+      ],
+      "verbs": [
+        "stay",
+        "ravish",
+        "beat"
+      ],
+      "traits": [
+        "corrupt"
+      ],
+      "semanticRoles": [
+        "appointee",
+        "causer of emotion",
+        "thing reminded about",
+        "needer",
+        "agent",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Orin",
+      "recipients": [
+        "Seibei",
+        "attack",
+        "geishas",
+        "Sanjuro",
+        "Ushitora"
+      ],
+      "verbs": [
+        "come",
+        "lead",
+        "offer",
+        "incapacitate",
+        "tie",
+        "go"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing used",
+        "leader",
+        "corpse",
+        "disabler",
+        "agent",
+        "Sayer",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "Sanjuro",
+      "recipients": [
+        "Orin",
+        "gang",
+        "noon",
+        "belltower",
+        "Seibei",
+        "night",
+        "window",
+        "Tokuemon",
+        "Inokichi",
+        "guards",
+        "room",
+        "beaming",
+        "tavern",
+        "man",
+        "location",
+        "break",
+        "chest",
+        "walkway",
+        "Gonji",
+        "refuge",
+        "somebody",
+        "town",
+        "himself",
+        "Sanjuro",
+        "sprint",
+        "knife",
+        "arm",
+        "sword",
+        "life",
+        "pistol",
+        "rope"
+      ],
+      "verbs": [
+        "use",
+        "kill",
+        "gather",
+        "climb",
+        "convince",
+        "watch",
+        "find",
+        "remind",
+        "rush",
+        "trash",
+        "see",
+        "walk",
+        "be",
+        "disclose",
+        "hide",
+        "get",
+        "tell",
+        "take",
+        "hear",
+        "arm",
+        "stomp",
+        "break",
+        "throw",
+        "unsheathe",
+        "slash",
+        "wonder",
+        "live",
+        "hand",
+        "give",
+        "cut"
+      ],
+      "traits": [
+        "happy",
+        "badlyinjured"
+      ],
+      "semanticRoles": [
+        "User",
+        "killer",
+        "planner",
+        "agent or causer",
+        "walker",
+        "climber",
+        "Sayer",
+        "convincer",
+        "thing no longer capable",
+        "first thing being tied",
+        "finder",
+        "cause",
+        "causer of motion",
+        "Speaker",
+        "disposer",
+        "viewer",
+        "food",
+        "thing hit",
+        "thing gotten",
+        "entity refusing",
+        "receiver",
+        "agent",
+        "thing put",
+        "thing carried",
+        "contents",
+        "shower",
+        "Utterance",
+        "equiper",
+        "breaker",
+        "shooter",
+        "thrower",
+        "cutter",
+        "applauded",
+        "savior",
+        "alive entity",
+        "question",
+        "giver",
+        "feeler",
+        "entity flinching",
+        "intentional cutter"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "gang",
+        "noon",
+        "family",
+        "brothel",
+        "death",
+        "cooper"
+      ],
+      "verbs": [
+        "gather",
+        "guard",
+        "set",
+        "slash",
+        "beat"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent or causer",
+        "Agent",
+        "guard",
+        "Utterance",
+        "cutter",
+        "agent",
+        "getter"
+      ]
+    },
+    {
+      "characterName": "gangs",
+      "recipients": [
+        "contact",
+        "street",
+        "hostages"
+      ],
+      "verbs": [
+        "make",
+        "meet",
+        "trade"
+      ],
+      "traits": [
+        "cowardly"
+      ],
+      "semanticRoles": [
+        "lunger",
+        "retreater",
+        "creator",
+        "thing interrupted",
+        "1st",
+        "achiever",
+        "agreer",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Unosuke",
+      "recipients": [
+        "offers",
+        "Ushitora",
+        "pistol",
+        "response",
+        "source",
+        "tavern",
+        "Sanjuro",
+        "intercepts",
+        "sword",
+        "situation",
+        "Seibei"
+      ],
+      "verbs": [
+        "have",
+        "think",
+        "attain",
+        "shoot",
+        "suspect",
+        "enter",
+        "grill",
+        "take",
+        "pitch",
+        "go",
+        "kill",
+        "warn",
+        "ask"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "Thinker",
+        "reacher",
+        "shower",
+        "shooter",
+        "Utterance",
+        "impelled agent",
+        "suspecter",
+        "beginner",
+        "entity entering",
+        "cook",
+        "thrower",
+        "killer",
+        "puller",
+        "asker"
+      ]
+    },
+    {
+      "characterName": "Inokichi",
+      "recipients": [
+        "Kohei",
+        "Unosuke",
+        "Ushitora",
+        "son",
+        "Nui",
+        "Seibei",
+        "Sanjuro"
+      ],
+      "verbs": [
+        "beat",
+        "tell",
+        "pull",
+        "kill",
+        "carry"
+      ],
+      "traits": [
+        "lone"
+      ],
+      "semanticRoles": [
+        "agent",
+        "Speaker",
+        "entity in motion",
+        "causer of motion",
+        "puller",
+        "killer",
+        "impelled agent",
+        "tricked",
+        "carrier"
+      ]
+    }
+  ]
+}
