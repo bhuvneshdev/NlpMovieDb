@@ -1,0 +1,65 @@
+{
+  "movieName": "HotelRwanda(2004)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Paul_Rusesabagina",
+      "recipients": [
+        "wife",
+        "neighbors",
+        "safety",
+        "hotel",
+        "everyone",
+        "appearance",
+        "soldiers",
+        "Rusesabagina",
+        "effort",
+        "General"
+      ],
+      "verbs": [
+        "be",
+        "observe",
+        "negotiate",
+        "bring",
+        "maintain",
+        "divert",
+        "blackmail",
+        "speak"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "observer",
+        "threat",
+        "bringer",
+        "negotiator",
+        "Stimulusr of turning",
+        "carer",
+        "maintainer",
+        "entity blackmailed",
+        "blackmailer",
+        "talker"
+      ]
+    },
+    {
+      "characterName": "refugees",
+      "recipients": [
+        "camp",
+        "hotel",
+        "genocide"
+      ],
+      "verbs": [
+        "come",
+        "intervene",
+        "leave"
+      ],
+      "traits": [
+        "More"
+      ],
+      "semanticRoles": [
+        "nosy individual",
+        "forbidden action",
+        "money",
+        "entity leaving"
+      ]
+    }
+  ]
+}

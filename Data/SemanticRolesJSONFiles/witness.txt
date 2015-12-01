@@ -1,0 +1,56 @@
+{
+  "movieName": "witness.txt",
+  "characters": [
+    {
+      "characterName": "Wilfred_Robarts",
+      "recipients": [
+        "Vole",
+        "defense",
+        "murder",
+        "Christine_Vole"
+      ],
+      "verbs": [
+        "defend",
+        "testify"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "defender",
+        "question",
+        "handler",
+        "decider",
+        "witness",
+        "suspecter",
+        "announcer"
+      ]
+    },
+    {
+      "characterName": "Christine_Vole",
+      "recipients": [
+        "courtroom",
+        "lover",
+        "letters",
+        "testimony",
+        "husband",
+        "opener",
+        "woman",
+        "nurse"
+      ],
+      "verbs": [
+        "appear",
+        "write",
+        "sabotage",
+        "get",
+        "seize"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "saboteur",
+        "admitter",
+        "agent",
+        "defended"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "movieName": "TheLivesofOthers(2006)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Gerd_Wiesler_Ulrich_Mhe",
+      "recipients": [
+        "technique",
+        "students",
+        "Lazlo",
+        "Dreyman",
+        "neighbor",
+        "headquarters",
+        "development",
+        "post",
+        "ring",
+        "name",
+        "himself",
+        "family",
+        "everything",
+        "determination",
+        "point",
+        "work",
+        "ChristaMaria",
+        "man",
+        "indications",
+        "evidence",
+        "lives",
+        "scene",
+        "Sieland",
+        "rest",
+        "apartment",
+        "typewriter",
+        "hidingplace",
+        "tracks",
+        "office",
+        "copy",
+        "dedication",
+        "XX7",
+        "gratitude",
+        "checkout"
+      ],
+      "verbs": [
+        "demonstrate",
+        "instruct",
+        "manage",
+        "stalk",
+        "knock",
+        "set",
+        "find",
+        "make",
+        "ask",
+        "stop",
+        "have",
+        "hear",
+        "waver",
+        "approach",
+        "admire",
+        "\u0027s",
+        "tell",
+        "return",
+        "miss",
+        "withhold",
+        "come",
+        "sit",
+        "reach",
+        "extract",
+        "speak",
+        "leave",
+        "walk",
+        "open",
+        "read",
+        "go",
+        "reply"
+      ],
+      "traits": [
+        "empty",
+        "own",
+        "clever"
+      ],
+      "semanticRoles": [
+        "demonstrator",
+        "instructor",
+        "invited",
+        "suspecter",
+        "manager",
+        "question",
+        "walker",
+        "Speaker",
+        "hitter",
+        "agent",
+        "finder",
+        "creator",
+        "Agent",
+        "asker",
+        "decider",
+        "knower",
+        "undecided entity",
+        "art",
+        "admirer",
+        "student",
+        "misser",
+        "withholder",
+        "applauded",
+        "causer of motion",
+        "thing striving",
+        "remover",
+        "talker",
+        "thing known or thought",
+        "entity leaving",
+        "Utterance",
+        "assured one",
+        "listener",
+        "receiver",
+        "thing following",
+        "reader",
+        "opener",
+        "replier"
+      ]
+    },
+    {
+      "characterName": "Anton_Grubitz_Ulrich_Tukur",
+      "recipients": [
+        "end",
+        "premiere",
+        "Wiesler",
+        "performance",
+        "conversation",
+        "Grubitz",
+        "floorboard",
+        "board",
+        "investigation",
+        "years"
+      ],
+      "verbs": [
+        "come",
+        "invite",
+        "have",
+        "ask",
+        "pry",
+        "get",
+        "call",
+        "tell",
+        "know",
+        "spend",
+        "assure"
+      ],
+      "traits": [
+        "incredulous"
+      ],
+      "semanticRoles": [
+        "inviter",
+        "Utterance",
+        "asker",
+        "joker",
+        "claimer",
+        "agent",
+        "Agent",
+        "receiver",
+        "Speaker",
+        "knower",
+        "causer of assurance"
+      ]
+    },
+    {
+      "characterName": "Georg_Dreyman_Sebastian_Koch",
+      "recipients": [
+        "plays",
+        "life",
+        "respect",
+        "way",
+        "party",
+        "background",
+        "birthday",
+        "class",
+        "hall",
+        "truth",
+        "mess",
+        "landing",
+        "matter",
+        "action",
+        "awareness",
+        "piano",
+        "piece",
+        "expos",
+        "something",
+        "article",
+        "Dreyman",
+        "Hempf",
+        "archives",
+        "tracks",
+        "name"
+      ],
+      "verbs": [
+        "write",
+        "life",
+        "preserve",
+        "be",
+        "prepare",
+        "transcend",
+        "tie",
+        "\u0027s",
+        "go",
+        "tell",
+        "make",
+        "nip",
+        "take",
+        "sit",
+        "play",
+        "publish",
+        "hide",
+        "run",
+        "ask",
+        "visit",
+        "speak",
+        "look"
+      ],
+      "traits": [
+        "celebrated",
+        "sure",
+        "bugged"
+      ],
+      "semanticRoles": [
+        "alive entity",
+        "preserver",
+        "thing being removed",
+        "thing given",
+        "thing reminded about",
+        "replier",
+        "[causer of growth - should be possible]",
+        "thing going beyond",
+        "knower",
+        "agent",
+        "creator",
+        "Speaker",
+        "Utterance",
+        "asker",
+        "art",
+        "thing provoked",
+        "player",
+        "entity making resolution",
+        "helper",
+        "publisher",
+        "planner",
+        "thing provided",
+        "decider",
+        "operator",
+        "question",
+        "assured one",
+        "one party",
+        "talker",
+        "looker"
+      ]
+    },
+    {
+      "characterName": "Bruno_Hempf_Thomas_Thieme",
+      "recipients": [
+        "member",
+        "Grubitz",
+        "meantime",
+        "ChristaMaria",
+        "addiction",
+        "Gedeck",
+        "Dreyman"
+      ],
+      "verbs": [
+        "be",
+        "tell",
+        "convinced",
+        "use",
+        "terminate",
+        "assure"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing attending",
+        "Speaker",
+        "convincer",
+        "goal",
+        "agent",
+        "User",
+        "Utterance",
+        "causer of assurance",
+        "entity getting advice",
+        "looker"
+      ]
+    },
+    {
+      "characterName": "neighbor",
+      "recipients": [
+        "people",
+        "anyone",
+        "Dreyman",
+        "door",
+        "competently",
+        "apartment"
+      ],
+      "verbs": [
+        "watch",
+        "saw",
+        "tell",
+        "tie",
+        "come"
+      ],
+      "traits": [
+        "nervous",
+        "sick",
+        "wiser",
+        "impressed"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "Speaker",
+        "thing hit",
+        "question",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Sieland",
+      "recipients": [
+        "Dreyman",
+        "party",
+        "Hempf",
+        "Sieland",
+        "herself",
+        "involvement",
+        "Wiesler"
+      ],
+      "verbs": [
+        "present",
+        "prepare",
+        "remind",
+        "meet",
+        "save",
+        "hide",
+        "do"
+      ],
+      "traits": [
+        "good"
+      ],
+      "semanticRoles": [
+        "cause",
+        "giver",
+        "thing viewed",
+        "Utterance",
+        "achiever",
+        "entity saving money",
+        "agreer"
+      ]
+    },
+    {
+      "characterName": "agent",
+      "recipients": [
+        "scene",
+        "joke",
+        "Grubitz",
+        "typewriter"
+      ],
+      "verbs": [
+        "start",
+        "tell",
+        "finish",
+        "handle"
+      ],
+      "traits": [
+        "young"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "Agent",
+        "heard",
+        "impelled agent",
+        "Intentional agent",
+        "handler",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "ChristaMaria",
+      "recipients": [
+        "home",
+        "Dreyman",
+        "bathrobe",
+        "contact",
+        "spirits",
+        "house",
+        "street",
+        "path",
+        "typewriter"
+      ],
+      "verbs": [
+        "go",
+        "emerge",
+        "come",
+        "make",
+        "tell",
+        "leaf",
+        "reach",
+        "step",
+        "remove"
+      ],
+      "traits": [
+        "receptive"
+      ],
+      "semanticRoles": [
+        "impelled agent",
+        "admired",
+        "Utterance",
+        "replier",
+        "thing brought",
+        "thing exiting",
+        "viewer",
+        "causal agent",
+        "Speaker",
+        "creator",
+        "entity leaving",
+        "thing hit",
+        "causer of movement",
+        "thing striving",
+        "entity removing",
+        "thing released"
+      ]
+    },
+    {
+      "characterName": "friends",
+      "recipients": [
+        "test",
+        "Mercedes",
+        "car",
+        "route"
+      ],
+      "verbs": [
+        "devise",
+        "describe"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "suspecter",
+        "deviser",
+        "other party",
+        "describer",
+        "decider"
+      ]
+    },
+    {
+      "characterName": "Gedeck",
+      "recipients": [
+        "minister",
+        "article",
+        "Wiesler",
+        "encounter"
+      ],
+      "verbs": [
+        "see",
+        "do",
+        "recognize"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "focussed party",
+        "applauder"
+      ]
+    }
+  ]
+}

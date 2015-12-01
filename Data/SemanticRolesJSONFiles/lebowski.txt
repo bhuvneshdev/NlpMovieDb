@@ -1,0 +1,1168 @@
+{
+  "movieName": "lebowski.txt",
+  "characters": [
+    {
+      "characterName": "man",
+      "recipients": [
+        "us",
+        "Jeffrey_Lebowski",
+        "strike",
+        "harm",
+        "man",
+        "thugs",
+        "himself",
+        "Lebowski"
+      ],
+      "verbs": [
+        "tell",
+        "bowl",
+        "means",
+        "introduce"
+      ],
+      "traits": [
+        "mysterious"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "wanter",
+        "bowler (not the hat)",
+        "receiver",
+        "explainer",
+        "entity making introduction",
+        "agent",
+        "Thinker"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "Sr",
+        "ringer",
+        "Walter",
+        "men",
+        "nihilists"
+      ],
+      "verbs": [
+        "force",
+        "pick",
+        "hurt",
+        "`"
+      ],
+      "traits": [
+        "laziest"
+      ],
+      "semanticRoles": [
+        "putter",
+        "forcer",
+        "grabber",
+        "causal agent",
+        "picker",
+        "thing viewed",
+        "patient",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Stranger",
+      "recipients": [
+        "Dude",
+        "sarsaparilla",
+        "piece",
+        "you",
+        "car",
+        "week",
+        "alley",
+        "Stranger",
+        "comfort",
+        "us"
+      ],
+      "verbs": [
+        "describe",
+        "sit",
+        "offer",
+        "eat",
+        "buy",
+        "tell",
+        "find",
+        "assure"
+      ],
+      "traits": [
+        "sad"
+      ],
+      "semanticRoles": [
+        "describer",
+        "consumer",
+        "party the second",
+        "buyer",
+        "asker",
+        "Speaker",
+        "Utterance",
+        "finder",
+        "viewer",
+        "knower",
+        "causer of assurance"
+      ]
+    },
+    {
+      "characterName": "Dude",
+      "recipients": [
+        "apartment",
+        "encounter",
+        "Brandt",
+        "room",
+        "poolside",
+        "game",
+        "Walter",
+        "team",
+        "Dude",
+        "Smokey",
+        "theater",
+        "dance",
+        "notes",
+        "rent",
+        "rings",
+        "Lebowski",
+        "joint",
+        "kidnappers",
+        "payment",
+        "hand",
+        "phone",
+        "briefcase",
+        "themselves",
+        "plan",
+        "wheel",
+        "car",
+        "himself",
+        "suitcase",
+        "Shomer_Shabbos",
+        "day",
+        "police",
+        "statement",
+        "issue",
+        "sex",
+        "limo",
+        "yell",
+        "envelope",
+        "cafe",
+        "life",
+        "banging",
+        "men",
+        "leader",
+        "lot",
+        "morning",
+        "officer",
+        "bar",
+        "fears",
+        "words",
+        "doctor",
+        "Maude",
+        "Uli",
+        "call",
+        "shorts",
+        "beer",
+        "dumpster",
+        "window",
+        "Larry",
+        "sympathizes",
+        "Jackie_Treehorn",
+        "doodle",
+        "truth",
+        "dream",
+        "nihilists",
+        "end",
+        "pins",
+        "terrified",
+        "bed",
+        "Russian",
+        "part",
+        "Volkswagen",
+        "eye",
+        "Kneutson",
+        "Da_Fino",
+        "theory",
+        "money",
+        "Bunny",
+        "study",
+        "attention",
+        "alley",
+        "head",
+        "wallet",
+        "Kieffer",
+        "Donny",
+        "cliffside",
+        "beers",
+        "abides"
+      ],
+      "verbs": [
+        "return",
+        "talk",
+        "tell",
+        "leaf",
+        "speak",
+        "scold",
+        "mark",
+        "call",
+        "listen",
+        "perform",
+        "give",
+        "pay",
+        "oblige",
+        "find",
+        "smoke",
+        "recognize",
+        "deliver",
+        "watch",
+        "show",
+        "worry",
+        "lie",
+        "take",
+        "pick",
+        "keep",
+        "be",
+        "bail",
+        "throw",
+        "scramble",
+        "honor",
+        "discover",
+        "issue",
+        "address",
+        "enjoy",
+        "shove",
+        "fear",
+        "hear",
+        "see",
+        "go",
+        "collect",
+        "ask",
+        "express",
+        "use",
+        "instruct",
+        "meet",
+        "inform",
+        "remove",
+        "flick",
+        "dump",
+        "swerve",
+        "look",
+        "interrogate",
+        "mix",
+        "respond",
+        "reveal",
+        "fall",
+        "hit",
+        "run",
+        "wake",
+        "climb",
+        "make",
+        "visit",
+        "assure",
+        "work",
+        "employ",
+        "explain",
+        "walk",
+        "accuse",
+        "leave",
+        "do",
+        "pull",
+        "travel",
+        "yell",
+        "reply"
+      ],
+      "traits": [
+        "miserable",
+        "calm",
+        "certain",
+        "convinced",
+        "dismayed"
+      ],
+      "semanticRoles": [
+        "thing described",
+        "talker",
+        "achiever",
+        "Utterance",
+        "agreer",
+        "thing brought",
+        "accused",
+        "entity leaving",
+        "Speaker",
+        "picker",
+        "wind",
+        "question",
+        "assured one",
+        "object accompanied",
+        "criticizer",
+        "signifier",
+        "listener",
+        "performer",
+        "thing attending",
+        "object of affection",
+        "giver",
+        "thing reminded about",
+        "payer or buyer",
+        "money or attention",
+        "thing viewed",
+        "pleaser",
+        "thing led",
+        "finder",
+        "shower",
+        "causer of smoke emission",
+        "applauder",
+        "sender",
+        "player",
+        "thing wanted",
+        "thing given",
+        "explainer",
+        "thinker",
+        "alarm clock",
+        "impelled agent",
+        "Keeper",
+        "allower",
+        "Agent/Entity Trying",
+        "abadoner",
+        "thrower",
+        "impelled action",
+        "attempter",
+        "honorer",
+        "forbidden action",
+        "issuer",
+        "entity making resolution",
+        "addresser",
+        "thing picked",
+        "experiencer of surprise",
+        "walker",
+        "item being addressed (letter",
+        "agent",
+        "enjoyer",
+        "pusher",
+        "entity confronted",
+        "entity afraid",
+        "patient",
+        "viewer",
+        "looker",
+        "turner",
+        "asker",
+        "speaker",
+        "place",
+        "User",
+        "recipient",
+        "instructor",
+        "Thinker",
+        "informer",
+        "thing being removed",
+        "thing hit",
+        "entity removing",
+        "cause of motion",
+        "thing burning",
+        "causer of damage",
+        "entity in motion",
+        "screamer",
+        "ingredient one",
+        "replier",
+        "in response to",
+        "insister",
+        "wanter",
+        "legislative body",
+        "thing followed",
+        "operator",
+        "thing thrown",
+        "creator",
+        "climber",
+        "causer of choking",
+        "one party",
+        "driver",
+        "causer of assurance",
+        "person putting on clothes",
+        "employer",
+        "knower",
+        "accuser",
+        "thing used",
+        "looked at",
+        "experiencer",
+        "killer",
+        "puller",
+        "negotiator",
+        "traveller",
+        "Yeller",
+        "answer"
+      ]
+    },
+    {
+      "characterName": "Bunny",
+      "recipients": [
+        "money",
+        "herself",
+        "something",
+        "friends",
+        "Brandt"
+      ],
+      "verbs": [
+        "kidnap",
+        "write",
+        "visit",
+        "tell"
+      ],
+      "traits": [
+        "good",
+        "past"
+      ],
+      "semanticRoles": [
+        "claimer",
+        "kidnapper",
+        "corpse",
+        "Logical subject",
+        "person kidnapped",
+        "knower",
+        "operator",
+        "price paid",
+        "thing gotten",
+        "one party",
+        "Speaker",
+        "path walked"
+      ]
+    },
+    {
+      "characterName": "money",
+      "recipients": [
+        "girl"
+      ],
+      "verbs": [
+        "kill"
+      ],
+      "traits": [
+        "extra",
+        "much",
+        "valid"
+      ],
+      "semanticRoles": [
+        "asker",
+        "price paid",
+        "thing gotten",
+        "Logical subject",
+        "money",
+        "killer",
+        "thing wanted"
+      ]
+    },
+    {
+      "characterName": "Lebowski",
+      "recipients": [
+        "Dude",
+        "study",
+        "ground",
+        "artist",
+        "producer",
+        "driver",
+        "position",
+        "socially",
+        "intention",
+        "nothing",
+        "fuckup",
+        "handicap"
+      ],
+      "verbs": [
+        "bring",
+        "accuse",
+        "see",
+        "descend",
+        "be",
+        "tell",
+        "ask",
+        "bang",
+        "confront",
+        "dismiss",
+        "have",
+        "want",
+        "do",
+        "choose"
+      ],
+      "traits": [
+        "wrong",
+        "wheelchairbound",
+        "elder",
+        "sternlooking",
+        "little"
+      ],
+      "semanticRoles": [
+        "bringer",
+        "accuser",
+        "viewer",
+        "needer",
+        "thing found",
+        "person wearing clothes",
+        "entity descending",
+        "explainer",
+        "thing given",
+        "Speaker",
+        "asker",
+        "receiver",
+        "thing emitting noise",
+        "confrontational entity",
+        "looker",
+        "annoyer",
+        "goal",
+        "entity removing",
+        "entity doing the dropping",
+        "Utterance",
+        "wanter",
+        "entity being introduced",
+        "picker",
+        "Thinker",
+        "accused",
+        "Sayer",
+        "thought",
+        "thing rising"
+      ]
+    },
+    {
+      "characterName": "Walter",
+      "recipients": [
+        "Theodore_Donald_Donny_Kerabatsos",
+        "Dude",
+        "gun",
+        "face",
+        "offense",
+        "eyes",
+        "switch",
+        "plan",
+        "themselves",
+        "seat",
+        "location",
+        "him",
+        "ringer",
+        "second",
+        "forces",
+        "grip",
+        "bunch",
+        "kidnappers",
+        "Walter",
+        "toe",
+        "time",
+        "home",
+        "tub",
+        "quartet",
+        "night",
+        "source",
+        "fan",
+        "response",
+        "Larry",
+        "car",
+        "trunk",
+        "iron",
+        "corvette",
+        "burgers",
+        "chair",
+        "Bunny",
+        "study",
+        "Lebowski",
+        "Uli",
+        "ear",
+        "speech",
+        "ashes"
+      ],
+      "verbs": [
+        "tell",
+        "pull",
+        "aim",
+        "watch",
+        "take",
+        "open",
+        "propose",
+        "keep",
+        "get",
+        "beat",
+        "remind",
+        "toss",
+        "lose",
+        "call",
+        "convince",
+        "try",
+        "relax",
+        "leave",
+        "reveal",
+        "be",
+        "\u0027s",
+        "interrogate",
+        "steal",
+        "remove",
+        "smash",
+        "eat",
+        "yell",
+        "prop",
+        "pick",
+        "walk",
+        "figure",
+        "lift",
+        "help",
+        "attack",
+        "bite",
+        "comfort",
+        "give",
+        "brush"
+      ],
+      "traits": [
+        "unsympathetic",
+        "certain"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "entity scolded",
+        "aimer",
+        "puller",
+        "explainer",
+        "thing seen/shown",
+        "viewer",
+        "opener",
+        "thing hit",
+        "entity punched",
+        "dreamer",
+        "thing pulled",
+        "causal agent",
+        "roller",
+        "causer of tightening",
+        "thing picked",
+        "receiver",
+        "entity proposing",
+        "Keeper",
+        "planner",
+        "agent",
+        "getter",
+        "cause",
+        "tosser(s)",
+        "Sayer",
+        "Agent",
+        "Utterance",
+        "impelled agent",
+        "Agent/Entity Trying",
+        "convincer",
+        "thing causing relaxation",
+        "entity leaving",
+        "speaker",
+        "thief",
+        "asker",
+        "causer of continuing event",
+        "entity removing",
+        "consumer",
+        "Yeller",
+        "handler",
+        "wanter",
+        "place",
+        "helper",
+        "picker",
+        "agreer",
+        "walker",
+        "thinker",
+        "experiencer",
+        "elevator",
+        "project",
+        "shouter",
+        "patient",
+        "owner",
+        "entity refusing",
+        "biter",
+        "attacker",
+        "comforter",
+        "thing viewed",
+        "angry entity",
+        "giver",
+        "creation",
+        "apologist",
+        "entity with brush",
+        "allower"
+      ]
+    },
+    {
+      "characterName": "Theodore_Donald_Donny_Kerabatsos",
+      "recipients": [
+        "Dude",
+        "burgers",
+        "puzzles",
+        "alley",
+        "strike"
+      ],
+      "verbs": [
+        "watch",
+        "eat",
+        "miss"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causer of motion",
+        "Utterance",
+        "consumer",
+        "misser",
+        "thing viewed"
+      ]
+    },
+    {
+      "characterName": "You",
+      "recipients": [
+        "element",
+        "bar",
+        "stranger"
+      ],
+      "verbs": [
+        "`",
+        "eat",
+        "fuck"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "consumer",
+        "meal",
+        "party the first",
+        "thrower",
+        "knower"
+      ]
+    },
+    {
+      "characterName": "rug",
+      "recipients": [
+        "room"
+      ],
+      "verbs": [
+        "tie"
+      ],
+      "traits": [
+        "spoiled",
+        "new",
+        "missing"
+      ],
+      "semanticRoles": [
+        "thinker",
+        "agent",
+        "entity soiled",
+        "steed",
+        "thing bought"
+      ]
+    },
+    {
+      "characterName": "Brandt",
+      "recipients": [
+        "Dude",
+        "pictures",
+        "awards",
+        "her",
+        "study",
+        "mansion",
+        "word",
+        "team",
+        "piece",
+        "clothes"
+      ],
+      "verbs": [
+        "assist",
+        "show",
+        "introduce",
+        "escort",
+        "ask",
+        "lead",
+        "tell",
+        "want",
+        "receive",
+        "give",
+        "watch",
+        "flash",
+        "confront",
+        "pick"
+      ],
+      "traits": [
+        "past"
+      ],
+      "semanticRoles": [
+        "shower",
+        "Utterance",
+        "entity making introduction",
+        "subject accompanier",
+        "machine",
+        "asker",
+        "leader",
+        "explainer",
+        "Speaker",
+        "wanter",
+        "giver",
+        "speaker",
+        "confrontational entity",
+        "looker",
+        "picker"
+      ]
+    },
+    {
+      "characterName": "Uli",
+      "recipients": [
+        "ferret",
+        "Dude",
+        "sword",
+        "engages"
+      ],
+      "verbs": [
+        "take",
+        "tell",
+        "pull"
+      ],
+      "traits": [
+        "acquaintances"
+      ],
+      "semanticRoles": [
+        "entity being bothered",
+        "actor",
+        "Speaker",
+        "puller",
+        "entity attacked"
+      ]
+    },
+    {
+      "characterName": "rings",
+      "recipients": [
+        "Dude",
+        "alley",
+        "doubt",
+        "LAPD"
+      ],
+      "verbs": [
+        "like",
+        "remind",
+        "incessantly",
+        "record"
+      ],
+      "traits": [
+        "doorbell",
+        "portable"
+      ],
+      "semanticRoles": [
+        "cause",
+        "liker",
+        "please or help whom? entity pleased by arg 0"
+      ]
+    },
+    {
+      "characterName": "kidnappers",
+      "recipients": [
+        "exchange",
+        "Dude",
+        "location",
+        "bridge",
+        "money",
+        "car"
+      ],
+      "verbs": [
+        "want",
+        "call",
+        "approach",
+        "get",
+        "recover"
+      ],
+      "traits": [
+        "royal"
+      ],
+      "semanticRoles": [
+        "applauded",
+        "wanter",
+        "agent",
+        "giver",
+        "instructor",
+        "thing following",
+        "receiver",
+        "impelled agent",
+        "dealer"
+      ]
+    },
+    {
+      "characterName": "woman",
+      "recipients": [
+        "rug",
+        "restaurant",
+        "foundation",
+        "money"
+      ],
+      "verbs": [
+        "ride",
+        "sit",
+        "embezzle"
+      ],
+      "traits": [
+        "blonde"
+      ],
+      "semanticRoles": [
+        "causal agent",
+        "rider",
+        "thing followed",
+        "thief"
+      ]
+    },
+    {
+      "characterName": "ball",
+      "recipients": [
+        "ground",
+        "Walter",
+        "hand",
+        "Dude"
+      ],
+      "verbs": [
+        "pull",
+        "appear",
+        "turn"
+      ],
+      "traits": [
+        "gigantic"
+      ],
+      "semanticRoles": [
+        "puller",
+        "looked at",
+        "roller",
+        "thing thrown",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "car",
+      "recipients": [
+        "Dude"
+      ],
+      "verbs": [
+        "pull"
+      ],
+      "traits": [
+        "blue"
+      ],
+      "semanticRoles": [
+        "thing found",
+        "sent",
+        "that which was sick",
+        "thing acquired",
+        "thing stolen",
+        "thing bought",
+        "puller",
+        "party the second"
+      ]
+    },
+    {
+      "characterName": "they",
+      "recipients": [
+        "spot",
+        "ball",
+        "bed",
+        "mansion"
+      ],
+      "verbs": [
+        "park",
+        "throw",
+        "lie",
+        "pull"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "parker",
+        "thrower",
+        "dancer",
+        "viewer",
+        "puller"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "right",
+        "money",
+        "rug",
+        "Arthur_Digby_Sellers"
+      ],
+      "verbs": [
+        "have",
+        "retrieve",
+        "buy",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "buyer",
+        "thing given"
+      ]
+    },
+    {
+      "characterName": "Maude",
+      "recipients": [
+        "tape",
+        "withdrawal",
+        "apartment",
+        "father",
+        "allowance"
+      ],
+      "verbs": [
+        "put",
+        "notice",
+        "ask",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "conjecturer",
+        "noticer",
+        "Utterance",
+        "informed",
+        "first arguer",
+        "asker",
+        "replier",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Achievers",
+      "recipients": [
+        "percent",
+        "police",
+        "crack",
+        "Dude",
+        "number"
+      ],
+      "verbs": [
+        "offer",
+        "involve",
+        "apologize",
+        "give"
+      ],
+      "traits": [
+        "estranged"
+      ],
+      "semanticRoles": [
+        "wanter",
+        "Speaker",
+        "apologist",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "driver",
+      "recipients": [
+        "Beetle",
+        "Dude",
+        "standing",
+        "driver",
+        "Lebowski",
+        "love"
+      ],
+      "verbs": [
+        "point",
+        "throw",
+        "find",
+        "make"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "pointer",
+        "thrower",
+        "causal agent",
+        "entity entering",
+        "cause of trip",
+        "finder",
+        "looker",
+        "Utterance",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "Jackie_Treehorn",
+      "recipients": [
+        "Dude",
+        "Bunny",
+        "money",
+        "source"
+      ],
+      "verbs": [
+        "ask",
+        "owe",
+        "be"
+      ],
+      "traits": [
+        "convinced"
+      ],
+      "semanticRoles": [
+        "achiever",
+        "wisher",
+        "goal",
+        "asker",
+        "knower",
+        "denier",
+        "theorist",
+        "payer or buyer",
+        "excused",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "Thornhill",
+      "recipients": [
+        "pad",
+        "paper",
+        "pocket",
+        "what",
+        "Dude",
+        "fee"
+      ],
+      "verbs": [
+        "rip",
+        "tell",
+        "offer"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "ripper",
+        "causal agent",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "nihilists",
+      "recipients": [
+        "car",
+        "Dude",
+        "girl",
+        "money"
+      ],
+      "verbs": [
+        "stand",
+        "face",
+        "have",
+        "kill",
+        "want"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing viewed",
+        "looker",
+        "causal agent",
+        "Utterance",
+        "asker",
+        "killer",
+        "money or attention",
+        "replier",
+        "wanter",
+        "carer",
+        "decider"
+      ]
+    },
+    {
+      "characterName": "chief",
+      "recipients": [
+        "station",
+        "Dude",
+        "town",
+        "stay"
+      ],
+      "verbs": [
+        "go",
+        "tell",
+        "demand"
+      ],
+      "traits": [
+        "drunk"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "asker",
+        "action incited "
+      ]
+    }
+  ]
+}

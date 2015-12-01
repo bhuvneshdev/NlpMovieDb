@@ -1,0 +1,104 @@
+{
+  "movieName": "TheTreasureoftheSierraMadre(1948)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Fred_Dobbs",
+      "recipients": [
+        "Mexico",
+        "victims",
+        "score",
+        "Curtin",
+        "share",
+        "goods",
+        "trip",
+        "Hat",
+        "Dobbs"
+      ],
+      "verbs": [
+        "be",
+        "make",
+        "see",
+        "hold",
+        "encounter",
+        "steal"
+      ],
+      "traits": [
+        "very"
+      ],
+      "semanticRoles": [
+        "creator",
+        "entity afraid",
+        "viewer",
+        "something",
+        "holder",
+        "sleeper",
+        "corpse",
+        "Agent/Entity Trying",
+        "entity encountering something",
+        "applauded",
+        "thief"
+      ]
+    },
+    {
+      "characterName": "Bob_Curtin",
+      "recipients": [
+        "Mexico",
+        "victims",
+        "day",
+        "monster",
+        "rock",
+        "man",
+        "share",
+        "Curtin",
+        "intention",
+        "Dobbs"
+      ],
+      "verbs": [
+        "be",
+        "see",
+        "kill",
+        "lift",
+        "shoot",
+        "hold",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "killer",
+        "entity making resolution",
+        "thing viewed",
+        "elevator",
+        "shooter",
+        "thing found",
+        "something",
+        "holder",
+        "survivor",
+        "understander"
+      ]
+    },
+    {
+      "characterName": "partners",
+      "recipients": [
+        "money",
+        "Howard",
+        "land",
+        "gold"
+      ],
+      "verbs": [
+        "have",
+        "join",
+        "find",
+        "split"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "thing found",
+        "causer of attachment",
+        "finder",
+        "entity causing separation"
+      ]
+    }
+  ]
+}

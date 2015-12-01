@@ -1,0 +1,569 @@
+{
+  "movieName": "ToKillaMockingbird(1962)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "woman",
+      "recipients": [
+        "town",
+        "events",
+        "Atticus"
+      ],
+      "verbs": [
+        "recall",
+        "summons"
+      ],
+      "traits": [
+        "old",
+        "young",
+        "white"
+      ],
+      "semanticRoles": [
+        "knower",
+        "inviter",
+        "victim",
+        "emotion or sensation"
+      ]
+    },
+    {
+      "characterName": "Atticus",
+      "recipients": [
+        "Atticus",
+        "football",
+        "Dubose",
+        "evening",
+        "case",
+        "her",
+        "empathy",
+        "wife",
+        "Jem",
+        "things",
+        "home",
+        "Tom_Robinson",
+        "town",
+        "head",
+        "light",
+        "chair",
+        "children",
+        "testimony",
+        "marks",
+        "Ewell",
+        "Mayella",
+        "Tom",
+        "lack",
+        "Helen",
+        "papers",
+        "face",
+        "hand",
+        "Arthur"
+      ],
+      "verbs": [
+        "thank",
+        "play",
+        "handle",
+        "listen",
+        "remind",
+        "defend",
+        "teach",
+        "visit",
+        "reassure",
+        "keep",
+        "drive",
+        "hold",
+        "tell",
+        "take",
+        "reading",
+        "establish",
+        "have",
+        "get",
+        "ask",
+        "call",
+        "point",
+        "gather",
+        "wipe",
+        "consider",
+        "shake"
+      ],
+      "traits": [
+        "old",
+        "accompanying"
+      ],
+      "semanticRoles": [
+        "thanker",
+        "invited",
+        "thanked",
+        "explainer",
+        "player",
+        "Sayer",
+        "goal",
+        "handler",
+        "listener",
+        "cause",
+        "defender",
+        "question",
+        "agreer",
+        "entity confronted",
+        "Speaker",
+        "teacher",
+        "one party",
+        "causer of assurance",
+        "Keeper",
+        "knower",
+        "wisher",
+        "driver",
+        "subject",
+        "holder",
+        "entity leaving",
+        "reader",
+        "agent",
+        "Utterance",
+        "receiver",
+        "asker",
+        "summarizer",
+        "pointer",
+        "agent or causer",
+        "Reporter",
+        "causer of motion",
+        "thinker",
+        "beginner",
+        "implier",
+        "thing dragged",
+        "feeler",
+        "causer of trembling motion"
+      ]
+    },
+    {
+      "characterName": "Their",
+      "recipients": [
+        "patch",
+        "Mrs",
+        "Atticus",
+        "people"
+      ],
+      "verbs": [
+        "discover",
+        "pass",
+        "meet",
+        "leave"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "assured one",
+        "finder",
+        "legislative body",
+        "achiever",
+        "walker",
+        "entity leaving",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "Jem",
+      "recipients": [
+        "Jem",
+        "porch",
+        "day",
+        "window",
+        "fright",
+        "children",
+        "pants",
+        "fight",
+        "Walter",
+        "stature",
+        "night",
+        "her",
+        "britches",
+        "downtown",
+        "knife"
+      ],
+      "verbs": [
+        "describe",
+        "go",
+        "avoid",
+        "look",
+        "cower",
+        "leave",
+        "get",
+        "break",
+        "invite",
+        "learn",
+        "show",
+        "find",
+        "tell",
+        "walk",
+        "wield"
+      ],
+      "traits": [
+        "frightened",
+        "disconsolate",
+        "unconscious"
+      ],
+      "semanticRoles": [
+        "describer",
+        "thing described",
+        "impelled agent",
+        "avoider",
+        "looker",
+        "event",
+        "afraid entity",
+        "entity leaving",
+        "receiver",
+        "inviter",
+        "breaker",
+        "student",
+        "assured one",
+        "shower",
+        "finder",
+        "Speaker",
+        "wanter",
+        "checker",
+        "walker",
+        "entity refusing",
+        "Utterance",
+        "insister",
+        "thing thrown",
+        "thing(s) petted",
+        "holder"
+      ]
+    },
+    {
+      "characterName": "Radley",
+      "recipients": [
+        "Their",
+        "prowler",
+        "hole"
+      ],
+      "verbs": [
+        "tell",
+        "frighten",
+        "cement"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "cause of fear",
+        "shooter",
+        "causer of connection"
+      ]
+    },
+    {
+      "characterName": "Dill",
+      "recipients": [
+        "day",
+        "Jem",
+        "courthouse",
+        "night"
+      ],
+      "verbs": [
+        "dare",
+        "go",
+        "prompt"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "urger",
+        "wanter",
+        "causer",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "Scout",
+      "recipients": [
+        "foot",
+        "gunshot",
+        "stature",
+        "fights",
+        "school",
+        "tree",
+        "downtown",
+        "Walter_Cunningham",
+        "Scout",
+        "mob",
+        "October",
+        "costume",
+        "home",
+        "man",
+        "door",
+        "Boo"
+      ],
+      "verbs": [
+        "end",
+        "hear",
+        "learn",
+        "have",
+        "find",
+        "walk",
+        "recognize",
+        "lead",
+        "call",
+        "wear",
+        "see",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Intentional agent",
+        "feeler",
+        "student",
+        "causer of continuation",
+        "finder",
+        "walker",
+        "applauder",
+        "applauded",
+        "leader",
+        "thing led",
+        "wearer",
+        "viewer",
+        "receiver",
+        "Speaker",
+        "question",
+        "agreer"
+      ]
+    },
+    {
+      "characterName": "Boo_Radley",
+      "recipients": [
+        "head",
+        "Bob_Ewell",
+        "duty"
+      ],
+      "verbs": [
+        "stroke",
+        "kill",
+        "do"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "first thing being locked",
+        "stroker",
+        "killer",
+        "path walked"
+      ]
+    },
+    {
+      "characterName": "Tom",
+      "recipients": [
+        "man",
+        "Mayella",
+        "chifforobe",
+        "glass",
+        "Tom",
+        "hand",
+        "dignified",
+        "spring",
+        "way",
+        "breath",
+        "aim"
+      ],
+      "verbs": [
+        "be",
+        "attack",
+        "follow",
+        "bust",
+        "catch",
+        "toss",
+        "use",
+        "ask",
+        "choke",
+        "break"
+      ],
+      "traits": [
+        "strong"
+      ],
+      "semanticRoles": [
+        "causal agent",
+        "attacker",
+        "question",
+        "breaker",
+        "receiver",
+        "item being labelled",
+        "tosser(s)",
+        "User",
+        "agent",
+        "asker",
+        "witness",
+        "entity grabbed",
+        "Utterance",
+        "thing gotten",
+        "admitter",
+        "causer of choking",
+        "corpse",
+        "operator"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "house",
+        "door",
+        "them",
+        "Jem"
+      ],
+      "verbs": [
+        "carry",
+        "rescue",
+        "pet"
+      ],
+      "traits": [
+        "black",
+        "crazy"
+      ],
+      "semanticRoles": [
+        "accused",
+        "entity removing",
+        "object of affection",
+        "carrier",
+        "thing viewed",
+        "rescuer",
+        "new knower",
+        "invited",
+        "assured one",
+        "petter(s)"
+      ]
+    },
+    {
+      "characterName": "Bob_Ewell",
+      "recipients": [
+        "Atticus",
+        "window",
+        "lover",
+        "Mayella",
+        "name",
+        "chifforobe"
+      ],
+      "verbs": [
+        "confront",
+        "lurch",
+        "call",
+        "hear",
+        "write",
+        "cuss",
+        "kill",
+        "arrive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "confrontational entity",
+        "Speaker",
+        "Utterance",
+        "entity moving",
+        "witness",
+        "viewer",
+        "thing gotten",
+        "feeler",
+        "killer",
+        "Sayer",
+        "spitter",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "children",
+      "recipients": [
+        "street",
+        "figures",
+        "hole",
+        "children",
+        "home",
+        "courthouse",
+        "place"
+      ],
+      "verbs": [
+        "go",
+        "find",
+        "push"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "fleer",
+        "place",
+        "asker",
+        "finder",
+        "thing found",
+        "pusher",
+        "thing pushed",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "Walter_Cunningham",
+      "recipients": [
+        "lunch",
+        "gun",
+        "rabbits",
+        "squirrels",
+        "plate",
+        "Scout"
+      ],
+      "verbs": [
+        "have",
+        "hunt",
+        "drown",
+        "lead"
+      ],
+      "traits": [
+        "young"
+      ],
+      "semanticRoles": [
+        "invited",
+        "hunter",
+        "entity covering",
+        "applauded",
+        "leader"
+      ]
+    },
+    {
+      "characterName": "Mayella_Ewell",
+      "recipients": [
+        "him",
+        "Tom",
+        "what",
+        "life"
+      ],
+      "verbs": [
+        "get",
+        "ask",
+        "claim",
+        "put"
+      ],
+      "traits": [
+        "inconsistent",
+        "uncomfortable"
+      ],
+      "semanticRoles": [
+        "thing hit",
+        "receiver",
+        "entity attacked",
+        "witness",
+        "thing following",
+        "asker",
+        "question",
+        "breaker",
+        "claimer"
+      ]
+    },
+    {
+      "characterName": "prosecutor",
+      "recipients": [
+        "Tom",
+        "examination",
+        "Mayella"
+      ],
+      "verbs": [
+        "get",
+        "pity"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "receiver",
+        "Sayer",
+        "dismisser",
+        "allower",
+        "pitier"
+      ]
+    }
+  ]
+}

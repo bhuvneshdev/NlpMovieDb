@@ -1,0 +1,193 @@
+{
+  "movieName": "TheBestYearsofOurLives(1946)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Fred_Derry",
+      "recipients": [
+        "Boone_City",
+        "end",
+        "home",
+        "captain",
+        "executive",
+        "jerk",
+        "Marie",
+        "building",
+        "money",
+        "Air_Force",
+        "job",
+        "man",
+        "town",
+        "foreman",
+        "Fred",
+        "her"
+      ],
+      "verbs": [
+        "return",
+        "be",
+        "find",
+        "pass",
+        "have",
+        "earn",
+        "punch",
+        "leave",
+        "talk",
+        "see",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "one half",
+        "legislative body",
+        "vehicle or path",
+        "earner",
+        "impelled agent",
+        "other party",
+        "place",
+        "gun/projectile",
+        "agent",
+        "ex-spouse",
+        "entity leaving",
+        "decider",
+        "Utterance",
+        "talker",
+        "viewer",
+        "thing viewed",
+        "includer",
+        "Speaker",
+        "cognate object"
+      ]
+    },
+    {
+      "characterName": "Homer_Parrish",
+      "recipients": [
+        "Boone_City",
+        "end",
+        "home",
+        "prostheses",
+        "rank",
+        "athlete",
+        "himself",
+        "Peggy",
+        "room",
+        "suckers"
+      ],
+      "verbs": [
+        "return",
+        "use",
+        "rise",
+        "be",
+        "isolate",
+        "show",
+        "take"
+      ],
+      "traits": [
+        "unable"
+      ],
+      "semanticRoles": [
+        "User",
+        "puller",
+        "beginner",
+        "feeler",
+        "causer of continuation",
+        "entity causing isolation",
+        "Utterance",
+        "shower",
+        "place",
+        "loved",
+        "acceptor",
+        "thing accepted"
+      ]
+    },
+    {
+      "characterName": "Al_Stevenson",
+      "recipients": [
+        "Boone_City",
+        "end",
+        "home",
+        "life",
+        "problem",
+        "charge"
+      ],
+      "verbs": [
+        "return",
+        "readjust",
+        "develop",
+        "be"
+      ],
+      "traits": [
+        "older"
+      ],
+      "semanticRoles": [
+        "first struggler",
+        "agent",
+        "insister",
+        "thing in motion",
+        "knower"
+      ]
+    },
+    {
+      "characterName": "Marie",
+      "recipients": [
+        "marriage",
+        "intention"
+      ],
+      "verbs": [
+        "break",
+        "announce"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing found",
+        "beginner",
+        "experiencer",
+        "wanter",
+        "one half",
+        "talker",
+        "entity making resolution",
+        "breaker",
+        "place",
+        "announcer"
+      ]
+    },
+    {
+      "characterName": "Peggy",
+      "recipients": [
+        "home",
+        "building",
+        "Fred",
+        "morning",
+        "way",
+        "Al",
+        "Marie"
+      ],
+      "verbs": [
+        "take",
+        "drive",
+        "visit",
+        "despise",
+        "tell",
+        "leave",
+        "smile"
+      ],
+      "traits": [
+        "uninterested"
+      ],
+      "semanticRoles": [
+        "driver",
+        "one party",
+        "despiser",
+        "Speaker",
+        "entity leaving",
+        "Utterance",
+        "thing viewed",
+        "wanter",
+        "thing seen/shown",
+        "place",
+        "includer",
+        "agent smiling",
+        "kisser"
+      ]
+    }
+  ]
+}

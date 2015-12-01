@@ -1,0 +1,863 @@
+{
+  "movieName": "MontyPythonandtheHolyGrail(1975)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "music",
+      "recipients": [
+        "crescendo"
+      ],
+      "verbs": [
+        "reach"
+      ],
+      "traits": [
+        "ominous",
+        "Latin",
+        "Stressful",
+        "erupting",
+        "melancholy"
+      ],
+      "semanticRoles": [
+        "player",
+        "utterance",
+        "thing striving",
+        "thing interrupted"
+      ]
+    },
+    {
+      "characterName": "Arthur",
+      "recipients": [
+        "master",
+        "Arthur",
+        "conversation",
+        "quest",
+        "ride",
+        "king",
+        "Michael_Palin",
+        "woman",
+        "mistake",
+        "kingship",
+        "point",
+        "battle",
+        "knight",
+        "which",
+        "bridge",
+        "swords",
+        "defeat",
+        "prayer",
+        "Bedevere",
+        "himself",
+        "Camelot",
+        "perception",
+        "posture",
+        "meaning",
+        "hut",
+        "left",
+        "glances",
+        "Duffell",
+        "She",
+        "awe",
+        "task",
+        "Brother_Maynard_Eric_Idle",
+        "problem",
+        "Lancelot",
+        "fact",
+        "hands",
+        "tip",
+        "oath",
+        "lake"
+      ],
+      "verbs": [
+        "recruit",
+        "join",
+        "return",
+        "emulate",
+        "be",
+        "approach",
+        "call",
+        "apologize",
+        "justify",
+        "manhandle",
+        "encounter",
+        "invite",
+        "standing",
+        "cross",
+        "draw",
+        "accept",
+        "relieve",
+        "offer",
+        "identify",
+        "avoid",
+        "have",
+        "take",
+        "know",
+        "make",
+        "meet",
+        "coerce",
+        "accomplish",
+        "solve",
+        "search",
+        "mount",
+        "shout"
+      ],
+      "traits": [
+        "unwilling",
+        "sufficient"
+      ],
+      "semanticRoles": [
+        "recruiter",
+        "looker",
+        "wisher",
+        "agent",
+        "announcer",
+        "first thing being tied",
+        "Agent/Entity Trying",
+        "agent or entity competing",
+        "thing covered",
+        "apologist",
+        "justifier",
+        "challenged (champion?)",
+        "thing given",
+        "replier",
+        "thing handled",
+        "handler",
+        "entity encountering something",
+        "entity in motion",
+        "inviter",
+        "causer of continuation",
+        "causal agent",
+        "crosser",
+        "forbidden action",
+        "artist",
+        "causer",
+        "acceptor",
+        "manager",
+        "thing relieving",
+        "kneeler",
+        "Person goaded",
+        "caller",
+        "avoider",
+        "voters",
+        "entity being chastised",
+        "viewer",
+        "asker",
+        "knower",
+        "creator",
+        "achiever",
+        "persuasive entity",
+        "finder",
+        "question",
+        "doer",
+        "solver",
+        "searcher",
+        "thing found",
+        "Area searched",
+        "climber",
+        "starter",
+        "shouter",
+        "AGENT of motion",
+        "criminal"
+      ]
+    },
+    {
+      "characterName": "Eric_Idle",
+      "recipients": [
+        "dead",
+        "triangle",
+        "cart",
+        "time",
+        "guard",
+        "Roger"
+      ],
+      "verbs": [
+        "bring",
+        "strike",
+        "attend",
+        "have",
+        "make",
+        "happen"
+      ],
+      "traits": [
+        "disheveled"
+      ],
+      "semanticRoles": [
+        "animate",
+        "bringer",
+        "thing attending",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "John_Cleese",
+      "recipients": [
+        "man",
+        "opponent",
+        "sword",
+        "insults",
+        "heroes",
+        "silences"
+      ],
+      "verbs": [
+        "lay",
+        "run",
+        "retrieve",
+        "make",
+        "taunt",
+        "withstand"
+      ],
+      "traits": [
+        "blackclad",
+        "French",
+        "able",
+        "foolish"
+      ],
+      "semanticRoles": [
+        "Agent/Entity Trying",
+        "operator",
+        "receiver",
+        "causal agent",
+        "thing turning",
+        "taunter",
+        "creator",
+        "entity withstanding",
+        "thing following",
+        "talker",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "Bridge",
+        "way",
+        "Man"
+      ],
+      "verbs": [
+        "guard",
+        "find",
+        "give"
+      ],
+      "traits": [
+        "decrepit",
+        "alive",
+        "French",
+        "unclear",
+        "first",
+        "old",
+        "middleaged",
+        "Old"
+      ],
+      "semanticRoles": [
+        "entity in the position",
+        "causal agent",
+        "guard",
+        "thing given",
+        "finder",
+        "giver",
+        "thing thrown"
+      ]
+    },
+    {
+      "characterName": "attendant",
+      "recipients": [
+        "cargo",
+        "street"
+      ],
+      "verbs": [
+        "accept",
+        "look"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "acceptor",
+        "entity refusing",
+        "animate",
+        "looker",
+        "causer of continuation",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "king",
+      "recipients": [
+        "authority",
+        "validation",
+        "crowd",
+        "Grail",
+        "giant",
+        "castle",
+        "accent",
+        "son",
+        "princess",
+        "music",
+        "Herbert",
+        "discussion",
+        "room",
+        "prohibition",
+        "king",
+        "displeasure",
+        "Lancelot",
+        "arrangement",
+        "narrative"
+      ],
+      "verbs": [
+        "assert",
+        "seek",
+        "search",
+        "encounter",
+        "build",
+        "have",
+        "explain",
+        "marry",
+        "shout",
+        "forbid",
+        "close",
+        "leave",
+        "repeat",
+        "give",
+        "appear",
+        "introduce",
+        "calm"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing that was wrong",
+        "acceptor",
+        "asserter",
+        "Agent / entity seeking",
+        "searcher",
+        "decider",
+        "entity encountering something",
+        "entity descending",
+        "viewer",
+        "agreer",
+        "manager",
+        "builder",
+        "boastful talker",
+        "finder",
+        "admitter",
+        "causer",
+        "explainer",
+        "shouter",
+        "disallower",
+        "person doing the closing",
+        "entity leaving",
+        "speaker",
+        "giver",
+        "thing given",
+        "student",
+        "entity becoming calm",
+        "agent of calming",
+        "Agent/Entity Trying",
+        "entity making introduction",
+        "causer of continuing event",
+        "art"
+      ]
+    },
+    {
+      "characterName": "Dennis",
+      "recipients": [
+        "system",
+        "bottom",
+        "rant",
+        "deal",
+        "presumption",
+        "elocution",
+        "significance",
+        "shot"
+      ],
+      "verbs": [
+        "be",
+        "launch",
+        "harbour",
+        "challenge",
+        "continue",
+        "appear"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "starter",
+        "challenger",
+        "causer of continuation"
+      ]
+    },
+    {
+      "characterName": "orders",
+      "recipients": [
+        "expression",
+        "Herbert",
+        "Robin"
+      ],
+      "verbs": [
+        "use",
+        "watch",
+        "Sir"
+      ],
+      "traits": [
+        "barking"
+      ],
+      "semanticRoles": [
+        "attacker",
+        "User",
+        "guard"
+      ]
+    },
+    {
+      "characterName": "knight",
+      "recipients": [
+        "word",
+        "gaze",
+        "knight",
+        "swords",
+        "mystique",
+        "Arthur",
+        "sword"
+      ],
+      "verbs": [
+        "speak",
+        "turn",
+        "draw",
+        "kick",
+        "drop",
+        "goad",
+        "raise"
+      ],
+      "traits": [
+        "unarmed",
+        "first",
+        "unidentified",
+        "free"
+      ],
+      "semanticRoles": [
+        "thing turning",
+        "talker",
+        "turner",
+        "invited",
+        "artist",
+        "thing being helped",
+        "thing kicked",
+        "kicker",
+        "entity doing the dropping",
+        "Urger",
+        "Agent"
+      ]
+    },
+    {
+      "characterName": "party",
+      "recipients": [
+        "awe",
+        "Cleese"
+      ],
+      "verbs": [
+        "be",
+        "follow"
+      ],
+      "traits": [
+        "human"
+      ],
+      "semanticRoles": [
+        "action allowed",
+        "agent or entity competing",
+        "thing",
+        "causal agent",
+        "thing followed",
+        "money",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "themselves",
+      "recipients": [
+        "village",
+        "testimony",
+        "John_Cleese",
+        "themselves",
+        "Michael_Palin"
+      ],
+      "verbs": [
+        "traverse",
+        "present",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "rider",
+        "thing hit",
+        "traveller",
+        "giver",
+        "thing found",
+        "finder",
+        "Stimulusr of nervousness"
+      ]
+    },
+    {
+      "characterName": "Terry_Jones",
+      "recipients": [
+        "experiment",
+        "what",
+        "walls",
+        "Lancelot"
+      ],
+      "verbs": [
+        "perform",
+        "do",
+        "escape",
+        "escort"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "performer",
+        "thing mistaken",
+        "entity escaping",
+        "subject accompanier"
+      ]
+    },
+    {
+      "characterName": "Bedevere",
+      "recipients": [
+        "intelligence",
+        "energy",
+        "king",
+        "remainder",
+        "step",
+        "point",
+        "hut",
+        "She",
+        "Lancelot"
+      ],
+      "verbs": [
+        "overtax",
+        "leave",
+        "bow",
+        "explain",
+        "forget",
+        "realize",
+        "be",
+        "coerce",
+        "search"
+      ],
+      "traits": [
+        "knightedx2013Camelot"
+      ],
+      "semanticRoles": [
+        "entity leaving",
+        "taxer",
+        "entity in motion",
+        "bower",
+        "explainer",
+        "forgetter",
+        "new knower",
+        "persuasive entity",
+        "searcher",
+        "criminal"
+      ]
+    },
+    {
+      "characterName": "knights",
+      "recipients": [
+        "Lancelot",
+        "majesty",
+        "rabbit",
+        "Grail",
+        "Knights",
+        "Ni",
+        "shrubbery",
+        "Arthur",
+        "attempt"
+      ],
+      "verbs": [
+        "be",
+        "appreciate",
+        "climb",
+        "search",
+        "say",
+        "demand",
+        "charge",
+        "die"
+      ],
+      "traits": [
+        "eccentric",
+        "several",
+        "other"
+      ],
+      "semanticRoles": [
+        "performer",
+        "Thing thought about",
+        "climber",
+        "searcher",
+        "Sayer",
+        "asker",
+        "entity defeated",
+        "new knower",
+        "entity ambushed"
+      ]
+    },
+    {
+      "characterName": "heroes",
+      "recipients": [
+        "castle",
+        "grail"
+      ],
+      "verbs": [
+        "encounter",
+        "have",
+        "leave"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity encountering something",
+        "entity taunted",
+        "indicator",
+        "entity leaving",
+        "thing in motion"
+      ]
+    },
+    {
+      "characterName": "Robin",
+      "recipients": [
+        "significance",
+        "fact",
+        "quiz",
+        "bravery",
+        "volunteers",
+        "trivia"
+      ],
+      "verbs": [
+        "discreetly",
+        "continue",
+        "face",
+        "find",
+        "involve"
+      ],
+      "traits": [
+        "prepared",
+        "available"
+      ],
+      "semanticRoles": [
+        "traveller",
+        "looker",
+        "question or thing in doubt",
+        "wisher",
+        "causer of continuation",
+        "rider",
+        "finder",
+        "thing thrown"
+      ]
+    },
+    {
+      "characterName": "Galahad",
+      "recipients": [
+        "Anthrax",
+        "light",
+        "Grail",
+        "strength",
+        "punishment",
+        "which",
+        "answer"
+      ],
+      "verbs": [
+        "follow",
+        "see",
+        "find",
+        "administer",
+        "flub"
+      ],
+      "traits": [
+        "shy"
+      ],
+      "semanticRoles": [
+        "causal agent",
+        "viewer",
+        "asker",
+        "finder",
+        "administrator",
+        "logical subject"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "Jones",
+        "attack"
+      ],
+      "verbs": [
+        "mistake",
+        "recover"
+      ],
+      "traits": [
+        "own",
+        "princess"
+      ],
+      "semanticRoles": [
+        "entity making an assumption",
+        "entity leaving",
+        "entity in motion",
+        "experiencer"
+      ]
+    },
+    {
+      "characterName": "Herbert",
+      "recipients": [
+        "complexion",
+        "song",
+        "himself",
+        "landgrab",
+        "note",
+        "arrow",
+        "castle",
+        "ordeal"
+      ],
+      "verbs": [
+        "have",
+        "express",
+        "participate",
+        "shoot",
+        "tie",
+        "write",
+        "appear",
+        "explain"
+      ],
+      "traits": [
+        "effeminatex2013so",
+        "reluctant"
+      ],
+      "semanticRoles": [
+        "speaker",
+        "agent",
+        "wisher",
+        "forbidden action",
+        "singer",
+        "Agent/Entity Trying",
+        "shooter",
+        "creator",
+        "User",
+        "explainer",
+        "beginner"
+      ]
+    },
+    {
+      "characterName": "Lancelot",
+      "recipients": [
+        "note",
+        "gain",
+        "Camelot",
+        "people",
+        "room",
+        "swings",
+        "attempt"
+      ],
+      "verbs": [
+        "discover",
+        "provide",
+        "be",
+        "kill",
+        "insist",
+        "make"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "provider",
+        "object accompanied",
+        "entity being introduced",
+        "killer",
+        "excited entity",
+        "gesturer",
+        "insister",
+        "place",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "someone",
+      "recipients": [
+        "what",
+        "members",
+        "castle",
+        "seconds",
+        "wallhanging",
+        "guards",
+        "room",
+        "Holy_Hand_Grenade_of_Antioch"
+      ],
+      "verbs": [
+        "think",
+        "attack",
+        "charge",
+        "take",
+        "kill",
+        "burst",
+        "recall"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Thinker",
+        "agent",
+        "attacker",
+        "killer"
+      ]
+    },
+    {
+      "characterName": "police",
+      "recipients": [
+        "world",
+        "investigation",
+        "murderer"
+      ],
+      "verbs": [
+        "continue",
+        "look",
+        "discover"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causer of continuation",
+        "looker",
+        "entity getting warning",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Tim",
+      "recipients": [
+        "beard",
+        "monster",
+        "carnage"
+      ],
+      "verbs": [
+        "have",
+        "sight",
+        "regard"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "promiser",
+        "summoner",
+        "helper",
+        "viewer",
+        "feeler",
+        "describer"
+      ]
+    },
+    {
+      "characterName": "sthrow",
+      "recipients": [
+        "verses",
+        "instructions",
+        "meaning",
+        "Bridge"
+      ],
+      "verbs": [
+        "consult",
+        "receive",
+        "deduce",
+        "approach"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "consulter",
+        "Agent/Entity Trying",
+        "agent"
+      ]
+    }
+  ]
+}

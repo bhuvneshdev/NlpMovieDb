@@ -1,0 +1,206 @@
+{
+  "movieName": "StrangersonaTrain(1951)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Guy_Haines",
+      "recipients": [
+        "vulgar",
+        "Bruno_Anthony",
+        "exchange",
+        "father",
+        "compartment",
+        "Miriam",
+        "Anne",
+        "truth",
+        "night",
+        "home",
+        "plan",
+        "man",
+        "Bruno",
+        "room",
+        "scene",
+        "match",
+        "park",
+        "murder",
+        "Guy_Haines",
+        "car"
+      ],
+      "verbs": [
+        "want",
+        "encounter",
+        "kill",
+        "depart",
+        "meet",
+        "threaten",
+        "call",
+        "admit",
+        "creep",
+        "agree",
+        "warn",
+        "find",
+        "reach",
+        "devise",
+        "beat",
+        "win",
+        "arrive",
+        "commit",
+        "be",
+        "leaf"
+      ],
+      "traits": [
+        "Amateur"
+      ],
+      "semanticRoles": [
+        "wanter",
+        "applauded",
+        "entity encountering something",
+        "Utterance",
+        "killer",
+        "entity leaving",
+        "achiever",
+        "Speaker",
+        "agent",
+        "thing reminded about",
+        "please or help whom? entity pleased by arg 0",
+        "sent",
+        "entity confronted",
+        "admitter",
+        "agreer",
+        "Agent/Entity Trying",
+        "finder",
+        "thing striving",
+        "thing decorated",
+        "deviser",
+        "winner",
+        "causal agent"
+      ]
+    },
+    {
+      "characterName": "Bruno_Anthony",
+      "recipients": [
+        "problems",
+        "Guy",
+        "lunch",
+        "Miriam",
+        "deal",
+        "cigarette",
+        "hometown",
+        "beaux",
+        "park",
+        "pistol",
+        "map",
+        "keys",
+        "party",
+        "guest",
+        "end",
+        "responsibility",
+        "murder",
+        "conversation",
+        "lighter",
+        "scene",
+        "sunset",
+        "police"
+      ],
+      "verbs": [
+        "discuss",
+        "recognize",
+        "tell",
+        "kill",
+        "agree",
+        "pocket",
+        "arrive",
+        "strangle",
+        "follow",
+        "remind",
+        "send",
+        "appear",
+        "complete",
+        "frame",
+        "take",
+        "overhear",
+        "have",
+        "plant",
+        "wait",
+        "start"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "wanter",
+        "applauder",
+        "discussant",
+        "entity encountered",
+        "Speaker",
+        "killer",
+        "agreer",
+        "taker",
+        "causal agent",
+        "stranger",
+        "cause",
+        "sender",
+        "beginner",
+        "thing pulled",
+        "fainter",
+        "thing found",
+        "finisher",
+        "decorator",
+        "hearer",
+        "allower",
+        "planner",
+        "putter",
+        "thing hit",
+        "event delayed",
+        "injured party",
+        "thing implicated",
+        "Agent"
+      ]
+    },
+    {
+      "characterName": "Miriam",
+      "recipients": [
+        "divorce",
+        "wife"
+      ],
+      "verbs": [
+        "call",
+        "play"
+      ],
+      "traits": [
+        "unconnected"
+      ],
+      "semanticRoles": [
+        "goal",
+        "corpse",
+        "player",
+        "decider",
+        "entity strangled",
+        "threat",
+        "achiever"
+      ]
+    },
+    {
+      "characterName": "Anne",
+      "recipients": [
+        "facts",
+        "Guy",
+        "mother",
+        "house",
+        "plan"
+      ],
+      "verbs": [
+        "put",
+        "confront",
+        "tell",
+        "visit",
+        "devise"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "confrontational entity",
+        "one party",
+        "Speaker",
+        "knower",
+        "deviser"
+      ]
+    }
+  ]
+}

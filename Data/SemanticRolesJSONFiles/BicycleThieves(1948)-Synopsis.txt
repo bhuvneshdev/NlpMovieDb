@@ -1,0 +1,111 @@
+{
+  "movieName": "BicycleThieves(1948)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Ricci",
+      "recipients": [
+        "bicycle",
+        "job",
+        "poster",
+        "hope",
+        "head"
+      ],
+      "verbs": [
+        "have",
+        "get",
+        "hang",
+        "mock",
+        "cradle"
+      ],
+      "traits": [
+        "desperate",
+        "delighted",
+        "able"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "agent",
+        "mocker",
+        "looker",
+        "humiliated entity",
+        "thing viewed",
+        "thing gotten"
+      ]
+    },
+    {
+      "characterName": "thief",
+      "recipients": [
+        "film",
+        "bicycle",
+        "cause"
+      ],
+      "verbs": [
+        "snatch",
+        "steal",
+        "abandon"
+      ],
+      "traits": [
+        "young",
+        "bold"
+      ],
+      "semanticRoles": [
+        "thief",
+        "snatched",
+        "institution",
+        "accused",
+        "thing given",
+        "abandoner"
+      ]
+    },
+    {
+      "characterName": "Antonio",
+      "recipients": [
+        "teller",
+        "son",
+        "thief",
+        "end"
+      ],
+      "verbs": [
+        "visit",
+        "admit",
+        "locate",
+        "accuse",
+        "sit"
+      ],
+      "traits": [
+        "good"
+      ],
+      "semanticRoles": [
+        "Thinker",
+        "one party",
+        "admitter",
+        "manager",
+        "causer of location",
+        "accuser",
+        "Utterance",
+        "walker"
+      ]
+    },
+    {
+      "characterName": "policeman",
+      "recipients": [
+        "boy",
+        "Antonio",
+        "witnesses",
+        "redhanded"
+      ],
+      "verbs": [
+        "see",
+        "tell",
+        "policeman",
+        "catch"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "receiver",
+        "Speaker"
+      ]
+    }
+  ]
+}

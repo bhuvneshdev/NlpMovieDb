@@ -1,0 +1,298 @@
+{
+  "movieName": "Se7en(1995)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "William_Somerset_Morgan_Freeman",
+      "recipients": [
+        "city",
+        "horrors",
+        "murder",
+        "marks",
+        "refrigerator",
+        "evidence",
+        "Victor",
+        "morning",
+        "Tracy",
+        "her",
+        "day",
+        "list",
+        "microphones",
+        "Somerset",
+        "box"
+      ],
+      "verbs": [
+        "prepare",
+        "retire",
+        "investigate",
+        "find",
+        "examine",
+        "interrogate",
+        "meet",
+        "advise",
+        "get",
+        "have",
+        "stop",
+        "open"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "retiree",
+        "second partnerer",
+        "examiner",
+        "thing given",
+        "finder",
+        "theorist",
+        "invited",
+        "asker",
+        "achiever",
+        "urger",
+        "entity giving advice",
+        "receiver",
+        "Utterance",
+        "action being stopped",
+        "opener",
+        "replier"
+      ]
+    },
+    {
+      "characterName": "Mills",
+      "recipients": [
+        "evidence",
+        "picture",
+        "Victor",
+        "microphones",
+        "prep",
+        "Somerset",
+        "himself",
+        "Doe",
+        "Pitt",
+        "sin",
+        "Whatever",
+        "captain"
+      ],
+      "verbs": [
+        "examine",
+        "find",
+        "interrogate",
+        "have",
+        "try",
+        "tell",
+        "bring",
+        "scream",
+        "kill",
+        "embody",
+        "need"
+      ],
+      "traits": [
+        "disgusted",
+        "catatonic"
+      ],
+      "semanticRoles": [
+        "thing given",
+        "consumer",
+        "examiner",
+        "finder",
+        "asker",
+        "alive entity",
+        "fleer",
+        "thing hit",
+        "thing kept",
+        "Speaker",
+        "Agent/Entity Trying",
+        "bringer",
+        "speaker",
+        "vehicle or path",
+        "screamer",
+        "place",
+        "killer",
+        "thing destroyed",
+        "needer"
+      ]
+    },
+    {
+      "characterName": "Tracy_Mills_Gwyneth_Paltrow",
+      "recipients": [
+        "dinner",
+        "Somerset",
+        "bed",
+        "requests",
+        "evening",
+        "truth"
+      ],
+      "verbs": [
+        "invite",
+        "go",
+        "call",
+        "reveal"
+      ],
+      "traits": [
+        "pregnant"
+      ],
+      "semanticRoles": [
+        "inviter",
+        "achiever",
+        "Utterance",
+        "goal",
+        "speaker"
+      ]
+    },
+    {
+      "characterName": "detectives",
+      "recipients": [
+        "Mrs",
+        "apartment",
+        "gun",
+        "home",
+        "Doe",
+        "woman",
+        "spot"
+      ],
+      "verbs": [
+        "have",
+        "raid",
+        "pull",
+        "come",
+        "finding",
+        "believe",
+        "walk"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "raider",
+        "one party",
+        "thing led",
+        "puller",
+        "beginner",
+        "thing examined",
+        "finder",
+        "apologist",
+        "person congratulated",
+        "thing followed",
+        "walker"
+      ]
+    },
+    {
+      "characterName": "her",
+      "recipients": [
+        "Tracy",
+        "Somerset",
+        "husband"
+      ],
+      "verbs": [
+        "tell",
+        "have"
+      ],
+      "traits": [
+        "pregnant"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "decider",
+        "impelled agent",
+        "entity getting advice"
+      ]
+    },
+    {
+      "characterName": "Doe",
+      "recipients": [
+        "Mills",
+        "time",
+        "Doe",
+        "order",
+        "device",
+        "gunpoint",
+        "Schanz",
+        "choice",
+        "which",
+        "rationale",
+        "towers"
+      ],
+      "verbs": [
+        "hit",
+        "keep",
+        "pose",
+        "admire",
+        "place",
+        "force",
+        "give",
+        "explain",
+        "direct",
+        "state"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "allower",
+        "Keeper",
+        "agent",
+        "second fighter",
+        "player",
+        "admirer",
+        "admired",
+        "thing found",
+        "putter",
+        "forcer",
+        "giver",
+        "explainer",
+        "talker",
+        "director",
+        "path walked",
+        "thing covered",
+        "announcer",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Pitt",
+      "recipients": [
+        "what",
+        "point",
+        "life",
+        "Mills",
+        "Doe",
+        "gun"
+      ],
+      "verbs": [
+        "do",
+        "admire",
+        "reveal",
+        "empty"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Sayer",
+        "admirer",
+        "memory",
+        "corpse",
+        "speaker",
+        "causal agent",
+        "condemned"
+      ]
+    },
+    {
+      "characterName": "driver",
+      "recipients": [
+        "what",
+        "horror",
+        "souvenir",
+        "husband"
+      ],
+      "verbs": [
+        "see",
+        "recoil",
+        "take",
+        "play"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "money or attention",
+        "viewer",
+        "one who recoils",
+        "Agent/Entity Trying",
+        "player",
+        "announcer"
+      ]
+    }
+  ]
+}

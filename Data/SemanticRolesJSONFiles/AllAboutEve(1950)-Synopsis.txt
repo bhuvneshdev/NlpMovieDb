@@ -1,0 +1,226 @@
+{
+  "movieName": "AllAboutEve(1950)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Eve_Harrington",
+      "recipients": [
+        "rise",
+        "gratitude",
+        "unworthiness",
+        "herself",
+        "life",
+        "telephones",
+        "bed",
+        "breakfast",
+        "home",
+        "kid",
+        "chance",
+        "nose",
+        "room",
+        "turn",
+        "threat",
+        "stage",
+        "award",
+        "bitterness",
+        "offer"
+      ],
+      "verbs": [
+        "\u0027s",
+        "gush",
+        "ingratiate",
+        "answer",
+        "bring",
+        "live",
+        "be",
+        "get",
+        "steal",
+        "wait",
+        "lament",
+        "have",
+        "reveal",
+        "set",
+        "accept",
+        "Channing"
+      ],
+      "traits": [
+        "young",
+        "amazing",
+        "sincere",
+        "hard",
+        "wonderful"
+      ],
+      "semanticRoles": [
+        "honorer",
+        "entity gathered",
+        "manager",
+        "sycophant",
+        "agent",
+        "replier",
+        "bringer",
+        "alive entity",
+        "object of disaffection",
+        "student",
+        "asker",
+        "receiver",
+        "thief",
+        "entity praised",
+        "regretter",
+        "wanter",
+        "speaker",
+        "Thinker",
+        "acceptor",
+        "place"
+      ]
+    },
+    {
+      "characterName": "Addison_DeWitt",
+      "recipients": [
+        "past",
+        "events",
+        "plan",
+        "hotel",
+        "night",
+        "plans",
+        "talk",
+        "power",
+        "door",
+        "glance"
+      ],
+      "verbs": [
+        "recount",
+        "follow",
+        "implement",
+        "have",
+        "be",
+        "take"
+      ],
+      "traits": [
+        "reviled",
+        "own"
+      ],
+      "semanticRoles": [
+        "thing sitting",
+        "beginner",
+        "teller of tale",
+        "experiencer of astonishment",
+        "causer of movement",
+        "cause of change",
+        "causal agent",
+        "implementer",
+        "knower",
+        "entity leaving",
+        "agent smiling"
+      ]
+    },
+    {
+      "characterName": "Karen",
+      "recipients": [
+        "Bill",
+        "favor",
+        "thing",
+        "Karen",
+        "friend",
+        "what",
+        "moment",
+        "DeWitt",
+        "turn",
+        "fact",
+        "past",
+        "nothing"
+      ],
+      "verbs": [
+        "impress",
+        "consider",
+        "teach",
+        "have",
+        "believe",
+        "want",
+        "reveal",
+        "laugh",
+        "lie",
+        "seem"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "worker",
+        "thinker",
+        "teacher",
+        "decider",
+        "subject",
+        "listener",
+        "appealed to",
+        "finder",
+        "creator",
+        "thing wanted",
+        "wanter",
+        "entity refusing",
+        "speaker",
+        "impelled agent",
+        "place"
+      ]
+    },
+    {
+      "characterName": "maid",
+      "recipients": [
+        "Eve",
+        "Margo",
+        "brewing"
+      ],
+      "verbs": [
+        "dislike",
+        "tell",
+        "sense"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "disliker",
+        "beginner",
+        "sensor"
+      ]
+    },
+    {
+      "characterName": "Margo",
+      "recipients": [
+        "plots",
+        "schemes",
+        "everyone",
+        "readthrough",
+        "play",
+        "plan",
+        "hotel",
+        "night",
+        "control",
+        "limit"
+      ],
+      "verbs": [
+        "see",
+        "get",
+        "fail",
+        "be",
+        "implement",
+        "Richards",
+        "achieve"
+      ],
+      "traits": [
+        "late",
+        "famous",
+        "suspicious"
+      ],
+      "semanticRoles": [
+        "Utterance",
+        "viewer",
+        "beginner",
+        "assured one",
+        "receiver",
+        "patient",
+        "thing kept",
+        "decider",
+        "announcer",
+        "implementer",
+        "achiever"
+      ]
+    }
+  ]
+}

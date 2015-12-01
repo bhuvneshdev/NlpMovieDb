@@ -1,0 +1,353 @@
+{
+  "movieName": "IntheNameoftheFather(1993)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Gerry",
+      "recipients": [
+        "rifle",
+        "riot",
+        "mob",
+        "Paul_Hill",
+        "home",
+        "London",
+        "time",
+        "house",
+        "drops",
+        "apartment",
+        "stash",
+        "bedroom",
+        "Belfast",
+        "family",
+        "name",
+        "statement",
+        "breakdown",
+        "confessions",
+        "minimum",
+        "hatred",
+        "drugs",
+        "convict",
+        "protest",
+        "countryman",
+        "himself",
+        "Gareth",
+        "detail",
+        "Giuseppe",
+        "father",
+        "Gerry",
+        "work"
+      ],
+      "verbs": [
+        "be",
+        "start",
+        "join",
+        "meet",
+        "visit",
+        "enjoy",
+        "pass",
+        "return",
+        "walk",
+        "find",
+        "rejoin",
+        "sign",
+        "have",
+        "rob",
+        "develop",
+        "stay",
+        "stage",
+        "separate",
+        "dislike",
+        "recount",
+        "revive",
+        "accompany",
+        "tell",
+        "continue",
+        "make"
+      ],
+      "traits": [
+        "tortured",
+        "able"
+      ],
+      "semanticRoles": [
+        "projectile",
+        "operator",
+        "Agent",
+        "agent",
+        "thing found",
+        "scared entity",
+        "sent",
+        "finder",
+        "achiever",
+        "one party",
+        "enjoyer",
+        "entity in motion",
+        "causer of continuation",
+        "walker",
+        "legislative body",
+        "Agent/Entity Trying",
+        "criminal",
+        "place invaded",
+        "question or thing in doubt",
+        "thing held",
+        "impelled agent",
+        "looker",
+        "thing hit",
+        "Utterance",
+        "one cooperator",
+        "entity refusing",
+        "relenter",
+        "signer",
+        "feeler",
+        "thing gotten",
+        "admitter",
+        "robber",
+        "thing given",
+        "accused",
+        "creation",
+        "item being labelled",
+        "promiser",
+        "performer",
+        "entity causing separation",
+        "disliker",
+        "Speaker",
+        "teller of tale",
+        "The Reanimator",
+        "subject accompanier",
+        "action allowed",
+        "other party",
+        "Theme (action or object being prevented)",
+        "object accompanied",
+        "carrier",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "Giuseppe",
+      "recipients": [
+        "Gerry",
+        "London",
+        "trouble",
+        "prison"
+      ],
+      "verbs": [
+        "send",
+        "talk",
+        "get",
+        "transport"
+      ],
+      "traits": [
+        "late"
+      ],
+      "semanticRoles": [
+        "Utterance",
+        "sender",
+        "decider",
+        "talker",
+        "receiver",
+        "entity destined",
+        "thing turning",
+        "entity becoming calm",
+        "thing brought back to life",
+        "causer of motion"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "scene",
+        "Giuseppe",
+        "outfits",
+        "night"
+      ],
+      "verbs": [
+        "rush",
+        "calm",
+        "wear",
+        "stop"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "causer of motion",
+        "corpse",
+        "bringer",
+        "agent of calming",
+        "wearer",
+        "project",
+        "object accompanied"
+      ]
+    },
+    {
+      "characterName": "Paul_Hill",
+      "recipients": [
+        "home",
+        "London",
+        "time",
+        "Gerry",
+        "himself"
+      ],
+      "verbs": [
+        "visit",
+        "enjoy",
+        "remain",
+        "tell",
+        "confess"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "goal",
+        "one party",
+        "enjoyer",
+        "causer of continuation",
+        "walker",
+        "criminal",
+        "Speaker",
+        "speaker",
+        "thing brought",
+        "thing gotten",
+        "achiever",
+        "object accompanied",
+        "entity refusing"
+      ]
+    },
+    {
+      "characterName": "police",
+      "recipients": [
+        "hunt",
+        "police"
+      ],
+      "verbs": [
+        "begin",
+        "let"
+      ],
+      "traits": [
+        "British"
+      ],
+      "semanticRoles": [
+        "beginner",
+        "action allowed",
+        "informed",
+        "allower",
+        "entity refusing"
+      ]
+    },
+    {
+      "characterName": "judge",
+      "recipients": [
+        "Gerry",
+        "penalty",
+        "point",
+        "order",
+        "accomplices"
+      ],
+      "verbs": [
+        "give",
+        "make",
+        "call",
+        "charge"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "giver",
+        "creator",
+        "declarer",
+        "entity refusing"
+      ]
+    },
+    {
+      "characterName": "Peirce",
+      "recipients": [
+        "park",
+        "father",
+        "Gerry",
+        "recorder",
+        "files",
+        "archives",
+        "man",
+        "folder",
+        "opportunity",
+        "trial",
+        "members",
+        "case",
+        "file"
+      ],
+      "verbs": [
+        "go",
+        "help",
+        "give",
+        "tell",
+        "review",
+        "view",
+        "visit",
+        "find",
+        "want",
+        "seize",
+        "build",
+        "steal"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "helper",
+        "Speaker",
+        "giver",
+        "allower",
+        "one party",
+        "finder",
+        "question",
+        "wanter",
+        "thief",
+        "beginner",
+        "builder"
+      ]
+    },
+    {
+      "characterName": "McAndrews",
+      "recipients": [
+        "police",
+        "people",
+        "family",
+        "protest"
+      ],
+      "verbs": [
+        "inform",
+        "hold",
+        "kill",
+        "stage"
+      ],
+      "traits": [
+        "responsible",
+        "remanded"
+      ],
+      "semanticRoles": [
+        "informer",
+        "holder",
+        "persecutee",
+        "thing avoided",
+        "killer",
+        "agent",
+        "performer"
+      ]
+    },
+    {
+      "characterName": "Gareth_Peirce",
+      "recipients": [
+        "influence",
+        "defense",
+        "statement",
+        "court"
+      ],
+      "verbs": [
+        "become",
+        "lead",
+        "present"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "object of disaffection",
+        "giver",
+        "leader"
+      ]
+    }
+  ]
+}

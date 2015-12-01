@@ -1,0 +1,279 @@
+{
+  "movieName": "HowtoTrainYourDragon(2010)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "dragons",
+      "recipients": [
+        "village",
+        "things",
+        "pit",
+        "food",
+        "island",
+        "sheep",
+        "home",
+        "themselves"
+      ],
+      "verbs": [
+        "attack",
+        "steal",
+        "drop",
+        "bring",
+        "fly",
+        "get",
+        "defend"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thief",
+        "attacker",
+        "second fighter",
+        "entity soothed",
+        "entity doing the dropping",
+        "bringer",
+        "receiver",
+        "defender",
+        "first fighter"
+      ]
+    },
+    {
+      "characterName": "Hiccup",
+      "recipients": [
+        "dragon",
+        "sky",
+        "boy",
+        "access",
+        "villagers",
+        "leather",
+        "fin",
+        "mechanism",
+        "series",
+        "harness",
+        "saddle",
+        "klutz",
+        "expectations",
+        "Astrid",
+        "captivated",
+        "Toothless",
+        "Stoick",
+        "chance",
+        "character",
+        "epiphany",
+        "ship",
+        "fire"
+      ],
+      "verbs": [
+        "shoot",
+        "haul",
+        "have",
+        "use",
+        "make",
+        "build",
+        "be",
+        "get",
+        "take",
+        "convince",
+        "call",
+        "listen",
+        "kill",
+        "come",
+        "rescue",
+        "fall"
+      ],
+      "traits": [
+        "able",
+        "unable",
+        "usual",
+        "unlikely"
+      ],
+      "semanticRoles": [
+        "carrier",
+        "shooter",
+        "knower",
+        "User",
+        "creator",
+        "releaser",
+        "finder",
+        "new knower",
+        "thing given",
+        "cause of perfection",
+        "builder",
+        "receiver",
+        "talker",
+        "explainer",
+        "horrified entity",
+        "decider",
+        "fleer",
+        "defeater",
+        "thing following",
+        "convincer",
+        "discarder",
+        "Agent/Entity Trying",
+        "allower",
+        "listener",
+        "theme",
+        "place",
+        "killer",
+        "challenged (champion?)",
+        "climber",
+        "rescuer",
+        "money",
+        "alarm clock",
+        "thing greeted"
+      ]
+    },
+    {
+      "characterName": "dragon",
+      "recipients": [
+        "valley",
+        "time",
+        "fin",
+        "ones"
+      ],
+      "verbs": [
+        "hole",
+        "fly",
+        "miss",
+        "eat"
+      ],
+      "traits": [
+        "terrifying",
+        "hungry",
+        "giant",
+        "trapped"
+      ],
+      "semanticRoles": [
+        "projectile",
+        "entity needing shelter",
+        "art",
+        "misser",
+        "corpse",
+        "consumer",
+        "contents",
+        "attacker",
+        "entity distracted",
+        "agent",
+        "occupier",
+        "thing gotten"
+      ]
+    },
+    {
+      "characterName": "Toothless",
+      "recipients": [
+        "Hiccup",
+        "Toothless",
+        "rescue",
+        "nest",
+        "end",
+        "mouth",
+        "blast",
+        "Stoick",
+        "wings"
+      ],
+      "verbs": [
+        "take",
+        "control",
+        "come",
+        "find",
+        "release",
+        "catch",
+        "open",
+        "urge"
+      ],
+      "traits": [
+        "wounded"
+      ],
+      "semanticRoles": [
+        "controller",
+        "controlled",
+        "thing viewed",
+        "finder",
+        "thing used",
+        "avoider",
+        "corpse",
+        "entity rescued",
+        "releaser",
+        "receiver",
+        "Agent/Entity Trying",
+        "opener",
+        "urger"
+      ]
+    },
+    {
+      "characterName": "Stoick_Gerard_Butler",
+      "recipients": [
+        "Butler",
+        "search",
+        "helmet",
+        "Hiccup",
+        "Toothless",
+        "mistake",
+        "island",
+        "themselves",
+        "foot"
+      ],
+      "verbs": [
+        "sign",
+        "return",
+        "give",
+        "use",
+        "make",
+        "fight",
+        "sacrifice",
+        "lose"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "signer",
+        "document",
+        "excited entity",
+        "giver",
+        "corpse",
+        "entity making resolution",
+        "User",
+        "creator",
+        "new knower",
+        "first thing being tied",
+        "first fighter",
+        "sacrificer",
+        "manager",
+        "rescuer",
+        "thing gotten",
+        "impelled agent"
+      ]
+    },
+    {
+      "characterName": "Astrid",
+      "recipients": [
+        "Hiccup",
+        "valley",
+        "Toothless",
+        "location",
+        "arm",
+        "him"
+      ],
+      "verbs": [
+        "follow",
+        "see",
+        "reveal",
+        "punch",
+        "kiss",
+        "challenge",
+        "greet"
+      ],
+      "traits": [
+        "suspicious"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "causal agent",
+        "speaker",
+        "impelled agent",
+        "Sayer",
+        "agent",
+        "kisser",
+        "challenger",
+        "greeter"
+      ]
+    }
+  ]
+}

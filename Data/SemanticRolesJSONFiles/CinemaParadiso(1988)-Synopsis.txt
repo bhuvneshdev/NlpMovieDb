@@ -1,0 +1,181 @@
+{
+  "movieName": "CinemaParadiso(1988)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Salvatore",
+      "recipients": [
+        "Rome",
+        "man",
+        "Elena",
+        "love",
+        "law",
+        "vision",
+        "remains",
+        "daughter",
+        "home",
+        "Salvatore",
+        "dunce"
+      ],
+      "verbs": [
+        "leaf",
+        "be",
+        "confess",
+        "join",
+        "see",
+        "wander",
+        "follow",
+        "know",
+        "return"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "speaker",
+        "place",
+        "entity in motion",
+        "agent",
+        "viewer",
+        "causal agent",
+        "new knower",
+        "knower",
+        "thing known or thought",
+        "confrontational entity",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "Toto",
+      "recipients": [
+        "theater",
+        "projectionist",
+        "sister",
+        "mother",
+        "bond",
+        "way",
+        "projector",
+        "movie",
+        "Alfredo"
+      ],
+      "verbs": [
+        "sneak",
+        "harass",
+        "have",
+        "form",
+        "run",
+        "watch",
+        "rescue"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity sneaking",
+        "botherer",
+        "activity/place/item not allowed; banned from",
+        "creator",
+        "student",
+        "operator",
+        "entity leaving",
+        "rescuer",
+        "knower"
+      ]
+    },
+    {
+      "characterName": "they",
+      "recipients": [
+        "scenes",
+        "romance",
+        "summer"
+      ],
+      "verbs": [
+        "contain",
+        "begin",
+        "try"
+      ],
+      "traits": [
+        "young"
+      ],
+      "semanticRoles": [
+        "container",
+        "beginner",
+        "achiever",
+        "Agent/Entity Trying",
+        "talker"
+      ]
+    },
+    {
+      "characterName": "Alfredo",
+      "recipients": [
+        "sight",
+        "Alfredo",
+        "night",
+        "day",
+        "Elena",
+        "what",
+        "life",
+        "Salvatore"
+      ],
+      "verbs": [
+        "lose",
+        "advise",
+        "wait",
+        "give",
+        "convince",
+        "catch",
+        "see",
+        "urge",
+        "tell",
+        "have",
+        "left"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing hit",
+        "entity rescued",
+        "entity getting advice",
+        "steerer",
+        "entity giving advice",
+        "entity in motion",
+        "giver",
+        "loved",
+        "receiver",
+        "convincer",
+        "thing viewed",
+        "viewer",
+        "entity leaving",
+        "impelled agent",
+        "urger",
+        "Speaker",
+        "Utterance",
+        "knower"
+      ]
+    },
+    {
+      "characterName": "Elena",
+      "recipients": [
+        "reply",
+        "Alfredo",
+        "Salvatore",
+        "love",
+        "Elena",
+        "reunion"
+      ],
+      "verbs": [
+        "\u0027s",
+        "love",
+        "leave",
+        "miss"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "lover",
+        "entity leaving",
+        "impelled agent",
+        "thing gotten",
+        "achiever",
+        "speaker",
+        "thing longed for",
+        "misser",
+        "Sayer"
+      ]
+    }
+  ]
+}

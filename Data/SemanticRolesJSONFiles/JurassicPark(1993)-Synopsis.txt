@@ -1,0 +1,202 @@
+{
+  "movieName": "JurassicPark(1993)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "group",
+      "recipients": [
+        "container",
+        "attraction"
+      ],
+      "verbs": [
+        "offload",
+        "experience"
+      ],
+      "traits": [
+        "large",
+        "small"
+      ],
+      "semanticRoles": [
+        "unloader",
+        "thing seen/shown",
+        "experiencer",
+        "leader",
+        "place"
+      ]
+    },
+    {
+      "characterName": "experts",
+      "recipients": [
+        "remains",
+        "date",
+        "infrastructure"
+      ],
+      "verbs": [
+        "uncover",
+        "manage"
+      ],
+      "traits": [
+        "scientific",
+        "top"
+      ],
+      "semanticRoles": [
+        "thing sought",
+        "discoverer",
+        "manager"
+      ]
+    },
+    {
+      "characterName": "Ellie_Sattler",
+      "recipients": [
+        "follower",
+        "veterinarians",
+        "group",
+        "jeep",
+        "remains",
+        "Malcolm",
+        "power"
+      ],
+      "verbs": [
+        "be",
+        "leaf",
+        "arrive",
+        "find",
+        "restore"
+      ],
+      "traits": [
+        "assistant"
+      ],
+      "semanticRoles": [
+        "killer",
+        "object accompanied",
+        "inviter",
+        "claimer",
+        "viewer",
+        "asker",
+        "entity leaving",
+        "finder",
+        "giver",
+        "manager",
+        "avoider"
+      ]
+    },
+    {
+      "characterName": "Alan_Grant",
+      "recipients": [
+        "witness",
+        "stampede",
+        "area",
+        "kids"
+      ],
+      "verbs": [
+        "be",
+        "make",
+        "leaf"
+      ],
+      "traits": [
+        "hesitant"
+      ],
+      "semanticRoles": [
+        "killer",
+        "object accompanied",
+        "disturbed",
+        "manager",
+        "entity escaping",
+        "creator",
+        "entity leaving",
+        "searcher",
+        "Agent/Entity Trying"
+      ]
+    },
+    {
+      "characterName": "children",
+      "recipients": [
+        "Sattler",
+        "Malcolm",
+        "Gennaro",
+        "Lex",
+        "Grant",
+        "Tim"
+      ],
+      "verbs": [
+        "accompany"
+      ],
+      "traits": [
+        "grand"
+      ],
+      "semanticRoles": [
+        "vehicle or path",
+        "subject accompanier"
+      ]
+    },
+    {
+      "characterName": "Lex",
+      "recipients": [
+        "freezer"
+      ],
+      "verbs": [
+        "lure"
+      ],
+      "traits": [
+        "monsters",
+        "frightened"
+      ],
+      "semanticRoles": [
+        "object accompanied",
+        "thing monopolized",
+        "manager",
+        "attractor",
+        "agent",
+        "thing followed"
+      ]
+    },
+    {
+      "characterName": "TRex",
+      "recipients": [
+        "enclosure",
+        "proceeds",
+        "sequence",
+        "jeep",
+        "chase",
+        "raptors",
+        "roar",
+        "victory"
+      ],
+      "verbs": [
+        "escape",
+        "give",
+        "attack"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity escaping",
+        "giver",
+        "attacker"
+      ]
+    },
+    {
+      "characterName": "raptors",
+      "recipients": [
+        "room",
+        "chase",
+        "atrium",
+        "heroes"
+      ],
+      "verbs": [
+        "break",
+        "give",
+        "corner"
+      ],
+      "traits": [
+        "last"
+      ],
+      "semanticRoles": [
+        "walker",
+        "manager",
+        "giver",
+        "breaker",
+        "monopolist",
+        "entity attacked"
+      ]
+    }
+  ]
+}

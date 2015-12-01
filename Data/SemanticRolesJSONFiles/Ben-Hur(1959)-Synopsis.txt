@@ -1,0 +1,244 @@
+{
+  "movieName": "Ben-Hur(1959)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Judah_BenHur",
+      "recipients": [
+        "merchant",
+        "friends",
+        "rage",
+        "chamber",
+        "way",
+        "gift",
+        "man",
+        "life",
+        "eye",
+        "Arrius",
+        "road",
+        "Messala",
+        "time",
+        "pain",
+        "words",
+        "Judah",
+        "Jesus",
+        "gourd",
+        "home",
+        "soul"
+      ],
+      "verbs": [
+        "be",
+        "fly",
+        "smash",
+        "recieve",
+        "gaze",
+        "row",
+        "catch",
+        "save",
+        "meet",
+        "collide",
+        "ease",
+        "come",
+        "help",
+        "seek",
+        "recognise",
+        "carry",
+        "return"
+      ],
+      "traits": [
+        "skilled"
+      ],
+      "semanticRoles": [
+        "speaker",
+        "entity refusing",
+        "thing thrown",
+        "student",
+        "agent",
+        "thing being removed",
+        "legislative body",
+        "container",
+        "looker",
+        "causer of continuation",
+        "rower",
+        "receiver",
+        "entity saving money",
+        "achiever",
+        "new friend",
+        "acceptor",
+        "theme",
+        "entity defeated",
+        "entity confronted",
+        "Agent / entity seeking",
+        "walker",
+        "Agent/Entity Trying",
+        "helper",
+        "appealed to",
+        "project",
+        "alive entity",
+        "thing sought",
+        "finder",
+        "thing carried",
+        "carrier"
+      ]
+    },
+    {
+      "characterName": "Messala",
+      "recipients": [
+        "anger",
+        "opportunity",
+        "time",
+        "chariot",
+        "Judah",
+        "Governor"
+      ],
+      "verbs": [
+        "leaf",
+        "seize",
+        "collide",
+        "crash",
+        "confront",
+        "gasp"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "declarer",
+        "agent",
+        "explainer",
+        "thing given",
+        "Sayer",
+        "goal",
+        "plotter(s)",
+        "beginner",
+        "experiencer of astonishment",
+        "theme",
+        "causer of damage",
+        "confrontational entity",
+        "breather"
+      ]
+    },
+    {
+      "characterName": "Governor",
+      "recipients": [
+        "Judah",
+        "prison",
+        "deed",
+        "cloth",
+        "death"
+      ],
+      "verbs": [
+        "throw",
+        "do",
+        "drop",
+        "condeme"
+      ],
+      "traits": [
+        "new",
+        "last"
+      ],
+      "semanticRoles": [
+        "thrower",
+        "condemned",
+        "entity doing the dropping",
+        "thing dragged",
+        "thing thrown",
+        "air"
+      ]
+    },
+    {
+      "characterName": "friend",
+      "recipients": [
+        "rest",
+        "death",
+        "Judah",
+        "rot",
+        "mother",
+        "sister"
+      ],
+      "verbs": [
+        "show",
+        "dismiss",
+        "leaf"
+      ],
+      "traits": [
+        "old"
+      ],
+      "semanticRoles": [
+        "shower",
+        "afraid of what?",
+        "condemned",
+        "entity leaving",
+        "entity removing"
+      ]
+    },
+    {
+      "characterName": "mother",
+      "recipients": [
+        "shelter",
+        "terror",
+        "God"
+      ],
+      "verbs": [
+        "take",
+        "cry",
+        "thank"
+      ],
+      "traits": [
+        "dead",
+        "beloved"
+      ],
+      "semanticRoles": [
+        "place",
+        "speaker",
+        "thanker",
+        "understander"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "water",
+        "man",
+        "life",
+        "Balthasar"
+      ],
+      "verbs": [
+        "give",
+        "save",
+        "name"
+      ],
+      "traits": [
+        "young",
+        "compassionate",
+        "rich",
+        "influential",
+        "wise"
+      ],
+      "semanticRoles": [
+        "giver",
+        "thing given",
+        "entity saving money",
+        "swearer"
+      ]
+    },
+    {
+      "characterName": "Balthasar",
+      "recipients": [
+        "Christ",
+        "Judah",
+        "goodness",
+        "hatred"
+      ],
+      "verbs": [
+        "seek",
+        "befriend",
+        "sense"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent / entity seeking",
+        "agentive friend",
+        "sensor"
+      ]
+    }
+  ]
+}

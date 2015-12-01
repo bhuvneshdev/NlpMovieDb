@@ -1,0 +1,518 @@
+{
+  "movieName": "TheAvengers(2012)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Loki_Tom_Hiddleston",
+      "recipients": [
+        "Tesseract",
+        "spear",
+        "gala",
+        "doctor",
+        "plan",
+        "move",
+        "lightning",
+        "justice",
+        "Earth",
+        "prison",
+        "trick",
+        "Coulson",
+        "back",
+        "world",
+        "shop",
+        "diva",
+        "citizens",
+        "control",
+        "trials",
+        "Asgard"
+      ],
+      "verbs": [
+        "take",
+        "use",
+        "be",
+        "kidnapping",
+        "carry",
+        "make",
+        "\u0027s",
+        "face",
+        "plummet",
+        "witness",
+        "stab",
+        "open",
+        "set",
+        "rule",
+        "stand"
+      ],
+      "traits": [
+        "real"
+      ],
+      "semanticRoles": [
+        "causer of movement",
+        "User",
+        "project",
+        "thing gotten",
+        "thing opposed to",
+        "thing traced",
+        "criminal",
+        "thing brought",
+        "kidnapper",
+        "carrier",
+        "creator",
+        "impelled agent",
+        "one surrendering",
+        "Speaker",
+        "question",
+        "looker",
+        "thing put",
+        "corpse",
+        "entity escaping",
+        "question or thing in doubt",
+        "agent",
+        "entity in motion",
+        "possession",
+        "entity tricked",
+        "thing held",
+        "stabber",
+        "projectile",
+        "opener",
+        "thing stalled",
+        "decider",
+        "one cooperator",
+        "entity refusing",
+        "entity confronted",
+        "entity intimidated",
+        "patient",
+        "causal agent",
+        "supporter"
+      ]
+    },
+    {
+      "characterName": "Nick_Fury",
+      "recipients": [
+        "state",
+        "response",
+        "Coulson",
+        "Romanoff",
+        "Gregg",
+        "Rogers",
+        "carrier",
+        "life",
+        "death",
+        "decision"
+      ],
+      "verbs": [
+        "issue",
+        "pull",
+        "send",
+        "greet",
+        "tell",
+        "brief",
+        "save",
+        "use",
+        "berate"
+      ],
+      "traits": [
+        "glad"
+      ],
+      "semanticRoles": [
+        "issuer",
+        "sender",
+        "puller",
+        "Sayer",
+        "greeter",
+        "Speaker",
+        "explainer",
+        "giver",
+        "admitter",
+        "Agent/Entity Trying",
+        "entity saving money",
+        "User",
+        "yeller",
+        "person congratulated"
+      ]
+    },
+    {
+      "characterName": "Natasha_Romanoff_Scarlett_Johansson",
+      "recipients": [
+        "Bruce_Banner_Mark_Ruffalo",
+        "Tesseract",
+        "Banner",
+        "Loki",
+        "Dr",
+        "rail",
+        "Renner",
+        "way",
+        "device",
+        "scepter",
+        "roof",
+        "head",
+        "portal"
+      ],
+      "verbs": [
+        "find",
+        "tell",
+        "interrogate",
+        "prevent",
+        "slam",
+        "make",
+        "grab",
+        "secure",
+        "close"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "Utterance",
+        "thing pulled",
+        "sent",
+        "finder",
+        "thing found",
+        "Speaker",
+        "asker",
+        "Agent",
+        "Agent/Entity Trying",
+        "thrower",
+        "creator",
+        "grabber",
+        "action allowed",
+        "agent",
+        "person doing the closing"
+      ]
+    },
+    {
+      "characterName": "Phil_Coulson_Clark_Gregg",
+      "recipients": [
+        "heroes",
+        "assignment",
+        "Johansson",
+        "Rogers",
+        "bay",
+        "Loki",
+        "weapon"
+      ],
+      "verbs": [
+        "find",
+        "pull",
+        "send",
+        "tell",
+        "hold",
+        "shoot"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "thing pulled",
+        "sent",
+        "finder",
+        "sender",
+        "puller",
+        "thing found",
+        "Speaker",
+        "question",
+        "thing stabbed",
+        "holder",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Rogers",
+      "recipients": [
+        "Loki",
+        "packet",
+        "regalia",
+        "Selvig",
+        "engine",
+        "civilians"
+      ],
+      "verbs": [
+        "oppose",
+        "find",
+        "confront",
+        "ask",
+        "restart",
+        "evacuate"
+      ],
+      "traits": [
+        "afraid"
+      ],
+      "semanticRoles": [
+        "opposer",
+        "needer",
+        "sleeper",
+        "thing greeted",
+        "finder",
+        "Utterance",
+        "entity being introduced",
+        "Thinker",
+        "confrontational entity",
+        "asker",
+        "creator",
+        "starter",
+        "new knower",
+        "causer of emptiness",
+        "instructor",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Hulk",
+      "recipients": [
+        "ship",
+        "Loki",
+        "oblivion"
+      ],
+      "verbs": [
+        "fall",
+        "confront",
+        "smash"
+      ],
+      "traits": [
+        "Incredible"
+      ],
+      "semanticRoles": [
+        "thing held",
+        "agent",
+        "confrontational entity"
+      ]
+    },
+    {
+      "characterName": "Bruce_Banner_Mark_Ruffalo",
+      "recipients": [
+        "peace",
+        "exile",
+        "people",
+        "container",
+        "form",
+        "Hulk"
+      ],
+      "verbs": [
+        "find",
+        "live",
+        "be",
+        "wake",
+        "transform"
+      ],
+      "traits": [
+        "big"
+      ],
+      "semanticRoles": [
+        "thing found",
+        "finder",
+        "alive entity",
+        "Utterance",
+        "alarm clock"
+      ]
+    },
+    {
+      "characterName": "Pepper_Potts_Gwyneth_Paltrow",
+      "recipients": [
+        "Jr",
+        "Jr.",
+        "office",
+        "genius",
+        "Washington_DC",
+        "permits"
+      ],
+      "verbs": [
+        "tell",
+        "greet",
+        "be",
+        "go",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "greeter",
+        "thing wanted",
+        "knower",
+        "feeler",
+        "receiver",
+        "decider",
+        "thing tried",
+        "thing viewed"
+      ]
+    },
+    {
+      "characterName": "Tony",
+      "recipients": [
+        "Pepper",
+        "Jr",
+        "lot",
+        "homework",
+        "entrance",
+        "tune",
+        "Tower",
+        "capabilities",
+        "missile",
+        "nuke",
+        "mothership"
+      ],
+      "verbs": [
+        "want",
+        "cut",
+        "have",
+        "make",
+        "arrive",
+        "intercept",
+        "launch"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "wanter",
+        "intentional cutter",
+        "Agent/Entity Trying",
+        "creator",
+        "thinker",
+        "interceptor",
+        "starter",
+        "thing viewed"
+      ]
+    },
+    {
+      "characterName": "they",
+      "recipients": [
+        "Coulson",
+        "helicarrier",
+        "kind",
+        "Dr",
+        "work",
+        "Loki"
+      ],
+      "verbs": [
+        "find",
+        "tell",
+        "head",
+        "`",
+        "brief",
+        "make",
+        "apprehend"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "finder",
+        "leader",
+        "giver",
+        "creator",
+        "needer",
+        "decider",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Thor_Chris_Hemsworth",
+      "recipients": [
+        "fight",
+        "Loki",
+        "battle",
+        "cell",
+        "civilians"
+      ],
+      "verbs": [
+        "get",
+        "capture",
+        "take",
+        "escape",
+        "evacuate"
+      ],
+      "traits": [
+        "tricked"
+      ],
+      "semanticRoles": [
+        "getter",
+        "receiver",
+        "thing viewed",
+        "manager",
+        "action allowed",
+        "entity escaping",
+        "causer of emptiness"
+      ]
+    },
+    {
+      "characterName": "Avengers",
+      "recipients": [
+        "what",
+        "defense",
+        "conclusion",
+        "ways",
+        "New_York",
+        "earth"
+      ],
+      "verbs": [
+        "think",
+        "rally",
+        "come",
+        "go",
+        "become",
+        "attack"
+      ],
+      "traits": [
+        "enough"
+      ],
+      "semanticRoles": [
+        "Thinker",
+        "speaker",
+        "impelled agent",
+        "entity with less",
+        "summoner",
+        "thing surrounding",
+        "cook",
+        "Agent/Entity Trying",
+        "attacker",
+        "second fighter",
+        "thing seen/shown"
+      ]
+    },
+    {
+      "characterName": "Stark",
+      "recipients": [
+        "Banner",
+        "rise",
+        "engine",
+        "perimeter",
+        "team",
+        "shawarma"
+      ],
+      "verbs": [
+        "get",
+        "restart",
+        "secure",
+        "take"
+      ],
+      "traits": [
+        "dazed"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "Agent/Entity Trying",
+        "starter",
+        "new knower",
+        "agent",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "himself",
+      "recipients": [
+        "Thor",
+        "cell",
+        "scepter",
+        "Thanos"
+      ],
+      "verbs": [
+        "allow",
+        "release",
+        "recover",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "allower",
+        "releaser",
+        "entity validated",
+        "utterance"
+      ]
+    }
+  ]
+}

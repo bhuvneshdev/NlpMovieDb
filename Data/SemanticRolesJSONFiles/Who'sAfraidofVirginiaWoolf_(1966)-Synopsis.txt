@@ -1,0 +1,285 @@
+{
+  "movieName": "Who\u0027sAfraidofVirginiaWoolf_(1966)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "George",
+      "recipients": [
+        "wife",
+        "skills",
+        "George",
+        "son",
+        "incident",
+        "match",
+        "shotgun",
+        "back",
+        "trigger",
+        "truth",
+        "boy",
+        "marriage",
+        "story",
+        "porcupine",
+        "jukebox",
+        "parents",
+        "Martha",
+        "group",
+        "couple",
+        "Midwest",
+        "lot",
+        "home",
+        "tree",
+        "baby"
+      ],
+      "verbs": [
+        "warn",
+        "test",
+        "cajole",
+        "have",
+        "refuse",
+        "engage",
+        "aim",
+        "tell",
+        "pull",
+        "expose",
+        "describe",
+        "miss",
+        "unplug",
+        "murder",
+        "strangle",
+        "write",
+        "stand",
+        "arrive",
+        "mention",
+        "accuse",
+        "crash",
+        "kill"
+      ],
+      "traits": [
+        "associate",
+        "disturbed",
+        "mock"
+      ],
+      "semanticRoles": [
+        "consulted with",
+        "entity taunted",
+        "examiner",
+        "cajoler",
+        "persuaded agent",
+        "entity leaving",
+        "Sayer",
+        "causer of engagement",
+        "entity refusing",
+        "aimer",
+        "Speaker",
+        "puller",
+        "exposer",
+        "agent",
+        "intentional cutter",
+        "describer",
+        "[causer of growth - should be possible]",
+        "claimer",
+        "misser",
+        "entity in motion",
+        "insister",
+        "announcer",
+        "event",
+        "stranger",
+        "killer",
+        "Utterance",
+        "accused",
+        "humiliated entity",
+        "causal agent",
+        "speaker",
+        "accuser",
+        "causer of damage",
+        "avoider",
+        "appealed to",
+        "place",
+        "talker"
+      ]
+    },
+    {
+      "characterName": "wife",
+      "recipients": [
+        "couple",
+        "town",
+        "George"
+      ],
+      "verbs": [
+        "join",
+        "settle",
+        "accuse",
+        "humiliate"
+      ],
+      "traits": [
+        "mousey",
+        "drunk",
+        "unaware",
+        "timid"
+      ],
+      "semanticRoles": [
+        "agent",
+        "Agent/Entity Trying",
+        "pretender",
+        "Utterance",
+        "causer",
+        "decider",
+        "accuser",
+        "Stimulusr of humiliation",
+        "one half"
+      ]
+    },
+    {
+      "characterName": "Martha",
+      "recipients": [
+        "coupleNick",
+        "George",
+        "Honey",
+        "son",
+        "guests",
+        "incident",
+        "story",
+        "boy",
+        "herself",
+        "party",
+        "kitchen",
+        "inadequacies",
+        "fact",
+        "response",
+        "Nick",
+        "birth"
+      ],
+      "verbs": [
+        "invite",
+        "taunt",
+        "show",
+        "have",
+        "inform",
+        "relate",
+        "accuse",
+        "make",
+        "go",
+        "criticize",
+        "continue",
+        "allude",
+        "reminisce",
+        "beg"
+      ],
+      "traits": [
+        "dead",
+        "shrewed"
+      ],
+      "semanticRoles": [
+        "announcer",
+        "inviter",
+        "event",
+        "starter",
+        "critic",
+        "taunter",
+        "beginner",
+        "flirt",
+        "shower",
+        "informer",
+        "agent",
+        "Agent/Entity Trying",
+        "Intentional agent",
+        "Speaker",
+        "accuser",
+        "creator",
+        "causer of continuation",
+        "alluder",
+        "entity strangled",
+        "driver",
+        "recaller",
+        "accused",
+        "speaker",
+        "begger",
+        "place",
+        "replier"
+      ]
+    },
+    {
+      "characterName": "Nick",
+      "recipients": [
+        "ease",
+        "Nick",
+        "impotency"
+      ],
+      "verbs": [
+        "feel",
+        "pull",
+        "blame"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "feeler",
+        "truth",
+        "dancer",
+        "manager",
+        "puller",
+        "thing pulled",
+        "consumer",
+        "blamer",
+        "accused",
+        "new knower"
+      ]
+    },
+    {
+      "characterName": "Honey",
+      "recipients": [
+        "ease",
+        "George",
+        "subject",
+        "son",
+        "room",
+        "wife"
+      ],
+      "verbs": [
+        "feel",
+        "mention",
+        "raise",
+        "rush",
+        "delirious"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "feeler",
+        "thing seen/shown",
+        "speaker",
+        "screamer",
+        "impelled action",
+        "Agent",
+        "thing spinning",
+        "causer of motion",
+        "Sayer",
+        "new knower"
+      ]
+    },
+    {
+      "characterName": "boy",
+      "recipients": [
+        "boy",
+        "mother",
+        "advances"
+      ],
+      "verbs": [
+        "realize",
+        "kill",
+        "escape"
+      ],
+      "traits": [
+        "bad"
+      ],
+      "semanticRoles": [
+        "new knowledge",
+        "new knower",
+        "accused",
+        "killer",
+        "driver",
+        "Intentional agent",
+        "entity escaping",
+        "operator"
+      ]
+    }
+  ]
+}

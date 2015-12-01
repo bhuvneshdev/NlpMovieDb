@@ -1,0 +1,253 @@
+{
+  "movieName": "InfernalAffairs(2002)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Sam",
+      "recipients": [
+        "number",
+        "Del_Piero",
+        "gang"
+      ],
+      "verbs": [
+        "send"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "sender",
+        "entity getting warning",
+        "new knower",
+        "talker",
+        "entity leaving",
+        "corpse",
+        "Keeper"
+      ]
+    },
+    {
+      "characterName": "person",
+      "recipients": [
+        "time",
+        "Yip",
+        "ChiShing",
+        "Yan"
+      ],
+      "verbs": [
+        "name",
+        "impress",
+        "identify"
+      ],
+      "traits": [
+        "only"
+      ],
+      "semanticRoles": [
+        "manager",
+        "agent",
+        "caller"
+      ]
+    },
+    {
+      "characterName": "Yan",
+      "recipients": [
+        "Wong",
+        "reality",
+        "store",
+        "funeral",
+        "Ming",
+        "time",
+        "faith",
+        "building",
+        "gunfight",
+        "identity",
+        "Mary",
+        "disc",
+        "love",
+        "evening",
+        "gun",
+        "head",
+        "boss"
+      ],
+      "verbs": [
+        "become",
+        "converse",
+        "attend",
+        "follow",
+        "struggle",
+        "lose",
+        "escape",
+        "return",
+        "send",
+        "fall",
+        "spend",
+        "hold",
+        "release"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity expelled",
+        "talker",
+        "thing attending",
+        "item being labelled",
+        "Agent/Entity Trying",
+        "causal agent",
+        "supporter",
+        "impelled agent",
+        "first struggler",
+        "Agent",
+        "achiever",
+        "entity escaping",
+        "manager",
+        "entity leaving",
+        "finder",
+        "sender",
+        "entity removing weapons",
+        "holder",
+        "gotten",
+        "releaser"
+      ]
+    },
+    {
+      "characterName": "Wong",
+      "recipients": [
+        "deal",
+        "mole",
+        "death",
+        "fall"
+      ],
+      "verbs": [
+        "interrupted",
+        "have",
+        "witness"
+      ],
+      "traits": [
+        "only",
+        "stunned"
+      ],
+      "semanticRoles": [
+        "interrupter",
+        "new knower",
+        "money",
+        "thing thrown",
+        "thing gotten",
+        "agent",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Ming",
+      "recipients": [
+        "ladder",
+        "store",
+        "Sam",
+        "time",
+        "background",
+        "B",
+        "squad",
+        "Wong",
+        "cellphone",
+        "contact",
+        "connections",
+        "mole",
+        "head",
+        "desire",
+        "route",
+        "lift",
+        "badge"
+      ],
+      "verbs": [
+        "climb",
+        "converse",
+        "alert",
+        "struggle",
+        "erase",
+        "have",
+        "send",
+        "save",
+        "retrieve",
+        "make",
+        "kill",
+        "be",
+        "move",
+        "shoot",
+        "take",
+        "exit",
+        "hand"
+      ],
+      "traits": [
+        "late"
+      ],
+      "semanticRoles": [
+        "climber",
+        "talker",
+        "entity giving warning",
+        "thing following",
+        "entity leaving",
+        "thing gotten",
+        "first struggler",
+        "eraser",
+        "wanter",
+        "sender",
+        "entity saving money",
+        "receiver",
+        "creator",
+        "killer",
+        "new knower",
+        "corpse",
+        "projectile",
+        "mover",
+        "entity entering",
+        "shooter",
+        "buried",
+        "wisher",
+        "departed entity",
+        "criminal",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "B",
+      "recipients": [
+        "squad",
+        "Yan",
+        "mole"
+      ],
+      "verbs": [
+        "send",
+        "command",
+        "be"
+      ],
+      "traits": [
+        "subordinate"
+      ],
+      "semanticRoles": [
+        "informer",
+        "sender",
+        "getter",
+        "speaker",
+        "asker",
+        "entity entering"
+      ]
+    },
+    {
+      "characterName": "Keung",
+      "recipients": [
+        "gunfight",
+        "car",
+        "deal"
+      ],
+      "verbs": [
+        "escape",
+        "crash",
+        "reach"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity confronted",
+        "manager",
+        "entity escaping",
+        "driver",
+        "injured party",
+        "causer of damage",
+        "thing striving"
+      ]
+    }
+  ]
+}

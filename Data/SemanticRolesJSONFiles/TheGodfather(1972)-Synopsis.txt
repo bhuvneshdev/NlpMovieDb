@@ -1,0 +1,776 @@
+{
+  "movieName": "TheGodfather(1972)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Vito_Marlon_Brando",
+      "recipients": [
+        "requests",
+        "expectation",
+        "moment"
+      ],
+      "verbs": [
+        "hearing",
+        "explain"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing known or thought",
+        "agreer",
+        "explainer",
+        "speaker",
+        "causer of collapse",
+        "expecter"
+      ]
+    },
+    {
+      "characterName": "Tom_Hagen_Robert_Duvall",
+      "recipients": [
+        "requests",
+        "Don_Corleone",
+        "protection",
+        "Tom",
+        "Sonny",
+        "home",
+        "change",
+        "regime",
+        "Michael",
+        "meeting",
+        "Duvall"
+      ],
+      "verbs": [
+        "hearing",
+        "ask",
+        "tell",
+        "persuade",
+        "take",
+        "inquire",
+        "question",
+        "be",
+        "get"
+      ],
+      "traits": [
+        "homeless"
+      ],
+      "semanticRoles": [
+        "thing groomed",
+        "achiever",
+        "entity dispatched",
+        "asker",
+        "thing released",
+        "Utterance",
+        "convincer",
+        "Speaker",
+        "inquirer",
+        "builder",
+        "causer of movement",
+        "Sayer",
+        "thing gotten",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "punishment",
+        "Don",
+        "daughter",
+        "men",
+        "Tessio"
+      ],
+      "verbs": [
+        "receive",
+        "ask",
+        "beat",
+        "punish",
+        "bluff",
+        "surround"
+      ],
+      "traits": [
+        "young",
+        "responsible",
+        "other"
+      ],
+      "semanticRoles": [
+        "asker",
+        "agent",
+        "person punished",
+        "punisher",
+        "first thing being tied",
+        "entity misled",
+        "misleader",
+        "corpse",
+        "causative agent"
+      ]
+    },
+    {
+      "characterName": "Don",
+      "recipients": [
+        "loyalty",
+        "undertaker",
+        "Luca_Brasi",
+        "salutations",
+        "request",
+        "baker",
+        "attempt",
+        "home",
+        "hospital",
+        "favor",
+        "embalming",
+        "Michael",
+        "life"
+      ],
+      "verbs": [
+        "extract",
+        "receive",
+        "fill",
+        "survive",
+        "return",
+        "call",
+        "handle",
+        "intend"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "question",
+        "disappointed",
+        "remover",
+        "User",
+        "agreer",
+        "agent",
+        "survivor",
+        "handler",
+        "promiser"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "father",
+        "Sonny",
+        "room"
+      ],
+      "verbs": [
+        "rebuke",
+        "call",
+        "move"
+      ],
+      "traits": [
+        "different",
+        "angry"
+      ],
+      "semanticRoles": [
+        "rebuked",
+        "rebuker",
+        "other party",
+        "mover",
+        "corpse",
+        "thing set",
+        "moved"
+      ]
+    },
+    {
+      "characterName": "Michael_Al_Pacino",
+      "recipients": [
+        "anecdotes",
+        "dealings",
+        "family",
+        "wedding",
+        "Kay",
+        "characters",
+        "father",
+        "volunteers",
+        "Michael",
+        "gun",
+        "job",
+        "revolver",
+        "himself",
+        "Sollozzo",
+        "Sicily",
+        "McCluskey",
+        "home",
+        "village",
+        "blow",
+        "charge",
+        "request",
+        "husband",
+        "man",
+        "Las_Vegas",
+        "Greene",
+        "Fredo",
+        "series",
+        "godfather",
+        "Connie",
+        "betrayal",
+        "role",
+        "Carlo",
+        "death",
+        "wife"
+      ],
+      "verbs": [
+        "tell",
+        "arrive",
+        "introduce",
+        "visit",
+        "convince",
+        "instruct",
+        "leave",
+        "perform",
+        "retrieve",
+        "excuse",
+        "shoot",
+        "hide",
+        "kill",
+        "return",
+        "wait",
+        "meet",
+        "watch",
+        "be",
+        "deny",
+        "promise",
+        "travels",
+        "buy",
+        "warn",
+        "arrange",
+        "standing",
+        "uncovered",
+        "force",
+        "admit",
+        "confront",
+        "play",
+        "lie"
+      ],
+      "traits": [
+        "youngest",
+        "shocked",
+        "serious",
+        "personal",
+        "distraught"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "entity making introduction",
+        "thing found",
+        "one party",
+        "belief",
+        "Utterance",
+        "finder",
+        "guarded",
+        "suggester",
+        "entity punched",
+        "convincer",
+        "thing described",
+        "speaker",
+        "implier",
+        "achiever",
+        "entity leaving",
+        "instructor",
+        "impelled agent",
+        "performer",
+        "thing searched",
+        "talker",
+        "receiver",
+        "excuser",
+        "shooter",
+        "sent",
+        "student",
+        "killer",
+        "entity in motion",
+        "denier",
+        "promiser",
+        "question or thing in doubt",
+        "player",
+        "traveller",
+        "buyer",
+        "thing rejected",
+        "negotiator",
+        "builder",
+        "causal agent",
+        "discoverer",
+        "asker",
+        "admitter",
+        "forcer",
+        "confrontational entity",
+        "entity confronted",
+        "accused",
+        "thing greeted"
+      ]
+    },
+    {
+      "characterName": "Fredo_John_Cazale",
+      "recipients": [
+        "Michael",
+        "business",
+        "Greene",
+        "sides"
+      ],
+      "verbs": [
+        "find",
+        "learn",
+        "take"
+      ],
+      "traits": [
+        "dimwitted"
+      ],
+      "semanticRoles": [
+        "finder",
+        "entity in motion",
+        "shooter",
+        "thinker",
+        "student",
+        "sent",
+        "supporter"
+      ]
+    },
+    {
+      "characterName": "Sonny_James_Caan",
+      "recipients": [
+        "philanderer",
+        "upbringing",
+        "Don",
+        "offer",
+        "war",
+        "turn",
+        "issues",
+        "day",
+        "bruise",
+        "threat"
+      ],
+      "verbs": [
+        "be",
+        "saw",
+        "take",
+        "hear",
+        "accept",
+        "face",
+        "consider",
+        "see",
+        "fulfill"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "one half",
+        "viewer",
+        "acceptor",
+        "impelled agent",
+        "thinker",
+        "looker",
+        "entity refusing",
+        "sent",
+        "wanter",
+        "replier",
+        "thing attracted",
+        "Utterance",
+        "driver",
+        "fulfiller",
+        "entity ambushed",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Johnny_Fontane_Al_Martino",
+      "recipients": [
+        "singer",
+        "Hollywood",
+        "help",
+        "relationship",
+        "whom"
+      ],
+      "verbs": [
+        "be",
+        "come",
+        "petition",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "asker",
+        "thing denied",
+        "thing thrown",
+        "thing given"
+      ]
+    },
+    {
+      "characterName": "Jack_Woltz_John_Marley",
+      "recipients": [
+        "part",
+        "Fontane",
+        "Marley",
+        "grudge",
+        "stardom",
+        "starlet",
+        "morning",
+        "something",
+        "Johnny",
+        "role"
+      ],
+      "verbs": [
+        "deny",
+        "cast",
+        "tell",
+        "hold",
+        "groom",
+        "wake",
+        "feel",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "denier",
+        "thrower",
+        "Speaker",
+        "Utterance",
+        "holder",
+        "agent",
+        "alarm clock",
+        "feeler",
+        "impelled agent",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Don_Corleone",
+      "recipients": [
+        "Luca_Brasi",
+        "ceasefire",
+        "meeting"
+      ],
+      "verbs": [
+        "dispatch",
+        "negotiate",
+        "deduce"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "explainer",
+        "question",
+        "sender",
+        "entity shot",
+        "achiever",
+        "negotiator",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "family",
+      "recipients": [
+        "Virgil_The_Turk_Sollozzo_Al_Lettieri",
+        "warfare",
+        "heroin",
+        "protection",
+        "Clemenza"
+      ],
+      "verbs": [
+        "back",
+        "prepare",
+        "provide",
+        "push"
+      ],
+      "traits": [
+        "rival",
+        "proud"
+      ],
+      "semanticRoles": [
+        "supporter",
+        "achiever",
+        "impelled agent",
+        "provider",
+        "controlled",
+        "Thing Sold",
+        "pusher"
+      ]
+    },
+    {
+      "characterName": "Virgil_The_Turk_Sollozzo_Al_Lettieri",
+      "recipients": [
+        "hand",
+        "Tattaglia",
+        "meeting",
+        "Tom_Hagen",
+        "Sollozzo",
+        "Sonny",
+        "deal",
+        "word",
+        "McCluskey",
+        "attempt"
+      ],
+      "verbs": [
+        "stab",
+        "abduct",
+        "persuade",
+        "offer",
+        "get",
+        "pay",
+        "request",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing being supported",
+        "stabber",
+        "convincer",
+        "agent",
+        "impelled agent",
+        "receiver",
+        "payer or buyer",
+        "talker",
+        "projectile",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "son",
+      "recipients": [
+        "meeting",
+        "rank",
+        "assurances",
+        "family",
+        "power"
+      ],
+      "verbs": [
+        "break",
+        "urge",
+        "hold"
+      ],
+      "traits": [
+        "eldest",
+        "youngest"
+      ],
+      "semanticRoles": [
+        "urger",
+        "asker",
+        "breaker",
+        "holder"
+      ]
+    },
+    {
+      "characterName": "Luca_Brasi",
+      "recipients": [
+        "organization",
+        "Bruno_Tattaglia"
+      ],
+      "verbs": [
+        "infiltrate",
+        "allow"
+      ],
+      "traits": [
+        "bent"
+      ],
+      "semanticRoles": [
+        "infiltrator",
+        "Reporter",
+        "entity dispatched",
+        "allower",
+        "sleeper"
+      ]
+    },
+    {
+      "characterName": "Clemenza",
+      "recipients": [
+        "Manhattan",
+        "Paulie",
+        "car",
+        "pistol",
+        "confidence",
+        "permission",
+        "Nevada",
+        "operations",
+        "families",
+        "area",
+        "Don_Stracci_Don_Costello",
+        "Rizzi",
+        "death",
+        "hand",
+        "Michael"
+      ],
+      "verbs": [
+        "take",
+        "leave",
+        "prepare",
+        "show",
+        "ask",
+        "move",
+        "form",
+        "gun",
+        "garrote",
+        "kiss",
+        "greet"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "shower",
+        "thing pushed",
+        "asker",
+        "complainer",
+        "creator",
+        "breaker",
+        "mover",
+        "planner",
+        "shooter",
+        "kisser",
+        "greeter"
+      ]
+    },
+    {
+      "characterName": "McCluskey_Sterling_Hayden",
+      "recipients": [
+        "jaw",
+        "Michael",
+        "father",
+        "Corleones",
+        "meeting",
+        "dealings",
+        "game"
+      ],
+      "verbs": [
+        "break",
+        "punch",
+        "set",
+        "attend",
+        "be",
+        "have",
+        "frisk"
+      ],
+      "traits": [
+        "corrupt"
+      ],
+      "semanticRoles": [
+        "thing brought",
+        "breaker",
+        "agent",
+        "money or attention",
+        "thing attending",
+        "searcher",
+        "finder",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Connie",
+      "recipients": [
+        "abuse",
+        "infidelity",
+        "money",
+        "Russo",
+        "Carlo",
+        "compound",
+        "Michael",
+        "Kay"
+      ],
+      "verbs": [
+        "involve",
+        "ask",
+        "tell",
+        "phone",
+        "confront",
+        "accuse"
+      ],
+      "traits": [
+        "pregnant",
+        "hysterical"
+      ],
+      "semanticRoles": [
+        "causer of disintegration",
+        "speaker",
+        "thing hit",
+        "asker",
+        "entity abused",
+        "entity brutalized",
+        "replier",
+        "Speaker",
+        "question",
+        "agent making a call",
+        "confrontational entity",
+        "accuser",
+        "thing being removed",
+        "insister"
+      ]
+    },
+    {
+      "characterName": "Carlo",
+      "recipients": [
+        "Connie",
+        "Sonny",
+        "tonight",
+        "car"
+      ],
+      "verbs": [
+        "hit",
+        "have",
+        "meet",
+        "beat",
+        "get"
+      ],
+      "traits": [
+        "angry"
+      ],
+      "semanticRoles": [
+        "agent",
+        "corpse",
+        "replier",
+        "Utterance",
+        "achiever",
+        "entity confronted",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "Kay",
+      "recipients": [
+        "proposal",
+        "Kay",
+        "Michael",
+        "living",
+        "what"
+      ],
+      "verbs": [
+        "accept",
+        "contact",
+        "question",
+        "do",
+        "believe"
+      ],
+      "traits": [
+        "relieved"
+      ],
+      "semanticRoles": [
+        "acceptor",
+        "contactor",
+        "entity contacted",
+        "patient",
+        "asker",
+        "replier",
+        "entity refusing",
+        "question"
+      ]
+    },
+    {
+      "characterName": "Salvatore_Tessio_Abe_Vigoda",
+      "recipients": [
+        "families",
+        "area",
+        "proposal",
+        "burial",
+        "meeting",
+        "Hagen"
+      ],
+      "verbs": [
+        "form",
+        "convey",
+        "be",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "complainer",
+        "creator",
+        "breaker",
+        "item being labelled",
+        "thing surrounding",
+        "Speaker",
+        "thing viewed",
+        "vehicle or path"
+      ]
+    }
+  ]
+}

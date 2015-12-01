@@ -1,0 +1,735 @@
+{
+  "movieName": "TheGrandBudapestHotel(2014)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "woman",
+      "recipients": [
+        "cemetery",
+        "bench",
+        "memorial",
+        "key",
+        "book",
+        "meal",
+        "Gustave",
+        "hotel"
+      ],
+      "verbs": [
+        "walk",
+        "pass",
+        "approach",
+        "put",
+        "take",
+        "tell",
+        "see",
+        "leave"
+      ],
+      "traits": [
+        "young",
+        "elderly",
+        "old",
+        "frightened"
+      ],
+      "semanticRoles": [
+        "walker",
+        "legislative body",
+        "knower",
+        "viewer",
+        "Speaker",
+        "entity leaving",
+        "assured one",
+        "vehicle or path",
+        "thing brought",
+        "interviewee"
+      ]
+    },
+    {
+      "characterName": "Author",
+      "recipients": [
+        "youth",
+        "Zubrowka",
+        "audience",
+        "book",
+        "story",
+        "who",
+        "room",
+        "Zero",
+        "hotel",
+        "Author",
+        "South_America",
+        "ruins"
+      ],
+      "verbs": [
+        "travels",
+        "address",
+        "tell",
+        "be",
+        "return",
+        "ask",
+        "sell",
+        "keep",
+        "depart",
+        "travel",
+        "describe"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "goal",
+        "traveller",
+        "Speaker",
+        "addresser",
+        "beginner",
+        "asker",
+        "informed",
+        "person surprised",
+        "haunted house (eg)",
+        "invited",
+        "inquirer",
+        "picker",
+        "Seller",
+        "Keeper",
+        "entity leaving",
+        "describer",
+        "announcer"
+      ]
+    },
+    {
+      "characterName": "Hotel",
+      "recipients": [
+        "guests",
+        "attempts"
+      ],
+      "verbs": [
+        "see",
+        "encounter"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing getting a title",
+        "viewer",
+        "place",
+        "place or thing entered",
+        "entity encountering something",
+        "Thing Sold",
+        "thing kept",
+        "thing described",
+        "other party"
+      ]
+    },
+    {
+      "characterName": "guests",
+      "recipients": [
+        "man",
+        "bath",
+        "tips"
+      ],
+      "verbs": [
+        "see",
+        "meet",
+        "take"
+      ],
+      "traits": [
+        "few",
+        "most",
+        "special"
+      ],
+      "semanticRoles": [
+        "thing viewed",
+        "viewer",
+        "achiever",
+        "taker of risk"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "Zero_Moustafa",
+        "trip",
+        "Zero"
+      ],
+      "verbs": [
+        "be",
+        "tear",
+        "knock"
+      ],
+      "traits": [
+        "old",
+        "righthand",
+        "wealthy"
+      ],
+      "semanticRoles": [
+        "thing viewed",
+        "beginner",
+        "Keeper",
+        "sleeper",
+        "mover",
+        "impelled action",
+        "corpse",
+        "Sayer",
+        "admitter",
+        "puller",
+        "entity assaulted",
+        "hitter"
+      ]
+    },
+    {
+      "characterName": "Jean",
+      "recipients": [
+        "Author",
+        "Jean"
+      ],
+      "verbs": [
+        "inform",
+        "surprise",
+        "help"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "informer",
+        "surpriser",
+        "causer of motion",
+        "helper",
+        "project"
+      ]
+    },
+    {
+      "characterName": "Moustafa",
+      "recipients": [
+        "lodgings",
+        "Budapest",
+        "quarters",
+        "Author"
+      ],
+      "verbs": [
+        "procure",
+        "occupy",
+        "explain",
+        "invite"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "occupier",
+        "explainer",
+        "inviter"
+      ]
+    },
+    {
+      "characterName": "Zero",
+      "recipients": [
+        "story",
+        "members",
+        "what",
+        "Gustave",
+        "everybody",
+        "time",
+        "mention",
+        "soldiers",
+        "none",
+        "mansion",
+        "declaration",
+        "relationship",
+        "background",
+        "tools",
+        "Agatha",
+        "observatory",
+        "high",
+        "murderer",
+        "death",
+        "motorcycle",
+        "boy",
+        "counter",
+        "keys"
+      ],
+      "verbs": [
+        "tell",
+        "start",
+        "assist",
+        "begin",
+        "ask",
+        "work",
+        "come",
+        "make",
+        "see",
+        "have",
+        "arrive",
+        "jot",
+        "stop",
+        "give",
+        "place",
+        "rendezvous",
+        "direct",
+        "push",
+        "take",
+        "continue",
+        "be",
+        "go",
+        "retrieve"
+      ],
+      "traits": [
+        "shocked"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "beginner",
+        "Agent",
+        "entity being introduced",
+        "asker",
+        "student",
+        "achiever",
+        "creator",
+        "viewer",
+        "defended",
+        "thing viewed",
+        "thing given",
+        "old thing",
+        "admired",
+        "entity leaving",
+        "writer",
+        "agreer",
+        "finder",
+        "Intentional agent",
+        "giver",
+        "putter",
+        "thing gotten",
+        "director",
+        "first or all entities meeting",
+        "informed",
+        "sent",
+        "pusher",
+        "entity entering",
+        "causer of continuation",
+        "thing in motion",
+        "thing hit",
+        "receiver",
+        "question",
+        "replier"
+      ]
+    },
+    {
+      "characterName": "Gustave_H",
+      "recipients": [
+        "interview",
+        "boy",
+        "detail",
+        "heart",
+        "Gustave",
+        "Zero",
+        "soldiers",
+        "papers",
+        "fight",
+        "mansion",
+        "corpse",
+        "themselves",
+        "room",
+        "gift",
+        "D",
+        "Boy",
+        "himself",
+        "injuries",
+        "company",
+        "time",
+        "alibi",
+        "Gunther",
+        "Ludwig",
+        "Wolf",
+        "pastries",
+        "prison",
+        "plan",
+        "relationship",
+        "woman",
+        "information",
+        "Agatha",
+        "action",
+        "work",
+        "request",
+        "painting",
+        "observatory",
+        "high",
+        "motorcycle",
+        "door",
+        "wealth",
+        "freedom",
+        "question",
+        "pass",
+        "soldier"
+      ],
+      "verbs": [
+        "initiate",
+        "be",
+        "miss",
+        "give",
+        "take",
+        "see",
+        "show",
+        "defend",
+        "get",
+        "arrive",
+        "Clotilde",
+        "find",
+        "cherish",
+        "sell",
+        "propose",
+        "prove",
+        "suffer",
+        "enter",
+        "have",
+        "receive",
+        "share",
+        "break",
+        "hatch",
+        "interview",
+        "begin",
+        "put",
+        "retreat",
+        "lash",
+        "apologize",
+        "relay",
+        "remove",
+        "rendezvous",
+        "direct",
+        "watch",
+        "newfound",
+        "answer",
+        "use",
+        "threaten"
+      ],
+      "traits": [
+        "immigrant",
+        "senior",
+        "sure",
+        "own",
+        "numerous",
+        "older"
+      ],
+      "semanticRoles": [
+        "knower",
+        "thing viewed",
+        "causer",
+        "Utterance",
+        "decider",
+        "wanter",
+        "question",
+        "replier",
+        "player",
+        "misser",
+        "giver",
+        "thing given",
+        "thing seen/shown",
+        "viewer",
+        "shower",
+        "receiver",
+        "defender",
+        "barker",
+        "impelled agent",
+        "talker",
+        "finder",
+        "causer of movement",
+        "entity confronted",
+        "rememberer",
+        "entity leaving",
+        "claimer",
+        "new knower",
+        "cherisher",
+        "Seller",
+        "entity proposing",
+        "criminal",
+        "operator",
+        "entity suffering",
+        "other party",
+        "entity entering",
+        "entity afraid",
+        "sharer",
+        "breaker",
+        "causal agent",
+        "interviewer",
+        "action allowed",
+        "thing gotten",
+        "beginner",
+        "entity escaping",
+        "[causer of growth - should be possible]",
+        "looker",
+        "retreater",
+        "tier",
+        "apologist",
+        "sender",
+        "entity removing",
+        "director",
+        "first or all entities meeting",
+        "informed",
+        "corpse",
+        "person vindicated",
+        "checker",
+        "User",
+        "agent",
+        "owner"
+      ]
+    },
+    {
+      "characterName": "boy",
+      "recipients": [
+        "experience",
+        "education",
+        "family",
+        "attention",
+        "cologne",
+        "concierge",
+        "information"
+      ],
+      "verbs": [
+        "have",
+        "catch",
+        "bring",
+        "shame",
+        "use"
+      ],
+      "traits": [
+        "better"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "agent",
+        "thing wrapped (e.g.",
+        "Thing Sold",
+        "bringer",
+        "entity assigning shame/impelling through shame",
+        "finder",
+        "User",
+        "thing gotten"
+      ]
+    },
+    {
+      "characterName": "soldiers",
+      "recipients": [
+        "wall",
+        "information",
+        "Gustave"
+      ],
+      "verbs": [
+        "pin",
+        "retrieve",
+        "have"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "thing viewed",
+        "agent",
+        "receiver",
+        "examiner"
+      ]
+    },
+    {
+      "characterName": "Henckels",
+      "recipients": [
+        "car",
+        "Zero",
+        "pardon",
+        "Gustave",
+        "chase",
+        "will"
+      ],
+      "verbs": [
+        "enter",
+        "give",
+        "urge",
+        "arrest",
+        "open"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity entering",
+        "rememberer",
+        "applauder",
+        "urger",
+        "giver",
+        "police",
+        "informer",
+        "reader",
+        "opener"
+      ]
+    },
+    {
+      "characterName": "Serge_X",
+      "recipients": [
+        "X",
+        "Boy",
+        "something",
+        "witness",
+        "refuge",
+        "range",
+        "Gustave",
+        "Zero",
+        "confessional"
+      ],
+      "verbs": [
+        "speak",
+        "wrap",
+        "bear",
+        "seek",
+        "inform"
+      ],
+      "traits": [
+        "frantic"
+      ],
+      "semanticRoles": [
+        "talker",
+        "wisher",
+        "agent/cause of wrapping",
+        "tucker",
+        "wanter",
+        "holder",
+        "impelled agent",
+        "Agent / entity seeking",
+        "goal",
+        "informer",
+        "explainer",
+        "Speaker",
+        "entity strangled"
+      ]
+    },
+    {
+      "characterName": "Kovacs",
+      "recipients": [
+        "executor",
+        "matter",
+        "instructions",
+        "bodyguard",
+        "door"
+      ],
+      "verbs": [
+        "be",
+        "proceed",
+        "follow",
+        "lose",
+        "leave"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "claimer",
+        "causer of continuing event",
+        "causal agent",
+        "action being stopped",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "Dmitri",
+      "recipients": [
+        "Gustave",
+        "search",
+        "meantime",
+        "remnants",
+        "copy",
+        "Agatha"
+      ],
+      "verbs": [
+        "confront",
+        "begin",
+        "go",
+        "obtain",
+        "spy"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "confrontational entity",
+        "beginner",
+        "entity refusing",
+        "price paid",
+        "wanter",
+        "receiver",
+        "puller",
+        "secret agent",
+        "follower",
+        "causal agent",
+        "noter"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "chase",
+        "outside",
+        "aftermath",
+        "break",
+        "Jopling",
+        "desk"
+      ],
+      "verbs": [
+        "give",
+        "reach",
+        "investigate",
+        "find",
+        "head"
+      ],
+      "traits": [
+        "other",
+        "several",
+        "Military"
+      ],
+      "semanticRoles": [
+        "giver",
+        "wanter",
+        "helper",
+        "thing striving",
+        "finder",
+        "examiner",
+        "patient",
+        "leader"
+      ]
+    },
+    {
+      "characterName": "Jopling",
+      "recipients": [
+        "Kovacs",
+        "door",
+        "ledge"
+      ],
+      "verbs": [
+        "stop",
+        "leave",
+        "loosen"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "sent",
+        "viewer",
+        "thing found",
+        "entity leaving",
+        "causer of loosening"
+      ]
+    },
+    {
+      "characterName": "Agatha",
+      "recipients": [
+        "time",
+        "footsteps",
+        "hotel",
+        "guise"
+      ],
+      "verbs": [
+        "decide",
+        "hear",
+        "enter"
+      ],
+      "traits": [
+        "proper"
+      ],
+      "semanticRoles": [
+        "Utterance",
+        "thing given",
+        "receiver",
+        "[causer of growth - should be possible]",
+        "decider",
+        "entity entering",
+        "entity escaping",
+        "entity spied/seen",
+        "turner",
+        "owner",
+        "checker"
+      ]
+    }
+  ]
+}

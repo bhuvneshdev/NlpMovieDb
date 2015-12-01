@@ -1,0 +1,243 @@
+{
+  "movieName": "SevenSamurai(1954)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "bandits",
+      "recipients": [
+        "village",
+        "family",
+        "force",
+        "number",
+        "muskets",
+        "post",
+        "gap",
+        "enemy",
+        "attack"
+      ],
+      "verbs": [
+        "ransack",
+        "kill",
+        "arrive",
+        "have",
+        "possess",
+        "attack",
+        "enter",
+        "make"
+      ],
+      "traits": [
+        "Many",
+        "able"
+      ],
+      "semanticRoles": [
+        "searcher",
+        "killer",
+        "corpse",
+        "experiencer",
+        "holder",
+        "possessor",
+        "owner",
+        "attacker",
+        "vehicle or path",
+        "entity entering",
+        "action allowed",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "villagers",
+      "recipients": [
+        "turmoil",
+        "Katsushir",
+        "explanation",
+        "elder",
+        "village",
+        "siege",
+        "battle"
+      ],
+      "verbs": [
+        "go",
+        "beg",
+        "seek",
+        "defend",
+        "prepare"
+      ],
+      "traits": [
+        "despairing",
+        "panicked",
+        "shocked"
+      ],
+      "semanticRoles": [
+        "first operand",
+        "first fighter",
+        "begger",
+        "thing following",
+        "afraid entity",
+        "Agent / entity seeking",
+        "defender",
+        "thing welcomed",
+        "rebuked",
+        "employer",
+        "killer",
+        "robber",
+        "impelled agent",
+        "thing looked at"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "pay",
+        "city",
+        "men",
+        "witness",
+        "samurai",
+        "thief",
+        "hostage"
+      ],
+      "verbs": [
+        "offer",
+        "go",
+        "turn",
+        "happen"
+      ],
+      "traits": [
+        "unsuccessful"
+      ],
+      "semanticRoles": [
+        "thing turning",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "samurai",
+      "recipients": [
+        "village",
+        "preparations",
+        "place",
+        "villagers"
+      ],
+      "verbs": [
+        "arrive",
+        "continue",
+        "put",
+        "observe"
+      ],
+      "traits": [
+        "young",
+        "necessary",
+        "clownish",
+        "ersatz",
+        "other"
+      ],
+      "semanticRoles": [
+        "event",
+        "asker",
+        "insulted",
+        "thing greeted",
+        "acceptor",
+        "finder",
+        "guilty party",
+        "feeler",
+        "causer of continuation",
+        "place",
+        "observer"
+      ]
+    },
+    {
+      "characterName": "Kambei",
+      "recipients": [
+        "town",
+        "mission",
+        "Kikuchiyo",
+        "reinforcements",
+        "post",
+        "villagers"
+      ],
+      "verbs": [
+        "walk",
+        "reject",
+        "provide",
+        "instruct"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "walker",
+        "insister",
+        "question",
+        "helper",
+        "recruiter",
+        "decider",
+        "rejecter",
+        "perceiver",
+        "replier",
+        "impelled agent",
+        "provider",
+        "instructor",
+        "thinker"
+      ]
+    },
+    {
+      "characterName": "Katsushir",
+      "recipients": [
+        "village",
+        "Katsushir",
+        "affair",
+        "forces",
+        "hero",
+        "battle"
+      ],
+      "verbs": [
+        "leave",
+        "take",
+        "begin",
+        "\u0027s",
+        "avenge",
+        "win"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "walker",
+        "acceptor",
+        "picker",
+        "entity leaving",
+        "planner",
+        "appealed to",
+        "beginner",
+        "Agent / entity seeking",
+        "avenger",
+        "winner"
+      ]
+    },
+    {
+      "characterName": "Kikuchiyo",
+      "recipients": [
+        "village",
+        "villagers",
+        "alarm",
+        "himself",
+        "post",
+        "chief"
+      ],
+      "verbs": [
+        "follow",
+        "raise",
+        "rebuke",
+        "be",
+        "abandon",
+        "kill"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causal agent",
+        "thing rejected",
+        "Agent",
+        "rebuker",
+        "demonstrator",
+        "abandoner",
+        "entity succeeding",
+        "projectile",
+        "killer"
+      ]
+    }
+  ]
+}
