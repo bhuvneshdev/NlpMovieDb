@@ -1,7 +1,6 @@
 # NlpMovieDb
 
 ## Synopsis
-# NlpMovieDb
 The project is semantic search engine on movie database using various techniques of natural language processing and Information retrieval.
 The search engine returns a list of movies with their scores, to the user provided search query.
 Here are the points how it is different from conventional search engines
