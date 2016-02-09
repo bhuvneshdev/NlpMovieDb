@@ -23,7 +23,7 @@ towards this project and to successfully answer these questions. Following are t
 Used for: Event extraction, Event-Event relation extraction. [K-Parser](http://bioai8core.fulton.asu.edu/kparser/about.jsp)
 4. Stanford Core NLP : Stanford CoreNLP provides a set of natural language analysis tools. [Stanford CoreNLp](http://stanfordnlp.github.io/CoreNLP/) 
 Used for: Named entity recognition, Co-reference resolution, Parts of speech, Extraction object dependency for semantic representation. 
-5.NLTK : Leading platform for building Python programs to work with NLP. [NLTK](http://www.nltk.org/) 
+5. NLTK : Leading platform for building Python programs to work with NLP. [NLTK](http://www.nltk.org/) 
 Used for: NER detection and name and coreference unification for text.
 6. WS4J (WordNet Similarity for Java): Provides a pure Java API for semantic relatedness.[WS4J](https://code.google.com/archive/p/ws4j/) 
 Used for: Wordnet based word-word similarity algorithms PATH, LIN, LESK.
