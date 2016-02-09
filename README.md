@@ -33,6 +33,12 @@ Used for: Wordnet based word-word similarity algorithms PATH, LIN, LESK.
 7. Tf-IDF: Term frequency–inverse document frequency, is a numerical statistic that is intended to reflect how importance a word is to a document in a collection or corpus.[Tf-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 Used for: Creating event importance vector for each plot to give weights to the event similarity
 
+## Process
+Our approach is based on four similarity mechanisms i.e. Event Similarity, Named Entity Similarity, Term Similarity and Character Similarity, after the Data pre-processing. Following is an architecture of our system in detail:  
+![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture3.png?w=300&h=264)  
+
+### Extraction Engine
+
 
 
 
