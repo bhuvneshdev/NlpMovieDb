@@ -35,6 +35,7 @@ Used for: Creating event importance vector for each plot to give weights to the 
 
 ## Process
 Our approach is based on four similarity mechanisms i.e. Event Similarity, Named Entity Similarity, Term Similarity and Character Similarity, after the Data pre-processing. Following is an architecture of our system in detail:  
+
 ![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture31.png?w=660)  
 
 ### Extraction Engine
