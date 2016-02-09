@@ -18,6 +18,6 @@ towards this project and to successful answer these questions.
 ## Existing Problem & Motivation
 
 
-![alt text](https://www.dropbox.com/s/s8y59xs42td666p/Picture1.png?dl=0)
+![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture2.png?w=332&h=280&crop=1)
 
 
