@@ -1,7 +1,7 @@
 # NlpMovieDb
 
 ## Synopsis
-The project is semantic search engine on movie database using Natural Language Processing and Information retrieval techniques
+The project is semantic search engine on movie database using Natural Language Processing and Information retrieval techniques.
 The user provides a search query to the search engine and it returns a movie list with scores.
 Here is how it is different from conventional search engines.  
 1. It is based on semantic search and not keywords based approach which is how popular search engines implementation in IMDB, rotten tomatoes works.  
