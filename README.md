@@ -18,6 +18,6 @@ towards this project and to successful answer these questions.
 ## Existing Problem & Motivation
 
 
-![alt text](https://drive.google.com/file/d/0B1Lohn8B06JHN3Y5NV9GVXVXTDQ/view "Logo Title Text 1")
+![alt text](https://www.dropbox.com/s/s8y59xs42td666p/Picture1.png?dl=0)
 
 
