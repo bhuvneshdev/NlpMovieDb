@@ -12,12 +12,7 @@ Here is how it is different from conventional search engines.
 Based on web mining and analysis from the websites like Movies.stackexchange, IMDB, Quora and others, we observed that more
 than 90% of the questions posted online go unanswered. Clearly the magnitude of this problem is big, which got us motivated
 towards this project and to successful answer these questions.
-
-
-
-## Existing Problem & Motivation
-
-
+![alt text] (https://calitripmagblog.files.wordpress.com/2016/02/picture1.png?w=320&h=280&crop=1)
 ![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture2.png?w=332&h=280&crop=1)
 
 
