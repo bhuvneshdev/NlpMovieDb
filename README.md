@@ -16,4 +16,10 @@ towards this project and to successfully answer these questions. Following are t
 ![alt text] (https://calitripmagblog.files.wordpress.com/2016/02/picture1.png?w=320&h=280&crop=1)
 ![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture2.png?w=332&h=280&crop=1)
 
+## Tools and Technologies used
+1. Java: Java is a general-purpose object oriented programming language.
+2. Python: Python is a widely used general-purpose, high-level programming language.
+3. Knowledge Parser: K-Parser is a semantic parser that translates any English sentence into a directed acyclic semantic graph. It is used in our project for event extraction, event-event relation extraction. [K-Parser,   Link](http://bioai8core.fulton.asu.edu/kparser/about.jsp)
+4. Stanford Core NLP : Stanford CoreNLP provides a set of natural language analysis tools. It is used in our project for named entity recognition, coreference resolution, parts of speech and extraction object dependency for semantic representation. [Stanford CoreNLp, Link: ](http://stanfordnlp.github.io/CoreNLP/) 
+
 
