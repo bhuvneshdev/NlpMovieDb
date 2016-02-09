@@ -38,7 +38,39 @@ Our approach is based on four similarity mechanisms i.e. Event Similarity, Named
 ![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture31.png?w=660)  
 
 ### Extraction Engine
-⋅⋅* Unordered sub-list.
+*	Plot and query sentences are fed to K-parser to generate their semantic parse tree
+*	Verb nodes extracted
+*	Verbs lemmatized and stored
+*	NER are extracted using Stanford Core NLP
+*	Name, Location, Organization
+* Entities are extracted using NLTK
+
+![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture4.png?w=660)
+
+### Character Extraction
+![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture15.png?w=660)
+
+### Search Engine
+![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture16.png?w=660)
+
+### Character Similarity
+![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture7.png?w=660)
+
+### NER Similarity
+![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture8.png?w=660)
+
+### Term Similarity
+![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture9.png?w=660)
+
+### Ranking Engine
+![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture10.png?w=660)
+
+### Experiments and Results
+![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture11.png?w=660)
+![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture13.png?w=660)
+![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture14.png?w=660)
+![alt text](https://calitripmagblog.files.wordpress.com/2016/02/picture12.png?w=660)
+
 
 
 
