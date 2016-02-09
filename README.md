@@ -3,9 +3,9 @@
 ## Synopsis
 The project is semantic search engine on movie database using various techniques of natural language processing and Information retrieval.
 The search engine returns a list of movies with their scores, to the user provided search query.
-Here are the points how it is different from conventional search engines
-1. It is based on semantic search and not keywords based approach which is how popular search engines implementation in IMDB, rotten tomatoes works.  
-2. Information of the complete plot is parsed to form a graph model, representing the series of events, characters and their properties.
+Here are the points how it is different from conventional search engines.  
+It is based on semantic search and not keywords based approach which is how popular search engines implementation in IMDB, rotten tomatoes works.  
+Information of the complete plot is parsed to form a graph model, representing the series of events, characters and their properties.
 
 
 ## Existing Problem & Motivation
