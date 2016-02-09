@@ -19,7 +19,19 @@ towards this project and to successfully answer these questions. Following are t
 ## Tools and Technologies used
 1. Java: Java is a general-purpose object oriented programming language.
 2. Python: Python is a widely used general-purpose, high-level programming language.
-3. Knowledge Parser: K-Parser is a semantic parser that translates any English sentence into a directed acyclic semantic graph. It is used in our project for event extraction, event-event relation extraction. [K-Parser,   Link](http://bioai8core.fulton.asu.edu/kparser/about.jsp)
-4. Stanford Core NLP : Stanford CoreNLP provides a set of natural language analysis tools. It is used in our project for named entity recognition, coreference resolution, parts of speech and extraction object dependency for semantic representation. [Stanford CoreNLp, Link: ](http://stanfordnlp.github.io/CoreNLP/) 
+3. Knowledge Parser: K-Parser is a semantic parser that translates any English sentence into a directed acyclic semantic graph.
+Used for: Event extraction, Event-Event relation extraction. [K-Parser](http://bioai8core.fulton.asu.edu/kparser/about.jsp)
+4. Stanford Core NLP : Stanford CoreNLP provides a set of natural language analysis tools. [Stanford CoreNLp](http://stanfordnlp.github.io/CoreNLP/) 
+Used for: Named entity recognition, Co-reference resolution, Parts of speech, Extraction object dependency for semantic representation. 
+5.NLTK : Leading platform for building Python programs to work with NLP. [NLTK](http://www.nltk.org/) 
+Used for: NER detection and name and coreference unification for text.
+6. WS4J (WordNet Similarity for Java): Provides a pure Java API for semantic relatedness.[WS4J](https://code.google.com/archive/p/ws4j/) 
+Used for: Wordnet based word-word similarity algorithms PATH, LIN, LESK.
+7. Tf-IDF: Term frequency–inverse document frequency, is a numerical statistic that is intended to reflect how importance a word is to a document in a collection or corpus.[Tf-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+Used for: Creating event importance vector for each plot to give weights to the event similarity
+
+
+
+
 
 
