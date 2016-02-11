@@ -1,0 +1,484 @@
+{
+  "movieName": "AmericanHistoryX(1998)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Derek_Edward_Norton",
+      "recipients": [
+        "sex",
+        "Danny",
+        "pistol",
+        "middle",
+        "door",
+        "peephole",
+        "man",
+        "gun",
+        "shots",
+        "truck",
+        "Derek",
+        "kids",
+        "downstairs",
+        "smile",
+        "jail",
+        "group",
+        "men",
+        "inmate",
+        "Sweeney",
+        "brother",
+        "anything",
+        "party",
+        "night",
+        "Cameron",
+        "room",
+        "shower",
+        "meeting",
+        "school",
+        "words",
+        "bathroom",
+        "remarks"
+      ],
+      "verbs": [
+        "have",
+        "ask",
+        "take",
+        "go",
+        "tell",
+        "peer",
+        "kick",
+        "shoot",
+        "fire",
+        "walk",
+        "jail",
+        "rush",
+        "open",
+        "kill",
+        "try",
+        "find",
+        "realize",
+        "befriend",
+        "agree",
+        "do",
+        "look",
+        "punch",
+        "call",
+        "run",
+        "enter",
+        "get",
+        "drop",
+        "stagger",
+        "be"
+      ],
+      "traits": [
+        "older",
+        "ready",
+        "befuddled"
+      ],
+      "semanticRoles": [
+        "thing viewed",
+        "thing found",
+        "Utterance",
+        "thing witnessed",
+        "knower",
+        "thing strapped",
+        "asker",
+        "Speaker",
+        "looker",
+        "kicker",
+        "shooter",
+        "walker",
+        "creator",
+        "court",
+        "impelled agent",
+        "beginner",
+        "Theme(-Creation)",
+        "criminal",
+        "causer of motion",
+        "opener",
+        "corpse",
+        "killer",
+        "entity in motion / \u0027comer\u0027",
+        "Agent/Entity Trying",
+        "finder",
+        "noticer",
+        "Agent",
+        "new knower",
+        "student",
+        "thing assigned",
+        "agentive friend",
+        "victim",
+        "entity attacked",
+        "breaker",
+        "agreer",
+        "proposition",
+        "thing released",
+        "confrontational entity",
+        "agent",
+        "thing kicked",
+        "entity leaving",
+        "Keeper",
+        "grabber",
+        "operator",
+        "entity entering",
+        "receiver",
+        "question",
+        "Logical subject",
+        "Sayer",
+        "entity doing the dropping"
+      ]
+    },
+    {
+      "characterName": "we",
+      "recipients": [
+        "Danny_Edward_Furlong",
+        "time",
+        "teacher",
+        "office",
+        "statement"
+      ],
+      "verbs": [
+        "see",
+        "move",
+        "hear"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "mover",
+        "student"
+      ]
+    },
+    {
+      "characterName": "Danny_Edward_Furlong",
+      "recipients": [
+        "window",
+        "man",
+        "room",
+        "Derek",
+        "put",
+        "office",
+        "report",
+        "toothpick",
+        "what",
+        "teacher",
+        "smoke",
+        "face",
+        "cigarette",
+        "Danny",
+        "kid",
+        "ground",
+        "Henry",
+        "scene",
+        "job",
+        "men",
+        "brother",
+        "assignment",
+        "party",
+        "night",
+        "girlfriend",
+        "home",
+        "thing",
+        "computer",
+        "narrator",
+        "sunrise",
+        "bathroom",
+        "time",
+        "What",
+        "gun",
+        "lifeless"
+      ],
+      "verbs": [
+        "peer",
+        "see",
+        "run",
+        "find",
+        "witness",
+        "tell",
+        "stay",
+        "sit",
+        "write",
+        "step",
+        "do",
+        "be",
+        "blow",
+        "help",
+        "narrate",
+        "hear",
+        "inform",
+        "attempt",
+        "testify",
+        "go",
+        "ask",
+        "walk",
+        "give",
+        "return",
+        "watch",
+        "enter",
+        "know",
+        "raise",
+        "fall"
+      ],
+      "traits": [
+        "teen",
+        "young",
+        "younger",
+        "crazy"
+      ],
+      "semanticRoles": [
+        "thing viewed",
+        "entity awake",
+        "receiver",
+        "looker",
+        "viewer",
+        "finder",
+        "operator",
+        "experiencer of surprise",
+        "agent",
+        "Speaker",
+        "Sayer",
+        "question",
+        "Utterance",
+        "causer of movement",
+        "speaker",
+        "wind",
+        "helper",
+        "beginner",
+        "narrater",
+        "informer",
+        "witness",
+        "organization",
+        "asker",
+        "wanter",
+        "entity leaving",
+        "allower",
+        "knower",
+        "Thinker",
+        "understander",
+        "forgiver",
+        "walker",
+        "giver",
+        "entity frustrated",
+        "hoper",
+        "path walked",
+        "entity entering",
+        "Agent",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "car",
+        "one",
+        "gang",
+        "jail"
+      ],
+      "verbs": [
+        "get",
+        "play",
+        "break",
+        "pay",
+        "go"
+      ],
+      "traits": [
+        "black",
+        "Black",
+        "young",
+        "own"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "player",
+        "Agent/Entity Trying",
+        "breaker",
+        "projectile",
+        "new knowledge",
+        "payer or buyer",
+        "speaker",
+        "Agent"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "window",
+        "run"
+      ],
+      "verbs": [
+        "smash",
+        "break",
+        "make"
+      ],
+      "traits": [
+        "black",
+        "other"
+      ],
+      "semanticRoles": [
+        "agent",
+        "thing viewed",
+        "breaker",
+        "projectile",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "Sweeney",
+      "recipients": [
+        "Murray",
+        "Danny",
+        "end",
+        "Sweeney",
+        "teacher",
+        "family",
+        "everything",
+        "Derek",
+        "anything"
+      ],
+      "verbs": [
+        "ask",
+        "win",
+        "be",
+        "visit",
+        "hurt",
+        "take",
+        "tell",
+        "know"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "asker",
+        "beginner",
+        "Speaker",
+        "winner",
+        "thing won (contest or prize)",
+        "one party",
+        "other party",
+        "mover",
+        "wanter",
+        "agent",
+        "Utterance",
+        "knower"
+      ]
+    },
+    {
+      "characterName": "kids",
+      "recipients": [
+        "home",
+        "wall",
+        "Caf",
+        "Derek",
+        "hospital"
+      ],
+      "verbs": [
+        "walk",
+        "move",
+        "stop",
+        "tell",
+        "be"
+      ],
+      "traits": [
+        "black",
+        "white",
+        "suburban",
+        "scared"
+      ],
+      "semanticRoles": [
+        "criminal",
+        "thing complete",
+        "Utterance",
+        "walker",
+        "mover",
+        "looker",
+        "entity leaving",
+        "achiever",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Cameron",
+      "recipients": [
+        "Derek",
+        "homecoming"
+      ],
+      "verbs": [
+        "convinced",
+        "throw"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "convincer",
+        "thrower",
+        "roller",
+        "angry entity",
+        "entity punched",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "girlfriend",
+      "recipients": [
+        "Danny",
+        "anger"
+      ],
+      "verbs": [
+        "ask",
+        "run"
+      ],
+      "traits": [
+        "old"
+      ],
+      "semanticRoles": [
+        "mover",
+        "question",
+        "thing found",
+        "Utterance",
+        "asker",
+        "operator"
+      ]
+    },
+    {
+      "characterName": "Seth_Ryan_Ethan_Suplee",
+      "recipients": [
+        "gun",
+        "side"
+      ],
+      "verbs": [
+        "pull",
+        "do"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent",
+        "puller",
+        "receiver",
+        "causer of continuation",
+        "Utterance",
+        "causer of movement",
+        "thing pushed",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "I",
+      "recipients": [
+        "home",
+        "you",
+        "Hate",
+        "baggage",
+        "what"
+      ],
+      "verbs": [
+        "see",
+        "be",
+        "tell",
+        "learn"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "guesser",
+        "Speaker",
+        "student",
+        "Thinker"
+      ]
+    }
+  ]
+}

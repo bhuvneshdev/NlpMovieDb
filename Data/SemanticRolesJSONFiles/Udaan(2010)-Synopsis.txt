@@ -1,0 +1,4 @@
+{
+  "movieName": "Udaan(2010)-Synopsis.txt",
+  "characters": []
+}

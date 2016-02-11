@@ -1,0 +1,27 @@
+{
+  "movieName": "hachi.txt",
+  "characters": [
+    {
+      "characterName": "Hachiko",
+      "recipients": [
+        "spot",
+        "master",
+        "lives",
+        "loyalty",
+        "love",
+        "compassion",
+        "station"
+      ],
+      "verbs": [
+        "return",
+        "wait",
+        "touch",
+        "teach"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "teacher"
+      ]
+    }
+  ]
+}

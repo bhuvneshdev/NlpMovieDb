@@ -1,0 +1,535 @@
+{
+  "movieName": "TheLordoftheRings_TheReturnoftheKing(2003)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Smagol",
+      "recipients": [
+        "friend",
+        "Ring",
+        "fist"
+      ],
+      "verbs": [
+        "strangle",
+        "pry"
+      ],
+      "traits": [
+        "leading"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "stranger",
+        "agent",
+        "vehicle or path",
+        "ostracized",
+        "Thing begun - NP"
+      ]
+    },
+    {
+      "characterName": "hobbits",
+      "recipients": [
+        "stairs",
+        "Minas_Tirith",
+        "Shire"
+      ],
+      "verbs": [
+        "climb",
+        "awake",
+        "return"
+      ],
+      "traits": [
+        "hobbits",
+        "little"
+      ],
+      "semanticRoles": [
+        "a person engaged in a quarrel",
+        "beginner",
+        "sent",
+        "first struggler",
+        "climber",
+        "game/music",
+        "thing carried"
+      ]
+    },
+    {
+      "characterName": "Sam_Sean_Astin",
+      "recipients": [
+        "present",
+        "conversation",
+        "Gollum",
+        "Minas_Morgul",
+        "Frodo",
+        "Ring",
+        "Mordor",
+        "Ungol",
+        "Doom",
+        "Rosie_Cotton_Sarah_McLeod",
+        "peace",
+        "Valinor",
+        "scene"
+      ],
+      "verbs": [
+        "rest",
+        "hear",
+        "beat",
+        "arrive",
+        "try",
+        "carry",
+        "fight",
+        "rescue",
+        "marry",
+        "have",
+        "sail",
+        "walk"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "viewer",
+        "glowerer",
+        "thing shining",
+        "Agent/Entity Trying",
+        "entity blamed",
+        "carrier",
+        "first fighter",
+        "hearer",
+        "rescuer",
+        "entity changing",
+        "causer",
+        "entity sailing",
+        "decider",
+        "place",
+        "walker",
+        "thing greeted",
+        "speaker",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "Frodo_Elijah_Wood",
+      "recipients": [
+        "present",
+        "Minas_Morgul",
+        "Treebeard",
+        "center",
+        "pain",
+        "Mount_Doom",
+        "trek",
+        "Crack",
+        "power",
+        "Gollum",
+        "lava"
+      ],
+      "verbs": [
+        "rest",
+        "get",
+        "see",
+        "arrive",
+        "understand",
+        "begin",
+        "put",
+        "succumb",
+        "charge",
+        "sink"
+      ],
+      "traits": [
+        "alive",
+        "suspicious",
+        "helpful",
+        "dead"
+      ],
+      "semanticRoles": [
+        "agent",
+        "receiver",
+        "mover",
+        "impelled agent",
+        "achiever",
+        "viewer",
+        "talker",
+        "killer",
+        "nosy individual",
+        "thing turning",
+        "understander",
+        "corpse",
+        "betrayed",
+        "entity rescued",
+        "beginner",
+        "Theme (action or object being prevented)",
+        "entity attacked",
+        "thing carried",
+        "entity giving in",
+        "cause",
+        "causer of sinking",
+        "entity changing",
+        "regreter",
+        "entity suffering"
+      ]
+    },
+    {
+      "characterName": "Gollum",
+      "recipients": [
+        "Wood",
+        "Smagol",
+        "Sam",
+        "Minas_Morgul",
+        "Frodo",
+        "hobbits",
+        "fire"
+      ],
+      "verbs": [
+        "urge",
+        "begin",
+        "flash",
+        "arrive",
+        "take",
+        "poison",
+        "play",
+        "betray",
+        "attack",
+        "fall"
+      ],
+      "traits": [
+        "necessary"
+      ],
+      "semanticRoles": [
+        "urger",
+        "beginner",
+        "thing hit",
+        "shower",
+        "thing striving",
+        "killer",
+        "player",
+        "causer of continuation",
+        "betrayer",
+        "attacker",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Thoden_Bernard_Hill",
+      "recipients": [
+        "Isengard",
+        "banquet",
+        "Edoras",
+        "affection",
+        "morning",
+        "war"
+      ],
+      "verbs": [
+        "ride",
+        "prepared",
+        "tell"
+      ],
+      "traits": [
+        "happy"
+      ],
+      "semanticRoles": [
+        "rider",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Pippin_Billy_Boyd",
+      "recipients": [
+        "palantr",
+        "Gandalf",
+        "vision",
+        "anything",
+        "ordeal",
+        "City_of_Kings",
+        "Tree",
+        "Boyd",
+        "loyalty",
+        "outpouring",
+        "Denethor"
+      ],
+      "verbs": [
+        "see",
+        "relieve",
+        "look",
+        "tell",
+        "recover",
+        "arrive",
+        "recognise",
+        "swear",
+        "witness",
+        "sing"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "eater",
+        "viewer",
+        "victim",
+        "thing relieving",
+        "looker",
+        "given",
+        "thing gotten",
+        "entity rescued",
+        "Speaker",
+        "entity in motion",
+        "swearer",
+        "agent",
+        "singer"
+      ]
+    },
+    {
+      "characterName": "Gandalf",
+      "recipients": [
+        "threat",
+        "call",
+        "palantr",
+        "vision",
+        "City_of_Kings",
+        "outpouring",
+        "men",
+        "Denethor",
+        "Faramir",
+        "safety",
+        "hobbits"
+      ],
+      "verbs": [
+        "pose",
+        "oppose",
+        "ask",
+        "deduce",
+        "arrive",
+        "witness",
+        "ward",
+        "incapacitate",
+        "save",
+        "carry"
+      ],
+      "traits": [
+        "wizard",
+        "able"
+      ],
+      "semanticRoles": [
+        "opposer",
+        "player",
+        "asker",
+        "speaker",
+        "Utterance",
+        "truster",
+        "thing being helped",
+        "agent",
+        "avoider",
+        "impelled agent",
+        "thing broken",
+        "disabler",
+        "causer of movement",
+        "manager",
+        "entity saving money",
+        "new knower",
+        "carrier"
+      ]
+    },
+    {
+      "characterName": "Aragorn",
+      "recipients": [
+        "Gandalf",
+        "Boyd",
+        "future",
+        "sword",
+        "counsel",
+        "Dimholt",
+        "night",
+        "love",
+        "ship",
+        "Arwen"
+      ],
+      "verbs": [
+        "tell",
+        "rescue",
+        "have",
+        "use",
+        "accept",
+        "ride",
+        "refuse",
+        "jump",
+        "marry"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "Agent/Entity Trying",
+        "rescuer",
+        "place",
+        "thing given",
+        "impelled agent",
+        "User",
+        "acceptor",
+        "rider",
+        "entity refusing",
+        "holder",
+        "entity proposing",
+        "causer"
+      ]
+    },
+    {
+      "characterName": "Sauron",
+      "recipients": [
+        "Boyd",
+        "return",
+        "city",
+        "racing"
+      ],
+      "verbs": [
+        "catch",
+        "look",
+        "attack",
+        "send"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "urger",
+        "looker",
+        "mover",
+        "attacker",
+        "sender",
+        "entity getting warning"
+      ]
+    },
+    {
+      "characterName": "her",
+      "recipients": [
+        "future",
+        "Rivendell",
+        "Weaving",
+        "Aragorn",
+        "father"
+      ],
+      "verbs": [
+        "have",
+        "return",
+        "convince",
+        "leave",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "convincer",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Denethor",
+      "recipients": [
+        "measures",
+        "Denethor",
+        "meal",
+        "Faramir",
+        "might",
+        "pyre",
+        "Minas_Tirith",
+        "son",
+        "death"
+      ],
+      "verbs": [
+        "take",
+        "manipulate",
+        "eat",
+        "see",
+        "behold",
+        "believe",
+        "prepare",
+        "turn",
+        "burn"
+      ],
+      "traits": [
+        "dead",
+        "unaware"
+      ],
+      "semanticRoles": [
+        "thing gotten",
+        "handler",
+        "thing handled",
+        "consumer",
+        "viewer",
+        "beholder",
+        "thing no longer capable",
+        "turner",
+        "pyromaniac",
+        "thing thrown"
+      ]
+    },
+    {
+      "characterName": "army",
+      "recipients": [
+        "Anduin",
+        "David_Wenham"
+      ],
+      "verbs": [
+        "cross",
+        "engage"
+      ],
+      "traits": [
+        "immense"
+      ],
+      "semanticRoles": [
+        "entity dispatched",
+        "causer of engagement",
+        "crosser",
+        "thing viewed",
+        "causal agent"
+      ]
+    },
+    {
+      "characterName": "orcs",
+      "recipients": [
+        "Gondorians",
+        "Osgiliath_Faramir",
+        "Mmakil",
+        "Orcs",
+        "peace",
+        "Gate",
+        "soldiers"
+      ],
+      "verbs": [
+        "drive",
+        "destroy",
+        "rest",
+        "lead"
+      ],
+      "traits": [
+        "encamped"
+      ],
+      "semanticRoles": [
+        "driver",
+        "examiner",
+        "agent",
+        "project",
+        "thing released",
+        "causal agent",
+        "leader",
+        "art",
+        "consumed"
+      ]
+    },
+    {
+      "characterName": "owyn",
+      "recipients": [
+        "Dimholt",
+        "Aragorn",
+        "part",
+        "King",
+        "Witchking"
+      ],
+      "verbs": [
+        "beg",
+        "come",
+        "be",
+        "remain",
+        "kill"
+      ],
+      "traits": [
+        "tearful"
+      ],
+      "semanticRoles": [
+        "begger",
+        "Utterance",
+        "killer"
+      ]
+    }
+  ]
+}

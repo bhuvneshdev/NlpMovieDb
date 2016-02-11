@@ -1,0 +1,362 @@
+{
+  "movieName": "Braveheart(1995)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Longshanks",
+      "recipients": [
+        "population",
+        "Isabelle"
+      ],
+      "verbs": [
+        "breed",
+        "tell"
+      ],
+      "traits": [
+        "weakened",
+        "mute"
+      ],
+      "semanticRoles": [
+        "causer",
+        "builder",
+        "knower",
+        "Speaker",
+        "causer of continuation",
+        "informed"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "father",
+        "William",
+        "Robert",
+        "throne",
+        "son",
+        "what",
+        "trap"
+      ],
+      "verbs": [
+        "find",
+        "tell",
+        "dominate",
+        "secure",
+        "set"
+      ],
+      "traits": [
+        "scheming",
+        "unconscious"
+      ],
+      "semanticRoles": [
+        "thing following",
+        "finder",
+        "thing found",
+        "Speaker",
+        "object accompanied",
+        "corpse",
+        "agent",
+        "wisher",
+        "Utterance",
+        "Keeper",
+        "conspirator",
+        "thing given",
+        "thing hit",
+        "theme"
+      ]
+    },
+    {
+      "characterName": "Wallace_Senior",
+      "recipients": [
+        "place",
+        "meeting",
+        "wedding",
+        "love",
+        "village",
+        "retribution",
+        "captors",
+        "garrison",
+        "villagers",
+        "Murron",
+        "manner",
+        "sheriff",
+        "English",
+        "army",
+        "contender",
+        "son",
+        "campaign",
+        "assistance",
+        "Isabelle",
+        "offer",
+        "nobility",
+        "problems",
+        "ranks",
+        "charges",
+        "Longshanks",
+        "act",
+        "life",
+        "hand",
+        "lancer",
+        "war",
+        "hiding",
+        "Edward",
+        "painkiller",
+        "torture",
+        "strength",
+        "mercy",
+        "king",
+        "field"
+      ],
+      "verbs": [
+        "arrive",
+        "attend",
+        "see",
+        "fall",
+        "return",
+        "attack",
+        "join",
+        "execute",
+        "fight",
+        "lead",
+        "seek",
+        "kill",
+        "reject",
+        "need",
+        "have",
+        "break",
+        "lose",
+        "gain",
+        "go",
+        "make",
+        "deny",
+        "accept",
+        "pray",
+        "beg",
+        "submit",
+        "cross",
+        "urge"
+      ],
+      "traits": [
+        "fallen"
+      ],
+      "semanticRoles": [
+        "thing attending",
+        "viewer",
+        "thing given",
+        "one surrendering",
+        "agent",
+        "attacker",
+        "killer",
+        "impelled agent",
+        "first fighter",
+        "leader",
+        "Agent / entity seeking",
+        "rejecter",
+        "Utterance",
+        "needer",
+        "breaker",
+        "corpse",
+        "entity intercepted",
+        "thing hit",
+        "thing examined",
+        "thing set",
+        "thing gotten",
+        "causal agent",
+        "goal",
+        "creator",
+        "first thing being tied",
+        "thing tried",
+        "thing brought",
+        "acceptor",
+        "denier",
+        "pray-er",
+        "begger",
+        "giver",
+        "entity refusing",
+        "crosser",
+        "urger"
+      ]
+    },
+    {
+      "characterName": "William",
+      "recipients": [
+        "corpses",
+        "panics",
+        "farm",
+        "home",
+        "brother",
+        "father",
+        "night",
+        "tribute"
+      ],
+      "verbs": [
+        "see",
+        "mind",
+        "stay",
+        "accompany",
+        "listen",
+        "play"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "Utterance",
+        "entity being bothered",
+        "subject accompanier",
+        "wisher",
+        "thing given",
+        "listener",
+        "player"
+      ]
+    },
+    {
+      "characterName": "Argyle",
+      "recipients": [
+        "night",
+        "tribute",
+        "William",
+        "interest"
+      ],
+      "verbs": [
+        "listen",
+        "play",
+        "tell",
+        "see"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "listener",
+        "player",
+        "Speaker",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "English",
+      "recipients": [
+        "himself",
+        "Wallace",
+        "actions"
+      ],
+      "verbs": [
+        "enslave",
+        "capture",
+        "lament"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causer",
+        "assumer of attribute",
+        "regretter",
+        "getter",
+        "expecter",
+        "first fighter"
+      ]
+    },
+    {
+      "characterName": "Robert_the_Bruce",
+      "recipients": [
+        "what",
+        "Wallace",
+        "intent",
+        "father",
+        "army",
+        "line",
+        "charge",
+        "English"
+      ],
+      "verbs": [
+        "see",
+        "get",
+        "declare",
+        "disown",
+        "lead",
+        "face",
+        "turn"
+      ],
+      "traits": [
+        "young",
+        "able",
+        "younger"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "thing torn",
+        "receiver",
+        "declarer",
+        "Utterance",
+        "agent",
+        "looker",
+        "leader",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "Isabelle",
+      "recipients": [
+        "peace",
+        "wife",
+        "Wallace",
+        "conversation",
+        "love",
+        "husband",
+        "fatherinlaw",
+        "Longshanks"
+      ],
+      "verbs": [
+        "try",
+        "be",
+        "tell",
+        "assist",
+        "make",
+        "bring",
+        "lambaste",
+        "inform"
+      ],
+      "traits": [
+        "French"
+      ],
+      "semanticRoles": [
+        "Agent/Entity Trying",
+        "sent",
+        "negotiator",
+        "corpse",
+        "Utterance",
+        "Speaker",
+        "achiever",
+        "creator",
+        "bringer",
+        "swearer",
+        "angry entity",
+        "informer"
+      ]
+    },
+    {
+      "characterName": "King",
+      "recipients": [
+        "Isabelle",
+        "war",
+        "pleasure",
+        "death",
+        "II"
+      ],
+      "verbs": [
+        "send",
+        "declare",
+        "take",
+        "accept"
+      ],
+      "traits": [
+        "French",
+        "Scottish",
+        "new",
+        "English"
+      ],
+      "semanticRoles": [
+        "sender",
+        "imposer (not imposter)",
+        "negotiator",
+        "declarer",
+        "acceptor"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "movieName": "TheLordoftheRings_TheTwoTowers(2002)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Gandalf",
+      "recipients": [
+        "Balrog",
+        "Rohirrim",
+        "omer"
+      ],
+      "verbs": [
+        "battle",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "combatant",
+        "entity leaving",
+        "finder",
+        "thing viewed",
+        "admitter"
+      ]
+    },
+    {
+      "characterName": "Frodo",
+      "recipients": [
+        "journey",
+        "dream",
+        "burden",
+        "pity",
+        "neck",
+        "rope",
+        "need",
+        "Frodo",
+        "Gate",
+        "Hobbits",
+        "Marshes",
+        "Gollum",
+        "benefit",
+        "cloak",
+        "Smagol",
+        "trap",
+        "amp",
+        "efforts",
+        "Mordor"
+      ],
+      "verbs": [
+        "continue",
+        "awaken",
+        "understand",
+        "take",
+        "remove",
+        "persuade",
+        "lead",
+        "traverse",
+        "pull",
+        "give",
+        "throw",
+        "help",
+        "lure",
+        "feeling",
+        "escape",
+        "resume"
+      ],
+      "traits": [
+        "precious",
+        "befriend"
+      ],
+      "semanticRoles": [
+        "causer of continuation",
+        "causer of waking",
+        "Thinker",
+        "thing gotten",
+        "understander",
+        "convincer",
+        "entity removing",
+        "impelled agent",
+        "leader",
+        "traveller",
+        "puller",
+        "giver",
+        "thing given",
+        "causer of motion",
+        "thrower",
+        "helper",
+        "project",
+        "attractor",
+        "entity escaping",
+        "feeler",
+        "Agent",
+        "thing led"
+      ]
+    },
+    {
+      "characterName": "Sam",
+      "recipients": [
+        "Gollum",
+        "Sam",
+        "Marshes",
+        "cliff",
+        "Mordor",
+        "journey"
+      ],
+      "verbs": [
+        "distrust",
+        "abandon",
+        "traverse",
+        "tumble",
+        "tell",
+        "resume"
+      ],
+      "traits": [
+        "omer"
+      ],
+      "semanticRoles": [
+        "wisher",
+        "abandoner",
+        "distruster",
+        "thing abandoned",
+        "traveller",
+        "causer of falling",
+        "layer",
+        "Speaker",
+        "Utterance",
+        "thing gotten",
+        "narrater",
+        "Agent",
+        "thing led"
+      ]
+    },
+    {
+      "characterName": "Aragorn",
+      "recipients": [
+        "pursuit",
+        "skills",
+        "tracks",
+        "Fangorn_Forest",
+        "wizard",
+        "Isengard",
+        "army",
+        "ride",
+        "bid",
+        "Gandalf"
+      ],
+      "verbs": [
+        "be",
+        "use",
+        "find",
+        "discover",
+        "wash",
+        "pass",
+        "make",
+        "see"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity encountered",
+        "finder",
+        "User",
+        "thing dragged",
+        "agent of washing",
+        "Logical subject",
+        "legislative body",
+        "creator",
+        "viewer",
+        "looker"
+      ]
+    },
+    {
+      "characterName": "Saruman",
+      "recipients": [
+        "forces",
+        "Rohan",
+        "tower"
+      ],
+      "verbs": [
+        "marshal",
+        "destroy",
+        "look"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "gatherer",
+        "causer of action",
+        "decider",
+        "Utterance",
+        "speaker",
+        "destroyer",
+        "builder",
+        "looker"
+      ]
+    },
+    {
+      "characterName": "omer",
+      "recipients": [
+        "Grma",
+        "Gimli",
+        "Aragorn",
+        "Legolas"
+      ],
+      "verbs": [
+        "interrogate",
+        "encounter"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "asker",
+        "entity expelled",
+        "ambusher",
+        "killer",
+        "entity encountering something",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "Wormtongue",
+      "recipients": [
+        "eyes",
+        "agent",
+        "Orthanc",
+        "Saruman",
+        "drain"
+      ],
+      "verbs": [
+        "have",
+        "be",
+        "flee",
+        "tell"
+      ],
+      "traits": [
+        "treacherous"
+      ],
+      "semanticRoles": [
+        "entity expelled",
+        "Speaker",
+        "fleer"
+      ]
+    },
+    {
+      "characterName": "Pippin",
+      "recipients": [
+        "battle",
+        "captors",
+        "wizard",
+        "progress",
+        "Treebeard",
+        "section"
+      ],
+      "verbs": [
+        "escape",
+        "assume",
+        "become",
+        "take"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity escaping"
+      ]
+    },
+    {
+      "characterName": "Treebeard",
+      "recipients": [
+        "survivors",
+        "forest",
+        "Council",
+        "Fangorn",
+        "involvement",
+        "Ents"
+      ],
+      "verbs": [
+        "aid",
+        "hold",
+        "decide",
+        "have",
+        "command"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "helper",
+        "holder",
+        "decider",
+        "container",
+        "getter"
+      ]
+    },
+    {
+      "characterName": "Easterlings",
+      "recipients": [
+        "cloak",
+        "Easterlings",
+        "disturbance",
+        "Wormtongue",
+        "Thoden",
+        "spirit"
+      ],
+      "verbs": [
+        "see",
+        "investigate",
+        "banish",
+        "exorcise"
+      ],
+      "traits": [
+        "unable"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "examiner",
+        "entity in motion",
+        "thing viewed",
+        "banisher",
+        "exorcist"
+      ]
+    },
+    {
+      "characterName": "Smagol",
+      "recipients": [
+        "Gollum",
+        "personality",
+        "Frodo",
+        "Ithilien",
+        "capture"
+      ],
+      "verbs": [
+        "banish",
+        "battle",
+        "elude"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "combatant",
+        "banisher",
+        "thing attracted",
+        "avoider"
+      ]
+    },
+    {
+      "characterName": "army",
+      "recipients": [
+        "survivors",
+        "quest"
+      ],
+      "verbs": [
+        "send",
+        "finish"
+      ],
+      "traits": [
+        "huge",
+        "massive",
+        "evil"
+      ],
+      "semanticRoles": [
+        "sender",
+        "bill",
+        "utterance",
+        "entity attacked",
+        "blind one",
+        "Intentional agent"
+      ]
+    },
+    {
+      "characterName": "Ents",
+      "recipients": [
+        "forest",
+        "Council",
+        "Fangorn",
+        "involvement",
+        "vengeance",
+        "Isengard"
+      ],
+      "verbs": [
+        "hold",
+        "decide",
+        "have",
+        "seek",
+        "attack"
+      ],
+      "traits": [
+        "other"
+      ],
+      "semanticRoles": [
+        "holder",
+        "decider",
+        "Agent / entity seeking",
+        "gotten",
+        "attacker",
+        "entity succeeding"
+      ]
+    },
+    {
+      "characterName": "Uruks",
+      "recipients": [
+        "walls",
+        "Hornburg",
+        "gate",
+        "Isengard"
+      ],
+      "verbs": [
+        "scale",
+        "breach",
+        "embark"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "breaker",
+        "beginner",
+        "agent or causer"
+      ]
+    }
+  ]
+}

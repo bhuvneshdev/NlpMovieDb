@@ -1,0 +1,1026 @@
+[
+    {
+        "characters": " mcardle, davis, josephsweeney, edbegley, jackklugman, edwardbinns, cobb",
+        "movieTitle": "12AngryMen(1957)-Synopsis.txt"
+    },
+    {
+        "characters": " shaw, tibeats, eliza, mistressepps, patsey, chapin, parker, clemens, bass, armsby, platt, solomonnorthup, brown, hamilton, freeman, robert",
+        "movieTitle": "12YearsaSlave(2013)-Synopsis.txt"
+    },
+    {
+        "characters": " tycho, heywoodfloydwilliamsylvester, frank, johannstrauss, clavius, viviankubrick, davebowmankeirdullea, daisybell, gyrgyligeti, richardstrauss, haldouglasrain, danielrichter",
+        "movieTitle": "2001_ASpaceOdyssey(1968)-Synopsis.txt"
+    },
+    {
+        "characters": " chatur, suhas, rancho, rajurastogi, mona, pia, joylobo, farhanqureshi, phunsukhwangdu",
+        "movieTitle": "3Idiots(2009)-Synopsis.txt"
+    },
+    {
+        "characters": "",
+        "movieTitle": "8__(1963)-Synopsis.txt"
+    },
+    {
+        "characters": " mcardle, davis, josephsweeney, edbegley, jackklugman, edwardbinns, cobb",
+        "movieTitle": "abc1.txt"
+    },
+    {
+        "characters": " marcee, johnnash, ainsley, alicialarde, charles, williamparcher, bender, russellcrowe, martinhansen",
+        "movieTitle": "ABeautifulMind(2001)-Synopsis.txt"
+    },
+    {
+        "characters": " dolin, pete, billyboy, beethoven, brodsky, frederick, taylor, ludovico, singin, branom, dawn, georgie, jesus, frankalexander, julian, barnes",
+        "movieTitle": "AClockworkOrange(1971)-Synopsis.txt"
+    },
+    {
+        "characters": " baxters, marisol, esteban, silvanito, johnbaxter, consuelo, rojos, antonio, piripero, ramn, chico, ramonrojo",
+        "movieTitle": "AFistfulofDollars(1964)-Synopsis.txt"
+    },
+    {
+        "characters": " jones, parker, mother, brettharrydeanstanton, kane, ashianholm, ripleysigourneyweaver, navigatorlambertveronicacartwright, ianholm, dallastomskerritt, arrydeanstanton",
+        "movieTitle": "Alien(1979)-Synopsis.txt"
+    },
+    {
+        "characters": " drake, newt, hudsonbillpaxton, weylandyutani, hudsonhicksampgorman, dwayneripley amp newt, ellen, casey, carterburkepaulreiser, spunkmeyer, jones, lancehenriksen, hicksmichaelbiehn, rebecca, timmy, vasquezjeanettegoldstein, bishoplancehenriksen, hudsonhicksampgorman amp carterburkepaulreiser, aponealmatthews, dwayneripley",
+        "movieTitle": "Aliens(1986)-Synopsis.txt"
+    },
+    {
+        "characters": " phoebe, lloydrichards, eveharrington, karen, dewitt, billsimpson, addisondewitt, margo",
+        "movieTitle": "AllAboutEve(1950)-Synopsis.txt"
+    },
+    {
+        "characters": " mozart, leopold, josephii, constanze, karl, counthieronymusvoncolloredo, figaro, salieris",
+        "movieTitle": "amadeus.txt"
+    },
+    {
+        "characters": " mozart, leopold, count hieronymusvoncolloredo, josephii, constanze, karl, godfearing, figaro, salieris",
+        "movieTitle": "amadeus_coref.txt"
+    },
+    {
+        "characters": "",
+        "movieTitle": "amaedus_ques.txt"
+    },
+    {
+        "characters": " jane, fitts, braddupree, carolyn, buddykane, ricky, angelahayes, barbara, lesterburnham",
+        "movieTitle": "AmericanBeauty(1999)-Synopsis.txt"
+    },
+    {
+        "characters": " derekedwardnorton, stacy, meinkampf, cameron, lamont, robertsweeneyaverybrooks, dannyedwardfurlong, hitler, henry, staceyfairuzabalk, rasmussen, murrayelliotgould, sethryanethansuplee, black",
+        "movieTitle": "AmericanHistoryX(1998)-Synopsis.txt"
+    },
+    {
+        "characters": " fatso, daniel, cofi, richie, valeria, elchivo, susana, octavio, jarocho, ramiro, gerardo, jorge",
+        "movieTitle": "AmoresPerros(2000)-Synopsis.txt"
+    },
+    {
+        "characters": " raymonddufayel, collignon, ninoquincampoix, madamewells, diana, raphael, josef, domoniquebredoteau, georgette, gina, amelie, lucien, madelenewells",
+        "movieTitle": "Am__lie(2001)-Synopsis.txt"
+    },
+    {
+        "characters": " alpaquette, barneyquill, lauramanion, paulbiegler, weaver, mccarthy, marypilant, maidarutledge, parnellmccarthy",
+        "movieTitle": "AnatomyofaMurder(1959)-Synopsis.txt"
+    },
+    {
+        "characters": " alvysinger, anniehall",
+        "movieTitle": "AnnieHall(1977)-Synopsis.txt"
+    },
+    {
+        "characters": " lucas, lance, corman, willard, billkilgore, kurtz, benjaminl, colby",
+        "movieTitle": "ApocalypseNow(1979)-Synopsis.txt"
+    },
+    {
+        "characters": " eli, nader, termeh, razieh, farhadi, simin, hodjat",
+        "movieTitle": "ASeparation(2011)-Synopsis.txt"
+    },
+    {
+        "characters": " einstein, strickland, fox, pepsi  georgebrun, lindawendiejosperber, johnf, stella, otispeabody, delorean, sherman, mcfly, toby, emmettbrown, goode, calvinklein, milton, tom, chuckberry, lorraineleathompson, georgebrun, joey, marvinberry, merletravis, jimihendrix, davemarcmcclure, jenniferparkerclaudiawells, goldiewilson, darthvader, martymcflymichaelj, doc, sambaines, bifftannenthomasf, loucaruthers, sally, kennedydrive",
+        "movieTitle": "BacktotheFuture(1985)-Synopsis.txt"
+    },
+    {
+        "characters": " grogan, irishmanredmondbarry, bullington, chevalier, young lordbullingdonbarry, atrick, potzdorf, charles, king georgeiii, lordbullingdonbarry, johnquin, mother, graham, prussa, irishman irishmanredmondbarry, norabrady, bryanpatrick, samuelrunt, o'toole, ladylyndon",
+        "movieTitle": "BarryLyndon(1975)-Synopsis.txt"
+    },
+    {
+        "characters": " victorzsaztimbooth, jonathancranecillianmurphy, jamesgordongaryoldman, emmalockhart, arnoldflassmarkboonejunior, thomaswaynelinusroache, williamearlerutgerhauer, faden, henriducardliamneeson, thomaswayne linus roache, gillianb, brucewayne, luciusfoxmorganfreeman, christianbale, carminefalconetomwilkinson, zasz, alfredpennyworthmichaelcaine, martha, racheldawes, katieholmes, loeb, wayneenterprisesceowilliamearlerutgerhauer, alghul, alghulkenwatanabe, carlfinch, liam neeson, lehmann, waynetower, guslewis, joechillrichardbrake richard brake, delane, batman, joechillrichardbrake",
+        "movieTitle": "BatmanBegins(2005)-Synopsis.txt"
+    },
+    {
+        "characters": " potts, gaston, lumiere, belle, maurice",
+        "movieTitle": "BeautyandtheBeast(1991)-Synopsis.txt"
+    },
+    {
+        "characters": " jesse, cline",
+        "movieTitle": "BeforeSunrise(1995)-Synopsis.txt"
+    },
+    {
+        "characters": " jesse, celine, baby, simone, shakespeare",
+        "movieTitle": "BeforeSunset(2004)-Synopsis.txt"
+    },
+    {
+        "characters": " quintasarrius, caesar, jesus, christ, balthasar, judahbenhur",
+        "movieTitle": "Ben-Hur(1959)-Synopsis.txt"
+    },
+    {
+        "characters": " ricci, antonio, bruno, maria",
+        "movieTitle": "BicycleThieves(1948)-Synopsis.txt"
+    },
+    {
+        "characters": " bryant, holden, roybatty, jfsebastian, gaff, chew, tyrell, zhora, taffylewis, bradbury, leon, abdulbenhassan, pris, rickdeckard, rachel, rachael",
+        "movieTitle": "BladeRunner(1982)-Synopsis.txt"
+    },
+    {
+        "characters": " king edwardlongshanks, melgibson, lochlan, edwardii, robertthebruce, prince edwardii, murronmacclannough, williamwallace, hamish, primaenoctis, argyle, wallacesenior, isabelle, kingedwardlongshanks, mornay",
+        "movieTitle": "Braveheart(1995)-Synopsis.txt"
+    },
+    {
+        "characters": " joelefors, harveylogan, butch, fuego, etta, garris",
+        "movieTitle": "ButchCassidyandtheSundanceKid(1969)-Synopsis.txt"
+    },
+    {
+        "characters": " majorstrasserconradveidt, ugartepeterlorre, rickblainehumphreybogart, victorlaszlopaulhenreid, louisrenaultclauderains, major strasserconradveidt, ilsalundingridbergman, vichy, samarthurdooleywilson",
+        "movieTitle": "Casablanca(1942)-Synopsis.txt"
+    },
+    {
+        "characters": " dominick, frankiemarino, ginger, billysherbert, andystone, antoro, martinscorsese, samacerothstein, artiepiscano, frankmarino, amy, nickysantoro, remo, johnnance, gaggi, lesterdiamond, philipgreen, donward",
+        "movieTitle": "Casino(1995)-Synopsis.txt"
+    },
+    {
+        "characters": "",
+        "movieTitle": "CastleintheSky(1986)-Synopsis.txt"
+    },
+    {
+        "characters": " katherine, jakej, louescobar, hollis, loach, williammulholland, noahcross, claudemulvihill, gittes, evelynmulwray",
+        "movieTitle": "Chinatown(1974)-Synopsis.txt"
+    },
+    {
+        "characters": " toto, alfredo, salvatore, elena",
+        "movieTitle": "CinemaParadiso(1988)-Synopsis.txt"
+    },
+    {
+        "characters": " rosebud, bernsteineverettsloane, thatcher, kanes, charlesfosterkaneorsonwelles, xanadu, thompson, ruthwarrick, jimgettysraycollins, raymondpaulstewart, susanalexanderkanedorothycomingore, jedediahlelandjosephcotten, emily",
+        "movieTitle": "CitizenKane(1941)-Synopsis.txt"
+    },
+    {
+        "characters": " flowergirl",
+        "movieTitle": "CityLights(1931)-Synopsis.txt"
+    },
+    {
+        "characters": " blackie, benny, ned",
+        "movieTitle": "CityofGod(2002)-Synopsis.txt"
+    },
+    {
+        "characters": " dragline, lucasjackson, luke",
+        "movieTitle": "CoolHandLuke(1967)-Synopsis.txt"
+    },
+    {
+        "characters": " vigo, johann, werner, ullmann, reich, thomsen",
+        "movieTitle": "DasBoot(1981)-Synopsis.txt"
+    },
+    {
+        "characters": " delahunt, frankcostello, colinsullivan, fitzgibbons, barrigan, brown, madolynmadden, dignam, ellerby, billycostigan, queenan",
+        "movieTitle": "departed.txt"
+    },
+    {
+        "characters": " michel, nicolehorner, delassalle, orner, alfredfichet, christina",
+        "movieTitle": "Diabolique(1955)-Synopsis.txt"
+    },
+    {
+        "characters": " captainlesgate, margot, swann, tony, mark, inspectorhubbard",
+        "movieTitle": "DialMforMurder(1954)-Synopsis.txt"
+    },
+    {
+        "characters": " heinrich, harryellishartbochner, gennaro, alpowellreginaldveljohnson, hansgruberalanrickman, joetakagi, theo, richardthornbergwilliamatherton, tony, mcclane, karlalexandergodunov, marco, johnmcclane, hollygennero",
+        "movieTitle": "DieHard(1988)-Synopsis.txt"
+    },
+    {
+        "characters": " leonidemoguy, ellis, carrucan, django, siegfried, dumas, billsharpe, king, jenny, laralee, schultz, stephen, brunhilde, broomhildavonshaft, dicky, littleraj, calvincandie, daughtrey, bigjohn, amerigovessepi, willardpeck, bennett, billycrash, betina, derringer",
+        "movieTitle": "django.txt"
+    },
+    {
+        "characters": " angie, leonschermer, eugenemoretti, sheldon, sonnywortzik, howard, murphy, mulvaney, sal",
+        "movieTitle": "DogDayAfternoon(1975)-Synopsis.txt"
+    },
+    {
+        "characters": " frank, thurman, gretchen, samantha, monnitoff, monnittoff, pomeroy, donnie, kittyfarmer, jimcunningham, rose, eddie, grahamgreene, robertasparrow, elizabeth",
+        "movieTitle": "DonnieDarko(2001)-Synopsis.txt"
+    },
+    {
+        "characters": " phyllisdietrichson, neff, wilder, bartonkeyes, nino, lola",
+        "movieTitle": "DoubleIndemnity(1944)-Synopsis.txt"
+    },
+    {
+        "characters": " wilhelmburgdorf, traudljunge, ernstgntherschenck, weildling, eva, adolf, hermannfegelein, hitler, wilhelmkeitel, jodl, vongreim, gerda, karldnitz, waltherwenck, ernstgnterschenck, wilhelmmohnke, reich, clausewitz, peters, albertspeer, karlkoller, heinzlinge, alfredjowl, ernstrobertgrawitz, josephgoebbels, tellermann, heinrichhimmler, blondi, felixsteiner, ottognsche, haase, weidling, hanskrebs, christianberkel",
+        "movieTitle": "Downfall(2004)-Synopsis.txt"
+    },
+    {
+        "characters": " merkinmuffley, leoszilard, kissoff, turgidson, kong, jackd, lionelmandrake, strangelove, veralynn, ripper",
+        "movieTitle": "Dr.Strangeloveor_HowILearnedtoStopWorryingandLovetheBomb(1964)-Synopsis.txt"
+    },
+    {
+        "characters": " jospadilha, bruliomantovani, nascimento, retomada, marcosprado",
+        "movieTitle": "EliteSquad_TheEnemyWithin(2010)-Synopsis.txt"
+    },
+    {
+        "characters": " clementinekruczynski, stan, joel, patrick, howardmierzwiak, mary, lacuna",
+        "movieTitle": "EternalSunshineoftheSpotlessMind(2004)-Synopsis.txt"
+    },
+    {
+        "characters": " edvardvergerus, ismaelretzinsky, bishop, gustav, fanny, ekdahl, isak, alexander, oscar",
+        "movieTitle": "FannyandAlexander(1982)-Synopsis.txt"
+    },
+    {
+        "characters": " ciera, jeankristinrudrd, carlshowalterstevebuscemi, marge, shepproudfootstevereevis, wadegustafsonharvepresnell, jerryanderson, steve reevis, larry brandenburg, jerrylundegaardwilliamh, josefeliciano, stangrossman, mike, gaeargrimsrudpeterstormare, mohra, scottytonydenman, ustafsonharvepresnell, macy, reilly, lou, gerryolson, normjohncarrolllynch",
+        "movieTitle": "Fargo(1996)-Synopsis.txt"
+    },
+    {
+        "characters": " jaredleto, bob, joonkim, loupeteriacangelo, marlasingerhelenabonhamcarter, tylerbradpitt, robert, tylerdurden, zachgrenier, edwardnorton",
+        "movieTitle": "FightClub(1999)-Synopsis.txt"
+    },
+    {
+        "characters": " joeranft, doryellendegeneres, billhunter, stephenroot, brucespence, illemdafoe, jordanranft, coral elizabethperkins, bloat, deb, gillwillemdafoe, sherman, nigelgeoffreyrush, crushandrewstanton andrewstanton, wannahockaloogie, bradgarrett, nemo, darla, flovickilewis, jerry, crushandrewstanton, squirt, sullen, ericbana, marlinalbertbrooks, johnratzenberger, jacques, erikpersullivan",
+        "movieTitle": "FindingNemo(2003)-Synopsis.txt"
+    },
+    {
+        "characters": " henry, nino, monco, mortimer, eastwood, redbabycavanagh, indio",
+        "movieTitle": "ForaFewDollarsMore(1965)-Synopsis.txt"
+    },
+    {
+        "characters": " george, forrest, dan, bubba, jenny",
+        "movieTitle": "Forrest.txt"
+    },
+    {
+        "characters": " jung, leeermey, leonardlawrence, hartman, earl kieronjecchinis, leannehong, phubai, nguyenhuephong, mother adambaldwin, bruceboa, pyle, jokermatthewmodine, cowboyarlisshoward, lockhartjohnterry, rafterman, creed",
+        "movieTitle": "FullMetalJacket(1987)-Synopsis.txt"
+    },
+    {
+        "characters": " gandhi, reginalddyer, walker",
+        "movieTitle": "Gandhi(1982)-Synopsis.txt"
+    },
+    {
+        "characters": " sultana, shahidkhan, sardar, ramadhirsingh",
+        "movieTitle": "GangsofWasseypur(2012)-Synopsis.txt"
+    },
+    {
+        "characters": " quintus, gaul, hagen, cicero, commodus, marcusaurelius, maximusdecimusmeridius, lucilla, zama, tigris, proximo",
+        "movieTitle": "Gladiator(2000)-Synopsis.txt"
+    },
+    {
+        "characters": " greta, rhonda, marybeth, nicknick, bill, desi, jeff, maureen, andiefitzgerald, nancy, boney, tannerbolt, jim, tommyo, gilpin, amy, ellenabbott, brown, noellehawthorne, rand, sharonschieber, margo, judy",
+        "movieTitle": "GoneGirl(2014)-Synopsis.txt"
+    },
+    {
+        "characters": " bigsam, johnwilkeshowardc, paulhurst, ellenbarbarao, lilliankemblecooper, suellenevelynkeyes, o'hara, cliffedwards, meadeharrydavenport, bonniecammiekingconlon, india aliciarhett, jeff, frankkennedycarrollnye, charles, stuartcarletonfredcrane, bellewatling, patrickcurtis, sherman, mammyhattiemcdaniel, porkoscarpolk, wardbond, jonaswilkersonvictorjory, bonniebluebutler, hickman, rickyholt, kellygriffin, georgereeves, scarlett, geraldo, ashleylesliehoward, rhettbutler, prissybutterflymcqueen, philliptrent, lee, tara, melaniehamiltonoliviadehavilland, david copperfield, pittypat, carroll nye, ericlinden",
+        "movieTitle": "GonewiththeWind(1939)-Synopsis.txt"
+    },
+    {
+        "characters": " lois, tuddy, billybatts, lucchese, jimmyconway, paulcicero, johnf, henryhill, tommydevito, karen, tommy, devito, pauliecicero, janicerossi",
+        "movieTitle": "Goodfellas(1990)-Synopsis.txt"
+    },
+    {
+        "characters": " skylar, chevynova, geraldlambeau, sean, will, chuckie, galois",
+        "movieTitle": "GoodWillHunting(1997)-Synopsis.txt"
+    },
+    {
+        "characters": " smokie, sue, steve, garand, fatherjanovich, karen, thao, youa, waltkowalski, mitch, dorothy",
+        "movieTitle": "GranTorino(2008)-Synopsis.txt"
+    },
+    {
+        "characters": " akemiyamaguchi, setsuko, robertspencer, yoshikoshinohara",
+        "movieTitle": "GraveoftheFireflies(1988)-Synopsis.txt"
+    },
+    {
+        "characters": " dannyrubin, philconnorsbillmurray, haroldramis, sonnyampcher, ritaandiemacdowell, punxsutawney philconnorsbillmurray, larrychriselliott",
+        "movieTitle": "GroundhogDay(1993)-Synopsis.txt"
+    },
+    {
+        "characters": " stanlee, nebula, xandar, thanos, davebautista, christopherfairbank, beniciodeltoro, kree, yondumichaelrooker, korrath, drax, gregghenry, peterquillwyattoleff, wyatt oleff, ronan, gamorazoesaldana, starlord chrispratt, grootvindiesel, korathdjimonhounsou",
+        "movieTitle": "GuardiansoftheGalaxy(2014)-Synopsis.txt"
+    },
+    {
+        "characters": " hachiko",
+        "movieTitle": "hachi.txt"
+    },
+    {
+        "characters": " hermioneemmawatson, dobby, harrypotterdanielradcliffe, godric, fredjamesphelps, minervamcgonagallmaggiesmith, mcgonagall, nevillelongbottommatthewlewis, lestrange, dumbledoremichaelgambon, hufflepuff, bellatrixhelenabonhamcarter, albusseveruspotter, ron, lilypotter, draco, ollivanderjohnhurt, rowenaravenclaw, aberforthdumbledoreciarnhinds, nagini, voldemortralphfiennes, ginnybonniewright, snapealanrickman, lupindavidthewlis, griphookwarwickdavis, malfoytomfelton, tonksnataliatena",
+        "movieTitle": "HarryPotterandtheDeathlyHallows_Part2(2011)-Synopsis.txt"
+    },
+    {
+        "characters": " chrisshiherlis, charleneshiherlis, dominic, bob, michaelcheritto, nate, eady, alanmarciano, drucker, kelso, schwartz, vincenthanna, hughbenny, mccauley, alberttorena, rogervanzant, bosko, donaldbreedan, neil, lauren, waingro, trejo, richard, casals, justine",
+        "movieTitle": "Heat(1995)-Synopsis.txt"
+    },
+    {
+        "characters": " amyfowler, harveypell, marshalwillkane, benmiller, frankmiller, marshalkane, jimpierce, colby, helenramirez",
+        "movieTitle": "HighNoon(1952)-Synopsis.txt"
+    },
+    {
+        "characters": " tutsi, oliver, paulrusesabagina, augustinbizimungu, hutu, tatiana, georgerutaganda",
+        "movieTitle": "HotelRwanda(2004)-Synopsis.txt"
+    },
+    {
+        "characters": " rynosukekamiki, maridevon, turniphead, calcifer, lettiejenamalone, sophieemilymortimerjapanesechiekobaish, howl, markl, madamsulimanblythedannerjapaneseharukokat, wizardjenkins, tatsuyagashin, madamsulimanblythedannerjapaneseharukokat blythe danner japanese  harukokat",
+        "movieTitle": "Howl'sMovingCastle(2004)-Synopsis.txt"
+    },
+    {
+        "characters": " gobber, stoickgerardbutler, berk, ruffnutkristenwiig, toothless, craigferguson, astrid, snotloutjonahhill, miller, hiccupjaybaruchel",
+        "movieTitle": "HowtoTrainYourDragon(2010)-Synopsis.txt"
+    },
+    {
+        "characters": "",
+        "movieTitle": "Ikiru(1952)-Synopsis.txt"
+    },
+    {
+        "characters": " sarwan, aboutareq, janaan, nawal, daresh, nihad, jeanne, simon",
+        "movieTitle": "Incendies(2010)-Synopsis.txt"
+    },
+    {
+        "characters": " nashlukashaas, robertfischercillianmurphy, taylorgeare, eames, peterbrowningtomberenger, charles, domcobbleonardodicaprio, tadashitaililee, ariadne, tohorumasamune, somnacin, james, mauricefischer, milesmichaelcaine, magnusnolan, malmarioncotillard, phillipajohnathangeare, yusufdileeprao, clairegeare, arthurjosephgordonlevitt, roberts, osephgordonlevitt, saitokenwatanabe",
+        "movieTitle": "Inception(2010)-Synopsis.txt"
+    },
+    {
+        "characters": " hitler, henryjones, indyjuniorsallah, elsaschneider, brody, walterdonovan, irene, coronado, marcus",
+        "movieTitle": "IndianaJonesandtheLastCrusade(1989)-Synopsis.txt"
+    },
+    {
+        "characters": " inspectorb, tsuiwaikeung, lee, delpiero, honsam, wong, yip, mary, laukinming, cheung, chenwingyan",
+        "movieTitle": "InfernalAffairs(2002)-Synopsis.txt"
+    },
+    {
+        "characters": " novak, bowie, stiglitz, marcel, donnydonowitzeliroth, lapadite, wilhelmalexanderfehling, butz, francescamondinojuliedreyfus, josephgoebbelssylvestergroth, winstonchurchillrodtaylor, hanslandachristophwaltz, hicox, stolz, aldorainebradpitt, jackson, bridgetvonhammersmark bridgetvonhammersmark, wicki, edgarwallace, aufwiedersehen, dieterhellstromaugustdiehl, utivich, adolfhitlermartinwuttke, beethoven, edfenechmikemyers, omarulmer, shosanna, winnetou, bridgetvonhammersmark, wernerrachtmanrichardsammel, harveykeitel, eric, mathilda, fredrickzollerdanielbrhl, samuell",
+        "movieTitle": "InglouriousBasterds(2009)-Synopsis.txt"
+    },
+    {
+        "characters": " gargantua, morse, lois, romilly, jessie, edmonds, o'neill, joecooper, amelia, getty, donald, doyle, tom, murph, mann, johnbrand, miller",
+        "movieTitle": "Interstellar(2014)-Synopsis.txt"
+    },
+    {
+        "characters": " gargantua, morse, lois, romilly, jessie, edmonds, o'neill, joecooper, amelia, getty, donald, doyle, tom, murph, mann, johnbrand, miller",
+        "movieTitle": "Interstellar.txt"
+    },
+    {
+        "characters": " ronniesmalls, paulhill, patrickarmstrong, gerryconlon, garethpeirce, barker, anniemaguire, dickson, mcandrews, joemcandrews, jim, carolerichardson, paulmetcharlieburke, paddyarmstrong, giuseppeampgerry, guiseppe",
+        "movieTitle": "IntheNameoftheFather(1993)-Synopsis.txt"
+    },
+    {
+        "characters": " tracytatro, datsun, rainey, mccandless, carine, waynewesterberg, ronfranz, walt, christophermccandless, alexandersupertramp, janburres, billiemccandless",
+        "movieTitle": "IntotheWild(2007)-Synopsis.txt"
+    },
+    {
+        "characters": " brucelee, lizhao, chunkungfu, miura, sato, lin, chowchingchuen, jinshanzhao",
+        "movieTitle": "IpMan(2008)-Synopsis.txt"
+    },
+    {
+        "characters": " billy, ruthdakin, violetbick gloria grahame, samuels, samwainwrightfrankalbertson, dbody, gower, martiniwilliamedmunds, james stewart, harrybailey, ernie, bertwardbond, hinds, nick, georgebaileyjamesstewart, welch, henrypotterlionelbarrymore, maryhatchdonnareed, clarenceodbody, ailey, zuzukarolyngrimes",
+        "movieTitle": "It'saWonderfulLife(1946)-Synopsis.txt"
+    },
+    {
+        "characters": " jericho, westley, peterwarne, ellieandrews",
+        "movieTitle": "ItHappenedOneNight(1934)-Synopsis.txt"
+    },
+    {
+        "characters": " alexkitnerjeffreyvoorhees, matthooperricharddreyfuss, samquintrobertshaw, larryvaughnmurrayhamilton, tomcassidyjonathanfilley, michaelchrisrebello, chrissiewatkinssusanbacklinie, bengardner, kitnerleefierro, jeffhendricksjeffreykramer, chrissy, ellenbrody, mayorvaughn, ellenlorrainegary, robertnevin, martinbrodyroyscheider",
+        "movieTitle": "Jaws(1975)-Synopsis.txt"
+    },
+    {
+        "characters": " hitler, ernstjanningburtlancaster, ernstjanningburtlancaster burt lancaster, danhaywoodspencertracy, richardwidmark, maximilianschell, halbestadt, bertholtmarlenedietrich",
+        "movieTitle": "JudgmentatNuremberg(1961)-Synopsis.txt"
+    },
+    {
+        "characters": " lex, donaldgenarro, alangrant, rex, malcolm, johnhammond, nedry, elliesattler, muldoon, tim, ingen, donaldgennaro, arnold",
+        "movieTitle": "JurassicPark(1993)-Synopsis.txt"
+    },
+    {
+        "characters": " sofiefatalejuliedreyfus, nikkiambrosiakelley, cottonmouth, fox, orenishii lucy liu, vernita, johnnymochiahuiliu, auldlangsyne, elledriverdarylhannah, arlenemachiavelli, gogoyubarichiakikuriyama, blackmamba, michaelbowen, gordonliu, hanzo, umathurman, michaelparks, oren, billdavidcarradine, jonathanloughran, matsumoto",
+        "movieTitle": "KillBill_Vol.1(2003)-Synopsis.txt"
+    },
+    {
+        "characters": " lewisfontaine, fitch, stensland, mickeycohen, lynnbracken, ellisloew, johnnystompanato, meeks, piercepatchett, thompson, wendellbudwhite, jackvincennes, sidhudgens, raycollins, racken, fleurdelis, leland, michaelbreuning, matt, rollotomasi, susanlefferts, edmundexley, williamcarlisle, reynolds, dudleysmith, rolandnavarette, tammy",
+        "movieTitle": "L.A.Confidential(1997)-Synopsis.txt"
+    },
+    {
+        "characters": " daniel, marcello",
+        "movieTitle": "LaDolceVita(1960)-Synopsis.txt"
+    },
+    {
+        "characters": "",
+        "movieTitle": "LaHaine(1995)-Synopsis.txt"
+    },
+    {
+        "characters": " zampan, gelsomina",
+        "movieTitle": "LaStrada(1954)-Synopsis.txt"
+    },
+    {
+        "characters": " lawrence, murray, arab, farraj, daud, sherifali, howeitat, bey, brighton, dryden, yenbo, allenby, gasim, audaabutayi, jacksonbentley, faisal",
+        "movieTitle": "LawrenceofArabia(1962)-Synopsis.txt"
+    },
+    {
+        "characters": " jackietreehorn, maudelebowski, karlhungus, gary, georgebush, ralph, knoxharrington, jeffreylebowski, brandt, waltersobchak, uzi, kieffer, biglebowski, marty, bunnylebowski, larrysellers, arthurdigbysellers, shomershabbos, uli, smokey, franz, dude, jesus, dafino, kneutson, thornhill, fawn, donny",
+        "movieTitle": "lebowski.txt"
+    },
+    {
+        "characters": " janlagrange, valerie, alaindelon, costello",
+        "movieTitle": "LeSamoura__(1967)-Synopsis.txt"
+    },
+    {
+        "characters": " guidoorefice, eliseoorefice, buongiornoprincipessa, dora, giosu",
+        "movieTitle": "LifeIsBeautiful(1997)-Synopsis.txt"
+    },
+    {
+        "characters": " briancohen, judith, reg, jesus, pontiuspilate, mandy",
+        "movieTitle": "LifeofBrian(1979)-Synopsis.txt"
+    },
+    {
+        "characters": " toms, barry, eddie, gary, nick, brengun, dean, rorybreaker, bigchris, hatchetharrylonsdale, bacon, littlechris, dog",
+        "movieTitle": "Lock,StockandTwoSmokingBarrels(1998)-Synopsis.txt"
+    },
+    {
+        "characters": " lon, mathildalando, stansfield, matilda, leon, tony, fatman, ando, len",
+        "movieTitle": "L__on_TheProfessional(1994)-Synopsis.txt"
+    },
+    {
+        "characters": " elsiebeckmann, rudolfblumner, franzfriedrichgnass, georgjohn, lohmann, bush, schrnkergustafgrndgens, hansbeckert",
+        "movieTitle": "M(1931)-Synopsis.txt"
+    },
+    {
+        "characters": " nux, immortanjoehughkeaysbyrne, furiosa, rictusnathanjones, angussampson, hugh keaysbyrne, angharad, richardcarter, maxrockatanskytomhardy, dag, toecutter",
+        "movieTitle": "MadMax_FuryRoad(2015)-Synopsis.txt"
+    },
+    {
+        "characters": " vescera, bennett, rita, morgan, kate, marine johntriton, marinejohntriton, angela",
+        "movieTitle": "marine.txt"
+    },
+    {
+        "characters": " lenhislop, asperger, desmond, horowitz, earlgrey, barryhumphries, marytonicollette, henryix, damienpopodopolousericbana, ethel, maxhorowitz, noblet, verarenegeyer, noel, henryviii",
+        "movieTitle": "MaryandMax(2009)-Synopsis.txt"
+    },
+    {
+        "characters": " jorjafox, lenny, ferdy, leonardshelbyguypearce, joepantoliano, larry holden, jankisharrietsansomharris, doddcallumkeithrennie, johng, sammyjankisstephentobolowsky, jimmygrantzlarryholden, nataliecarrieannemoss, johnedwardgammell, burtmarkboonejunior, teddy",
+        "movieTitle": "Memento(2000)-Synopsis.txt"
+    },
+    {
+        "characters": " parkdooman, seotaeyoon",
+        "movieTitle": "MemoriesofMurder(2003)-Synopsis.txt"
+    },
+    {
+        "characters": "",
+        "movieTitle": "Metropolis(1927)-Synopsis.txt"
+    },
+    {
+        "characters": " morganfreeman, hillaryswank, kate, frankiedunn, clinteastwood, maggie",
+        "movieTitle": "MillionDollarBaby(2004)-Synopsis.txt"
+    },
+    {
+        "characters": "",
+        "movieTitle": "ModernTimes(1936)-Synopsis.txt"
+    },
+    {
+        "characters": " sullysullivan, randallboggs, waternoose, mikedisguiseboo, roz, michaelmikewazowski, kitty, henryj, sulley, jamesp",
+        "movieTitle": "Monsters,Inc.(2001)-Synopsis.txt"
+    },
+    {
+        "characters": " bedevereterryjones, galahad, robinthenotquitesobraveassirlancelotericidle, terryjones, johnyoung, dingocarolcleveland, dennis, roger, markzycon, timjohncleese, ritadavies, michaelpalin, borsterrygilliam, brothermaynardericidle, borsterrygilliam borsterrygilliam, notappearinginthisfilmwilliampalin, brothermaynardericidle brothermaynardericidle, patsyterrygilliam, alice, herbertterryjones, arthur",
+        "movieTitle": "MontyPythonandtheHolyGrail(1975)-Synopsis.txt"
+    },
+    {
+        "characters": " clarissasaunders, jimtaylor, josephpaine, jeffersonsmith, susan, samfoley, huberthappyhopper",
+        "movieTitle": "Mr.SmithGoestoWashington(1939)-Synopsis.txt"
+    },
+    {
+        "characters": " kanta, granny, tatsuotimdalyjapaneseshigesatoitoi, yasukoleasalongajapanesesumishimamoto, catbus, totoro, satsuki, mei",
+        "movieTitle": "MyNeighborTotoro(1988)-Synopsis.txt"
+    },
+    {
+        "characters": "",
+        "movieTitle": "Nausica__oftheValleyoftheWind(1984)-Synopsis.txt"
+    },
+    {
+        "characters": " frankhackett, maxschumacher, howardbeale, dianachristensen, arthurjensen",
+        "movieTitle": "Network(1976)-Synopsis.txt"
+    },
+    {
+        "characters": " anareeder, lucerains, carlajeankellymacdonald kelly macdonald, lorettatessharper, tommy lee jones, mathewgreer, kathylamkin, carsonwellswoodyharrelson, josh brolin, llewelynmossjoshbrolin, rodgerboyce, bethgrant, genejones, antonchigurhjavierbardem, marcmiles, ellisbarrycorbin, wendell, sheriffbelltommyleejones, chriswarner, carlajeankellymacdonald",
+        "movieTitle": "NoCountryforOldMen(2007)-Synopsis.txt"
+    },
+    {
+        "characters": " evamariesaint, junketedwardbinns, rogero, carroll, valerian, rogerthornhill, leonardmartinlandau, lichtrobertellenstein, larrabeeedwardplatt, babson, evekendall, georgekaplan, anna, jamesmason, lestertownsendphilipober, rushmore, phillipvandamm, laura, clarathornhilljessieroycelandis, leog",
+        "movieTitle": "NorthbyNorthwest(1959)-Synopsis.txt"
+    },
+    {
+        "characters": "",
+        "movieTitle": "Notorious(1946)-Synopsis.txt"
+    },
+    {
+        "characters": " mrhan, yeunhee, woojin, daesu, su daeoh, mido, sooah, mrpark, kimjahyun, evergreen, joohwan, ellawheelerwilcox",
+        "movieTitle": "Oldboy(2003)-Synopsis.txt"
+    },
+    {
+        "characters": " joeburtyoung, dominic, maxbercovicjameswoods, frankiemanoldijoepesci, davidnoodlesaaronsonrobertdeniro, shark, fatmoelarryrapp, chrisbailey, deborahelizabethmcgovern, whitey, caroltuesdayweld, peggy, deborahjenniferconnelly, chickenjoe, bugsy, philipcockeyesteinwilliamforsythe, capuano, patsy, jimmycleanhandso, aiello",
+        "movieTitle": "OnceUponaTimeinAmerica(1984)-Synopsis.txt"
+    },
+    {
+        "characters": " morton, brettmcbainfrankwolff, keenanwynn, sampaolostoppa, patrick, maureen, lionelstander, woodystrode, frankhenryfonda, almulock, brettmcbainfrankwolff frankhenryfonda, wobbles, charlesbronson, timmy, wolff, mcbain, harmonica, jackelam, jillclaudiacardinale",
+        "movieTitle": "OnceUponaTimeintheWest(1968)-Synopsis.txt"
+    },
+    {
+        "characters": " billy, mcmurphy, bromden, charliecheswick, turkle, randlepatrickmcmurphy, mac, spivey, ratched",
+        "movieTitle": "OneFlewOvertheCuckoo'sNest(1975)-Synopsis.txt"
+    },
+    {
+        "characters": " edie, joeydoyle, jimmy, charley, hell, tillio, mac, kayodugan, jerryg, kodugan, fatherbarry, johnfriendly, johnnyfriendly, evedoyle, terryyou, popdoyle, wilson, charlie, barney",
+        "movieTitle": "OntheWaterfront(1954)-Synopsis.txt"
+    },
+    {
+        "characters": " pedro, dawn, tenyearoldofelia, tarta, moanna, garcs, ferreiro, carmen, vidal, franciscofranco",
+        "movieTitle": "Pan'sLabyrinth(2006)-Synopsis.txt"
+    },
+    {
+        "characters": " maturette, clusiot, julot, papillon, degas, laurent",
+        "movieTitle": "Papillon(1973)-Synopsis.txt"
+    },
+    {
+        "characters": " rousseau, georgebroulard, hussar, roget, boulanger, paulmireau, ferol, arnaud, antihill, saintauban, dax",
+        "movieTitle": "PathsofGlory(1957)-Synopsis.txt"
+    },
+    {
+        "characters": " alma, michaillermontov, elisabetvogler, karlhenrik, bergman",
+        "movieTitle": "Persona(1966)-Synopsis.txt"
+    },
+    {
+        "characters": " bootstrap williambootstrapbillturner, jacksparrow, jamesnorrington, weatherbyswann, barbossa, willturner, gibbs, commodorenorrington, elizabeth",
+        "movieTitle": "PiratesoftheCaribbean_TheCurseoftheBlackPearl(2003)-Synopsis.txt"
+    },
+    {
+        "characters": " harold, elias, harris, sandy, audiemurphy, sal, ebenhoch, o'neil, parker, crawford, docgomez, barnes, gardner, francis, bunny, fusheng, tubbs, christaylor, warren, junior, tonyhoyt, tex, wolfe, lerner, mannywashington, rhah",
+        "movieTitle": "Platoon(1986)-Synopsis.txt"
+    },
+    {
+        "characters": " kayatarastrong, jigobillybobthornton, nagomoro, ashitakabillycrudup, lord lordokkoto, kouroku, gonza, tokijadapinkettsmith, lordasano, hisaya morishige, ladyeboshi, lordasano akihiromiwa, illybobthornton, yjimatsuda, lordasano nagomoro, hiisama, ykotanaka, jisan, mononokesan, akihiromiwa, walker, yakul, lordokkoto",
+        "movieTitle": "PrincessMononoke(1997)-Synopsis.txt"
+    },
+    {
+        "characters": " alexjones, ralph, joybirch, taylor, franklin, eliza, nancy, grace, patrickdunn, kellerdover, loki, fatherdunn, o'malley, anna, hollyjones",
+        "movieTitle": "prisoners.txt"
+    },
+    {
+        "characters": " simonoakland, lurenetuttle, motherbates, loweryvaughntaylor, normanbates, arbogastmartinbalsam, god motherbates, johnanderson, lilacraneveramiles, motel, mortmills, anthony perkins, normanmetmarion, chambers, samloomisjohngavin",
+        "movieTitle": "Psycho(1960)-Synopsis.txt"
+    },
+    {
+        "characters": " marselluswallacevingrhames, esmarelda, jimmiequentintarantino, gimp stephenhibbert, bonnie, esmareldaangelajones, winstonwolfharveykeitel, brettfrankwhaley, antoine, marvinphillamarr, marselluswallacevingrhames ving rhames, jackson, lance, monsterjoe, vincentvegajohntravolta, pumpkintimroth, fabiennemariademedeiros, maynardduanewhitaker, miaumathurman, koonschristopherwalken, vincentvega john travolta, juleswinnfieldsamuell, ezekiel, zedpetergreene, butchcoolidgebrucewillis, jackrabbitslim",
+        "movieTitle": "PulpFiction(1994)-Synopsis.txt"
+    },
+    {
+        "characters": " billyfox, lamotta, joeylamotta, jimmyreeves, tonyjaniro, laurentdauthuille, copca, sugarrayrobinson, salvy, tommycomo, jakelamotta, marcelcerdan, vickie",
+        "movieTitle": "RagingBull(1980)-Synopsis.txt"
+    },
+    {
+        "characters": " belloq, abnerravenwood, forrestal, sallah, reggie, jockfredsorenson, toht, harrisonford, dietrichwolfkahler, jones, indy, marcusbrodydenholmelliott, tanis, moses, marionkarenallen, sapitoalfredmolina, marionravenwood",
+        "movieTitle": "RaidersoftheLostArk(1981)-Synopsis.txt"
+    },
+    {
+        "characters": " akirakurosawa, lord hidetoraichimonji, lordhidetoraichimonji, lear, saburonaotoraichimonji, jiromasatoraichimonji",
+        "movieTitle": "Ran(1985)-Synopsis.txt"
+    },
+    {
+        "characters": " tajomaru",
+        "movieTitle": "Rashomon(1950)-Synopsis.txt"
+    },
+    {
+        "characters": " thorwald, doyle, stella, lisa, jeffjeffries",
+        "movieTitle": "RearWindow(1954)-Synopsis.txt"
+    },
+    {
+        "characters": " maximiliandewinter, danvers, rebecca, jackfavell",
+        "movieTitle": "Rebecca(1940)-Synopsis.txt"
+    },
+    {
+        "characters": " liannapai, tyrone, seymour, tappytibbonschristophermcdonald, aberabinowitzmarkmargolis, saragoldfarbellenburstyn, bigtim, marionsilverjenniferconnelly, arnoldseangullette, harrygoldfarbjaredleto",
+        "movieTitle": "RequiemforaDream(2000)-Synopsis.txt"
+    },
+    {
+        "characters": " niceguyeddiecabot, holdaway, orange, freddynewendyke, larry, white, pink, joecabot, madonna, brown, marvinnash",
+        "movieTitle": "ReservoirDogs(1992)-Synopsis.txt"
+    },
+    {
+        "characters": " buddy, marie, alsilvani, paulie, rocky, adriana, dipperbrown, mike, tonygazzo, sam, pat, mickey, spider, jergens, butkus, creed",
+        "movieTitle": "Rocky(1976)-Synopsis.txt"
+    },
+    {
+        "characters": " irvingradovich, joebradley, radley, peck, hepburn, anyasmith, ann, hennessy",
+        "movieTitle": "RomanHoliday(1953)-Synopsis.txt"
+    },
+    {
+        "characters": " jamesfrancisryan, corporalhenderson, millertomhanks, upham, parkerdemetrigoritsas, danny, abrahamlincoln, richardreibenedwardburns, andersondennisfarina, teddanson, danieljacksonbarrypepper, ryanharrisonyoung, joergstadler, fuckhitler, wade, johnh, mellish, adriancaparzovindiesel, georgemarshallharvepresnell, edithpiaf, mikehorvathtomsizemore, pvtjamesryanmattdamon, david, pvt pvtjamesryanmattdamon matt damon",
+        "movieTitle": "SavingPrivateRyan(1998)-Synopsis.txt"
+    },
+    {
+        "characters": " charlesgoodsongregghenry, manolo manolomannyrayribierastevenbauer, shadow markmargolis, reuben, lopez, manolomannyrayribierastevenbauer, franklpez, al pacino, uzi, surez, ginamaryelizabethmastrantonio, fidelcastro, elvirahancockmichellepfeiffer, murrayabraham, melbernsteinharrisyulin, omar, alejandrososapaulshenar, salazar, emiliorebengarobertocontreras, steven bauer, lpezrobertloggia, alberto, hector, angelfernndezpepeserna, angel, nick, tonymontanaalpacino, sheffield, melseidelbaumtedbeniades, miriamcolon",
+        "movieTitle": "Scarface(1983)-Synopsis.txt"
+    },
+    {
+        "characters": " hitler, rudolfhsshansmichaelrehberg, carolinegoodall, paszw, stern, oskarschindler liam neeson, amongthralphfiennes, helenhirsch, oskarschindlerliamneeson",
+        "movieTitle": "Schindler'sList(1993)-Synopsis.txt"
+    },
+    {
+        "characters": " heidischanz, lelandorser, catmueller, eligould gene borkan, johndoe, milton, bobmack, victormichaelreidmackay, williamsomersetmorganfreeman, wildbillymartinserene, davidmillsbradpitt, eligouldgeneborkan, tracymillsgwynethpaltrow",
+        "movieTitle": "Se7en(1995)-Synopsis.txt"
+    },
+    {
+        "characters": " katsushir, yohei, shino, kambei, heihachi, kyz, shichirji, kikuchiyo, gorobei",
+        "movieTitle": "SevenSamurai(1954)-Synopsis.txt"
+    },
+    {
+        "characters": " sheehan, mcpherson, georgenoyce, laeddis, chuck, cawley, rachel, dolores, teddydaniels, shaheen, aniels, naehring",
+        "movieTitle": "ShutterIsland(2010)-Synopsis.txt"
+    },
+    {
+        "characters": " shellie, bob, jackieboy, cardinalroark, goldie, gail, nancy, kevin, lucille, junior, iron jackrafferty, wendy, bastard, miho, hartigan, manute, marv, becky, dwight",
+        "movieTitle": "SinCity(2005)-Synopsis.txt"
+    },
+    {
+        "characters": " simpson, kathyselden, dan, singin, linalamont, donlockwood, elden",
+        "movieTitle": "Singin'intheRain(1952)-Synopsis.txt"
+    },
+    {
+        "characters": " rosebud, gorgeousgeorge, tyrone, sol, boris, doug, vinny, o'neil, mullet, bullettoothtony, mickey, goregousgeorge, tommy, avi, bricktop",
+        "movieTitle": "Snatch.(2000)-Synopsis.txt"
+    },
+    {
+        "characters": " fechner, vishnyakov, messengergeorgiyteykh, sartoriusanatoliysolonitsyn, chriskelvindonatasbanionis, olgabarnet, natalyabondarchuk, snautjrijrvet, gibariansossargsyan, bertonvladislavdvorzhetskiy, haris, faust, father nikolaygrinko, vitalikkerdimun, johannsebastianbach, sancho, solaristics",
+        "movieTitle": "Solaris(1972)-Synopsis.txt"
+    },
+    {
+        "characters": " sigpoliakoff, daphne, littlebonaparte, toothpickcharlie, beinstock, osgood, mulligan, nellie, thompson, spatscolombo, josephine, joeampjerry, sugar",
+        "movieTitle": "SomeLikeItHot(1959)-Synopsis.txt"
+    },
+    {
+        "characters": " laurenholly, dad, granny, hayaomiyazaki, zenebasuzannepleshette, zeniba, jasonmarsden, chihiro, yubabasuzannepleshette, masterhaku, bobbergen, linsusanegan, hassen, hassen zeniba, johnratzenberger, michaelchiklis, kamajiidavidogdenstiers, zenebasuzannepleshette yubabasuzannepleshette",
+        "movieTitle": "SpiritedAway(2001)-Synopsis.txt"
+    },
+    {
+        "characters": " heartsutra, buddha",
+        "movieTitle": "Spring,Summer,Fall,Winter...andSpring(2003)-Synopsis.txt"
+    },
+    {
+        "characters": " beethoven, porcupine, fyodortyuchev, wallace, monkey, arsenytarkovsky",
+        "movieTitle": "Stalker(1979)-Synopsis.txt"
+    },
+    {
+        "characters": " lardasshoganandylindberg, marshallbell, billycaseysiemaszko, vern, charliehogangaryriley, luttrell, vincedesjardinsjasonoliver, jasonnaylor, milopressmanwilliambronder, chancequinn, dennyjohncusack, raybrower, francesleemccain, gordielachancewilwheaton, chris, richarddreyfuss, teddy",
+        "movieTitle": "StandbyMe(1986)-Synopsis.txt"
+    },
+    {
+        "characters": " biggsdarklightergarrickhagon, tarkin, bast, antilles denislawson, jamesearljones, obiwankenobi, lukeskywalkermarkhamill, tagge, anakin, benkenobi, leiacarriefisher, hansoloharrisonford, anchorhead, greedomariadearagon, yavin, david prowse, garven, obiwan, jirallampert, paulblake, uncleowen, auntberushelaghfraser, motti, backstabber, drewehenley, hutt, jediknight, darthvaderdavidprowse, jabba, dantooine",
+        "movieTitle": "StarWars(1977)-Synopsis.txt"
+    },
+    {
+        "characters": " han, yavin, obiwan, chewbacca, ozzel, luke, jedimasterobiwankenobialecguinness, ben, mark hamill, piett, landocalrissianbillydeewilliams, hutt, darthvader, anakin, bobafettjeremybulloch, yoda, leiacarriefisher, dagobah, billy dee williams, jeremybulloch, falconleia, palpatine",
+        "movieTitle": "StarWars_EpisodeV-TheEmpireStrikesBack(1980)-Synopsis.txt"
+    },
+    {
+        "characters": " han, david prowse, yodafrankoz, obiwan, ianmcdiarmid, ackbar, wedge antilles denislawson, landocalrissianbillydeewilliams billy dee williams, leiaorganacarriefisher, jediknightlukeskywalkermarkhamill, jamesearljones, jedi knight jediknightlukeskywalkermarkhamill mark hamill, landocalrissianbillydeewilliams, anakinskywalker, sebastianshaw, hutt, darthvader, bobafettjeremybulloch, boushh, dagobah, jabba, palpatine",
+        "movieTitle": "StarWars_EpisodeVI-ReturnoftheJedi(1983)-Synopsis.txt"
+    },
+    {
+        "characters": " annemorton, brunoanthony, barbara, miriam, guyhaines",
+        "movieTitle": "StrangersonaTrain(1951)-Synopsis.txt"
+    },
+    {
+        "characters": " max, bettyschaefer, demille, sheldrake, joegillis, artiegreen, norma, gordoncole",
+        "movieTitle": "SunsetBlvd.(1950)-Synopsis.txt"
+    },
+    {
+        "characters": " travisbickle, tom, iris, betsy, wizard",
+        "movieTitle": "TaxiDriver(1976)-Synopsis.txt"
+    },
+    {
+        "characters": " silberman, tarissa, max, cyberdyne, kylereesemichaelbiehn, terminator, milesdysonjoemorton, deannorris, milesbennettdyson, timdannycooksey, lewisdonstanton, dannydevaughnnixon, janellevoightjenettegoldstein, timjohn, douglaskengibbel, georgethorogood, enriquesalcedacastuloguerra, robertpatrick, danstanton, sarahconnor, todd",
+        "movieTitle": "Terminator2_JudgmentDay(1991)-Synopsis.txt"
+    },
+    {
+        "characters": " madelin, sullivan",
+        "movieTitle": "test.txt"
+    },
+    {
+        "characters": "",
+        "movieTitle": "testing_dummy_file"
+    },
+    {
+        "characters": "",
+        "movieTitle": "The400Blows(1959)-Synopsis.txt"
+    },
+    {
+        "characters": " sheldrake, baxter, charlie, kubelik",
+        "movieTitle": "TheApartment(1960)-Synopsis.txt"
+    },
+    {
+        "characters": " tonystarkrobertdowneyjr, agent clinthawkeyebartonjeremyrenner, robertdowneyjr, jarvis, mark ruffalo, lokitomhiddleston, hulk, clintbarton, philcoulsonclarkgregg, rogers, mjolnir, pepperpottsgwynethpaltrow, natasharomanoffscarlettjohansson, jackson, asguardian, mariahillcobiesmulders, brucebannermarkruffalo, thorchrishemsworth, selvig",
+        "movieTitle": "TheAvengers(2012)-Synopsis.txt"
+    },
+    {
+        "characters": " jaffar, ali",
+        "movieTitle": "TheBattleofAlgiers(1966)-Synopsis.txt"
+    },
+    {
+        "characters": " marie, peggy, bill, wilma, fred, homerparrish, milly, alstevenson, butch",
+        "movieTitle": "TheBestYearsofOurLives(1946)-Synopsis.txt"
+    },
+    {
+        "characters": " marie, treadstone, ezrakramer, jasonbourne, alberthirsch, wardabbott, blackbriar, nickyparsons, davidwebb, simonross, martinkreutz, pamelalandy, paz, kirill, nealdaniels, noahvosen, deshbouksani",
+        "movieTitle": "TheBourneUltimatum(2007)-Synopsis.txt"
+    },
+    {
+        "characters": " saitosessuehayakawa, shears williamholden, nicholsonalecguinness, hughes johnboxer, joycegeoffreyhorne, annsears, jackhawkins, reevespeterwilliams, majorcliptonjamesdonald, yai",
+        "movieTitle": "TheBridgeontheRiverKwai(1957)-Synopsis.txt"
+    },
+    {
+        "characters": " luckyman, lau, jimmy, racheldawes, loeb, falcone, harveydent, jamesgordon, wuertz, barbara, mikeengle, thomasschiff, alfred, luciusfox, brucewayne, salvatoremaroni, colemanreese, batman, gambol, surrillo, janetsurrillo, annaramirez",
+        "movieTitle": "TheDarkKnight(2008)-Synopsis.txt"
+    },
+    {
+        "characters": " aidangillen, leonidpavelalonaboutboul, mirandatatemarioncotillard, byrongillybrettcullen, jonathancranecillianmurphy, heathmiller, jamesgordongaryoldman, simonjansenwillestes, harveydent, mirandatatemarioncotillard marion cotillard, bane, robin, fredericks, peterfoleymatthewmodine, batsignal, selinakyle, philipstryverburngorman, brucewayne, luciusfoxmorganfreeman, jenjunotemple, mcgarrity, mirandatalia, ravenstahl, massifurlan, billcowher, barsadjoshstewart, brucein, hinesward, johnblakejosephgordonlevitt, kellybrentbriscoe, mirandamirandatalia, swithin, fatherreillychrisellis, alfredmichaelcaine, johndaggettbenmendelsohn, billwilson, benroethlisberger, batman, rachel, daviddayanfisher, markjonesdanielsunjata, petrov, waynemanor",
+        "movieTitle": "TheDarkKnightRises(2012)-Synopsis.txt"
+    },
+    {
+        "characters": " nick, julingrinda, axel, michael, stanleymyers, linda, john, mike, steven, angela",
+        "movieTitle": "TheDeerHunter(1978)-Synopsis.txt"
+    },
+    {
+        "characters": " adams, kendal, fredericktreves, johnmerrick, gottbetter",
+        "movieTitle": "TheElephantMan(1980)-Synopsis.txt"
+    },
+    {
+        "characters": " johnniegray, thatcher, annabelle, marietta, anderson",
+        "movieTitle": "TheGeneral(1926)-Synopsis.txt"
+    },
+    {
+        "characters": " alneririchardbright richard bright, kayadamsdianekeaton, anthonyanthonygounaris, vitocorleone, williciccijoespinell, donvitocorleone, jackwoltzjohnmarley, alneririchardbright, mike, dontattaglia, gianni russo, sonny, lucymancinijeannielinero, castellano, michaelalpacino, fabrizioangeloinfanti, virgiltheturksollozzoallettieri, thompson, lucabrasi, dontommasinocorradogaipa, mccluskey, tomhagenrobertduvall, apolloniavitellisimonettastefanelli, calofrancocitti, moegreenealexrocco, donbarzini, donvitocorleone doncorleone, gabrieletorrei, roccolampone, vitomarlonbrando, brunotattagliatonygiorgio, lennymontana, donemiliobarzinirichardconte, carlorizzigiannirusso, fredocorleone, clemenza, roccolampone tomhagenrobertduvall rosqui, tomhagenrobertduvall robert duvall, mccluskeysterlinghayden, doncorleone, bonasera, enzo, salvatoretessioabevigoda, johnnyfontanealmartino, pauliegatto",
+        "movieTitle": "TheGodfather(1972)-Synopsis.txt"
+    },
+    {
+        "characters": " merljohnson, vitocorleone, hymanroth, fulgenciobatista, dontomasello, carlorizzi, flashback  flashbackdonfanucci, sonny, flashbackdonfanucci, gencoabbandando, mccluskey, frankie, saltessio, tomhagen, kay, frankpentangeli, fredoyou, peterclemenza, geary, roccolampone, alneri, michaelcorleone, frankfiveangelspentangeli, donciccio, johnnyola, connie, rosatos, mary, antonioandolini, willicicci",
+        "movieTitle": "TheGodfather_PartII(1974)-Synopsis.txt"
+    },
+    {
+        "characters": " bigjimmckay, curtis, mckay, blacklarsen, jacks, bigjimmckay mckay",
+        "movieTitle": "TheGoldRush(1925)-Synopsis.txt"
+    },
+    {
+        "characters": " archstanton, blondie, billcarson, wallace",
+        "movieTitle": "TheGood,theBadandtheUgly(1966)-Synopsis.txt"
+    },
+    {
+        "characters": " carl, webb, elainekatharineross, benjamin, robinsonannebancroft",
+        "movieTitle": "TheGraduate(1967)-Synopsis.txt"
+    },
+    {
+        "characters": " madamed, jean, ludwig, gustavehad, moustafa, clotilde, georges, albert, gabelmeister, henckels, zero, mendl, robin, ivan, dino, wolf, sergex, martin, jopling, dmitridmitri, mrkovacs, gunther, chuckretrievingagatha, marguerite",
+        "movieTitle": "TheGrandBudapestHotel(2014)-Synopsis.txt"
+    },
+    {
+        "characters": " casyjohncarradine, grandmazeffietilbury, grandpacharleygrapewin, majoadjanedarwell, tomjoadhenryfonda",
+        "movieTitle": "TheGrapesofWrath(1940)-Synopsis.txt"
+    },
+    {
+        "characters": " jaeckel, tomainia, osterlich, benzinonapaloni, schultz, hynkel, hannah, richardwagner, garbitsch",
+        "movieTitle": "TheGreatDictator(1940)-Synopsis.txt"
+    },
+    {
+        "characters": " bartley, hiltz, sedgwick, ramsey, bartlet, pitt, blythe, hilts, ives, velinski",
+        "movieTitle": "TheGreatEscape(1963)-Synopsis.txt"
+    },
+    {
+        "characters": " percywetmoredoughutchison, jinglespaul, johncoffeymichaelclarkeduncan, eduarddelecroixmichaeljeter, burthammersmithgarysinise, halmooresjamescromwell, toottootharrydeanstanton, elaineevebrent, williamwharton, michael clarke duncan, arlenbitterbuck, brutus, melinda, fredastaire, janbonniehunt, deanstantonbarrypepper",
+        "movieTitle": "TheGreenMile(1999)-Synopsis.txt"
+    },
+    {
+        "characters": " minnyjacksonoctaviaspencer, elainesteinmarysteenburgen mary steenburgen, skeeter, elainesteinmarysteenburgen, rachellachanze, celiafootejessicachastain, hillyholbrookbrycedallashoward, emmahenry, aibeleen, stuartwhitworthchrislowell, johnnymikevogel, constantinecicelytyson, aibileenclarkvioladavis, yulemaeaunjanueellis, myrna, walterssissyspacek, elizabethleefoltahnao, celiafootejessicachastain jessica chastain, twoslice hillyholbrookbrycedallashoward, maemobleyeleanorhenry",
+        "movieTitle": "TheHelp(2011)-Synopsis.txt"
+    },
+    {
+        "characters": " theo, klara, lucas, nadja, marcus",
+        "movieTitle": "TheHunt(2012)-Synopsis.txt"
+    },
+    {
+        "characters": "",
+        "movieTitle": "TheHustler(1961)-Synopsis.txt"
+    },
+    {
+        "characters": " nock, stewartmenzies, dennistoncharlesdance, joanclarkekeiraknightley, winstonchurchill, stalin, elizabethii, hitler, alanturingbenedictcumberbatch, hughalexandermatthewgoode, johncairncrossmatthewbeard, helen, christopherjackbannon, peterhiltonmatthewbeard",
+        "movieTitle": "TheImitationGame(2014)-Synopsis.txt"
+    },
+    {
+        "characters": " adama, eleonore, yvonne, elisa, philippe, driss, magalie",
+        "movieTitle": "TheIntouchables(2011)-Synopsis.txt"
+    },
+    {
+        "characters": "",
+        "movieTitle": "TheKid(1921)-Synopsis.txt"
+    },
+    {
+        "characters": " dukeofyork, lionelloguegeoffreyrush, kinggeorgev, wallissimpsonevebest, albert, john, edwardviii, hamlet, winstonchurchilltimothyspall, bertiecolinfirth, pearce, king kinggeorgev, elizabethhelenabonhamcarter, kinggeorgev michael gambon, david, shakespeare",
+        "movieTitle": "TheKing'sSpeech(2010)-Synopsis.txt"
+    },
+    {
+        "characters": " nalamoirakelly, zazurowanatkinson, sarabi, sarafinazoeleader, jeremyirons, rafikis, timon, simbas, scarjeremyirons, banzaicheechmarin, matthewbroderick, shenziwhoopigoldberg, nalaniketacalame, mufasas",
+        "movieTitle": "TheLionKing(1994)-Synopsis.txt"
+    },
+    {
+        "characters": " brunohempfthomasthieme, lazlo, beethoven, lenin, derspiegel, sebastian koch, lieutenantcolonelantongrubitzulrichtukur, christamariasielandmartinagedeck, christamaria, gerdwieslerulrichmhe, lieutenantcolonel antongrubitzulrichtukur, erichhonecker, georgdreymansebastiankoch, albertjerskavolkmarkleinert",
+        "movieTitle": "TheLivesofOthers(2006)-Synopsis.txt"
+    },
+    {
+        "characters": " strider, elendil, legolas, frodo, lurtz, boromir, isildur, sauron, sam, galadriel, isengard, gondor, arwen, gilgalad, elrond, bilbo, saruman, urukhai, pippin, bree, gimli",
+        "movieTitle": "TheLordoftheRings_TheFellowshipoftheRing(2001)-Synopsis.txt"
+    },
+    {
+        "characters": " frodo, boromirseanbean, osgiliath, rohan, smagolandyserkis, narsil, pippinbillyboyd, merrydominicmonaghan, arwenlivtyler, sauron, davidwenham, grimabraddourif, anduin, galadriel, sarumanchristopherlee, elrond, dagolthomasrobins, denethor, gandalf, shelob, legolas, samseanastin, thodenbernardhill, omerkarlurban, eldar, mmakil, angmar, merrydominicmonaghan dominicmonaghan, bilbo, harad, faramir, rosiecottonsarahmcleod, anduril, gimli",
+        "movieTitle": "TheLordoftheRings_TheReturnoftheKing(2003)-Synopsis.txt"
+    },
+    {
+        "characters": " samampgollum, thoden, grmawormtongue, frodo, legolas, brego, deep deepmerryamppippin, ringwraith, rohan, haldir, shadowfax, boromir, smagol, sauron, galadriel, isengard, gondor, arwen, elrond, faramir, warg, saruman, urukhai, deepmerryamppippin, gimli",
+        "movieTitle": "TheLordoftheRings_TheTwoTowers(2002)-Synopsis.txt"
+    },
+    {
+        "characters": " rheagutman, samspade, effie, jacobi, floydthursby, tompolhaus, brigido, caspergutman, wilmercook, joelcairo, brigido'shaughnessy, milesarcher, lapaloma, o'shaughnessy",
+        "movieTitle": "TheMalteseFalcon(1941)-Synopsis.txt"
+    },
+    {
+        "characters": " jonesroberttaylor, cypher, kungfu, mopheus, agentsmith, tankmarcuschong, morpheus laurencefishburne, moss, neo, thomasanderson, kempo, dozeranthonyrayparker, alice, mousemattdoran, nebuchadnezzar, jonesroberttaylor roberttaylor, jiujitsu, brownpaulgoddard",
+        "movieTitle": "TheMatrix(1999)-Synopsis.txt"
+    },
+    {
+        "characters": " pearl, harrypowell, ruby, benharper, rachelcooper, willa, john, icey, unclebirdie, jenny",
+        "movieTitle": "TheNightoftheHunter(1955)-Synopsis.txt"
+    },
+    {
+        "characters": " szalas, wladyslawszpilman, majorek, itzakheller, halina, wladek, dorota, chopin, janinagodlewska, henryk, wilmhosenfeld, gebczynski",
+        "movieTitle": "ThePianist(2002)-Synopsis.txt"
+    },
+    {
+        "characters": " chunglingsoochaolichi, sarahrebeccahall, alfredbordenchristianbale, fallon, oliviawenscombescarlettjohansson, robertangierhughjackman, caldlowbordenangier, jessborden, geraldroothughjackman, jessica, thomasedison, jesssamanthamahurin, bordenangier, tesla, miltonrickyjay, juliapiperperabo, pike, alleyandyserkis, bordon",
+        "movieTitle": "ThePrestige(2006)-Synopsis.txt"
+    },
+    {
+        "characters": " dreadpirateroberts, fezzik, fredsavage, max, countrugeninigo, willoughbygray, peterfalk, princehumperdinckchrissarandon, florin, christopher guest, diegomontoya, valeriecarolkane, inigomontoyamandypatinkin, petercook, yellinmalcolmstorry, annedyson, albinomelsmith, westley, morgenstern, vizzini, buttercup",
+        "movieTitle": "ThePrincessBride(1987)-Synopsis.txt"
+    },
+    {
+        "characters": " eli, paul, planview, fletcher, williambandy, henry, abel, danielplainview, mary",
+        "movieTitle": "ThereWillBeBlood(2007)-Synopsis.txt"
+    },
+    {
+        "characters": " huracn, irenehastings, irenemenndezhastings, ricardomorales, romano, molinari, benjamnespsito, pablosandoval, isidorogmez",
+        "movieTitle": "TheSecretinTheirEyes(2009)-Synopsis.txt"
+    },
+    {
+        "characters": " antoniusblock, miawhy, jesuschrist, jonasskat, raval, plog, miajof, miamikael, mikael",
+        "movieTitle": "TheSeventhSeal(1957)-Synopsis.txt"
+    },
+    {
+        "characters": " mozart, randallstephens, hadley, heywood, shawshank, tommygilbellows, boggsmarkrolston, buxton, samuelnortonbobgunton, ellisboydreddingmorganfreeman, brookshatlenjameswhitmore, ritahayworth, andyandred, figaro",
+        "movieTitle": "TheShawshankRedemption(1994)-Synopsis.txt"
+    },
+    {
+        "characters": " billiegibson, stuartullmanbarrynelson, joeturkel, delbertgradyphilipstone, dickhallorannscatmancrothers, louiseburns, tony, dannydannylloyd, wendyshelleyduvall, johnnyjack, lisaburns, liabeldam",
+        "movieTitle": "TheShining(1980)-Synopsis.txt"
+    },
+    {
+        "characters": " jamegumb, starling, jackgordon, chilton, hanniballecter, ruthmartin, bimmel, catherinemartin, johnshopkinshospital, buffalobill, jackcrawford",
+        "movieTitle": "TheSilenceoftheLambs(1991)-Synopsis.txt"
+    },
+    {
+        "characters": " annacrowe, cole, lynn, kyracollins, vincentgrey, malcolmcrowe",
+        "movieTitle": "TheSixthSense(1999)-Synopsis.txt"
+    },
+    {
+        "characters": " snyder, hooker, lorettasolino, polkdanaelcar, polkdanaelcar danaelcar, henrygondorffpaulnewman, doylelonneganrobertshaw, lorettadimitraarliss, luthercolemanrobertearljones",
+        "movieTitle": "TheSting(1973)-Synopsis.txt"
+    },
+    {
+        "characters": " petersilberman, johnconnor, traxler, matt, sarahconnor, kylereese",
+        "movieTitle": "TheTerminator(1984)-Synopsis.txt"
+    },
+    {
+        "characters": " nauls, carter, gary, benningspetermaloney, norrischarleshallahan, macready, clarkrichardmasur, fuchsjoelpolis, macreadykurtrussell, childs, garrydonaldmoffat, waites, blair, palmerdavidclennon, copper richarddysart",
+        "movieTitle": "TheThing(1982)-Synopsis.txt"
+    },
+    {
+        "characters": " ferris, annaschmidt, paulhrbiger, winkelerichponto, josephharbin, hedwigbleibtreu, kurtzernstdeutsch, cotten, baronkurtz, painebernardlee, crabbinwilfridhydewhite, harrylime, alidavalli, hollymartinsjosephcotten, calloway, popescusiegfriedbreuer",
+        "movieTitle": "TheThirdMan(1949)-Synopsis.txt"
+    },
+    {
+        "characters": " dobbs, howard, goldhat, cody, bobcurtin",
+        "movieTitle": "TheTreasureoftheSierraMadre(1948)-Synopsis.txt"
+    },
+    {
+        "characters": " marlonnoahemmerich, laurennataschamcelhone, briandelate, vivien, meryllauralinney, judyclayton, truman, hollandtaylor, christofedharris, louiscoltrane, nastassjaschmiedt, lawrencepeterkrause, blairslater, laurenlaurensylvia, murielmoore, marcorubeo, laurensylvia",
+        "movieTitle": "TheTrumanShow(1998)-Synopsis.txt"
+    },
+    {
+        "characters": " deankeatongabrielbyrne, keysersze, kobayashi, verbalkint, davekujanchazzpalminteri, ediefinneransuzyamis, redfootpetergreene, roger, redfootpetergreene petergreene, baer, mcmanus, fenster, toddhockneykevinpollak",
+        "movieTitle": "TheUsualSuspects(1995)-Synopsis.txt"
+    },
+    {
+        "characters": " smerloff, johannstrauss, mario, bill, linda, dick, hernandez, bimba, o'brien, bernardo, laspiedras, luigi",
+        "movieTitle": "TheWagesofFear(1953)-Synopsis.txt"
+    },
+    {
+        "characters": " auntieem, missgulchmargarethamilton margarethamilton, ozfrankmorgan, hickoryjackhaley, zeke bertlahr, missgulchmargarethamilton, marvel frankmorgan, glindabillieburke, toto, hunk raybolger, uncle henrycharleygrapewin, dorothy, tinwoodman jackhaley, frankmorgan",
+        "movieTitle": "TheWizardofOz(1939)-Synopsis.txt"
+    },
+    {
+        "characters": " auntemma, braddonnie, hildy, peterdeblasio, strattonoakmont, naomilapaglia, robinhood, rocco, onnie, stevemadden, lemmon, wolfie, aerotyne, bodietl, max, markhanna, jeanjacquessorel, teresapetrillo, dwayne, manny, chester, chantalle, nicholas, rugrat, robbiefeinberg, jordanbelfort, denhamdietl, skyler",
+        "movieTitle": "TheWolfofWallStreet(2013)-Synopsis.txt"
+    },
+    {
+        "characters": " kunimaru, asaji, miki, washizu, kurosawa, noriyasu",
+        "movieTitle": "ThroneofBlood(1957)-Synopsis.txt"
+    },
+    {
+        "characters": " miss jeanlouise, tomrobinson, bobewell, jeanlouisescoutfinch, stephanie, dubose, dill, taylor, mayellaewell, sykes, waltercunningham, booradley, helen, jem, maudie, tate, atticus, arthur",
+        "movieTitle": "ToKillaMockingbird(1962)-Synopsis.txt"
+    },
+    {
+        "characters": " tanya, hankquinlan, sanchez, gould, marcia, rudylinnekar, susanvargas, alschwartz, menzies, adair, mike, joegrandi",
+        "movieTitle": "TouchofEvil(1958)-Synopsis.txt"
+    },
+    {
+        "characters": " andydavisjohnmorris, jeffpidgeon, hannahsarahfreeman, woody, siderikvondetten, debiderryberry, lauriemetcalf, buzzlightyeartimallen",
+        "movieTitle": "ToyStory(1995)-Synopsis.txt"
+    },
+    {
+        "characters": " rex, hamm, bonnie, woody, jessie, daisy, andy, molly, ken, buzz, buster, sarge, baby, barbie, lotso",
+        "movieTitle": "ToyStory3(2010)-Synopsis.txt"
+    },
+    {
+        "characters": " begbieampsickboy, begbieampsickboy jonnyleemiller, dalewinton, lizzypaulinelynch, markrenton, dawn, allison, tommykevinmckidd, spudewenbremner, begbieampsickboy amp begbieampsickboy, dianekellymacdonald, swanney",
+        "movieTitle": "Trainspotting(1996)-Synopsis.txt"
+    },
+    {
+        "characters": " jones, jeffreygoines, jose, peters, kathrynrailly, jamescole",
+        "movieTitle": "TwelveMonkeys(1995)-Synopsis.txt"
+    },
+    {
+        "characters": "",
+        "movieTitle": "Udaan(2010)-Synopsis.txt"
+    },
+    {
+        "characters": " soni, mayakovsky, petarpopara, edvardkardelj, fritz, natalijazovkov, franz, ivan, jelena, vera, nazis, rankovi, josipbroztito, markodren, jovan, leka",
+        "movieTitle": "Underground(1995)-Synopsis.txt"
+    },
+    {
+        "characters": " strawberryalicefrancesfisher, littlebilldaggettgenehackman, bob, nedloganmorganfreeman, mikedavidmucci, skinnyduboisanthonyjames, delilah, garfield, sally, beauchampsaulrubinek, daveyrobcampbell, clint eastwood, williammunnyclinteastwood",
+        "movieTitle": "Unforgiven(1992)-Synopsis.txt"
+    },
+    {
+        "characters": " charlesmuntzchristopherplummer, muntzs, russelljordannagai, dugbobpeterson, johnratzenberger, carls, gammajeromeranft, ellieeliedocter, alpha bobpeterson, young carlfredricksenjeremyleary, kevin, betadelroylindo",
+        "movieTitle": "Up(2009)-Synopsis.txt"
+    },
+    {
+        "characters": " midge, madeleineelster, judybarton, ernie, popliebel, alfredhitchcock, arton, carlottavaldes, dolores, johnscottieferguson, gavinelster",
+        "movieTitle": "Vertigo(1958)-Synopsis.txt"
+    },
+    {
+        "characters": " deliasinadcusack, adamsutlerjohnhurt, guyfawkes, hitler, john hurt, dietrich, lewisprothero, valerienatashawightman, bailey, nietzsche, eveynatalieportman, deitrichstephenfry, creedytimpigottsmith, williamrookwood, lacan, finchstephenrea",
+        "movieTitle": "VforVendetta(2005)-Synopsis.txt"
+    },
+    {
+        "characters": " gopher, mccreajeffgarlin, johnjohnratzenberger, mobenburtt, mccrea",
+        "movieTitle": "WALL__E(2008)-Synopsis.txt"
+    },
+    {
+        "characters": " ahab, beethoven, frankcampana, tess, tommyk, pete maddoggrimes maddoggrimes, optionlessbrendan, joezito, maddoggrimes maddoggrimes, paddyconlon, dick, koba, principalzito, brendanconlon, maddoggrimes",
+        "movieTitle": "Warrior(2011)-Synopsis.txt"
+    },
+    {
+        "characters": " billy, carltanner, terencefletcher, ryanconnelly, metz, sean, nicole, shaffer, andrews",
+        "movieTitle": "whiplash.txt"
+    },
+    {
+        "characters": " martha, george, nick",
+        "movieTitle": "Who'sAfraidofVirginiaWoolf_(1966)-Synopsis.txt"
+    },
+    {
+        "characters": " bibiandersson, borg, victorsjstrm, agda, marianne, jullankindahl, sigfrid, lund, isak, ingridthulin, viktor, evald, sara, ingmarbergman",
+        "movieTitle": "WildStrawberries(1957)-Synopsis.txt"
+    },
+    {
+        "characters": "",
+        "movieTitle": "WildTales(2014)-Synopsis.txt"
+    },
+    {
+        "characters": " leonard, wilfredrobarts, mrschristinevole, emilyfrench",
+        "movieTitle": "witness.txt"
+    },
+    {
+        "characters": " leonard, wilfredrobarts, christinevole, emilyfrench",
+        "movieTitle": "WitnessfortheProsecution(1957)-Synopsis.txt"
+    },
+    {
+        "characters": " ladydeathstrike, ensabahnur, bishop, xcharlesxavier, jeangray, havok, sunspot, magnetoeriklensherr, emmafrost, patrickstewart, wolverine, raven, warpath, logan, bolivartrask, williamstryker, azazel, kittypryde, richardnixon, beasthank, kennedy",
+        "movieTitle": "X-Men_DaysofFuturePast(2014)-Synopsis.txt"
+    },
+    {
+        "characters": " orin, unosukesanjuro, tokuemon, inokichi, kannuki, seibei, gonji, koheiampnui, ushitora, tazaemon, yoichiro",
+        "movieTitle": "yojimbo.txt"
+    }
+]

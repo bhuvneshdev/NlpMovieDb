@@ -1,0 +1,149 @@
+{
+  "movieName": "TheUsualSuspects(1995)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "men",
+      "recipients": [
+        "phrase"
+      ],
+      "verbs": [
+        "say",
+        "butcher"
+      ],
+      "traits": [
+        "many"
+      ],
+      "semanticRoles": [
+        "corpse",
+        "Utterance",
+        "thing brought",
+        "Sayer",
+        "manager",
+        "killer",
+        "entity attacked"
+      ]
+    },
+    {
+      "characterName": "Verbal_Kint",
+      "recipients": [
+        "exchange",
+        "story",
+        "Kujan",
+        "present",
+        "version",
+        "money",
+        "Edie",
+        "effects",
+        "name",
+        "officer"
+      ],
+      "verbs": [
+        "know",
+        "tell",
+        "take",
+        "retrieve"
+      ],
+      "traits": [
+        "Keyser_Sze",
+        "open",
+        "truthful"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "knower",
+        "thing put",
+        "causer of continuation",
+        "corpse",
+        "thing followed",
+        "agreer",
+        "admitter",
+        "entity leaving",
+        "handler",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "McManus",
+      "recipients": [
+        "others",
+        "Baldwin",
+        "men",
+        "pier"
+      ],
+      "verbs": [
+        "convince",
+        "execute",
+        "attack"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "convincer",
+        "killer",
+        "attacker",
+        "finder",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Kobayashi",
+      "recipients": [
+        "Keyser_Sze",
+        "Kint",
+        "thieves",
+        "will",
+        "information",
+        "relatives",
+        "means",
+        "distance",
+        "hiding",
+        "boat"
+      ],
+      "verbs": [
+        "work",
+        "track",
+        "leave",
+        "have",
+        "watch"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "claimer",
+        "thing following",
+        "entity leaving",
+        "corpse",
+        "person kidnapped",
+        "speaker",
+        "Sayer",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "Kujan",
+      "recipients": [
+        "what",
+        "present",
+        "hand",
+        "station",
+        "car"
+      ],
+      "verbs": [
+        "deduce",
+        "reveal",
+        "shake",
+        "leaf",
+        "step"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "agent",
+        "speaker",
+        "decider",
+        "operator",
+        "causer of trembling motion",
+        "entity leaving",
+        "causer of movement"
+      ]
+    }
+  ]
+}

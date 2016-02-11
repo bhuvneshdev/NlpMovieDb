@@ -1,0 +1,214 @@
+{
+  "movieName": "Lock,StockandTwoSmokingBarrels(1998)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "friends",
+      "recipients": [
+        "together",
+        "neighbors",
+        "loot",
+        "home",
+        "bar",
+        "carnage",
+        "opportunity",
+        "scene"
+      ],
+      "verbs": [
+        "put",
+        "ambush",
+        "take",
+        "drive",
+        "return",
+        "find"
+      ],
+      "traits": [
+        "Longtime",
+        "responsible",
+        "unconscious"
+      ],
+      "semanticRoles": [
+        "decider",
+        "ambusher",
+        "alive entity",
+        "entity ambushed",
+        "driver",
+        "finder",
+        "first or all things being tied",
+        "thing given"
+      ]
+    },
+    {
+      "characterName": "Eddie",
+      "recipients": [
+        "Harry",
+        "week",
+        "group",
+        "information"
+      ],
+      "verbs": [
+        "lose",
+        "pay",
+        "relay"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "payer or buyer",
+        "impelled agent",
+        "sender"
+      ]
+    },
+    {
+      "characterName": "Big_Chris",
+      "recipients": [
+        "payment",
+        "son",
+        "apprentice",
+        "work",
+        "debt",
+        "escape",
+        "Dog",
+        "car",
+        "money",
+        "friends",
+        "catalog"
+      ],
+      "verbs": [
+        "collect",
+        "bring",
+        "mug",
+        "crash",
+        "disable",
+        "take",
+        "give",
+        "keep"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing assigned",
+        "bringer",
+        "agent",
+        "entity leaving",
+        "thing following",
+        "mugger",
+        "entity brutalized",
+        "disabler",
+        "causer of damage",
+        "giver",
+        "bidder",
+        "Keeper"
+      ]
+    },
+    {
+      "characterName": "neighbors",
+      "recipients": [
+        "drugs",
+        "connections",
+        "ones"
+      ],
+      "verbs": [
+        "move",
+        "use",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "person robbed",
+        "thing provided",
+        "mover",
+        "User",
+        "entity ambushed"
+      ]
+    },
+    {
+      "characterName": "Nick",
+      "recipients": [
+        "pair",
+        "weed",
+        "deal",
+        "Gary"
+      ],
+      "verbs": [
+        "acquire",
+        "purchase",
+        "arrange",
+        "direct"
+      ],
+      "traits": [
+        "Greek"
+      ],
+      "semanticRoles": [
+        "manager",
+        "purchaser",
+        "agent",
+        "builder",
+        "question or thing in doubt",
+        "director"
+      ]
+    },
+    {
+      "characterName": "Dog",
+      "recipients": [
+        "morning",
+        "tirade"
+      ],
+      "verbs": [
+        "become"
+      ],
+      "traits": [
+        "underway",
+        "various",
+        "sound"
+      ],
+      "semanticRoles": [
+        "student",
+        "new knower",
+        "victim",
+        "thing not working"
+      ]
+    },
+    {
+      "characterName": "Gary",
+      "recipients": [
+        "Nick",
+        "Chris",
+        "Harry",
+        "Barry",
+        "office",
+        "minute",
+        "who"
+      ],
+      "verbs": [
+        "call",
+        "follow",
+        "attack",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing directed",
+        "causal agent",
+        "attacker"
+      ]
+    },
+    {
+      "characterName": "Dean",
+      "recipients": [
+        "Nick",
+        "Chris",
+        "Harry",
+        "Barry",
+        "office"
+      ],
+      "verbs": [
+        "call",
+        "follow",
+        "attack"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causal agent",
+        "attacker"
+      ]
+    }
+  ]
+}

@@ -31,7 +31,7 @@ public class NERSimilarity {
 		Set<String> nerQuerySet = NamedEntityRecognition.getNamedEntities(query);
 		int totalNERQueryCount = nerQuerySet.size();
 		if(totalNERQueryCount == 0){
-			return null;
+			return nerTable;
 		}
 		//System.out.println(nerQuerySet.toString());
 		

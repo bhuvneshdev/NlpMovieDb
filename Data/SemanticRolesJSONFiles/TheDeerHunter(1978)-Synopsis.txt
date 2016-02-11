@@ -1,0 +1,238 @@
+{
+  "movieName": "TheDeerHunter(1978)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Nick",
+      "recipients": [
+        "love",
+        "morning",
+        "idea",
+        "turn",
+        "Julin_Grinda",
+        "hurry",
+        "recollection",
+        "home",
+        "war",
+        "life",
+        "gun",
+        "himself",
+        "head"
+      ],
+      "verbs": [
+        "be",
+        "go",
+        "reject",
+        "have",
+        "encounter",
+        "leaf",
+        "remember",
+        "raise",
+        "shoot"
+      ],
+      "traits": [
+        "deranged",
+        "able",
+        "alive"
+      ],
+      "semanticRoles": [
+        "rejecter",
+        "protester",
+        "finder",
+        "staller",
+        "thing pulled",
+        "entity encountering something",
+        "thing attracted",
+        "agent",
+        "thing viewed",
+        "entity leaving",
+        "misser",
+        "thing found",
+        "rememberer",
+        "one combatant",
+        "Agent",
+        "shooter",
+        "song"
+      ]
+    },
+    {
+      "characterName": "Steven",
+      "recipients": [
+        "party",
+        "Angela",
+        "himself",
+        "gun",
+        "river",
+        "fall",
+        "legs",
+        "use"
+      ],
+      "verbs": [
+        "marry",
+        "grazing",
+        "aim",
+        "fall",
+        "break",
+        "lose"
+      ],
+      "traits": [
+        "unstable"
+      ],
+      "semanticRoles": [
+        "causer",
+        "person punished",
+        "aimer",
+        "cow",
+        "breaker",
+        "misser",
+        "speaker"
+      ]
+    },
+    {
+      "characterName": "Stan",
+      "recipients": [
+        "angrier",
+        "girlfriend",
+        "boots",
+        "shoulder"
+      ],
+      "verbs": [
+        "grow",
+        "hit",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "dancer",
+        "noticer",
+        "[causer of growth - should be possible]",
+        "agent",
+        "finder",
+        "thing given"
+      ]
+    },
+    {
+      "characterName": "Mike",
+      "recipients": [
+        "beer",
+        "hunting",
+        "Stan",
+        "shoulder",
+        "Mike",
+        "morning",
+        "soldier",
+        "them",
+        "move",
+        "game",
+        "chamber",
+        "pummeling",
+        "Nick",
+        "crowd",
+        "home",
+        "fall"
+      ],
+      "verbs": [
+        "buy",
+        "take",
+        "give",
+        "ask",
+        "go",
+        "kill",
+        "acknowledge",
+        "tell",
+        "make",
+        "convince",
+        "fire",
+        "pull",
+        "carry",
+        "be",
+        "see",
+        "Saigon",
+        "come"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "buyer",
+        "dancer",
+        "operator",
+        "giver",
+        "[causer of growth - should be possible]",
+        "entity refusing",
+        "question",
+        "asker",
+        "causal agent",
+        "killer",
+        "walker",
+        "admitter",
+        "creator",
+        "Utterance",
+        "Speaker",
+        "something",
+        "convincer",
+        "entity volunteering",
+        "shooter",
+        "puller",
+        "helper",
+        "thing carried",
+        "carrier",
+        "unifier",
+        "viewer",
+        "finder",
+        "traveller",
+        "one combatant",
+        "impelled agent"
+      ]
+    },
+    {
+      "characterName": "soldier",
+      "recipients": [
+        "village",
+        "group",
+        "grenade",
+        "woman"
+      ],
+      "verbs": [
+        "walk",
+        "find",
+        "arm",
+        "see",
+        "shoot"
+      ],
+      "traits": [
+        "later",
+        "Moments"
+      ],
+      "semanticRoles": [
+        "walker",
+        "finder",
+        "equiper",
+        "viewer",
+        "shooter",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "psychologist",
+      "recipients": [
+        "call",
+        "Linda",
+        "Mike"
+      ],
+      "verbs": [
+        "call",
+        "search"
+      ],
+      "traits": [
+        "fit"
+      ],
+      "semanticRoles": [
+        "decider",
+        "Agent/Entity Trying",
+        "agent",
+        "thing released",
+        "searcher"
+      ]
+    }
+  ]
+}

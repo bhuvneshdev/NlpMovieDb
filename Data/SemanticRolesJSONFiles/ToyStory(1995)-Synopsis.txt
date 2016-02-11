@@ -1,0 +1,243 @@
+{
+  "movieName": "ToyStory(1995)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Andy_Davis_John_Morris",
+      "recipients": [
+        "party",
+        "toy",
+        "Woody",
+        "ranger",
+        "Planet",
+        "punishment"
+      ],
+      "verbs": [
+        "get",
+        "receive",
+        "\u0027s",
+        "take"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "thing impressed",
+        "Agent",
+        "liker",
+        "Thinker",
+        "entity rescued",
+        "goal"
+      ]
+    },
+    {
+      "characterName": "Woody_Tom_Hanks",
+      "recipients": [
+        "mission",
+        "Buzz",
+        "Morris",
+        "Woody",
+        "what",
+        "vehicle",
+        "Andy",
+        "downstairs",
+        "night",
+        "ranger",
+        "Sid",
+        "truck",
+        "back",
+        "toy",
+        "car",
+        "they",
+        "RC"
+      ],
+      "verbs": [
+        "coordinate",
+        "replace",
+        "rescue",
+        "do",
+        "see",
+        "meet",
+        "promise",
+        "fall",
+        "get",
+        "convince",
+        "\u0027s",
+        "Woody",
+        "climb",
+        "save",
+        "kick",
+        "kill",
+        "ride"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "organizer",
+        "agent",
+        "decider",
+        "replacer",
+        "planner",
+        "rescuer",
+        "accused",
+        "person punished",
+        "viewer",
+        "knower",
+        "achiever",
+        "promiser",
+        "person promised to",
+        "thing gotten",
+        "entity rescued",
+        "climber",
+        "receiver",
+        "convincer",
+        "experiencer",
+        "teacher",
+        "entity attacked",
+        "money",
+        "entity saving money",
+        "thing kicked",
+        "Agent/Entity Trying",
+        "killer",
+        "kicker",
+        "rider",
+        "new knower",
+        "manager",
+        "thing tossed",
+        "asker"
+      ]
+    },
+    {
+      "characterName": "toys",
+      "recipients": [
+        "Woody",
+        "arm",
+        "plan",
+        "what",
+        "mission"
+      ],
+      "verbs": [
+        "accuse",
+        "thought",
+        "get",
+        "prepare"
+      ],
+      "traits": [
+        "other",
+        "mutant",
+        "evil",
+        "new"
+      ],
+      "semanticRoles": [
+        "thing impressed",
+        "accuser",
+        "Thinker",
+        "thing",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "Buzz",
+      "recipients": [
+        "car",
+        "machine",
+        "ad",
+        "spirit",
+        "dog",
+        "himself"
+      ],
+      "verbs": [
+        "sneak",
+        "climb",
+        "see",
+        "regain",
+        "attack",
+        "free"
+      ],
+      "traits": [
+        "depressed"
+      ],
+      "semanticRoles": [
+        "old thing",
+        "corpse",
+        "manager",
+        "entity sneaking",
+        "climber",
+        "thing gotten",
+        "viewer",
+        "Agent/Entity Trying",
+        "impelled agent",
+        "recoverer",
+        "attacker",
+        "money",
+        "entity providing freedom"
+      ]
+    },
+    {
+      "characterName": "they",
+      "recipients": [
+        "Woody",
+        "upwards"
+      ],
+      "verbs": [
+        "punish",
+        "soar"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "punisher",
+        "entity escaping",
+        "entity making an assumption",
+        "Agent/Entity Trying",
+        "helper",
+        "new knower",
+        "supporter",
+        "viewer",
+        "entity rescued",
+        "entity stranded"
+      ]
+    },
+    {
+      "characterName": "Sid",
+      "recipients": [
+        "house",
+        "Woody",
+        "Buzz",
+        "yard",
+        "indoors"
+      ],
+      "verbs": [
+        "take",
+        "destroy",
+        "scream"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "killer",
+        "event delayed",
+        "planner",
+        "alarm clock",
+        "screamer"
+      ]
+    },
+    {
+      "characterName": "Detten",
+      "recipients": [
+        "toy",
+        "hall",
+        "Buzz",
+        "morning"
+      ],
+      "verbs": [
+        "be",
+        "fail",
+        "do"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "knower",
+        "causer of damage",
+        "entity rescued",
+        "first thing being tied",
+        "decider"
+      ]
+    }
+  ]
+}

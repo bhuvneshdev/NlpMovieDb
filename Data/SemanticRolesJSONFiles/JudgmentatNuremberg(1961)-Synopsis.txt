@@ -1,0 +1,31 @@
+{
+  "movieName": "JudgmentatNuremberg(1961)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Dan_Haywood_Spencer_Tracy",
+      "recipients": [
+        "Nuremberg",
+        "trial",
+        "perspective",
+        "opportunity",
+        "will",
+        "judgment"
+      ],
+      "verbs": [
+        "arrive",
+        "preside",
+        "gain",
+        "have",
+        "pass"
+      ],
+      "traits": [
+        "ready"
+      ],
+      "semanticRoles": [
+        "leader",
+        "entity making resolution",
+        "legislative body"
+      ]
+    }
+  ]
+}

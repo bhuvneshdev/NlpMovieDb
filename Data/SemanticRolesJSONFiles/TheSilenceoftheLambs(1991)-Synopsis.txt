@@ -1,0 +1,108 @@
+{
+  "movieName": "TheSilenceoftheLambs(1991)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Clarice_Starling",
+      "recipients": [
+        "Catherine_Martin",
+        "deal",
+        "Hannibal_Lecter",
+        "cell",
+        "courthouse",
+        "hometown",
+        "house",
+        "party"
+      ],
+      "verbs": [
+        "rescue",
+        "offer",
+        "travels",
+        "realize",
+        "receive"
+      ],
+      "traits": [
+        "rebuffs",
+        "impatient"
+      ],
+      "semanticRoles": [
+        "thing pulled",
+        "thing grown",
+        "rescuer",
+        "action allowed",
+        "traveller",
+        "object accompanied",
+        "place",
+        "studier",
+        "finder",
+        "impelled agent",
+        "causer of continuation",
+        "new knower",
+        "thing following",
+        "cause",
+        "thing followed"
+      ]
+    },
+    {
+      "characterName": "Lecter",
+      "recipients": [
+        "Starling",
+        "riddle",
+        "information",
+        "game",
+        "Senator",
+        "pleas",
+        "demands",
+        "cell",
+        "evening",
+        "call",
+        "himself",
+        "dinner",
+        "friend"
+      ],
+      "verbs": [
+        "grow",
+        "offer",
+        "provide",
+        "begin",
+        "give",
+        "refuse",
+        "escape",
+        "excuse",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "[causer of growth - should be possible]",
+        "angry entity",
+        "provider",
+        "beginner",
+        "agreer",
+        "giver",
+        "entity refusing",
+        "entity escaping",
+        "excuser"
+      ]
+    },
+    {
+      "characterName": "Bimmel",
+      "recipients": [
+        "victim",
+        "dresses",
+        "tailor",
+        "team",
+        "address"
+      ],
+      "verbs": [
+        "kill",
+        "have",
+        "be",
+        "lead"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "killer",
+        "leader"
+      ]
+    }
+  ]
+}

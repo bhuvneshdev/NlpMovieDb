@@ -1,0 +1,41 @@
+{
+  "movieName": "TheHunt(2012)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Lucas",
+      "recipients": [
+        "member",
+        "kindergarten",
+        "relationship",
+        "Klara",
+        "himself",
+        "service",
+        "Theo",
+        "attacker"
+      ],
+      "verbs": [
+        "be",
+        "work",
+        "maintain",
+        "expose",
+        "confront",
+        "identify"
+      ],
+      "traits": [
+        "unable"
+      ],
+      "semanticRoles": [
+        "first struggler",
+        "maintainer",
+        "exposer",
+        "thing avoided",
+        "breaker",
+        "impelled action",
+        "thing released",
+        "confrontational entity",
+        "thing accepted",
+        "caller"
+      ]
+    }
+  ]
+}

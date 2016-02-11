@@ -1,0 +1,183 @@
+{
+  "movieName": "amadeus.txt",
+  "characters": [
+    {
+      "characterName": "Salieri",
+      "recipients": [
+        "suicide",
+        "priest",
+        "confession",
+        "youth",
+        "God",
+        "life",
+        "music",
+        "adult",
+        "career",
+        "Mozart",
+        "offstage",
+        "talent",
+        "notion",
+        "chance",
+        "plot",
+        "mask",
+        "himself",
+        "truththat",
+        "fame",
+        "work",
+        "home",
+        "Salieri",
+        "ounce",
+        "patients"
+      ],
+      "verbs": [
+        "attempt",
+        "warm",
+        "reminisce",
+        "pledge",
+        "devote",
+        "be",
+        "begin",
+        "observe",
+        "see",
+        "recognize",
+        "present",
+        "reel",
+        "regard",
+        "hatch",
+        "disguise",
+        "know",
+        "receive",
+        "alternate",
+        "take",
+        "convince",
+        "share",
+        "bless",
+        "absolve"
+      ],
+      "traits": [
+        "elderly",
+        "sullen",
+        "content"
+      ],
+      "semanticRoles": [
+        "cause of warmth",
+        "recaller",
+        "promiser",
+        "causer of devotion",
+        "describer",
+        "Sayer",
+        "beginner",
+        "observer",
+        "viewer",
+        "applauder",
+        "giver",
+        "first struggler",
+        "student",
+        "causal agent",
+        "causer of disguise",
+        "thing given",
+        "dweller",
+        "knower",
+        "deserving entity (entity who is owed)",
+        "causer of switch",
+        "convincer",
+        "impelled agent",
+        "copier",
+        "entity leaving",
+        "Utterance",
+        "Intentional agent",
+        "decider",
+        "sharer",
+        "action allowed",
+        "absolver",
+        "entity giving blessing"
+      ]
+    },
+    {
+      "characterName": "Mozart",
+      "recipients": [
+        "Vienna",
+        "March",
+        "Emperor",
+        "murder",
+        "composer",
+        "mass",
+        "performance"
+      ],
+      "verbs": [
+        "arrive",
+        "toil",
+        "meet",
+        "commit",
+        "be",
+        "write",
+        "collapse"
+      ],
+      "traits": [
+        "irreverent",
+        "dead"
+      ],
+      "semanticRoles": [
+        "thing looked at",
+        "worker",
+        "thing given",
+        "achiever",
+        "beginner",
+        "causal agent",
+        "claimer",
+        "place",
+        "causer of collapse",
+        "dictator",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "God",
+      "recipients": [
+        "mediocrity",
+        "truththat",
+        "Mozart",
+        "saint",
+        "Salieri"
+      ],
+      "verbs": [
+        "laugh",
+        "know",
+        "kill",
+        "be",
+        "allow"
+      ],
+      "traits": [
+        "intercut"
+      ],
+      "semanticRoles": [
+        "knower",
+        "allower",
+        "killer",
+        "trash"
+      ]
+    },
+    {
+      "characterName": "Constanze",
+      "recipients": [
+        "Mozart",
+        "son",
+        "morning",
+        "husband",
+        "manuscript"
+      ],
+      "verbs": [
+        "leaf",
+        "take",
+        "return",
+        "go",
+        "lock"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "agent"
+      ]
+    }
+  ]
+}

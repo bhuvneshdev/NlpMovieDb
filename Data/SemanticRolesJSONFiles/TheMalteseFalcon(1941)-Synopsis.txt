@@ -1,0 +1,572 @@
+{
+  "movieName": "TheMalteseFalcon(1941)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Sam_Spade",
+      "recipients": [
+        "man",
+        "suspect",
+        "wife",
+        "visit",
+        "day",
+        "affair",
+        "Miles",
+        "widow",
+        "address",
+        "idea",
+        "Cairo",
+        "person",
+        "return",
+        "firearm",
+        "connection",
+        "meeting",
+        "police",
+        "door",
+        "story",
+        "Brigid",
+        "hotel",
+        "morning",
+        "way",
+        "Spade",
+        "gunsel1",
+        "call",
+        "Casper_Gutman",
+        "item",
+        "dizzy",
+        "point",
+        "Effie",
+        "office",
+        "package",
+        "falcon",
+        "dock",
+        "place",
+        "O\u0027Shaughnessy",
+        "apartment",
+        "money",
+        "secretary",
+        "Gutman",
+        "figurine",
+        "copy",
+        "remainder",
+        "them",
+        "department",
+        "Brigid_O\u0027Shaughnessy",
+        "partner",
+        "choice",
+        "sides",
+        "feelings"
+      ],
+      "verbs": [
+        "follow",
+        "be",
+        "get",
+        "have",
+        "kill",
+        "tell",
+        "dismiss",
+        "go",
+        "disarm",
+        "search",
+        "allow",
+        "return",
+        "sens",
+        "arrange",
+        "greet",
+        "let",
+        "invent",
+        "send",
+        "make",
+        "confront",
+        "receive",
+        "open",
+        "find",
+        "proceeds",
+        "arrive",
+        "take",
+        "place",
+        "ask",
+        "hand",
+        "check",
+        "keep",
+        "phone",
+        "wait",
+        "remember",
+        "turn",
+        "play",
+        "trust"
+      ],
+      "traits": [
+        "Private",
+        "careful",
+        "only"
+      ],
+      "semanticRoles": [
+        "causal agent",
+        "entity in motion",
+        "implier",
+        "informed",
+        "other party",
+        "asker",
+        "Utterance",
+        "receiver",
+        "question",
+        "killer",
+        "Speaker",
+        "entity removing",
+        "finder",
+        "player",
+        "entity removing weapons",
+        "hitter",
+        "searcher",
+        "allower",
+        "entity contacted",
+        "speaker",
+        "sensor",
+        "builder",
+        "agreer",
+        "UNDERSTANDER",
+        "entity refusing",
+        "greeter",
+        "creator",
+        "sender",
+        "noticer",
+        "followed",
+        "confrontational entity",
+        "wanter",
+        "knower",
+        "entity leaving",
+        "thing tripped (circuit breaker)",
+        "Agent",
+        "causer of waking",
+        "opener",
+        "storer",
+        "student",
+        "causer of continuing event",
+        "thing given",
+        "thing being removed",
+        "putter",
+        "giver",
+        "checker",
+        "new knower",
+        "Keeper",
+        "agent making a call",
+        "replier",
+        "rememberer",
+        "Sayer",
+        "turner",
+        "entity fingered",
+        "avoider",
+        "truster"
+      ]
+    },
+    {
+      "characterName": "Miles_Archer",
+      "recipients": [
+        "man",
+        "Archer"
+      ],
+      "verbs": [
+        "follow",
+        "scare"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causal agent",
+        "entity in motion",
+        "corpse",
+        "projectile",
+        "scared entity",
+        "scary entity",
+        "new employee"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "Spade",
+        "5000",
+        "idea",
+        "man",
+        "police",
+        "partner"
+      ],
+      "verbs": [
+        "visit",
+        "offer",
+        "talk",
+        "show",
+        "be"
+      ],
+      "traits": [
+        "injured"
+      ],
+      "semanticRoles": [
+        "thing following",
+        "operator",
+        "one party",
+        "talker",
+        "action allowed",
+        "shower"
+      ]
+    },
+    {
+      "characterName": "Thursby",
+      "recipients": [
+        "Archer",
+        "acquaintance",
+        "Brigid_O\u0027Shaughnessy"
+      ],
+      "verbs": [
+        "kill",
+        "be",
+        "remain"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "followed",
+        "killer",
+        "corpse",
+        "entity in motion",
+        "one cooperator",
+        "entity refusing",
+        "projectile",
+        "Utterance",
+        "causer",
+        "impelled agent",
+        "thing gotten",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "officers",
+      "recipients": [
+        "night",
+        "whereabouts",
+        "Spade",
+        "moment",
+        "evidence",
+        "matter",
+        "investigation",
+        "apartment",
+        "way",
+        "story",
+        "Cairo"
+      ],
+      "verbs": [
+        "visit",
+        "have",
+        "conduct",
+        "tell",
+        "force",
+        "seem",
+        "take"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "one party",
+        "Sayer",
+        "Speaker",
+        "conductor",
+        "entity leaving",
+        "knower",
+        "forcer"
+      ]
+    },
+    {
+      "characterName": "figurine",
+      "recipients": [
+        "gift",
+        "fake"
+      ],
+      "verbs": [
+        "be"
+      ],
+      "traits": [
+        "black"
+      ],
+      "semanticRoles": [
+        "thing gotten",
+        "logical subject",
+        "thing acquired",
+        "thing covered",
+        "thing traced",
+        "sent",
+        "thing picked",
+        "thing checked"
+      ]
+    },
+    {
+      "characterName": "Cairo",
+      "recipients": [
+        "gun",
+        "intention",
+        "Spade",
+        "Cairo",
+        "figurine",
+        "help",
+        "apartment",
+        "town"
+      ],
+      "verbs": [
+        "pull",
+        "declare",
+        "approach",
+        "contact",
+        "pay",
+        "scream",
+        "leave"
+      ],
+      "traits": [
+        "ready"
+      ],
+      "semanticRoles": [
+        "declarer",
+        "puller",
+        "entity disarmed of weapons",
+        "contactor",
+        "entity contacted",
+        "achiever",
+        "payer or buyer",
+        "Sayer",
+        "screamer",
+        "thing held",
+        "shower",
+        "creator",
+        "agreer",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "Brigid_O\u0027Shaughnessy",
+      "recipients": [
+        "Spade",
+        "death",
+        "sympathies",
+        "references",
+        "figurine",
+        "figure",
+        "hid",
+        "Falcon",
+        "Jacobi",
+        "act",
+        "Archer",
+        "Thursby",
+        "picture",
+        "crime",
+        "protector",
+        "love",
+        "anyhow"
+      ],
+      "verbs": [
+        "contact",
+        "offer",
+        "ask",
+        "make",
+        "have",
+        "refer",
+        "seem",
+        "seduce",
+        "instruct",
+        "drop",
+        "hire",
+        "get",
+        "kill",
+        "pin",
+        "need",
+        "come",
+        "\u0027s"
+      ],
+      "traits": [
+        "safe",
+        "sure",
+        "crooked"
+      ],
+      "semanticRoles": [
+        "contactor",
+        "achiever",
+        "asker",
+        "creator",
+        "labeller",
+        "thing found",
+        "seducer",
+        "instructor",
+        "something",
+        "question",
+        "entity doing the dropping",
+        "employer",
+        "receiver",
+        "wanter",
+        "killer",
+        "agent",
+        "knower",
+        "needer",
+        "Sayer",
+        "memory",
+        "thing suspended",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "police",
+      "recipients": [
+        "point",
+        "Gutman",
+        "apartment",
+        "Spade"
+      ],
+      "verbs": [
+        "show",
+        "get",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "shower",
+        "action allowed",
+        "thing greeted",
+        "receiver",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Casper_Gutman",
+      "recipients": [
+        "bird",
+        "Gutman",
+        "figurine",
+        "home",
+        "Spade",
+        "exchange",
+        "pieces",
+        "Thursby",
+        "night",
+        "situation",
+        "Europe",
+        "apartment",
+        "town",
+        "hotel",
+        "Sam",
+        "Brigid"
+      ],
+      "verbs": [
+        "pay",
+        "tell",
+        "look",
+        "trace",
+        "hand",
+        "approach",
+        "remove",
+        "warn",
+        "go",
+        "ask",
+        "leave",
+        "urge",
+        "stay",
+        "be",
+        "finger"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "wisher",
+        "Sayer",
+        "payer or buyer",
+        "Speaker",
+        "Utterance",
+        "student",
+        "looker",
+        "copier",
+        "agent making a call",
+        "giver",
+        "creator",
+        "agreer",
+        "causer of continuing event",
+        "entity removing",
+        "patient",
+        "recoverer",
+        "decider",
+        "asker",
+        "entity leaving",
+        "urger",
+        "thing gotten",
+        "toucher"
+      ]
+    },
+    {
+      "characterName": "Wilmer",
+      "recipients": [
+        "Spade",
+        "guy",
+        "Thursby",
+        "night",
+        "captain",
+        "time",
+        "apartment",
+        "Jacobi",
+        "Gutman"
+      ],
+      "verbs": [
+        "trip",
+        "need",
+        "approach",
+        "shot",
+        "shoot",
+        "manage",
+        "escape",
+        "kill",
+        "tell",
+        "wait"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "cause of trip",
+        "needer",
+        "shooter",
+        "manager",
+        "entity escaping",
+        "killer",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Jacobi",
+      "recipients": [
+        "package",
+        "Spade",
+        "office"
+      ],
+      "verbs": [
+        "deliver",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "seduced",
+        "sender",
+        "impelled agent",
+        "receiver",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Effie",
+      "recipients": [
+        "figurine",
+        "office",
+        "call",
+        "apartment"
+      ],
+      "verbs": [
+        "pick",
+        "go",
+        "bring"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "picker",
+        "question",
+        "bringer"
+      ]
+    }
+  ]
+}

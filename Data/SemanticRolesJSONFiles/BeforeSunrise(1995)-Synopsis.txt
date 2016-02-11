@@ -1,0 +1,108 @@
+{
+  "movieName": "BeforeSunrise(1995)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Jesse",
+      "recipients": [
+        "Cline",
+        "conversation",
+        "Vienna",
+        "flight",
+        "money",
+        "morning",
+        "Europe",
+        "time",
+        "pass",
+        "conversations",
+        "cafe",
+        "attraction",
+        "girlfriend",
+        "point"
+      ],
+      "verbs": [
+        "meeting",
+        "striking",
+        "go",
+        "catch",
+        "have",
+        "come",
+        "spend",
+        "buy",
+        "take",
+        "stage",
+        "admit",
+        "marry",
+        "explain"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "animate",
+        "achiever",
+        "receiver",
+        "convincer",
+        "Utterance",
+        "thing avoided",
+        "speaker",
+        "buyer",
+        "traveller",
+        "decider",
+        "thing given",
+        "performer",
+        "pretender",
+        "breaker",
+        "wanter",
+        "viewer",
+        "entity leaving",
+        "admitter",
+        "understander",
+        "feeler",
+        "creator",
+        "causer",
+        "explainer"
+      ]
+    },
+    {
+      "characterName": "Cline",
+      "recipients": [
+        "university",
+        "Jesse",
+        "conversations",
+        "cafe"
+      ],
+      "verbs": [
+        "return",
+        "tell",
+        "stage"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "goal",
+        "Speaker",
+        "decider",
+        "performer",
+        "speaker"
+      ]
+    },
+    {
+      "characterName": "they",
+      "recipients": [
+        "Vienna",
+        "city"
+      ],
+      "verbs": [
+        "roam"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing striving",
+        "decider",
+        "entity in motion",
+        "talker",
+        "beginner",
+        "causer of continuation",
+        "breaker",
+        "walker"
+      ]
+    }
+  ]
+}

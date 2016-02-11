@@ -1,0 +1,591 @@
+{
+  "movieName": "Casino(1995)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Philip_Green",
+      "recipients": [
+        "president",
+        "brotherinlaw",
+        "back",
+        "Ace",
+        "partner",
+        "books",
+        "funding",
+        "casino"
+      ],
+      "verbs": [
+        "be",
+        "\u0027s",
+        "have",
+        "beg",
+        "stall",
+        "open",
+        "get",
+        "run"
+      ],
+      "traits": [
+        "real",
+        "absent",
+        "willing"
+      ],
+      "semanticRoles": [
+        "thing given",
+        "begger",
+        "staller",
+        "receiver",
+        "shower",
+        "opener",
+        "operator",
+        "one cooperator",
+        "admitter",
+        "money"
+      ]
+    },
+    {
+      "characterName": "John_Nance",
+      "recipients": [
+        "trip",
+        "bosses",
+        "store",
+        "Nance"
+      ],
+      "verbs": [
+        "make",
+        "meet",
+        "rip"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "sent",
+        "achiever",
+        "creator",
+        "Sayer",
+        "wanter",
+        "entity confronted",
+        "ripper",
+        "entity ripped",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "bosses",
+      "recipients": [
+        "money",
+        "Ace",
+        "man",
+        "friend",
+        "Nicky_Santoro",
+        "bomb",
+        "crew",
+        "Dominick",
+        "grave",
+        "Nicky",
+        "bosses"
+      ],
+      "verbs": [
+        "collect",
+        "want",
+        "send",
+        "orchestrate",
+        "have",
+        "strip",
+        "throw",
+        "beat",
+        "bury"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "goal",
+        "agent",
+        "wanter",
+        "sender",
+        "agreer",
+        "finder",
+        "conductor",
+        "poster",
+        "remover",
+        "thrower",
+        "causer of continuing event",
+        "breather",
+        "burier",
+        "buried"
+      ]
+    },
+    {
+      "characterName": "Artie_Piscano",
+      "recipients": [
+        "trip",
+        "Vegas",
+        "belief",
+        "What",
+        "attack"
+      ],
+      "verbs": [
+        "complain",
+        "take",
+        "express",
+        "know",
+        "drop"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "operator",
+        "Agent",
+        "complainer",
+        "commodity",
+        "speaker",
+        "knower",
+        "entity doing the dropping"
+      ]
+    },
+    {
+      "characterName": "Ace",
+      "recipients": [
+        "help",
+        "Billy_Sherbert",
+        "side",
+        "Ginger",
+        "casino",
+        "Nicky",
+        "back",
+        "decision",
+        "sake",
+        "license",
+        "opposite",
+        "meeting",
+        "Dominick",
+        "Frankie",
+        "restaurant",
+        "week",
+        "Amy",
+        "Lester",
+        "someone",
+        "Gaggi",
+        "night",
+        "home",
+        "Sherbert",
+        "friend",
+        "chance",
+        "job"
+      ],
+      "verbs": [
+        "have",
+        "show",
+        "catch",
+        "buy",
+        "run",
+        "tell",
+        "back",
+        "\u0027s",
+        "take",
+        "get",
+        "own",
+        "do",
+        "defend",
+        "say",
+        "see",
+        "want",
+        "send",
+        "call",
+        "go",
+        "ask",
+        "look",
+        "return"
+      ],
+      "traits": [
+        "convinced",
+        "able"
+      ],
+      "semanticRoles": [
+        "operator",
+        "thing wanted",
+        "agreer",
+        "shower",
+        "narrater",
+        "convincer",
+        "receiver",
+        "Utterance",
+        "buyer",
+        "traveller",
+        "Speaker",
+        "shooter",
+        "supporter",
+        "allower",
+        "appealed to",
+        "entity leaving",
+        "asker",
+        "entity entering",
+        "lover",
+        "intentional cutter",
+        "wanter",
+        "Agent",
+        "owner",
+        "new knower",
+        "defender",
+        "complainer",
+        "Sayer",
+        "goal",
+        "viewer",
+        "sender",
+        "decider",
+        "speaker",
+        "knower",
+        "killer",
+        "looker",
+        "announcer",
+        "regretter"
+      ]
+    },
+    {
+      "characterName": "Nicky_Santoro",
+      "recipients": [
+        "psychopath",
+        "Nicky",
+        "pen",
+        "cheaters",
+        "love",
+        "turn",
+        "line",
+        "store",
+        "what",
+        "jobs",
+        "bank",
+        "partner",
+        "picture",
+        "banker",
+        "quieter",
+        "time",
+        "desert",
+        "Ace",
+        "temper",
+        "Amy",
+        "night",
+        "truth",
+        "Frankie",
+        "mind",
+        "home",
+        "restaurant",
+        "town"
+      ],
+      "verbs": [
+        "be",
+        "stab",
+        "take",
+        "catch",
+        "fall",
+        "perform",
+        "ignore",
+        "open",
+        "make",
+        "follow",
+        "threaten",
+        "handle",
+        "intend",
+        "meet",
+        "know",
+        "lose",
+        "beat",
+        "tell",
+        "hear",
+        "love",
+        "warn",
+        "get",
+        "find",
+        "skip"
+      ],
+      "traits": [
+        "careful",
+        "worried",
+        "Italian"
+      ],
+      "semanticRoles": [
+        "sent",
+        "viewer",
+        "stabber",
+        "thing stabbed",
+        "receiver",
+        "performer",
+        "Utterance",
+        "activity/place/item not allowed; banned from",
+        "thing ignored",
+        "ignorer",
+        "decider",
+        "bringer",
+        "opener",
+        "putter",
+        "creator",
+        "causal agent",
+        "person promised to",
+        "agent of calming",
+        "needer",
+        "agent",
+        "handler",
+        "Agent",
+        "achiever",
+        "thing known or thought",
+        "knower",
+        "thing viewed",
+        "shower",
+        "causer",
+        "thing hit",
+        "Speaker",
+        "corpse",
+        "lover",
+        "helper",
+        "question",
+        "sleeper",
+        "killer",
+        "finder",
+        "thrower",
+        "entity attacked",
+        "omiter",
+        "announcer",
+        "question or thing in doubt"
+      ]
+    },
+    {
+      "characterName": "Ginger",
+      "recipients": [
+        "baby",
+        "boyfriend",
+        "Lester",
+        "Ace",
+        "divorce",
+        "money",
+        "Nicky",
+        "fit",
+        "morning",
+        "FBI",
+        "scene",
+        "Ginger",
+        "items",
+        "desk",
+        "key",
+        "bank"
+      ],
+      "verbs": [
+        "have",
+        "marry",
+        "love",
+        "tell",
+        "file",
+        "blow",
+        "ask",
+        "attack",
+        "arrive",
+        "call",
+        "cause",
+        "calm",
+        "collect",
+        "break",
+        "steal",
+        "drive"
+      ],
+      "traits": [
+        "okay",
+        "alcoholic",
+        "terrified",
+        "own"
+      ],
+      "semanticRoles": [
+        "causer",
+        "lover",
+        "thing gotten",
+        "Speaker",
+        "thing bought",
+        "asker",
+        "agreer",
+        "filer",
+        "wind",
+        "something",
+        "entity leaving",
+        "thing wanted",
+        "sent",
+        "killer",
+        "agent",
+        "attacker",
+        "forcer",
+        "action allowed",
+        "agent of calming",
+        "object accompanied",
+        "thief",
+        "breaker",
+        "driver",
+        "thing pulled",
+        "criminal",
+        "talker",
+        "thing given",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "Lester",
+      "recipients": [
+        "ransom",
+        "Ginger",
+        "key"
+      ],
+      "verbs": [
+        "put",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "loved",
+        "Utterance",
+        "giver",
+        "thing hit",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Dominick",
+      "recipients": [
+        "anyone",
+        "Andy_Stone"
+      ],
+      "verbs": [
+        "decide",
+        "kill"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "operator",
+        "thing viewed",
+        "criminal",
+        "shower",
+        "decider",
+        "alleged criminal",
+        "killer",
+        "thing removed",
+        "thing thrown",
+        "thing hit",
+        "hitter"
+      ]
+    },
+    {
+      "characterName": "partner",
+      "recipients": [
+        "Vegas",
+        "picture",
+        "money",
+        "case",
+        "court"
+      ],
+      "verbs": [
+        "come",
+        "demand",
+        "take"
+      ],
+      "traits": [
+        "old"
+      ],
+      "semanticRoles": [
+        "asker",
+        "thing stalled"
+      ]
+    },
+    {
+      "characterName": "Gaggi",
+      "recipients": [
+        "Nicky",
+        "Marino"
+      ],
+      "verbs": [
+        "send",
+        "tell",
+        "ask"
+      ],
+      "traits": [
+        "furious"
+      ],
+      "semanticRoles": [
+        "sender",
+        "Speaker",
+        "agreer",
+        "asker"
+      ]
+    },
+    {
+      "characterName": "Marino",
+      "recipients": [
+        "Nicky",
+        "himself",
+        "danger"
+      ],
+      "verbs": [
+        "tell",
+        "put"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "Utterance",
+        "question",
+        "knower",
+        "narrater"
+      ]
+    },
+    {
+      "characterName": "Andy_Stone",
+      "recipients": [
+        "Gaggi",
+        "casino",
+        "Ace",
+        "Nicky",
+        "Stone"
+      ],
+      "verbs": [
+        "suggest",
+        "run",
+        "tell",
+        "talk"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Sayer",
+        "operator",
+        "quitter",
+        "Speaker",
+        "Utterance",
+        "talker",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Amy",
+      "recipients": [
+        "someone",
+        "times",
+        "beeper",
+        "Nicky",
+        "affair"
+      ],
+      "verbs": [
+        "ask",
+        "be",
+        "wear",
+        "talk",
+        "end",
+        "continue"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "sent",
+        "person kidnapped",
+        "entity in motion",
+        "Utterance",
+        "asker",
+        "thing thrown",
+        "thing given",
+        "loved",
+        "wearer",
+        "talker",
+        "Intentional agent",
+        "needer",
+        "causer of continuation",
+        "thing found"
+      ]
+    }
+  ]
+}

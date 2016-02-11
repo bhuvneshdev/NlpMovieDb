@@ -1,0 +1,168 @@
+{
+  "movieName": "AmericanBeauty(1999)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Lester_Burnham",
+      "recipients": [
+        "executive",
+        "classmate",
+        "friend",
+        "infatuation",
+        "fantasies",
+        "job",
+        "employment",
+        "Brad_Dupree",
+        "himself",
+        "trading",
+        "Buddy",
+        "Carolyn",
+        "Col",
+        "Lester",
+        "Angela",
+        "table",
+        "narration"
+      ],
+      "verbs": [
+        "be",
+        "meet",
+        "develop",
+        "have",
+        "quit",
+        "take",
+        "blackmail",
+        "liberate",
+        "find",
+        "rebuff",
+        "sit",
+        "look"
+      ],
+      "traits": [
+        "happy",
+        "content"
+      ],
+      "semanticRoles": [
+        "entity reinvigorated",
+        "achiever",
+        "quitter",
+        "blackmailer",
+        "causer of continuation",
+        "cause of freedom",
+        "new friend",
+        "finder",
+        "rejecter",
+        "thing rejected",
+        "entity removing",
+        "looker"
+      ]
+    },
+    {
+      "characterName": "Jane",
+      "recipients": [
+        "relationship",
+        "Jane",
+        "friends",
+        "love"
+      ],
+      "verbs": [
+        "develop",
+        "flee",
+        "use",
+        "\u0027s"
+      ],
+      "traits": [
+        "unhappy",
+        "16yearold"
+      ],
+      "semanticRoles": [
+        "first struggler",
+        "question",
+        "fleer",
+        "entity afraid",
+        "User",
+        "creator of hole",
+        "place",
+        "accommodator"
+      ]
+    },
+    {
+      "characterName": "Angela",
+      "recipients": [
+        "room",
+        "bathroom",
+        "herself"
+      ],
+      "verbs": [
+        "storm",
+        "excuse"
+      ],
+      "traits": [
+        "aggressive",
+        "distraught"
+      ],
+      "semanticRoles": [
+        "thing impressed",
+        "thing found",
+        "speaker",
+        "asker",
+        "excuser"
+      ]
+    },
+    {
+      "characterName": "Ricky",
+      "recipients": [
+        "footage",
+        "what",
+        "home",
+        "Jane",
+        "house"
+      ],
+      "verbs": [
+        "film",
+        "consider",
+        "return",
+        "ask",
+        "rush"
+      ],
+      "traits": [
+        "gay"
+      ],
+      "semanticRoles": [
+        "recorder",
+        "thinker",
+        "thing brought",
+        "thing thrown",
+        "Urger",
+        "causer of motion",
+        "asker",
+        "place",
+        "accommodator"
+      ]
+    },
+    {
+      "characterName": "I",
+      "recipients": [
+        "death",
+        "moment",
+        "anything",
+        "idea"
+      ],
+      "verbs": [
+        "see",
+        "feel",
+        "talk"
+      ],
+      "traits": [
+        "sure"
+      ],
+      "semanticRoles": [
+        "guesser",
+        "feeler",
+        "agent",
+        "viewer",
+        "rememberer",
+        "thing causing relaxation",
+        "talker"
+      ]
+    }
+  ]
+}

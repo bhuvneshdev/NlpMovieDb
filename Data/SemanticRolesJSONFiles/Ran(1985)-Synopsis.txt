@@ -1,0 +1,4 @@
+{
+  "movieName": "Ran(1985)-Synopsis.txt",
+  "characters": []
+}

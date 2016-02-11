@@ -1,0 +1,140 @@
+{
+  "movieName": "IpMan(2008)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Man",
+      "recipients": [
+        "artist",
+        "profile",
+        "need",
+        "master"
+      ],
+      "verbs": [
+        "be",
+        "keep",
+        "feel",
+        "defeat"
+      ],
+      "traits": [
+        "unassuming",
+        "wealthy",
+        "independently"
+      ],
+      "semanticRoles": [
+        "thing set",
+        "Keeper",
+        "feeler",
+        "entity victorious"
+      ]
+    },
+    {
+      "characterName": "Ip",
+      "recipients": [
+        "wealth",
+        "house",
+        "work",
+        "match",
+        "Chow_Chingchuen",
+        "workers",
+        "Chun",
+        "men",
+        "arena",
+        "Jin_Shanzhao",
+        "Miura",
+        "crowd",
+        "school"
+      ],
+      "verbs": [
+        "lose",
+        "move",
+        "accept",
+        "demand",
+        "visit",
+        "train",
+        "send",
+        "return",
+        "incapacitate",
+        "teach",
+        "appear",
+        "hear",
+        "look",
+        "establish"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity respected",
+        "mover",
+        "impelled agent",
+        "acceptor",
+        "asker",
+        "one party",
+        "Utterance",
+        "trainer",
+        "thing found",
+        "sender",
+        "disabler",
+        "teacher",
+        "entity victorious",
+        "looker",
+        "projectile",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Miura",
+      "recipients": [
+        "master",
+        "arena",
+        "Ip",
+        "Miura",
+        "child",
+        "wife"
+      ],
+      "verbs": [
+        "be",
+        "establish",
+        "learn",
+        "tell",
+        "use",
+        "spot"
+      ],
+      "traits": [
+        "Japanese",
+        "Chinese"
+      ],
+      "semanticRoles": [
+        "agent",
+        "Agent / entity seeking",
+        "viewer",
+        "student",
+        "[causer of growth - should be possible]",
+        "Speaker",
+        "thing used",
+        "User",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Li_Zhao",
+      "recipients": [
+        "offer",
+        "artists",
+        "scuffle",
+        "Sato",
+        "Hong_Kong"
+      ],
+      "verbs": [
+        "make",
+        "kill",
+        "survive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "creator",
+        "killer",
+        "survivor",
+        "entity escaping"
+      ]
+    }
+  ]
+}

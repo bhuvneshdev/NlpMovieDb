@@ -1,0 +1,202 @@
+{
+  "movieName": "DieHard(1988)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Holly_Bonnie_Bedelia",
+      "recipients": [
+        "party",
+        "building",
+        "limo"
+      ],
+      "verbs": [
+        "attend",
+        "leave",
+        "take"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing attending",
+        "thing dragged",
+        "entity leaving",
+        "entity damaged"
+      ]
+    },
+    {
+      "characterName": "John_McClane",
+      "recipients": [
+        "Los_Angeles",
+        "reunion",
+        "reconciliation",
+        "himself",
+        "flight",
+        "Gruber",
+        "police",
+        "radio",
+        "gun",
+        "Tony",
+        "Godunov",
+        "quantity",
+        "corpse",
+        "vehicle",
+        "attention",
+        "Powell",
+        "detonators",
+        "watch",
+        "death",
+        "fall",
+        "building",
+        "limo"
+      ],
+      "verbs": [
+        "arrive",
+        "attempt",
+        "refresh",
+        "stop",
+        "alert",
+        "use",
+        "kill",
+        "secure",
+        "get",
+        "return",
+        "unstrap",
+        "let",
+        "leave",
+        "fire",
+        "take"
+      ],
+      "traits": [
+        "able",
+        "unable"
+      ],
+      "semanticRoles": [
+        "student",
+        "causal agent",
+        "giver",
+        "entity refusing",
+        "entity giving warning",
+        "thing found",
+        "User",
+        "killer",
+        "agent",
+        "receiver",
+        "entity contacted",
+        "causer of continuation",
+        "Keeper",
+        "achiever",
+        "projectile",
+        "fleer",
+        "Theme (action or object being prevented)",
+        "allower",
+        "entity leaving",
+        "entity damaged",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "desk",
+        "attention",
+        "raid",
+        "roof",
+        "hostages",
+        "confusion"
+      ],
+      "verbs": [
+        "arrive",
+        "divert",
+        "plan",
+        "force",
+        "escape"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Stimulusr of turning",
+        "planner",
+        "forcer",
+        "entity escaping"
+      ]
+    },
+    {
+      "characterName": "Hans_Gruber_Alan_Rickman",
+      "recipients": [
+        "situation",
+        "henchmen",
+        "radio",
+        "Ellis",
+        "trust",
+        "McClane",
+        "predictability",
+        "detonators",
+        "newscast",
+        "hostage",
+        "wristwatch"
+      ],
+      "verbs": [
+        "use",
+        "send",
+        "kill",
+        "gain",
+        "shoot",
+        "plan",
+        "discover",
+        "hold",
+        "hang"
+      ],
+      "traits": [
+        "anarchist"
+      ],
+      "semanticRoles": [
+        "User",
+        "action being stopped",
+        "sender",
+        "impelled agent",
+        "killer",
+        "achiever",
+        "agent",
+        "shooter",
+        "planner",
+        "finder",
+        "holder",
+        "lulled entity",
+        "injured party",
+        "manager"
+      ]
+    },
+    {
+      "characterName": "Al_Powell_Reginald_VelJohnson",
+      "recipients": [
+        "building",
+        "superiors",
+        "team",
+        "time",
+        "Holly",
+        "McClane",
+        "Powell"
+      ],
+      "verbs": [
+        "check",
+        "convince",
+        "stop",
+        "face",
+        "harm",
+        "draw",
+        "McClane"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "driver",
+        "finder",
+        "checker",
+        "convincer",
+        "thing gotten",
+        "looker",
+        "speaker",
+        "artist",
+        "shooter",
+        "agent",
+        "art"
+      ]
+    }
+  ]
+}

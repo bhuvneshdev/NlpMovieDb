@@ -1,0 +1,4 @@
+{
+  "movieName": "LaDolceVita(1960)-Synopsis.txt",
+  "characters": []
+}

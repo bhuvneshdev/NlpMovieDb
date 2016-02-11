@@ -1,0 +1,380 @@
+{
+  "movieName": "DasBoot(1981)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "you",
+      "recipients": [
+        "rest",
+        "shot",
+        "time",
+        "others",
+        "lieutenant",
+        "corpses"
+      ],
+      "verbs": [
+        "meet",
+        "get",
+        "learn",
+        "see"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "achiever",
+        "receiver",
+        "student",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "officers",
+      "recipients": [
+        "bunch",
+        "engineer",
+        "Chief",
+        "beds",
+        "Johann",
+        "treatment"
+      ],
+      "verbs": [
+        "be",
+        "meet",
+        "secondincommand",
+        "share",
+        "get",
+        "take"
+      ],
+      "traits": [
+        "higher",
+        "other",
+        "able",
+        "sullen",
+        "annoyed"
+      ],
+      "semanticRoles": [
+        "harassed",
+        "achiever",
+        "sharer",
+        "receiver",
+        "thing"
+      ]
+    },
+    {
+      "characterName": "Thomsen",
+      "recipients": [
+        "commendation",
+        "bathroom",
+        "speech"
+      ],
+      "verbs": [
+        "receive",
+        "pass",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing found",
+        "legislative body",
+        "thing gotten",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Captain",
+      "recipients": [
+        "Thomsen",
+        "podium",
+        "love",
+        "chagrin",
+        "gear",
+        "sub",
+        "destroyer",
+        "Captain",
+        "Lt",
+        "apology",
+        "midst",
+        "telegram",
+        "headquarters",
+        "situation",
+        "everything",
+        "recklessness",
+        "try",
+        "chance",
+        "port"
+      ],
+      "verbs": [
+        "find",
+        "get",
+        "have",
+        "take",
+        "kick",
+        "see",
+        "evade",
+        "shoot",
+        "arrange",
+        "accept",
+        "send",
+        "receive",
+        "head",
+        "assess",
+        "do",
+        "despair",
+        "give",
+        "escape"
+      ],
+      "traits": [
+        "much",
+        "Captain",
+        "martial",
+        "hesitant",
+        "short",
+        "dead"
+      ],
+      "semanticRoles": [
+        "looker",
+        "entity being introduced",
+        "finder",
+        "receiver",
+        "manager",
+        "builder",
+        "viewer",
+        "decider",
+        "Sayer",
+        "kicker",
+        "noter",
+        "causal agent",
+        "avoider",
+        "mover",
+        "shooter",
+        "projectile",
+        "experiencer",
+        "knower",
+        "insister",
+        "appealed to",
+        "sender",
+        "acceptor",
+        "sent",
+        "hoper",
+        "target",
+        "leader",
+        "assessor",
+        "needer",
+        "operator",
+        "Agent/Entity Trying",
+        "blamer",
+        "giver",
+        "entity making resolution",
+        "Agent",
+        "creator",
+        "entity escaping",
+        "alive entity",
+        "thing held"
+      ]
+    },
+    {
+      "characterName": "Werner",
+      "recipients": [
+        "officers",
+        "home",
+        "letters",
+        "pictures",
+        "himself",
+        "girlfriend",
+        "swoop",
+        "shelter",
+        "damage",
+        "Captain"
+      ],
+      "verbs": [
+        "be",
+        "write",
+        "snap",
+        "enjoy",
+        "take",
+        "make",
+        "survey",
+        "come",
+        "hold"
+      ],
+      "traits": [
+        "distressed",
+        "conflicted"
+      ],
+      "semanticRoles": [
+        "thing led",
+        "finder",
+        "agentive friend",
+        "speaker",
+        "agent of calming",
+        "enjoyer",
+        "wanter",
+        "agreer",
+        "thing denied",
+        "manager",
+        "creator",
+        "examiner",
+        "causer of collapse",
+        "looker",
+        "holder"
+      ]
+    },
+    {
+      "characterName": "Chief",
+      "recipients": [
+        "tour",
+        "bunch",
+        "situation",
+        "repairs",
+        "chance",
+        "try",
+        "swoop",
+        "shelter"
+      ],
+      "verbs": [
+        "look",
+        "replace",
+        "assess",
+        "start",
+        "continue",
+        "have",
+        "finish",
+        "give",
+        "make"
+      ],
+      "traits": [
+        "older",
+        "upset"
+      ],
+      "semanticRoles": [
+        "looker",
+        "thing denied",
+        "Sayer",
+        "replacer",
+        "dancer",
+        "assessor",
+        "Agent",
+        "causer of continuation",
+        "Intentional agent",
+        "giver",
+        "entity making resolution",
+        "manager",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "crew",
+      "recipients": [
+        "day",
+        "business",
+        "opportunity",
+        "officers",
+        "panic"
+      ],
+      "verbs": [
+        "go",
+        "leap",
+        "treat"
+      ],
+      "traits": [
+        "demoralised",
+        "able"
+      ],
+      "semanticRoles": [
+        "Intentional agent",
+        "viewer",
+        "assumer of attribute",
+        "entity exhausted",
+        "thing collapsing"
+      ]
+    },
+    {
+      "characterName": "sub",
+      "recipients": [
+        "transmission",
+        "depth",
+        "water",
+        "stock",
+        "diving",
+        "dive",
+        "rest",
+        "La_Rochelle"
+      ],
+      "verbs": [
+        "receive",
+        "start",
+        "hang",
+        "take",
+        "pull",
+        "come",
+        "limp"
+      ],
+      "traits": [
+        "safe",
+        "unable",
+        "entire"
+      ],
+      "semanticRoles": [
+        "diver",
+        "thing gotten",
+        "thing kicked",
+        "noticer",
+        "Agent",
+        "agent",
+        "place",
+        "thing hit",
+        "puller",
+        "causer",
+        "theme",
+        "limper",
+        "creation"
+      ]
+    },
+    {
+      "characterName": "orders",
+      "recipients": [
+        "Johann",
+        "post",
+        "job"
+      ],
+      "verbs": [
+        "Johann",
+        "finish"
+      ],
+      "traits": [
+        "Captain",
+        "grim"
+      ],
+      "semanticRoles": [
+        "supporter",
+        "Intentional agent",
+        "shooter",
+        "mover",
+        "thing given"
+      ]
+    },
+    {
+      "characterName": "Johann",
+      "recipients": [
+        "Johann",
+        "source",
+        "puddle",
+        "engines"
+      ],
+      "verbs": [
+        "lurch",
+        "find",
+        "dive",
+        "fire"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity moving",
+        "thing gotten",
+        "diver",
+        "finder",
+        "packer",
+        "shooter"
+      ]
+    }
+  ]
+}

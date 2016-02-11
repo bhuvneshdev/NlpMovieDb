@@ -1,0 +1,471 @@
+{
+  "movieName": "Up(2009)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Carl_Fredricksen_Jeremy_Leary",
+      "recipients": [
+        "reel",
+        "theater",
+        "street",
+        "tomboy",
+        "beam",
+        "arm",
+        "house",
+        "jobs",
+        "pact",
+        "fund",
+        "South_America",
+        "Ellie",
+        "promise",
+        "day",
+        "home",
+        "Russell_Jordan_Nagai",
+        "badge",
+        "worker",
+        "course",
+        "chair",
+        "Carl",
+        "balloons",
+        "who",
+        "mailman",
+        "pack",
+        "stories",
+        "flames",
+        "Kevin",
+        "Dug",
+        "Russell",
+        "respect",
+        "book",
+        "Falls",
+        "zeppelin",
+        "top",
+        "jump",
+        "death",
+        "loss",
+        "role",
+        "Paradise_Falls"
+      ],
+      "verbs": [
+        "watch",
+        "run",
+        "meet",
+        "fall",
+        "break",
+        "move",
+        "get",
+        "make",
+        "dig",
+        "surprise",
+        "fulfil",
+        "realize",
+        "remains",
+        "assist",
+        "hit",
+        "set",
+        "rest",
+        "let",
+        "release",
+        "nickname",
+        "describe",
+        "extinguish",
+        "ignore",
+        "yell",
+        "tell",
+        "lose",
+        "go",
+        "look",
+        "close",
+        "empty",
+        "follow",
+        "find",
+        "fetch",
+        "rescue",
+        "climb",
+        "hold",
+        "accept",
+        "take",
+        "fulfill",
+        "give",
+        "land"
+      ],
+      "traits": [
+        "elderly",
+        "shocked"
+      ],
+      "semanticRoles": [
+        "operator",
+        "legislative body",
+        "achiever",
+        "breaker",
+        "mover",
+        "receiver",
+        "finder",
+        "creator",
+        "digger",
+        "impelled agent",
+        "surpriser",
+        "decider",
+        "new knower",
+        "entity leaving",
+        "speaker",
+        "entity refusing",
+        "agent",
+        "thing found",
+        "action allowed",
+        "allower",
+        "entity descending",
+        "manager",
+        "Utterance",
+        "sleeper",
+        "releaser",
+        "namer",
+        "invited",
+        "viewer",
+        "object",
+        "describer",
+        "helper",
+        "agreer",
+        "ignorer",
+        "extinguisher",
+        "Speaker",
+        "Yeller",
+        "corpse",
+        "looker",
+        "person doing the closing",
+        "causal agent",
+        "bringer",
+        "rescuer",
+        "project",
+        "climber",
+        "holder",
+        "first struggler",
+        "person",
+        "acceptor",
+        "fulfiller",
+        "giver",
+        "thing sitting"
+      ]
+    },
+    {
+      "characterName": "Charles_Muntz_Christopher_Plummer",
+      "recipients": [
+        "Spirit",
+        "Carl",
+        "table",
+        "bird",
+        "lantern",
+        "Kevin",
+        "Russell",
+        "switch"
+      ],
+      "verbs": [
+        "invite",
+        "reveal",
+        "discover",
+        "throw",
+        "take",
+        "sit",
+        "flip",
+        "shoot"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing described",
+        "promiser",
+        "thing viewed",
+        "inviter",
+        "speaker",
+        "finder",
+        "thrower",
+        "entity leaving",
+        "flipper",
+        "confrontational entity",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "house",
+      "recipients": [
+        "Carl",
+        "Paradise_Falls"
+      ],
+      "verbs": [
+        "be",
+        "land"
+      ],
+      "traits": [
+        "old",
+        "rundown"
+      ],
+      "semanticRoles": [
+        "thing rising",
+        "thing removed",
+        "thing hit",
+        "thing set",
+        "thing landing",
+        "impelled action",
+        "thing released",
+        "entity descending",
+        "bringer"
+      ]
+    },
+    {
+      "characterName": "Ellie",
+      "recipients": [
+        "desire",
+        "move",
+        "room",
+        "book",
+        "children",
+        "Falls"
+      ],
+      "verbs": [
+        "express",
+        "sneak",
+        "show",
+        "have",
+        "see"
+      ],
+      "traits": [
+        "unable"
+      ],
+      "semanticRoles": [
+        "speaker",
+        "shower",
+        "entity sneaking",
+        "ripper",
+        "creator",
+        "person surprised",
+        "legislative body",
+        "receiver",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "Russell_Jordan_Nagai",
+      "recipients": [
+        "Carl",
+        "morning",
+        "bird",
+        "bathroom",
+        "creature",
+        "Kevin",
+        "Russell",
+        "pack",
+        "zeppelin",
+        "squadron",
+        "control",
+        "house",
+        "ceremony"
+      ],
+      "verbs": [
+        "tell",
+        "wake",
+        "lure",
+        "go",
+        "introduce",
+        "give",
+        "meet",
+        "adopt",
+        "sneak",
+        "fight",
+        "regain",
+        "help",
+        "land",
+        "attend"
+      ],
+      "traits": [
+        "snipe"
+      ],
+      "semanticRoles": [
+        "goal",
+        "receiver",
+        "Utterance",
+        "finder",
+        "entity removing",
+        "Speaker",
+        "alarm clock",
+        "attractor",
+        "entity making introduction",
+        "giver",
+        "person surprised",
+        "talker",
+        "thing tackled",
+        "new knower",
+        "achiever",
+        "adopter",
+        "operator",
+        "thing following",
+        "manager",
+        "thing gotten",
+        "entity sneaking",
+        "thing sitting",
+        "thing set",
+        "entity rescued",
+        "first fighter",
+        "recoverer",
+        "helper",
+        "bringer",
+        "thing carried",
+        "creator",
+        "thing attending",
+        "thing given"
+      ]
+    },
+    {
+      "characterName": "worker",
+      "recipients": [
+        "part",
+        "mailbox",
+        "home",
+        "day"
+      ],
+      "verbs": [
+        "break",
+        "move"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "breaker",
+        "thing hit",
+        "thing landing",
+        "mover",
+        "impelled agent",
+        "thing picked"
+      ]
+    },
+    {
+      "characterName": "they",
+      "recipients": [
+        "ground",
+        "Falls",
+        "falls",
+        "trail"
+      ],
+      "verbs": [
+        "hit",
+        "hold",
+        "standing",
+        "walk",
+        "sensitive",
+        "lose"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing hit",
+        "agent",
+        "manager",
+        "holder",
+        "causal agent",
+        "entity making resolution",
+        "walker"
+      ]
+    },
+    {
+      "characterName": "Kevin",
+      "recipients": [
+        "journey",
+        "silhouette",
+        "Kevin",
+        "Russell",
+        "point",
+        "babies",
+        "girl",
+        "home",
+        "house",
+        "window",
+        "chicks",
+        "shop",
+        "Carl"
+      ],
+      "verbs": [
+        "continue",
+        "approach",
+        "follow",
+        "tackle",
+        "dug",
+        "be",
+        "reenter",
+        "run",
+        "attempt",
+        "jump",
+        "sit"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing given",
+        "causer of continuation",
+        "operator",
+        "thing following",
+        "causal agent",
+        "viewer",
+        "entity in motion",
+        "tackler",
+        "digger",
+        "patient",
+        "entity escaping",
+        "entity entering",
+        "receiver",
+        "thing ignored",
+        "place",
+        "thing brought",
+        "creator",
+        "achiever"
+      ]
+    },
+    {
+      "characterName": "Dug",
+      "recipients": [
+        "master",
+        "dog",
+        "topside",
+        "house"
+      ],
+      "verbs": [
+        "call",
+        "be",
+        "meet",
+        "run"
+      ],
+      "traits": [
+        "outsmarted"
+      ],
+      "semanticRoles": [
+        "Sayer",
+        "sent",
+        "thing gotten",
+        "thing found",
+        "achiever",
+        "operator",
+        "thing carried",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "Lindo",
+      "recipients": [
+        "search",
+        "Dug",
+        "pinscher",
+        "master",
+        "Carl",
+        "Russell"
+      ],
+      "verbs": [
+        "continue",
+        "send",
+        "track",
+        "take"
+      ],
+      "traits": [
+        "vigilant"
+      ],
+      "semanticRoles": [
+        "causer of continuation",
+        "sender",
+        "thing following",
+        "picker"
+      ]
+    }
+  ]
+}

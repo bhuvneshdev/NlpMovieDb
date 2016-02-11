@@ -1,0 +1,95 @@
+{
+  "movieName": "MemoriesofMurder(2003)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Park_Dooman",
+      "recipients": [
+        "whom",
+        "Seo",
+        "scene"
+      ],
+      "verbs": [
+        "threaten",
+        "stop",
+        "visit"
+      ],
+      "traits": [
+        "Local",
+        "suspect",
+        "nonexistent"
+      ],
+      "semanticRoles": [
+        "agent",
+        "one party",
+        "asker",
+        "entity experiencing confusion"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "thing",
+        "look",
+        "girl",
+        "killer"
+      ],
+      "verbs": [
+        "do",
+        "take",
+        "say",
+        "be"
+      ],
+      "traits": [
+        "local"
+      ],
+      "semanticRoles": [
+        "question",
+        "rememberer",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "detectives",
+      "recipients": [
+        "Taeyoon",
+        "anything"
+      ],
+      "verbs": [
+        "speak",
+        "pin"
+      ],
+      "traits": [
+        "unable"
+      ],
+      "semanticRoles": [
+        "talker",
+        "corpse",
+        "Agent/Entity Trying",
+        "agent",
+        "new knower"
+      ]
+    },
+    {
+      "characterName": "girl",
+      "recipients": [
+        "businessman",
+        "man"
+      ],
+      "verbs": [
+        "ask",
+        "interrupted"
+      ],
+      "traits": [
+        "little"
+      ],
+      "semanticRoles": [
+        "asker",
+        "interrupter",
+        "viewer",
+        "Sayer",
+        "replier",
+        "Utterance"
+      ]
+    }
+  ]
+}

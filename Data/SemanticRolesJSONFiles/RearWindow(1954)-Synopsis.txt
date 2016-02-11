@@ -1,0 +1,259 @@
+{
+  "movieName": "RearWindow(1954)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Jeff_Jeffries",
+      "recipients": [
+        "leg",
+        "apartment",
+        "time",
+        "mind",
+        "life",
+        "Girl",
+        "way",
+        "activity",
+        "yard",
+        "window",
+        "wheelchair",
+        "200am",
+        "wife",
+        "rain",
+        "kitchen",
+        "knife",
+        "crate",
+        "Thomas_J",
+        "word",
+        "photography",
+        "Jeffries",
+        "roam",
+        "look",
+        "Thorwald",
+        "terror",
+        "hands",
+        "friend",
+        "door",
+        "slam",
+        "box",
+        "police",
+        "detective",
+        "Lisa",
+        "magazine"
+      ],
+      "verbs": [
+        "recuperate",
+        "life",
+        "spend",
+        "get",
+        "offer",
+        "see",
+        "notice",
+        "doze",
+        "look",
+        "go",
+        "clean",
+        "tie",
+        "call",
+        "believe",
+        "stick",
+        "tell",
+        "let",
+        "have",
+        "watch",
+        "hear",
+        "trap",
+        "grab",
+        "fumble",
+        "stop",
+        "sleep",
+        "pull"
+      ],
+      "traits": [
+        "ready",
+        "more",
+        "late"
+      ],
+      "semanticRoles": [
+        "alive entity",
+        "viewer",
+        "other party",
+        "yelled at",
+        "receiver",
+        "Thinker",
+        "replier",
+        "wanter",
+        "question",
+        "noticer",
+        "sleeper",
+        "looker",
+        "puller",
+        "cleaner",
+        "agent",
+        "Speaker",
+        "Utterance",
+        "causal agent",
+        "decider",
+        "allower",
+        "suspecter",
+        "object accompanied",
+        "thing gotten",
+        "goal",
+        "place",
+        "trapper",
+        "grabber",
+        "Sayer",
+        "action being stopped",
+        "entity in motion",
+        "Keeper",
+        "thing pushed"
+      ]
+    },
+    {
+      "characterName": "Jeffries_Stella",
+      "recipients": [
+        "trouble",
+        "truck",
+        "name",
+        "digging",
+        "cash"
+      ],
+      "verbs": [
+        "smell",
+        "miss",
+        "catch",
+        "grab",
+        "take"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity with a nose",
+        "Speaker",
+        "Sayer",
+        "entity leaving",
+        "receiver",
+        "misser",
+        "operator",
+        "grabber"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "crate",
+        "thing",
+        "name"
+      ],
+      "verbs": [
+        "haul",
+        "think",
+        "check"
+      ],
+      "traits": [
+        "crate"
+      ],
+      "semanticRoles": [
+        "carrier",
+        "Thinker",
+        "checker",
+        "viewer",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Thorwald",
+      "recipients": [
+        "country",
+        "something",
+        "Thorwald",
+        "street",
+        "Jeffries",
+        "stairs",
+        "way",
+        "ring",
+        "dark",
+        "murder"
+      ],
+      "verbs": [
+        "be",
+        "bury",
+        "find",
+        "meet",
+        "come",
+        "talk",
+        "grab",
+        "\u0027s",
+        "stand",
+        "confess"
+      ],
+      "traits": [
+        "guilty"
+      ],
+      "semanticRoles": [
+        "burier",
+        "thing found",
+        "finder",
+        "Utterance",
+        "achiever",
+        "entity leaving",
+        "beginner",
+        "grabber",
+        "talker",
+        "Agent/Entity Trying",
+        "causal agent",
+        "blind one",
+        "action being stopped",
+        "thing pulled",
+        "speaker"
+      ]
+    },
+    {
+      "characterName": "Lisa",
+      "recipients": [
+        "note",
+        "apartment",
+        "woman",
+        "digging",
+        "nothing",
+        "escape",
+        "window",
+        "Lisa",
+        "Jeffries",
+        "Mrs",
+        "fall"
+      ],
+      "verbs": [
+        "deliver",
+        "return",
+        "be",
+        "grab",
+        "find",
+        "climb",
+        "squeeze",
+        "hold",
+        "point",
+        "break",
+        "smile"
+      ],
+      "traits": [
+        "trapped",
+        "arrest"
+      ],
+      "semanticRoles": [
+        "decider",
+        "sender",
+        "finder",
+        "grabber",
+        "squeezer",
+        "climber",
+        "thing held",
+        "holder",
+        "money",
+        "pointer",
+        "thing gotten",
+        "thing viewed",
+        "breaker",
+        "causal agent",
+        "agent smiling"
+      ]
+    }
+  ]
+}

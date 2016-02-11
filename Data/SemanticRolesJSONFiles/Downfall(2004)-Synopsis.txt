@@ -1,0 +1,534 @@
+{
+  "movieName": "Downfall(2004)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Junge",
+      "recipients": [
+        "will"
+      ],
+      "verbs": [
+        "write"
+      ],
+      "traits": [
+        "angry",
+        "hard",
+        "possible",
+        "young",
+        "aware"
+      ],
+      "semanticRoles": [
+        "feeler",
+        "abandoner",
+        "thing needed"
+      ]
+    },
+    {
+      "characterName": "Traudl_Junge",
+      "recipients": [
+        "East_Prussia",
+        "Lair",
+        "woman",
+        "secretary",
+        "Gerda",
+        "walk",
+        "entrance",
+        "Hitler",
+        "WWI",
+        "end"
+      ],
+      "verbs": [
+        "arrive",
+        "be",
+        "tell",
+        "talk",
+        "report",
+        "typing"
+      ],
+      "traits": [
+        "real"
+      ],
+      "semanticRoles": [
+        "talker",
+        "entity awake",
+        "discussant",
+        "Speaker",
+        "informed",
+        "Utterance",
+        "entity refusing",
+        "Reporter",
+        "writer",
+        "thing given",
+        "first thing being tied"
+      ]
+    },
+    {
+      "characterName": "Hitler",
+      "recipients": [
+        "office",
+        "Generals",
+        "Berlin",
+        "Reich",
+        "city",
+        "room",
+        "plea",
+        "Alfred_Jowl",
+        "divisions",
+        "way",
+        "Traudl",
+        "what",
+        "ways",
+        "command",
+        "anything",
+        "message",
+        "people",
+        "everyone",
+        "Speer",
+        "handshake",
+        "von_Greim",
+        "Chief",
+        "dinner",
+        "report",
+        "meeting",
+        "Hitler",
+        "Junge",
+        "ceremony",
+        "Eva",
+        "Wenck",
+        "meal",
+        "goodbye",
+        "suicide"
+      ],
+      "verbs": [
+        "emerge",
+        "ask",
+        "storm",
+        "remains",
+        "take",
+        "leave",
+        "enter",
+        "lose",
+        "refuse",
+        "order",
+        "make",
+        "tell",
+        "leaf",
+        "discuss",
+        "do",
+        "receive",
+        "spare",
+        "reject",
+        "appoint",
+        "have",
+        "need",
+        "marry",
+        "inform",
+        "wish",
+        "Eva",
+        "commit"
+      ],
+      "traits": [
+        "furious",
+        "ruthless",
+        "dead"
+      ],
+      "semanticRoles": [
+        "thing exiting",
+        "informed",
+        "asker",
+        "thing given",
+        "Yeller",
+        "entity leaving",
+        "impelled agent",
+        "entity entering",
+        "thing greeted",
+        "entity refusing",
+        "appealed to",
+        "Utterance",
+        "announcer",
+        "forcer",
+        "creator",
+        "liker",
+        "Speaker",
+        "giver",
+        "discussant",
+        "wisher",
+        "savior",
+        "rejecter",
+        "appointer",
+        "entity escaping",
+        "thing denied",
+        "hoper",
+        "needer",
+        "causer",
+        "informer",
+        "agent or causer",
+        "causal agent",
+        "retiree"
+      ]
+    },
+    {
+      "characterName": "Generals",
+      "recipients": [
+        "Hitler",
+        "Krebs"
+      ],
+      "verbs": [
+        "inform",
+        "tell"
+      ],
+      "traits": [
+        "Russian"
+      ],
+      "semanticRoles": [
+        "question",
+        "informer",
+        "receiver",
+        "causer of emptiness",
+        "one surrendering",
+        "discussant",
+        "informed",
+        "Speaker",
+        "thing given"
+      ]
+    },
+    {
+      "characterName": "Burgdorf",
+      "recipients": [
+        "phone",
+        "Hitler",
+        "news"
+      ],
+      "verbs": [
+        "give",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "knower",
+        "giver",
+        "informed",
+        "Utterance",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Hermann_Fegelein",
+      "recipients": [
+        "Heinrich_Himmler",
+        "party",
+        "sisterinlaw",
+        "Eva",
+        "Braun",
+        "Traudl",
+        "bunker"
+      ],
+      "verbs": [
+        "inform",
+        "speak",
+        "grab",
+        "beg",
+        "plead",
+        "report",
+        "left"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "informer",
+        "viewer",
+        "talker",
+        "Utterance",
+        "begger",
+        "grabber",
+        "entity leaving",
+        "Reporter",
+        "thing found",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Heinrich_Himmler",
+      "recipients": [
+        "Hitler",
+        "Fegelein",
+        "Berlin",
+        "surrender"
+      ],
+      "verbs": [
+        "beg",
+        "tell",
+        "take",
+        "offer"
+      ],
+      "traits": [
+        "general"
+      ],
+      "semanticRoles": [
+        "informed",
+        "Sayer",
+        "begger",
+        "Speaker",
+        "betrayed",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Braun",
+      "recipients": [
+        "Hitler",
+        "abuses",
+        "Shepard"
+      ],
+      "verbs": [
+        "convince",
+        "hate"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "convincer",
+        "entity refusing",
+        "appealed to",
+        "experiencer",
+        "promiser",
+        "creator",
+        "Agent/Entity Trying"
+      ]
+    },
+    {
+      "characterName": "Schenck",
+      "recipients": [
+        "call",
+        "group",
+        "mens",
+        "bunker",
+        "women",
+        "building"
+      ],
+      "verbs": [
+        "receive",
+        "discover",
+        "run",
+        "spare",
+        "arrive",
+        "inform",
+        "hide"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "speaker",
+        "finder",
+        "operator",
+        "begger",
+        "savior",
+        "entity leaving",
+        "impelled agent",
+        "informer",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "Albert_Speer",
+      "recipients": [
+        "time",
+        "Speer",
+        "bunker",
+        "goodbyes",
+        "Hitler"
+      ],
+      "verbs": [
+        "arrive",
+        "back",
+        "say",
+        "inform",
+        "defy"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "talker",
+        "supporter",
+        "thing being supported",
+        "thing burning",
+        "Speaker",
+        "achiever",
+        "Sayer",
+        "begger",
+        "ignorer",
+        "defiant one",
+        "informer",
+        "entity leaving",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "group",
+        "arm",
+        "Peter",
+        "soldiers"
+      ],
+      "verbs": [
+        "walk",
+        "miss",
+        "tell"
+      ],
+      "traits": [
+        "older"
+      ],
+      "semanticRoles": [
+        "misser",
+        "item being labelled",
+        "walker",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Peter",
+      "recipients": [
+        "oath",
+        "Fhrer",
+        "unit",
+        "home",
+        "Traudl"
+      ],
+      "verbs": [
+        "swear",
+        "left",
+        "make",
+        "join"
+      ],
+      "traits": [
+        "young",
+        "able",
+        "orphaned"
+      ],
+      "semanticRoles": [
+        "Utterance",
+        "swearer",
+        "first fighter",
+        "operator",
+        "theme",
+        "entity leaving",
+        "creator",
+        "fleer",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Mohnke",
+      "recipients": [
+        "evacuation",
+        "supplies",
+        "bunker",
+        "them"
+      ],
+      "verbs": [
+        "request",
+        "collect",
+        "bring"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "bringer",
+        "agent",
+        "forcer",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Eva_Braun",
+      "recipients": [
+        "party",
+        "walk",
+        "entrance",
+        "end",
+        "Traudl",
+        "room"
+      ],
+      "verbs": [
+        "have",
+        "talk",
+        "give",
+        "Eva"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity grabbed",
+        "talker",
+        "thing given",
+        "one half",
+        "creator",
+        "giver",
+        "retiree"
+      ]
+    },
+    {
+      "characterName": "Helmuth_Weidling",
+      "recipients": [
+        "accusations",
+        "bunker"
+      ],
+      "verbs": [
+        "deny",
+        "report",
+        "arrive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "accused",
+        "Reporter",
+        "impelled agent",
+        "denier",
+        "projectile",
+        "announcer"
+      ]
+    },
+    {
+      "characterName": "Hans_Krebs",
+      "recipients": [
+        "Krebs",
+        "Weildling",
+        "Hitler",
+        "room",
+        "meeting"
+      ],
+      "verbs": [
+        "inform",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "informer",
+        "informed",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "Joseph_Goebbels",
+      "recipients": [
+        "bunker",
+        "letters",
+        "her",
+        "time",
+        "generals",
+        "suicide"
+      ],
+      "verbs": [
+        "arrive",
+        "write",
+        "inform",
+        "attempt",
+        "give",
+        "commit"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "considerer",
+        "informer",
+        "giver",
+        "causal agent"
+      ]
+    }
+  ]
+}

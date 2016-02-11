@@ -1,0 +1,219 @@
+{
+  "movieName": "Goodfellas(1990)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Henry_Hill",
+      "recipients": [
+        "car",
+        "noise",
+        "source",
+        "gangsters",
+        "court",
+        "trust",
+        "cut",
+        "love",
+        "corpse",
+        "mistress",
+        "Karen",
+        "home",
+        "meantime",
+        "Florida",
+        "deadbeat",
+        "connection",
+        "drugs",
+        "Jimmy",
+        "Tommy",
+        "operation",
+        "Cicero",
+        "driveway",
+        "Program",
+        "nobody",
+        "life",
+        "us"
+      ],
+      "verbs": [
+        "be",
+        "hear",
+        "open",
+        "idolize",
+        "go",
+        "give",
+        "meet",
+        "bury",
+        "have",
+        "subdue",
+        "return",
+        "find",
+        "deal",
+        "involve",
+        "ignore",
+        "take",
+        "back",
+        "enter",
+        "tell"
+      ],
+      "traits": [
+        "young",
+        "halfIrish",
+        "worth"
+      ],
+      "semanticRoles": [
+        "opener",
+        "thrower",
+        "admirer",
+        "theme",
+        "criminal",
+        "thing given",
+        "thing greeted",
+        "conspirator",
+        "thief",
+        "giver",
+        "knower",
+        "achiever",
+        "causer",
+        "thing gotten",
+        "burier",
+        "entity confronted",
+        "alarm clock",
+        "defeater",
+        "screamer",
+        "other party",
+        "Utterance",
+        "finder",
+        "dealer",
+        "ignorer",
+        "Seller",
+        "organizer",
+        "supporter",
+        "thing broken",
+        "place",
+        "breaker",
+        "thing abandoned",
+        "signified",
+        "decider",
+        "entity entering",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Tommy",
+      "recipients": [
+        "times",
+        "man",
+        "Tuddy",
+        "need",
+        "temper",
+        "gun",
+        "Spider"
+      ],
+      "verbs": [
+        "stab",
+        "tell",
+        "have",
+        "draw",
+        "shoot"
+      ],
+      "traits": [
+        "young"
+      ],
+      "semanticRoles": [
+        "stabber",
+        "Thing Sold",
+        "Speaker",
+        "agent",
+        "conspirator",
+        "thief",
+        "artist",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Paulie_Cicero",
+      "recipients": [
+        "Karen",
+        "Henry",
+        "rest",
+        "prison"
+      ],
+      "verbs": [
+        "convince",
+        "warn",
+        "abandon",
+        "spend"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "convincer",
+        "thing ignored",
+        "abandoner"
+      ]
+    },
+    {
+      "characterName": "Jimmy_Conway",
+      "recipients": [
+        "career",
+        "help",
+        "reward",
+        "Conway",
+        "point",
+        "Spider",
+        "corpse",
+        "rest",
+        "prison"
+      ],
+      "verbs": [
+        "cultivate",
+        "give",
+        "humiliate",
+        "bury",
+        "spend",
+        "die"
+      ],
+      "traits": [
+        "indifferent",
+        "angry",
+        "eligible"
+      ],
+      "semanticRoles": [
+        "grower",
+        "giver",
+        "thing given",
+        "lover",
+        "projectile",
+        "Stimulusr of humiliation",
+        "burier",
+        "beginner",
+        "[causer of growth - should be possible]"
+      ]
+    },
+    {
+      "characterName": "Karen",
+      "recipients": [
+        "Henry",
+        "gun",
+        "husband",
+        "jail"
+      ],
+      "verbs": [
+        "confront",
+        "lower",
+        "bail"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing turning",
+        "feeler",
+        "causer",
+        "finder",
+        "confrontational entity",
+        "entity subdued",
+        "entity moving something downward",
+        "impelled agent",
+        "abadoner",
+        "admitter",
+        "breaker"
+      ]
+    }
+  ]
+}

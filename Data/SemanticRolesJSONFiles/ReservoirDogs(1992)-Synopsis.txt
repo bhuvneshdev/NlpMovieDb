@@ -1,0 +1,316 @@
+{
+  "movieName": "ReservoirDogs(1992)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Joe_Cabot",
+      "recipients": [
+        "Mr",
+        "heist",
+        "job",
+        "warehouse",
+        "Eddie",
+        "Eddie_Eddie",
+        "aliases",
+        "control",
+        "friend",
+        "times",
+        "policeman"
+      ],
+      "verbs": [
+        "offer",
+        "put",
+        "arrange",
+        "meet",
+        "tell",
+        "give",
+        "regain",
+        "be",
+        "shoot"
+      ],
+      "traits": [
+        "elderly"
+      ],
+      "semanticRoles": [
+        "achiever",
+        "builder",
+        "thing gotten",
+        "goal",
+        "Utterance",
+        "Speaker",
+        "giver",
+        "recoverer",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "White",
+      "recipients": [
+        "book",
+        "White",
+        "time",
+        "Orange",
+        "room",
+        "Mr",
+        "possibility",
+        "Blonde",
+        "policeman",
+        "present",
+        "demand",
+        "friend",
+        "gun",
+        "head"
+      ],
+      "verbs": [
+        "grab",
+        "give",
+        "take",
+        "leaf",
+        "reveal",
+        "agree",
+        "chew",
+        "beat",
+        "defend",
+        "cradle",
+        "point"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "giver",
+        "grabber",
+        "entity refusing",
+        "thing given",
+        "appealed to",
+        "entity leaving",
+        "agreer",
+        "speaker",
+        "experiencer",
+        "chewer",
+        "agent",
+        "goal",
+        "Speaker",
+        "impelled agent",
+        "defender",
+        "Stimulusr of injury",
+        "pointer",
+        "beginner",
+        "thing destroyed"
+      ]
+    },
+    {
+      "characterName": "Pink",
+      "recipients": [
+        "tip",
+        "policy",
+        "fire",
+        "driver",
+        "which",
+        "policeman",
+        "present",
+        "demand",
+        "name",
+        "shootout",
+        "warehouse",
+        "cache"
+      ],
+      "verbs": [
+        "do",
+        "defend",
+        "open",
+        "drag",
+        "beat",
+        "complain",
+        "avoid",
+        "flee",
+        "take"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "defender",
+        "explainer",
+        "dragger",
+        "opener",
+        "thing hit",
+        "speaker",
+        "agent",
+        "protester",
+        "knower",
+        "complainer",
+        "avoider",
+        "fleer"
+      ]
+    },
+    {
+      "characterName": "Orange",
+      "recipients": [
+        "White",
+        "name",
+        "Marvin",
+        "point",
+        "warehouse",
+        "Cabot",
+        "story",
+        "friendship",
+        "foolproof",
+        "woman",
+        "himself"
+      ],
+      "verbs": [
+        "beg",
+        "tell",
+        "save",
+        "be",
+        "reassure",
+        "develop",
+        "shoot",
+        "defend"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "begger",
+        "Speaker",
+        "alarm clock",
+        "entity saving money",
+        "speaker",
+        "mover",
+        "causer of assurance",
+        "thing accepted",
+        "projectile",
+        "killer",
+        "shooter",
+        "claimer",
+        "corpse",
+        "defender",
+        "first struggler",
+        "accuser",
+        "Stimulusr of injury",
+        "theme",
+        "refused action or object"
+      ]
+    },
+    {
+      "characterName": "Blonde",
+      "recipients": [
+        "amp",
+        "men",
+        "dispute",
+        "himself",
+        "trunk",
+        "car",
+        "robbery",
+        "years",
+        "name",
+        "authorities",
+        "policeman",
+        "present",
+        "demand",
+        "Nash",
+        "rest",
+        "Marvin",
+        "Orange"
+      ],
+      "verbs": [
+        "act",
+        "watch",
+        "end",
+        "defend",
+        "tell",
+        "open",
+        "walk",
+        "serve",
+        "give",
+        "beat",
+        "question",
+        "dous",
+        "kill"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "player",
+        "Intentional agent",
+        "causer of movement",
+        "defender",
+        "food",
+        "Speaker",
+        "opener",
+        "walker",
+        "entity changing",
+        "worker",
+        "giver",
+        "entity refusing",
+        "agent",
+        "acceptor",
+        "asker",
+        "speaker",
+        "douser",
+        "killer"
+      ]
+    },
+    {
+      "characterName": "Eddie",
+      "recipients": [
+        "warehouse",
+        "heist",
+        "robbery",
+        "roles",
+        "car",
+        "story"
+      ],
+      "verbs": [
+        "arrive",
+        "take",
+        "discuss",
+        "escape",
+        "reveal"
+      ],
+      "traits": [
+        "furious"
+      ],
+      "semanticRoles": [
+        "Sayer",
+        "goal",
+        "thing gotten",
+        "Utterance",
+        "beginner",
+        "driver",
+        "discussant",
+        "entity escaping",
+        "speaker"
+      ]
+    },
+    {
+      "characterName": "Nash",
+      "recipients": [
+        "officer",
+        "Nash",
+        "gasoline",
+        "identity",
+        "beating",
+        "diamonds"
+      ],
+      "verbs": [
+        "be",
+        "release",
+        "light",
+        "reveal",
+        "resist",
+        "take"
+      ],
+      "traits": [
+        "ignorant"
+      ],
+      "semanticRoles": [
+        "question or thing in doubt",
+        "begger",
+        "releaser",
+        "thing released",
+        "thing doused",
+        "corpse",
+        "setter of fire",
+        "speaker",
+        "torturer",
+        "knower",
+        "resister"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1026 @@
+{
+  "movieName": "TheImitationGame(2014)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Alan_Turing",
+      "recipients": [
+        "something",
+        "person",
+        "humour",
+        "government",
+        "one",
+        "Commander",
+        "codes",
+        "puzzles",
+        "program",
+        "Enigma",
+        "us",
+        "work",
+        "Denniston",
+        "letter",
+        "Minister",
+        "duck",
+        "Knightley",
+        "messages",
+        "people",
+        "home",
+        "parents",
+        "narration",
+        "hut",
+        "stack",
+        "Christopher",
+        "day",
+        "loner",
+        "help",
+        "Hugh",
+        "apples",
+        "joke",
+        "Bletchley_Park",
+        "idea",
+        "machine",
+        "message",
+        "spy",
+        "quote",
+        "poofter",
+        "piece",
+        "Alan",
+        "himself",
+        "Peter",
+        "detective",
+        "test",
+        "code",
+        "girlfriend",
+        "Helen",
+        "love",
+        "time",
+        "letters",
+        "train",
+        "London",
+        "Menzies",
+        "intercepts",
+        "Joan",
+        "mathematician",
+        "voiceover",
+        "prison",
+        "attack",
+        "puzzle",
+        "lights"
+      ],
+      "verbs": [
+        "hide",
+        "be",
+        "seem",
+        "work",
+        "tell",
+        "consider",
+        "enjoy",
+        "know",
+        "mention",
+        "continue",
+        "complain",
+        "get",
+        "\u0027s",
+        "compare",
+        "decipher",
+        "go",
+        "convince",
+        "remove",
+        "sneak",
+        "reveal",
+        "talk",
+        "enter",
+        "need",
+        "see",
+        "bring",
+        "give",
+        "bonding",
+        "utilize",
+        "defend",
+        "decrypt",
+        "use",
+        "ask",
+        "interrogate",
+        "means",
+        "suggest",
+        "encrypt",
+        "wait",
+        "crack",
+        "have",
+        "call",
+        "rush",
+        "pour",
+        "stop",
+        "ride",
+        "encourage",
+        "say",
+        "calm",
+        "do",
+        "look",
+        "turn",
+        "kill"
+      ],
+      "traits": [
+        "dismissive",
+        "cold",
+        "reluctant",
+        "popular",
+        "schoolboy",
+        "able",
+        "rescued",
+        "different",
+        "awkward",
+        "concerned",
+        "fixated",
+        "adamant",
+        "arrogant",
+        "next",
+        "young",
+        "homosexual",
+        "older",
+        "shaky"
+      ],
+      "semanticRoles": [
+        "Sayer",
+        "person robbed",
+        "other party",
+        "thing found",
+        "replier",
+        "wanter",
+        "Speaker",
+        "talker",
+        "speaker",
+        "enjoyer",
+        "thinker",
+        "belief",
+        "knower",
+        "explainer",
+        "Agent/Entity Trying",
+        "allower",
+        "thing welcomed",
+        "invited",
+        "causer of continuation",
+        "complainer",
+        "needer",
+        "asker",
+        "receiver",
+        "shooter",
+        "question",
+        "thing picked",
+        "thing hit",
+        "entity making comparison",
+        "convincer",
+        "entity removing",
+        "climber",
+        "entity sneaking",
+        "entity entering",
+        "suspicion: what arg0 thinks",
+        "patient",
+        "thing greeted",
+        "Utterance",
+        "object of affection",
+        "project",
+        "viewer",
+        "bringer",
+        "giver",
+        "attacher",
+        "user",
+        "person surprised",
+        "defender",
+        "action being stopped",
+        "User",
+        "criminal",
+        "question or thing in doubt",
+        "thing interrupted",
+        "agent",
+        "entity proposing",
+        "admitter",
+        "Keeper",
+        "shower",
+        "scrambler",
+        "reader",
+        "noter",
+        "shaker",
+        "logical subject",
+        "thing followed",
+        "causer of motion",
+        "pointer",
+        "rider",
+        "threat",
+        "one cooperator",
+        "denier",
+        "agent of calming",
+        "entity becoming calm",
+        "noticed",
+        "thing held",
+        "Thought",
+        "looker",
+        "turner",
+        "killer"
+      ]
+    },
+    {
+      "characterName": "you",
+      "recipients": [
+        "things",
+        "me",
+        "control",
+        "strawberries"
+      ],
+      "verbs": [
+        "miss",
+        "interrupt",
+        "be",
+        "judge",
+        "like"
+      ],
+      "traits": [
+        "normal"
+      ],
+      "semanticRoles": [
+        "payer or buyer",
+        "listener",
+        "misser",
+        "interrupter",
+        "Thinker",
+        "thing mistaken",
+        "judge",
+        "causal agent",
+        "picker",
+        "knower",
+        "liker",
+        "speaker"
+      ]
+    },
+    {
+      "characterName": "I",
+      "recipients": [
+        "myself",
+        "control",
+        "things",
+        "What",
+        "time",
+        "Christopher",
+        "YOU",
+        "pollen"
+      ],
+      "verbs": [
+        "repeat",
+        "am",
+        "know",
+        "need",
+        "give",
+        "love",
+        "allergic"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "speaker",
+        "thing pausing",
+        "knower",
+        "needer",
+        "Thing finishing",
+        "giver",
+        "experiencer",
+        "asker",
+        "Speaker",
+        "Thinker"
+      ]
+    },
+    {
+      "characterName": "They",
+      "recipients": [
+        "Alan",
+        "positions",
+        "wires",
+        "messages",
+        "code",
+        "Christopher",
+        "Enigma"
+      ],
+      "verbs": [
+        "find",
+        "eliminate",
+        "run",
+        "crack",
+        "destroy",
+        "do"
+      ],
+      "traits": [
+        "suspicious"
+      ],
+      "semanticRoles": [
+        "finder",
+        "speaker",
+        "entity removing",
+        "operator",
+        "viewer",
+        "forcer",
+        "shaker",
+        "Agent/Entity Trying"
+      ]
+    },
+    {
+      "characterName": "Commander",
+      "recipients": [
+        "Alan",
+        "Commander",
+        "complaint"
+      ],
+      "verbs": [
+        "call",
+        "tell",
+        "take",
+        "fire"
+      ],
+      "traits": [
+        "political"
+      ],
+      "semanticRoles": [
+        "asker",
+        "speaker",
+        "Sayer",
+        "Utterance",
+        "thing being removed",
+        "Speaker",
+        "shower",
+        "gun/projectile",
+        "shooter",
+        "thing reminded about"
+      ]
+    },
+    {
+      "characterName": "it",
+      "recipients": [
+        "interview",
+        "heads",
+        "Germans",
+        "explicitly",
+        "Knightley"
+      ],
+      "verbs": [
+        "be",
+        "give",
+        "tell"
+      ],
+      "traits": [
+        "indecorous",
+        "risky"
+      ],
+      "semanticRoles": [
+        "alive entity",
+        "giver",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "everyone",
+      "recipients": [
+        "school",
+        "holiday",
+        "Alan"
+      ],
+      "verbs": [
+        "return",
+        "chase"
+      ],
+      "traits": [
+        "skeptical"
+      ],
+      "semanticRoles": [
+        "Thinker",
+        "follower",
+        "speaker",
+        "thing viewed"
+      ]
+    },
+    {
+      "characterName": "others",
+      "recipients": [
+        "hands",
+        "settings",
+        "scratch",
+        "Hugh"
+      ],
+      "verbs": [
+        "get",
+        "know",
+        "start",
+        "hold"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "knower",
+        "Agent",
+        "holder"
+      ]
+    },
+    {
+      "characterName": "messages",
+      "recipients": [
+        "air",
+        "problem",
+        "159"
+      ],
+      "verbs": [
+        "float",
+        "grab"
+      ],
+      "traits": [
+        "decode",
+        "cryptic",
+        "decrypted"
+      ],
+      "semanticRoles": [
+        "causative agent",
+        "grabber",
+        "first item in comparison",
+        "utterance",
+        "entity intercepted",
+        "liquid",
+        "message decoded",
+        "thing found",
+        "thing used",
+        "thing determined"
+      ]
+    },
+    {
+      "characterName": "machine",
+      "recipients": [
+        "machine",
+        "computer",
+        "results",
+        "possibilities",
+        "time"
+      ],
+      "verbs": [
+        "defeat",
+        "be",
+        "produce",
+        "process"
+      ],
+      "traits": [
+        "actual",
+        "useless",
+        "able"
+      ],
+      "semanticRoles": [
+        "construction",
+        "entity defeated",
+        "entity victorious",
+        "creator",
+        "defended",
+        "processor"
+      ]
+    },
+    {
+      "characterName": "Germans",
+      "recipients": [
+        "message",
+        "morning",
+        "M.",
+        "Germans",
+        "week",
+        "bottom",
+        "letters"
+      ],
+      "verbs": [
+        "refresh",
+        "send",
+        "choose"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "sender",
+        "sent",
+        "picker",
+        "impelled agent",
+        "thing given",
+        "suspecter"
+      ]
+    },
+    {
+      "characterName": "Hugh",
+      "recipients": [
+        "Alan",
+        "wrench",
+        "Alexander",
+        "Commander",
+        "minds",
+        "Helen",
+        "side",
+        "her",
+        "Denniston"
+      ],
+      "verbs": [
+        "visit",
+        "grab",
+        "tell",
+        "like",
+        "remind",
+        "`",
+        "approach",
+        "call"
+      ],
+      "traits": [
+        "able",
+        "frustrated"
+      ],
+      "semanticRoles": [
+        "Thinker",
+        "one party",
+        "thing held",
+        "grabber",
+        "Speaker",
+        "entity entering",
+        "liker",
+        "thing viewed",
+        "thing given",
+        "mocked",
+        "gun/projectile",
+        "asker",
+        "thing granted",
+        "cause",
+        "Utterance",
+        "Utterance (suggestion)",
+        "admired",
+        "Agent/Entity Trying"
+      ]
+    },
+    {
+      "characterName": "Stewart_Menzies",
+      "recipients": [
+        "Alan",
+        "spy",
+        "help",
+        "Knightley",
+        "messages",
+        "group"
+      ],
+      "verbs": [
+        "be",
+        "need",
+        "lie",
+        "use",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "admitter",
+        "needer",
+        "Sayer",
+        "agent",
+        "User",
+        "speaker"
+      ]
+    },
+    {
+      "characterName": "team",
+      "recipients": [
+        "break",
+        "Alan",
+        "Christopher",
+        "code",
+        "village",
+        "enthusiasts"
+      ],
+      "verbs": [
+        "take",
+        "help",
+        "wait",
+        "crack",
+        "crossword"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "wanter",
+        "helper",
+        "shaker"
+      ]
+    },
+    {
+      "characterName": "detective",
+      "recipients": [
+        "typewriter",
+        "records",
+        "police",
+        "spy",
+        "Detective",
+        "war",
+        "machine",
+        "Game"
+      ],
+      "verbs": [
+        "use",
+        "secure",
+        "hide",
+        "ask",
+        "do",
+        "\u0027s",
+        "play"
+      ],
+      "traits": [
+        "sure"
+      ],
+      "semanticRoles": [
+        "finder",
+        "knower",
+        "User",
+        "agent",
+        "action allowed",
+        "thing gotten",
+        "asker",
+        "Utterance",
+        "question",
+        "replier",
+        "player",
+        "person congratulated"
+      ]
+    },
+    {
+      "characterName": "Christopher",
+      "recipients": [
+        "Bannon",
+        "stop"
+      ],
+      "verbs": [
+        "tell",
+        "come"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Sayer",
+        "Speaker",
+        "sharer",
+        "thing gotten",
+        "operator",
+        "searcher"
+      ]
+    },
+    {
+      "characterName": "people",
+      "recipients": [
+        "members",
+        "thing"
+      ],
+      "verbs": [
+        "find",
+        "say"
+      ],
+      "traits": [
+        "very",
+        "innocent"
+      ],
+      "semanticRoles": [
+        "object",
+        "letter",
+        "finder",
+        "decider",
+        "talker",
+        "Sayer",
+        "thing burning",
+        "suspecter",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "Knightley",
+      "recipients": [
+        "room",
+        "puzzle",
+        "seat",
+        "war",
+        "code",
+        "luxury",
+        "woman",
+        "Alan",
+        "ass",
+        "equations",
+        "home",
+        "danger",
+        "Enigma",
+        "teacher",
+        "jail",
+        "work",
+        "what",
+        "morning",
+        "ticket",
+        "man"
+      ],
+      "verbs": [
+        "be",
+        "solve",
+        "take",
+        "win",
+        "break",
+        "have",
+        "\u0027s",
+        "tell",
+        "return",
+        "interrupt",
+        "keep",
+        "ask",
+        "want",
+        "buy",
+        "think"
+      ],
+      "traits": [
+        "necessary",
+        "glad"
+      ],
+      "semanticRoles": [
+        "claimer",
+        "Speaker",
+        "solver",
+        "Utterance",
+        "helper",
+        "breaker",
+        "winner",
+        "employee",
+        "Sayer",
+        "Agent/Entity Trying",
+        "interrupter",
+        "suspecter",
+        "thing gotten",
+        "thing used",
+        "witness",
+        "Keeper",
+        "asker",
+        "wanter",
+        "buyer",
+        "thing read (book)",
+        "Thinker"
+      ]
+    },
+    {
+      "characterName": "Joan",
+      "recipients": [
+        "what",
+        "everyone",
+        "Alan",
+        "home",
+        "talks",
+        "guise",
+        "Bletchley_Park",
+        "Christopher",
+        "train",
+        "London",
+        "prison",
+        "Bletchley"
+      ],
+      "verbs": [
+        "go",
+        "lie",
+        "come",
+        "arrive",
+        "talk",
+        "cheer",
+        "greet",
+        "bonding",
+        "ride",
+        "be",
+        "leave",
+        "visit",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "corpse",
+        "Utterance",
+        "thing kept",
+        "sharer",
+        "action allowed",
+        "impelled agent",
+        "knower",
+        "asker",
+        "shower",
+        "explainer",
+        "entity leaving",
+        "packer",
+        "talker",
+        "causer of cheer",
+        "Agent/Entity Trying",
+        "greeter",
+        "Sayer",
+        "attacher",
+        "dancer",
+        "new knower",
+        "rider",
+        "thing given",
+        "thing released",
+        "one party",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "brother",
+      "recipients": [
+        "war",
+        "teashop",
+        "help",
+        "Enigma"
+      ],
+      "verbs": [
+        "fight",
+        "meet",
+        "ask",
+        "break"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "first fighter",
+        "shower",
+        "decider",
+        "achiever",
+        "speaker",
+        "asker",
+        "breaker",
+        "corpse",
+        "thing gotten"
+      ]
+    },
+    {
+      "characterName": "Denniston",
+      "recipients": [
+        "Hugh",
+        "Alan",
+        "excuse"
+      ],
+      "verbs": [
+        "tell",
+        "put",
+        "look"
+      ],
+      "traits": [
+        "alert"
+      ],
+      "semanticRoles": [
+        "explainer",
+        "Sayer",
+        "Speaker",
+        "looker",
+        "apologist"
+      ]
+    },
+    {
+      "characterName": "Dance",
+      "recipients": [
+        "Dance",
+        "Alan"
+      ],
+      "verbs": [
+        "hang",
+        "stop"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "shooter",
+        "thing suspended",
+        "agent",
+        "receiver",
+        "Utterance",
+        "thing kept"
+      ]
+    },
+    {
+      "characterName": "teacher",
+      "recipients": [
+        "gibberish",
+        "Hugh",
+        "teacher"
+      ],
+      "verbs": [
+        "mock",
+        "inform"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "mocker",
+        "asker",
+        "wanter",
+        "informer",
+        "informed",
+        "Speaker",
+        "thing kept"
+      ]
+    },
+    {
+      "characterName": "John_Cairncross",
+      "recipients": [
+        "Alan",
+        "secret"
+      ],
+      "verbs": [
+        "talk",
+        "tell",
+        "threaten"
+      ],
+      "traits": [
+        "unaware"
+      ],
+      "semanticRoles": [
+        "talker",
+        "speaker",
+        "Speaker",
+        "agent",
+        "putter",
+        "receiver",
+        "thing used"
+      ]
+    },
+    {
+      "characterName": "Helen",
+      "recipients": [
+        "coworker",
+        "tower",
+        "messages",
+        "bar"
+      ],
+      "verbs": [
+        "have",
+        "intercept",
+        "go"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity in motion",
+        "agreer",
+        "thing assigned",
+        "speaker",
+        "interceptor",
+        "Sayer",
+        "[causer of growth - should be possible]",
+        "Thinker",
+        "question",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "bar",
+        "day",
+        "evidence",
+        "Enigma"
+      ],
+      "verbs": [
+        "go",
+        "decode",
+        "burn",
+        "crack"
+      ],
+      "traits": [
+        "homosexual"
+      ],
+      "semanticRoles": [
+        "putter",
+        "causer of transformation",
+        "pyromaniac",
+        "shaker",
+        "pretender",
+        "achiever",
+        "person convicted",
+        "criminal"
+      ]
+    },
+    {
+      "characterName": "ones",
+      "recipients": [
+        "M",
+        "weather",
+        "search",
+        "message",
+        "code",
+        "messages",
+        "decrypts",
+        "convoy",
+        "lives"
+      ],
+      "verbs": [
+        "realize",
+        "have",
+        "test",
+        "decode",
+        "crack",
+        "translate",
+        "attack",
+        "allow"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "new knower",
+        "examiner",
+        "causer of transformation",
+        "shaker",
+        "Utterance",
+        "thing positioned",
+        "attacker",
+        "allower",
+        "logical subject"
+      ]
+    }
+  ]
+}

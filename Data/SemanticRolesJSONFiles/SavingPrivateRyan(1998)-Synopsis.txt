@@ -1,0 +1,770 @@
+{
+  "movieName": "SavingPrivateRyan(1998)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "soldier",
+      "recipients": [
+        "ablaze",
+        "Danson",
+        "combat",
+        "Mellish",
+        "time",
+        "Upham",
+        "retreats",
+        "chest",
+        "Ryan"
+      ],
+      "verbs": [
+        "set",
+        "find",
+        "overpower",
+        "attack",
+        "corner",
+        "grab",
+        "shot"
+      ],
+      "traits": [
+        "Jewish",
+        "German",
+        "same"
+      ],
+      "semanticRoles": [
+        "agent",
+        "allower",
+        "Yeller",
+        "sender",
+        "finder",
+        "attacker",
+        "entity with more power",
+        "killer",
+        "monopolist",
+        "corpse",
+        "grabber",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "soldiers",
+      "recipients": [
+        "bunker",
+        "building",
+        "part",
+        "Germans",
+        "troops"
+      ],
+      "verbs": [
+        "jump",
+        "sit",
+        "flank",
+        "cut"
+      ],
+      "traits": [
+        "German",
+        "other",
+        "dead",
+        "American"
+      ],
+      "semanticRoles": [
+        "organization",
+        "pyromaniac",
+        "entity sucked in",
+        "corpse",
+        "things on the side",
+        "action allowed",
+        "intentional cutter"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "boats",
+        "surf",
+        "bunker",
+        "soldiers",
+        "German",
+        "brothers",
+        "attempt",
+        "runner",
+        "town",
+        "family",
+        "fire",
+        "command",
+        "combat",
+        "occupation",
+        "Upham",
+        "gear",
+        "life",
+        "weapons",
+        "Ryan"
+      ],
+      "verbs": [
+        "exit",
+        "jump",
+        "make",
+        "engage",
+        "execute",
+        "be",
+        "send",
+        "cross",
+        "come",
+        "trap",
+        "lose",
+        "die",
+        "guess",
+        "yell",
+        "bring",
+        "save",
+        "prepare",
+        "do"
+      ],
+      "traits": [
+        "other",
+        "few",
+        "German",
+        "unmoved",
+        "more",
+        "several"
+      ],
+      "semanticRoles": [
+        "departed entity",
+        "Utterance",
+        "scared entity",
+        "mover",
+        "thing hit",
+        "moved",
+        "thing kept",
+        "creator",
+        "causer of engagement",
+        "killer",
+        "first fighter",
+        "sender",
+        "crosser",
+        "trapper",
+        "attacker",
+        "guesser",
+        "Agent/Entity Trying",
+        "Yeller",
+        "bringer",
+        "goal",
+        "entity saving money",
+        "listener",
+        "agent",
+        "gun/projectile"
+      ]
+    },
+    {
+      "characterName": "fire",
+      "recipients": [
+        "number",
+        "Ted_Danson",
+        "Germans",
+        "halftrack",
+        "Jackson"
+      ],
+      "verbs": [
+        "strike",
+        "cut",
+        "hit"
+      ],
+      "traits": [
+        "incoming",
+        "cross"
+      ],
+      "semanticRoles": [
+        "animate",
+        "thing avoided",
+        "intentional cutter",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Miller",
+      "recipients": [
+        "sand",
+        "beach",
+        "sniper",
+        "bunker",
+        "men",
+        "sergeant",
+        "captain",
+        "name",
+        "agreement",
+        "Ryan",
+        "answer",
+        "nest",
+        "position",
+        "side",
+        "plan",
+        "bridge",
+        "Angels"
+      ],
+      "verbs": [
+        "crawl",
+        "stagger",
+        "have",
+        "move",
+        "ask",
+        "confirm",
+        "come",
+        "tell",
+        "spot",
+        "take",
+        "sit",
+        "outline",
+        "destroy",
+        "call",
+        "do"
+      ],
+      "traits": [
+        "stunned",
+        "skeptical",
+        "important",
+        "undecided"
+      ],
+      "semanticRoles": [
+        "agent",
+        "thing looked at or for or on",
+        "finder",
+        "mover",
+        "achiever",
+        "task required",
+        "agent or causer",
+        "understander",
+        "asker",
+        "entity refusing",
+        "Speaker",
+        "Utterance",
+        "student",
+        "confirmer",
+        "annoyer",
+        "talker",
+        "acceptor",
+        "thing given",
+        "decider",
+        "entity making resolution",
+        "nosy individual",
+        "speaker",
+        "describer",
+        "Sayer",
+        "question",
+        "projectile",
+        "layer"
+      ]
+    },
+    {
+      "characterName": "Ryan",
+      "recipients": [
+        "man",
+        "part",
+        "E",
+        "Pvt",
+        "incredulous",
+        "James_Frederick_Ryan",
+        "hearing",
+        "blast",
+        "answers",
+        "assignments",
+        "Horvath_Horvath",
+        "returns",
+        "composure",
+        "squad",
+        "teacher",
+        "Miller",
+        "brothers",
+        "Ryan",
+        "wife",
+        "story",
+        "Germans",
+        "surprise",
+        "bridge",
+        "tank",
+        "\u0027s",
+        "side",
+        "grave",
+        "wish",
+        "life"
+      ],
+      "verbs": [
+        "drag",
+        "be",
+        "find",
+        "have",
+        "lose",
+        "yell",
+        "give",
+        "recover",
+        "\u0027s",
+        "tell",
+        "remember",
+        "want",
+        "ask",
+        "take",
+        "stagger",
+        "retrieve",
+        "shoot",
+        "draw",
+        "rush",
+        "beckon",
+        "standing",
+        "live",
+        "lead"
+      ],
+      "traits": [
+        "burned",
+        "worthy"
+      ],
+      "semanticRoles": [
+        "surprised",
+        "dragger",
+        "thing brought",
+        "finder",
+        "thing found",
+        "Utterance",
+        "Yeller",
+        "thing assigned",
+        "relenter",
+        "giver",
+        "speaker",
+        "guard",
+        "entity leaving",
+        "thing destroyed",
+        "entity refusing",
+        "Sayer",
+        "Speaker",
+        "viewer",
+        "rememberer",
+        "Thinker",
+        "wanter",
+        "entity sneaking",
+        "new knower",
+        "asker",
+        "receiver",
+        "projectile",
+        "beginner",
+        "artist",
+        "shooter",
+        "causer of motion",
+        "summoned",
+        "summoner",
+        "causal agent",
+        "alive entity",
+        "hoper",
+        "leader"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "unit",
+        "man",
+        "gun",
+        "Upham",
+        "name",
+        "Miller"
+      ],
+      "verbs": [
+        "be",
+        "tell",
+        "a.",
+        "recognize",
+        "call",
+        "shot"
+      ],
+      "traits": [
+        "single",
+        "Corporal_Henderson",
+        "good"
+      ],
+      "semanticRoles": [
+        "thing dragged",
+        "corpse",
+        "thing hit",
+        "asker",
+        "breaker",
+        "Utterance",
+        "Speaker",
+        "action allowed",
+        "applauder",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "orders",
+      "recipients": [
+        "men",
+        "field",
+        "Reiben",
+        "formation"
+      ],
+      "verbs": [
+        "\u0027s",
+        "saw",
+        "shoot",
+        "fall"
+      ],
+      "traits": [
+        "new",
+        "current",
+        "Horvath"
+      ],
+      "semanticRoles": [
+        "thing given",
+        "viewer",
+        "helper",
+        "agent",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Daniel_Jackson_Barry_Pepper",
+      "recipients": [
+        "zone",
+        "men",
+        "tower",
+        "pile",
+        "position"
+      ],
+      "verbs": [
+        "run",
+        "take",
+        "identify",
+        "find",
+        "signal"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "operator",
+        "caller",
+        "finder",
+        "User",
+        "shower",
+        "thing found",
+        "thing hit"
+      ]
+    },
+    {
+      "characterName": "German",
+      "recipients": [
+        "graves",
+        "man",
+        "astonishment"
+      ],
+      "verbs": [
+        "dig",
+        "let"
+      ],
+      "traits": [
+        "few"
+      ],
+      "semanticRoles": [
+        "corpse",
+        "digger",
+        "allower",
+        "coverer"
+      ]
+    },
+    {
+      "characterName": "Adrian_Caparzo_Vin_Diesel",
+      "recipients": [
+        "knife",
+        "friend",
+        "father"
+      ],
+      "verbs": [
+        "find",
+        "give",
+        "send"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "giver",
+        "causer of movement",
+        "thing pulled",
+        "sender",
+        "wanter"
+      ]
+    },
+    {
+      "characterName": "Horvath",
+      "recipients": [
+        "nest",
+        "time",
+        "minutes"
+      ],
+      "verbs": [
+        "spot",
+        "corner",
+        "die"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "talker",
+        "finder",
+        "decider",
+        "helper",
+        "monopolist",
+        "injured party",
+        "patient",
+        "puller",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Upham_Jeremy_Davies",
+      "recipients": [
+        "Mellish",
+        "captain",
+        "agreement",
+        "men",
+        "Upham",
+        "unit",
+        "hiding",
+        "pile",
+        "himself",
+        "prisoner",
+        "weapon"
+      ],
+      "verbs": [
+        "talk",
+        "come",
+        "reach",
+        "tell",
+        "surrender",
+        "rescue",
+        "witness",
+        "reveal",
+        "take",
+        "fire"
+      ],
+      "traits": [
+        "undetected"
+      ],
+      "semanticRoles": [
+        "talker",
+        "Agent/Entity Trying",
+        "finder",
+        "question",
+        "impelled agent",
+        "thing striving",
+        "viewer",
+        "protester",
+        "Entity excepted",
+        "agentive friend",
+        "Utterance",
+        "one surrendering",
+        "Speaker",
+        "thing directed",
+        "thing given",
+        "interpreter",
+        "causer of transformation",
+        "mover",
+        "rescuer",
+        "entity grabbed",
+        "agent",
+        "speaker",
+        "applauded",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "squad",
+      "recipients": [
+        "countryside",
+        "village",
+        "daughter",
+        "cover",
+        "building",
+        "part",
+        "resting",
+        "point",
+        "man",
+        "plan",
+        "retribution",
+        "Ramelle",
+        "ground",
+        "men"
+      ],
+      "verbs": [
+        "set",
+        "arrive",
+        "take",
+        "sit",
+        "spend",
+        "protect",
+        "be",
+        "rush",
+        "approach",
+        "feel",
+        "fire"
+      ],
+      "traits": [
+        "entire",
+        "exhausted",
+        "German",
+        "small"
+      ],
+      "semanticRoles": [
+        "object accompanied",
+        "agent",
+        "utterance",
+        "student",
+        "attacker",
+        "causer of motion",
+        "killer",
+        "wanter",
+        "speaker",
+        "beginner",
+        "Intentional agent",
+        "entity experiencing confusion",
+        "feeler",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Richard_Reiben_Edward_Burns",
+      "recipients": [
+        "mission",
+        "gun",
+        "distance",
+        "cannon",
+        "medic",
+        "side"
+      ],
+      "verbs": [
+        "question",
+        "keep",
+        "flank",
+        "call",
+        "rush"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "asker",
+        "Sayer",
+        "Keeper",
+        "entity leaving",
+        "offended",
+        "agent",
+        "projectile",
+        "theme",
+        "things on the side",
+        "causer of motion"
+      ]
+    },
+    {
+      "characterName": "Wade",
+      "recipients": [
+        "letter",
+        "halftrack",
+        "vehicle"
+      ],
+      "verbs": [
+        "rewrite",
+        "spot",
+        "escape"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "writer",
+        "Agent",
+        "walker",
+        "entity bleeding",
+        "projectile",
+        "buried",
+        "finder",
+        "entity escaping"
+      ]
+    },
+    {
+      "characterName": "point",
+      "recipients": [
+        "soldiers",
+        "bottleneck",
+        "troops"
+      ],
+      "verbs": [
+        "allow",
+        "channel"
+      ],
+      "traits": [
+        "choke",
+        "narrow"
+      ],
+      "semanticRoles": [
+        "container",
+        "director",
+        "allower",
+        "thing created"
+      ]
+    },
+    {
+      "characterName": "unit",
+      "recipients": [
+        "village",
+        "bridge"
+      ],
+      "verbs": [
+        "guard",
+        "defend"
+      ],
+      "traits": [
+        "mixed",
+        "next",
+        "German"
+      ],
+      "semanticRoles": [
+        "guard",
+        "corpse",
+        "person surprised",
+        "defender",
+        "thing attracted"
+      ]
+    },
+    {
+      "characterName": "everyone",
+      "recipients": [
+        "blows",
+        "bridge",
+        "position"
+      ],
+      "verbs": [
+        "wait",
+        "cross"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "coverer",
+        "player",
+        "rider",
+        "corpse",
+        "crosser"
+      ]
+    },
+    {
+      "characterName": "troops",
+      "recipients": [
+        "bombs",
+        "B"
+      ],
+      "verbs": [
+        "improvise",
+        "use",
+        "retrieve"
+      ],
+      "traits": [
+        "German"
+      ],
+      "semanticRoles": [
+        "thing directed",
+        "improviser",
+        "User",
+        "receiver",
+        "thing cut"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "movieName": "Jaws(1975)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Chrissie_Watkins_Susan_Backlinie",
+      "recipients": [
+        "eye",
+        "Filley",
+        "contact",
+        "face",
+        "Brody",
+        "belief"
+      ],
+      "verbs": [
+        "catch",
+        "lead",
+        "come",
+        "approach",
+        "make"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "leader",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "Chrissy",
+      "recipients": [
+        "surf",
+        "shoreline",
+        "water"
+      ],
+      "verbs": [
+        "dive",
+        "swim",
+        "tread"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "remover",
+        "diver",
+        "thing pausing",
+        "entity treading",
+        "swimmer",
+        "entity in motion",
+        "entity attacked"
+      ]
+    },
+    {
+      "characterName": "creature",
+      "recipients": [
+        "legs",
+        "Chrissy",
+        "hold"
+      ],
+      "verbs": [
+        "notice",
+        "approach",
+        "attack",
+        "grab"
+      ],
+      "traits": [
+        "unseen"
+      ],
+      "semanticRoles": [
+        "noticer",
+        "beginner",
+        "dragger",
+        "grabber",
+        "attacker"
+      ]
+    },
+    {
+      "characterName": "Martin_Brody_Roy_Scheider",
+      "recipients": [
+        "home",
+        "call",
+        "beach",
+        "report",
+        "Robert_Nevin",
+        "attack",
+        "beaches",
+        "shoreline",
+        "sand",
+        "boy",
+        "docks",
+        "contents",
+        "equipment",
+        "son",
+        "Brody",
+        "boat",
+        "estuary",
+        "Vaughn",
+        "foot",
+        "Quint",
+        "shark",
+        "back",
+        "chum",
+        "radio",
+        "him",
+        "aim",
+        "water",
+        "remains",
+        "top",
+        "mark"
+      ],
+      "verbs": [
+        "receive",
+        "go",
+        "put",
+        "close",
+        "scan",
+        "sit",
+        "unwind",
+        "be",
+        "proceed",
+        "examine",
+        "recognize",
+        "\u0027s",
+        "ask",
+        "take",
+        "confront",
+        "seek",
+        "catch",
+        "hire",
+        "ladle",
+        "attempt",
+        "lower",
+        "haul",
+        "assume",
+        "climb",
+        "hit"
+      ],
+      "traits": [
+        "anxious",
+        "likely",
+        "responsible",
+        "dead"
+      ],
+      "semanticRoles": [
+        "searcher",
+        "impelled agent",
+        "person doing the closing",
+        "looker",
+        "action allowed",
+        "explainer",
+        "experiencer",
+        "accused",
+        "entity in motion",
+        "unroller",
+        "fascinated entity",
+        "subject",
+        "causer of continuing event",
+        "decider",
+        "examiner",
+        "drinker",
+        "applauder",
+        "creator",
+        "helper",
+        "asker",
+        "question",
+        "confrontational entity",
+        "receiver",
+        "new employee",
+        "Agent / entity seeking",
+        "employer",
+        "insister",
+        "causer of motion",
+        "noticer",
+        "entity moving something downward",
+        "carrier",
+        "agent",
+        "climber"
+      ]
+    },
+    {
+      "characterName": "Larry_Vaughn_Murray_Hamilton",
+      "recipients": [
+        "intentions",
+        "Vaughn",
+        "pleas",
+        "words",
+        "friend",
+        "permission"
+      ],
+      "verbs": [
+        "notice",
+        "prevent",
+        "dismiss",
+        "ignore",
+        "insult",
+        "ask",
+        "relent"
+      ],
+      "traits": [
+        "concerned"
+      ],
+      "semanticRoles": [
+        "noticer",
+        "Theme (action or object being prevented)",
+        "Agent",
+        "entity removing",
+        "ignorer",
+        "announcer",
+        "insulter",
+        "insulted",
+        "asker",
+        "entity confronted",
+        "thing trembling",
+        "relenter",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "mother",
+      "recipients": [
+        "swimming",
+        "Fierro",
+        "minutes",
+        "anyone",
+        "reward"
+      ],
+      "verbs": [
+        "go",
+        "allow",
+        "issue"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "question",
+        "allower",
+        "issuer"
+      ]
+    },
+    {
+      "characterName": "shark",
+      "recipients": [
+        "Alex",
+        "son",
+        "anything",
+        "radius",
+        "tooth",
+        "size",
+        "fin",
+        "vessels",
+        "boat",
+        "underwater",
+        "men",
+        "day",
+        "strength",
+        "Hooper",
+        "mouth",
+        "water",
+        "Brody"
+      ],
+      "verbs": [
+        "attack",
+        "kill",
+        "eat",
+        "have",
+        "tooth",
+        "be",
+        "capsize",
+        "swim",
+        "pull",
+        "interrupted",
+        "return",
+        "use",
+        "\u0027s",
+        "slide",
+        "smash"
+      ],
+      "traits": [
+        "enormous",
+        "offending",
+        "large",
+        "rogue",
+        "responsible",
+        "huge",
+        "long"
+      ],
+      "semanticRoles": [
+        "attacker",
+        "killer",
+        "thing gotten",
+        "thing attracted",
+        "thing found",
+        "thing opening",
+        "consumer",
+        "causer of capsizing",
+        "action being stopped",
+        "shower",
+        "swimmer",
+        "noticed",
+        "entity in motion",
+        "puller",
+        "thing hit",
+        "interrupter",
+        "entity escaping",
+        "User",
+        "thing dragged",
+        "breaker",
+        "stuff being put in",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Sam_Quint_Robert_Shaw",
+      "recipients": [
+        "chatter",
+        "Hooper",
+        "rod",
+        "line",
+        "look",
+        "harpoons",
+        "shark",
+        "tattoo",
+        "deaths",
+        "extent",
+        "him",
+        "aim",
+        "water",
+        "remains",
+        "mouth",
+        "grip"
+      ],
+      "verbs": [
+        "quell",
+        "see",
+        "attach",
+        "rush",
+        "fire",
+        "hit",
+        "have",
+        "witness",
+        "instruct",
+        "drag",
+        "demonstrate",
+        "lower",
+        "haul",
+        "slide",
+        "lose"
+      ],
+      "traits": [
+        "alerts",
+        "stunned",
+        "ready",
+        "waiting"
+      ],
+      "semanticRoles": [
+        "causer",
+        "thing sought",
+        "thing viewed",
+        "viewer",
+        "causer of motion",
+        "beginner",
+        "shooter",
+        "manager",
+        "agent",
+        "admitter",
+        "instructor",
+        "dragger",
+        "demonstrator",
+        "entity moving something downward",
+        "carrier",
+        "thing eaten",
+        "thing pulled"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "attempt",
+        "night",
+        "dinner",
+        "drinks",
+        "deck",
+        "tattoos",
+        "scars",
+        "water",
+        "shanty",
+        "end"
+      ],
+      "verbs": [
+        "make",
+        "have",
+        "compare",
+        "struggle",
+        "sing",
+        "celebrate"
+      ],
+      "traits": [
+        "local"
+      ],
+      "semanticRoles": [
+        "creator",
+        "beginner",
+        "agent",
+        "entity making comparison",
+        "first struggler",
+        "thing interrupted",
+        "singer",
+        "thing acquired",
+        "honorer"
+      ]
+    },
+    {
+      "characterName": "Matt_Hooper_Richard_Dreyfuss",
+      "recipients": [
+        "time",
+        "mouth",
+        "Mayor_Vaughn",
+        "house",
+        "contents",
+        "Brody",
+        "night",
+        "boat",
+        "gear",
+        "hull",
+        "hole",
+        "tooth",
+        "corpse",
+        "surface",
+        "water",
+        "Quint",
+        "shark",
+        "tons",
+        "beast",
+        "device",
+        "bond",
+        "barrels",
+        "men",
+        "stern",
+        "reef",
+        "harpoon"
+      ],
+      "verbs": [
+        "arrive",
+        "examine",
+        "convince",
+        "visit",
+        "take",
+        "decide",
+        "discover",
+        "find",
+        "see",
+        "drop",
+        "rush",
+        "produce",
+        "notice",
+        "weigh",
+        "manage",
+        "attach",
+        "begin",
+        "grab",
+        "secure",
+        "hide"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "decider",
+        "examiner",
+        "convincer",
+        "one party",
+        "explainer",
+        "theorist",
+        "confirmer",
+        "wearer",
+        "finder",
+        "viewer",
+        "horrified entity",
+        "causer of motion",
+        "entity doing the dropping",
+        "creator",
+        "puller",
+        "thing viewed",
+        "noticer",
+        "measurer",
+        "estimator",
+        "manager",
+        "beginner",
+        "impelled agent",
+        "grabber",
+        "agent",
+        "entity succeeding",
+        "entity needing a last chance",
+        "entity attacked"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "family",
+        "Michael",
+        "friend",
+        "man",
+        "rowboat"
+      ],
+      "verbs": [
+        "\u0027s",
+        "instruct",
+        "approach",
+        "reach"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "instructor",
+        "thing striving"
+      ]
+    },
+    {
+      "characterName": "Michael_Chris_Rebello",
+      "recipients": [
+        "water",
+        "boat",
+        "horror"
+      ],
+      "verbs": [
+        "take",
+        "watch"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "wisher",
+        "agreer",
+        "entity sailing",
+        "impelled agent",
+        "entity in motion",
+        "thing",
+        "thing brought"
+      ]
+    }
+  ]
+}

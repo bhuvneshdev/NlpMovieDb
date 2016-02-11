@@ -1,0 +1,464 @@
+{
+  "movieName": "Platoon(1986)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "American",
+      "recipients": [
+        "university",
+        "life",
+        "admiration",
+        "Southeast_Asia",
+        "Barnes",
+        "pin"
+      ],
+      "verbs": [
+        "abandon",
+        "develop",
+        "disillusion",
+        "meet",
+        "drop"
+      ],
+      "traits": [
+        "young",
+        "winnable"
+      ],
+      "semanticRoles": [
+        "abandoner",
+        "sent",
+        "speaker",
+        "knower",
+        "causer of disillusionment",
+        "achiever",
+        "corpse",
+        "entity doing the dropping",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Chris_Taylor",
+      "recipients": [
+        "American",
+        "neck",
+        "wound",
+        "acceptance",
+        "hospital",
+        "unit",
+        "house",
+        "boy",
+        "group",
+        "night",
+        "base",
+        "troops",
+        "soldiers",
+        "carnage",
+        "chaos",
+        "consciousness",
+        "morning",
+        "abdomen",
+        "Barnes",
+        "soldier",
+        "rifle",
+        "medic",
+        "weapon",
+        "attention"
+      ],
+      "verbs": [
+        "be",
+        "discover",
+        "gain",
+        "return",
+        "taunt",
+        "stop",
+        "talk",
+        "try",
+        "cut",
+        "attack",
+        "charge",
+        "come",
+        "regain",
+        "find",
+        "take",
+        "aim",
+        "call",
+        "drop",
+        "await"
+      ],
+      "traits": [
+        "narrating"
+      ],
+      "semanticRoles": [
+        "thing assigned",
+        "entity blamed",
+        "finder",
+        "causal agent",
+        "taunter",
+        "botherer",
+        "talker",
+        "Agent/Entity Trying",
+        "thing reminded about",
+        "heard",
+        "attacker",
+        "first thing being pinned",
+        "thing cut",
+        "intentional cutter",
+        "killer",
+        "thing hit",
+        "recoverer",
+        "aimer",
+        "complier",
+        "causer of continuation",
+        "entity doing the dropping",
+        "causer of collapse",
+        "thing viewed"
+      ]
+    },
+    {
+      "characterName": "Elias",
+      "recipients": [
+        "men",
+        "drugs",
+        "bunker",
+        "series",
+        "fistfight",
+        "scene",
+        "troops",
+        "jungle",
+        "Barnes"
+      ],
+      "verbs": [
+        "send",
+        "take",
+        "explore",
+        "start",
+        "arrive",
+        "intercept",
+        "emerge",
+        "ask"
+      ],
+      "traits": [
+        "wounded",
+        "shooting"
+      ],
+      "semanticRoles": [
+        "speaker",
+        "sender",
+        "socialite",
+        "dancer",
+        "leader",
+        "explorer",
+        "Agent",
+        "Speaker",
+        "interceptor",
+        "thing exiting",
+        "asker",
+        "combatant"
+      ]
+    },
+    {
+      "characterName": "Barnes",
+      "recipients": [
+        "men",
+        "members",
+        "wife",
+        "patience",
+        "daughter",
+        "command",
+        "Elias",
+        "rounds",
+        "Barnes",
+        "wounds",
+        "room",
+        "hand",
+        "knife",
+        "face",
+        "Taylor",
+        "chaos"
+      ],
+      "verbs": [
+        "send",
+        "lead",
+        "kill",
+        "lose",
+        "murder",
+        "take",
+        "fire",
+        "leaf",
+        "sustained",
+        "be",
+        "enter",
+        "get",
+        "hold",
+        "pin",
+        "come",
+        "beat"
+      ],
+      "traits": [
+        "martial",
+        "stare",
+        "crazed"
+      ],
+      "semanticRoles": [
+        "speaker",
+        "sender",
+        "agreer",
+        "leader",
+        "killer",
+        "courted",
+        "entity leaving",
+        "shooter",
+        "place",
+        "corpse",
+        "goal",
+        "decision",
+        "Intentional agent (often inanimate",
+        "entity entering",
+        "receiver",
+        "holder",
+        "agent",
+        "question",
+        "entity refusing",
+        "applauder",
+        "thing found",
+        "injured party",
+        "layer",
+        "feeler",
+        "Utterance",
+        "urger",
+        "combatant"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "fire"
+      ],
+      "verbs": [
+        "cease"
+      ],
+      "traits": [
+        "new",
+        "several"
+      ],
+      "semanticRoles": [
+        "sent",
+        "Thing finishing",
+        "entity leaving",
+        "viewer",
+        "causer of ceasing",
+        "impelled agent"
+      ]
+    },
+    {
+      "characterName": "troops",
+      "recipients": [
+        "battle"
+      ],
+      "verbs": [
+        "prepare",
+        "know"
+      ],
+      "traits": [
+        "new",
+        "flanking",
+        "Vietnamese",
+        "North",
+        "several"
+      ],
+      "semanticRoles": [
+        "entity intercepted",
+        "knower",
+        "Agent/Entity Trying",
+        "entity attacked",
+        "thing cut"
+      ]
+    },
+    {
+      "characterName": "soldiers",
+      "recipients": [
+        "night",
+        "village"
+      ],
+      "verbs": [
+        "set",
+        "explore"
+      ],
+      "traits": [
+        "Vietnamese",
+        "North",
+        "other",
+        "unseen",
+        "several"
+      ],
+      "semanticRoles": [
+        "agent",
+        "explorer",
+        "entity attacked"
+      ]
+    },
+    {
+      "characterName": "platoon",
+      "recipients": [
+        "patrol",
+        "village"
+      ],
+      "verbs": [
+        "find",
+        "report",
+        "reach"
+      ],
+      "traits": [
+        "weakened"
+      ],
+      "semanticRoles": [
+        "finder",
+        "Reporter",
+        "impelled agent",
+        "angry entity",
+        "thing striving",
+        "first thing being pinned",
+        "sent"
+      ]
+    },
+    {
+      "characterName": "boy",
+      "recipients": [
+        "hole",
+        "Viet_Cong"
+      ],
+      "verbs": [
+        "hide",
+        "aid"
+      ],
+      "traits": [
+        "mute",
+        "disabled",
+        "retarded"
+      ],
+      "semanticRoles": [
+        "entity taunted",
+        "corpse",
+        "thing hit",
+        "helper"
+      ]
+    },
+    {
+      "characterName": "Wolfe",
+      "recipients": [
+        "fight",
+        "orders",
+        "officer"
+      ],
+      "verbs": [
+        "end",
+        "relay",
+        "be"
+      ],
+      "traits": [
+        "passive"
+      ],
+      "semanticRoles": [
+        "sender",
+        "Intentional agent",
+        "replier"
+      ]
+    },
+    {
+      "characterName": "Harris",
+      "recipients": [
+        "Barnes",
+        "command",
+        "Harris"
+      ],
+      "verbs": [
+        "court",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "haver of financial means",
+        "entity removing",
+        "killer",
+        "suitor",
+        "agent",
+        "thing given",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Rhah",
+      "recipients": [
+        "Taylor",
+        "Rhah",
+        "hand",
+        "fuck",
+        "possession",
+        "what"
+      ],
+      "verbs": [
+        "remind",
+        "urge",
+        "do",
+        "give",
+        "call"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "cause",
+        "entity leaving",
+        "urger",
+        "impelled agent",
+        "thing in motion",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Murphy",
+      "recipients": [
+        "himself",
+        "Vietnam",
+        "remorse"
+      ],
+      "verbs": [
+        "proclaim",
+        "enjoy",
+        "feel"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "speaker",
+        "feeler",
+        "causal agent",
+        "enjoyer"
+      ]
+    },
+    {
+      "characterName": "Francis",
+      "recipients": [
+        "whistles",
+        "soldiers",
+        "himself",
+        "thigh",
+        "foxhole",
+        "home",
+        "Taylor"
+      ],
+      "verbs": [
+        "hear",
+        "attack",
+        "stab",
+        "emerge",
+        "go",
+        "remind"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing assigned",
+        "attacker",
+        "thing exiting",
+        "stabber",
+        "injured party",
+        "cause"
+      ]
+    }
+  ]
+}

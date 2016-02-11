@@ -1,0 +1,215 @@
+{
+  "movieName": "Monsters,Inc.(2001)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "monsters",
+      "recipients": [
+        "energy",
+        "screams",
+        "children",
+        "girl"
+      ],
+      "verbs": [
+        "extract",
+        "scare",
+        "hide"
+      ],
+      "traits": [
+        "adjacent",
+        "other"
+      ],
+      "semanticRoles": [
+        "provider",
+        "employee",
+        "remover",
+        "scary entity",
+        "Theme (action or object being prevented)",
+        "player"
+      ]
+    },
+    {
+      "characterName": "Sully",
+      "recipients": [
+        "door",
+        "day",
+        "one",
+        "girl",
+        "room",
+        "restaurant",
+        "Boo",
+        "morning",
+        "work",
+        "Randall",
+        "sequence",
+        "world",
+        "home",
+        "CEO",
+        "piece"
+      ],
+      "verbs": [
+        "find",
+        "return",
+        "sneak",
+        "name",
+        "costume",
+        "protect",
+        "attempt",
+        "defeat",
+        "throw",
+        "activate",
+        "be",
+        "put",
+        "peek"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "thing following",
+        "Agent/Entity Trying",
+        "entity sneaking",
+        "costumer",
+        "entity expelled",
+        "entity victorious",
+        "thrower",
+        "criminal",
+        "entity escaping",
+        "Speaker",
+        "activator",
+        "Keeper",
+        "looker",
+        "thing greeted"
+      ]
+    },
+    {
+      "characterName": "girl",
+      "recipients": [
+        "world",
+        "Sully",
+        "Sully_Kitty"
+      ],
+      "verbs": [
+        "follow",
+        "call"
+      ],
+      "traits": [
+        "twoyearold",
+        "little",
+        "poisonous"
+      ],
+      "semanticRoles": [
+        "causal agent",
+        "agent",
+        "Keeper",
+        "place",
+        "entity in motion",
+        "destination"
+      ]
+    },
+    {
+      "characterName": "Randall",
+      "recipients": [
+        "door",
+        "Boo",
+        "device",
+        "cahoots"
+      ],
+      "verbs": [
+        "deactivate",
+        "help",
+        "kidnap",
+        "chase"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "deactivator",
+        "storer",
+        "agreer",
+        "helper",
+        "kidnapper",
+        "follower",
+        "entity defeated",
+        "thing thrown",
+        "thing hit"
+      ]
+    },
+    {
+      "characterName": "Mike",
+      "recipients": [
+        "Boo",
+        "Randall",
+        "sequence",
+        "world",
+        "door",
+        "agents",
+        "home",
+        "confession",
+        "pieces"
+      ],
+      "verbs": [
+        "protect",
+        "attempt",
+        "return",
+        "destroy",
+        "lead",
+        "record",
+        "collect"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing found",
+        "entity entering",
+        "entity expelled",
+        "leader",
+        "Sayer",
+        "agent",
+        "builder",
+        "player"
+      ]
+    },
+    {
+      "characterName": "Boo",
+      "recipients": [
+        "Randall"
+      ],
+      "verbs": [
+        "defeat"
+      ],
+      "traits": [
+        "Boo",
+        "subject"
+      ],
+      "semanticRoles": [
+        "finder",
+        "screamer",
+        "destination",
+        "project",
+        "person kidnapped",
+        "entity victorious",
+        "entity in motion",
+        "thing following",
+        "other party"
+      ]
+    },
+    {
+      "characterName": "Waternoose",
+      "recipients": [
+        "Mike",
+        "Sully",
+        "door",
+        "floor",
+        "Boo"
+      ],
+      "verbs": [
+        "banish",
+        "call",
+        "follow"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "banisher",
+        "speaker",
+        "causal agent"
+      ]
+    }
+  ]
+}

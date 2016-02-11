@@ -1,0 +1,886 @@
+{
+  "movieName": "TheWolfofWallStreet(2013)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "brokers",
+      "recipients": [
+        "board",
+        "people"
+      ],
+      "verbs": [
+        "throw"
+      ],
+      "traits": [
+        "more",
+        "ambitious",
+        "hopeful"
+      ],
+      "semanticRoles": [
+        "thing described",
+        "thrower",
+        "Agent",
+        "first thing being tied",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "Jordan_Belfort",
+      "recipients": [
+        "himself",
+        "son",
+        "We",
+        "hookers",
+        "life",
+        "Ferrari",
+        "woman",
+        "blowjob",
+        "drugs",
+        "line",
+        "wastebasket",
+        "smoothtalking",
+        "drink",
+        "Jordan",
+        "Chant",
+        "day",
+        "job",
+        "Center",
+        "sale",
+        "investor",
+        "pitch",
+        "money",
+        "yes",
+        "car",
+        "drinks",
+        "Brad",
+        "deal",
+        "business",
+        "Oakmont",
+        "employee",
+        "party",
+        "house",
+        "Naomi",
+        "dinner",
+        "back",
+        "coke",
+        "decorator",
+        "cops",
+        "cash",
+        "mansion",
+        "penthouse",
+        "daughter",
+        "trick",
+        "broker",
+        "Madden",
+        "stage",
+        "investigator",
+        "Dietl",
+        "Hughes",
+        "Denham",
+        "agents",
+        "yacht",
+        "S",
+        "someone",
+        "England",
+        "Emma",
+        "payphone",
+        "club",
+        "effects",
+        "attempt",
+        "vial",
+        "drawer",
+        "thing",
+        "nose",
+        "Donnie",
+        "morning",
+        "home",
+        "wheel",
+        "meeting",
+        "celebration",
+        "died",
+        "us",
+        "Italy",
+        "June",
+        "wives",
+        "Sorel",
+        "captain",
+        "crash",
+        "ocean",
+        "wire",
+        "injury",
+        "daughters",
+        "Skyler",
+        "crowd",
+        "man",
+        "pen"
+      ],
+      "verbs": [
+        "introduce",
+        "be",
+        "tell",
+        "enjoy",
+        "drive",
+        "get",
+        "do",
+        "snort",
+        "toss",
+        "crumple",
+        "meet",
+        "have",
+        "ask",
+        "join",
+        "start",
+        "lose",
+        "show",
+        "pitch",
+        "call",
+        "make",
+        "say",
+        "anticipate",
+        "create",
+        "pay",
+        "throw",
+        "see",
+        "take",
+        "likes",
+        "recover",
+        "propose",
+        "buy",
+        "move",
+        "catch",
+        "stop",
+        "invite",
+        "send",
+        "keep",
+        "travels",
+        "convince",
+        "go",
+        "use",
+        "feel",
+        "grab",
+        "pour",
+        "wake",
+        "hold",
+        "wear",
+        "pester",
+        "suffer",
+        "slide",
+        "slip",
+        "come",
+        "stand"
+      ],
+      "traits": [
+        "old",
+        "angry",
+        "tempted",
+        "distraught",
+        "dazed"
+      ],
+      "semanticRoles": [
+        "entity making introduction",
+        "Speaker",
+        "Agent",
+        "enjoyer",
+        "thing viewed",
+        "receiver",
+        "driver",
+        "lover",
+        "tosser(s)",
+        "snorter",
+        "causer of damage",
+        "beginner",
+        "achiever",
+        "experiencer of astonishment",
+        "question",
+        "asker",
+        "agent",
+        "thing gotten",
+        "shower",
+        "thing greeted",
+        "thing assigned",
+        "thrower",
+        "creator",
+        "Sayer",
+        "puller",
+        "recruiter",
+        "bringer",
+        "payer or buyer",
+        "noter",
+        "viewer",
+        "Agent/Entity Trying",
+        "thing pulled",
+        "liker",
+        "manager",
+        "entity proposing",
+        "entity being introduced",
+        "buyer",
+        "mover",
+        "Keeper",
+        "thing discovered",
+        "inviter",
+        "sender",
+        "decider",
+        "Utterance",
+        "Theme (action or object being prevented)",
+        "impelled agent",
+        "traveller",
+        "convincer",
+        "User",
+        "feeler",
+        "grabber",
+        "object accompanied",
+        "thing pausing",
+        "alarm clock",
+        "holder",
+        "operator",
+        "carer",
+        "wanter",
+        "causer of sobering",
+        "criminal",
+        "wearer",
+        "causer",
+        "action or object being prevented",
+        "action being stopped",
+        "entity suffering",
+        "new knower",
+        "thing set",
+        "admitter",
+        "causal agent",
+        "causer of continuation"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "world",
+        "place",
+        "diner",
+        "Everybody",
+        "pen",
+        "man",
+        "pitch"
+      ],
+      "verbs": [
+        "conquer",
+        "run",
+        "approach",
+        "pull",
+        "tell",
+        "sell",
+        "start"
+      ],
+      "traits": [
+        "bespectacled"
+      ],
+      "semanticRoles": [
+        "conquering hero",
+        "operator",
+        "Utterance",
+        "Seller",
+        "Speaker",
+        "puller",
+        "Agent"
+      ]
+    },
+    {
+      "characterName": "everybody",
+      "recipients": [
+        "Jordan",
+        "everybody"
+      ],
+      "verbs": [
+        "ask",
+        "jeer"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "talker",
+        "entity succeeding",
+        "entity in motion",
+        "asker",
+        "jeered at",
+        "jeer-er",
+        "thing gotten"
+      ]
+    },
+    {
+      "characterName": "Mark",
+      "recipients": [
+        "chant",
+        "day",
+        "Jordan",
+        "place"
+      ],
+      "verbs": [
+        "do",
+        "get",
+        "come"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Sayer",
+        "Agent",
+        "receiver",
+        "looker"
+      ]
+    },
+    {
+      "characterName": "they",
+      "recipients": [
+        "what",
+        "argument",
+        "police",
+        "proof"
+      ],
+      "verbs": [
+        "do",
+        "get",
+        "arrest",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "seller",
+        "bringer",
+        "receiver",
+        "police",
+        "shower"
+      ]
+    },
+    {
+      "characterName": "Teresa",
+      "recipients": [
+        "home",
+        "Forbes",
+        "help"
+      ],
+      "verbs": [
+        "suggest",
+        "tell",
+        "need"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Sayer",
+        "Speaker",
+        "needer",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "investor",
+      "recipients": [
+        "Aerotyne",
+        "Kodak",
+        "stocks"
+      ],
+      "verbs": [
+        "sell",
+        "purchase"
+      ],
+      "traits": [
+        "potential"
+      ],
+      "semanticRoles": [
+        "Seller",
+        "thrower",
+        "purchaser",
+        "signer"
+      ]
+    },
+    {
+      "characterName": "money",
+      "recipients": [],
+      "verbs": [],
+      "traits": [
+        "serious",
+        "much",
+        "more",
+        "safe"
+      ],
+      "semanticRoles": [
+        "creation",
+        "thing needed",
+        "thing thrown",
+        "commodity",
+        "thing kept",
+        "stolen object"
+      ]
+    },
+    {
+      "characterName": "Donnie",
+      "recipients": [
+        "building",
+        "lives",
+        "money",
+        "Jordan",
+        "stub",
+        "boss",
+        "drinks",
+        "cousin",
+        "idea",
+        "crack",
+        "table",
+        "Steve_Madden",
+        "downstairs",
+        "starts",
+        "home",
+        "apartment",
+        "tea",
+        "affair",
+        "Naomi",
+        "Nicholas",
+        "guy",
+        "Donnie",
+        "Switzerland",
+        "job",
+        "party",
+        "argument",
+        "mall",
+        "exchange",
+        "meeting",
+        "briefcase",
+        "brand",
+        "Sorel",
+        "family",
+        "food",
+        "Italy",
+        "June",
+        "wives",
+        "drugs",
+        "place",
+        "arrest",
+        "locator",
+        "scheme",
+        "back",
+        "anything",
+        "files",
+        "prison",
+        "moment"
+      ],
+      "verbs": [
+        "say",
+        "make",
+        "ask",
+        "see",
+        "call",
+        "have",
+        "marry",
+        "like",
+        "smoke",
+        "offer",
+        "go",
+        "mumble",
+        "take",
+        "Naomi",
+        "continue",
+        "love",
+        "hold",
+        "humiliate",
+        "get",
+        "start",
+        "tell",
+        "drive",
+        "arrive",
+        "drop",
+        "Jordan",
+        "cough",
+        "bring",
+        "run",
+        "be",
+        "wear",
+        "remember",
+        "delete",
+        "forget"
+      ],
+      "traits": [
+        "rich"
+      ],
+      "semanticRoles": [
+        "speaker",
+        "Sayer",
+        "creator",
+        "asker",
+        "viewer",
+        "causer",
+        "liker",
+        "causer of smoke emission",
+        "Utterance",
+        "agent",
+        "invited",
+        "causer of continuation",
+        "entity suggested of",
+        "question",
+        "replier",
+        "lover",
+        "holder",
+        "sent",
+        "Stimulusr of humiliation",
+        "humiliated entity",
+        "receiver",
+        "Agent",
+        "Agent/Entity Trying",
+        "Speaker",
+        "entity punched",
+        "driver",
+        "beginner",
+        "thing formerly having seeds",
+        "thing hit",
+        "entity doing the dropping",
+        "bringer",
+        "thing pulled",
+        "operator",
+        "turner",
+        "causer of choking",
+        "cougher",
+        "thing gotten",
+        "thing viewed",
+        "wearer",
+        "rememberer",
+        "pretender",
+        "entity removing",
+        "terrified entity",
+        "forgetter"
+      ]
+    },
+    {
+      "characterName": "Brad",
+      "recipients": [
+        "pen",
+        "pocket",
+        "Brad",
+        "something",
+        "argument",
+        "Jordan",
+        "Donnie"
+      ],
+      "verbs": [
+        "sell",
+        "pull",
+        "tell",
+        "write",
+        "have",
+        "get",
+        "ask",
+        "hit"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "theme",
+        "thing known or thought",
+        "Utterance",
+        "Seller",
+        "puller",
+        "Speaker",
+        "receiver",
+        "asker",
+        "agent",
+        "place",
+        "criminal",
+        "thing released",
+        "quitter"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "chat",
+        "accounts"
+      ],
+      "verbs": [
+        "interrupt",
+        "\u0027s"
+      ],
+      "traits": [
+        "pleased",
+        "better"
+      ],
+      "semanticRoles": [
+        "labelled",
+        "interrupter",
+        "supervisor",
+        "announcer"
+      ]
+    },
+    {
+      "characterName": "Steve_Madden",
+      "recipients": [
+        "name",
+        "himself",
+        "Donnie",
+        "shoes",
+        "Madden",
+        "business",
+        "brokers",
+        "shares"
+      ],
+      "verbs": [
+        "be",
+        "introduce",
+        "send",
+        "present",
+        "want",
+        "agree",
+        "join",
+        "unload"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "utterance",
+        "first thing being tied",
+        "operator",
+        "entity making introduction",
+        "sender",
+        "giver",
+        "action being stopped",
+        "thing wanted",
+        "agent",
+        "wanter",
+        "agreer"
+      ]
+    },
+    {
+      "characterName": "Naomi",
+      "recipients": [
+        "Madden",
+        "Donnie",
+        "Jordan",
+        "apartment",
+        "decorator",
+        "butler",
+        "home",
+        "Emma",
+        "penthouse",
+        "daughter",
+        "hooker",
+        "panties",
+        "downstairs",
+        "Lemmons",
+        "him",
+        "order",
+        "divorce",
+        "belt",
+        "Skyler"
+      ],
+      "verbs": [
+        "join",
+        "invite",
+        "pull",
+        "ask",
+        "move",
+        "hire",
+        "come",
+        "tell",
+        "introduce",
+        "have",
+        "be",
+        "wear",
+        "go",
+        "call",
+        "take",
+        "file",
+        "stop"
+      ],
+      "traits": [
+        "furious"
+      ],
+      "semanticRoles": [
+        "thing viewed",
+        "invited",
+        "agent",
+        "inviter",
+        "Agent",
+        "puller",
+        "asker",
+        "loved",
+        "mover",
+        "employer",
+        "Speaker",
+        "acceptor",
+        "entity making introduction",
+        "Sayer",
+        "wearer",
+        "Utterance",
+        "finder",
+        "operator",
+        "person pestered",
+        "giver",
+        "entity contacted",
+        "filer",
+        "thing hit",
+        "Agent/Entity Trying"
+      ]
+    },
+    {
+      "characterName": "laundering",
+      "recipients": [
+        "attorney",
+        "money",
+        "party"
+      ],
+      "verbs": [
+        "hire",
+        "make",
+        "hold"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "employer",
+        "applauder",
+        "creator",
+        "holder"
+      ]
+    },
+    {
+      "characterName": "Denham",
+      "recipients": [
+        "pictures",
+        "money",
+        "Switzerland",
+        "job",
+        "bunch",
+        "pilot",
+        "phones",
+        "home",
+        "taping",
+        "Jordan"
+      ],
+      "verbs": [
+        "have",
+        "throw",
+        "go",
+        "get",
+        "take",
+        "insult",
+        "arrest"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "shower",
+        "employer",
+        "Utterance",
+        "interpreter",
+        "thrower",
+        "receiver",
+        "agent",
+        "insulter",
+        "alarm clock",
+        "police"
+      ]
+    },
+    {
+      "characterName": "Jean_Jacques_Sorel",
+      "recipients": [
+        "Jordan",
+        "Sorel",
+        "Switzerland",
+        "affair"
+      ],
+      "verbs": [
+        "persuade",
+        "tell",
+        "get",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "leader",
+        "convincer",
+        "Utterance",
+        "Speaker",
+        "receiver",
+        "needer",
+        "criminal",
+        "victim",
+        "Intentional agent"
+      ]
+    },
+    {
+      "characterName": "Lemmons",
+      "recipients": [
+        "floor",
+        "door",
+        "steps",
+        "car",
+        "way"
+      ],
+      "verbs": [
+        "collapse",
+        "open",
+        "roll",
+        "manage"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent",
+        "causer of collapse",
+        "manager",
+        "roller",
+        "agent",
+        "opener",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "Riskin",
+      "recipients": [
+        "company",
+        "Donnie",
+        "Pinhead",
+        "Rugrat",
+        "woman",
+        "brokers",
+        "everybody"
+      ],
+      "verbs": [
+        "step",
+        "pass",
+        "call",
+        "tell",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "legislative body",
+        "causer of movement",
+        "Speaker",
+        "lover",
+        "receiver",
+        "first thing being tied"
+      ]
+    },
+    {
+      "characterName": "him",
+      "recipients": [
+        "love",
+        "condition",
+        "Naomi",
+        "room",
+        "amount",
+        "downstairs",
+        "car"
+      ],
+      "verbs": [
+        "make",
+        "agree",
+        "hit",
+        "storm",
+        "snort",
+        "run",
+        "drive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "creator",
+        "question",
+        "agreer",
+        "Utterance",
+        "agent",
+        "thing hit",
+        "snorter",
+        "operator",
+        "driver",
+        "Intentional agent"
+      ]
+    }
+  ]
+}

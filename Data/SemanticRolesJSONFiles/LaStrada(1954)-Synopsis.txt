@@ -1,0 +1,4 @@
+{
+  "movieName": "LaStrada(1954)-Synopsis.txt",
+  "characters": []
+}

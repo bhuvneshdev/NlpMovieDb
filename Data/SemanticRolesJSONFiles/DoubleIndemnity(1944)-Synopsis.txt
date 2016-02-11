@@ -1,0 +1,121 @@
+{
+  "movieName": "DoubleIndemnity(1944)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Walter_Neff",
+      "recipients": [
+        "salesman",
+        "Dictaphone",
+        "story",
+        "pain",
+        "desk",
+        "tricks",
+        "case",
+        "Phyllis",
+        "gun",
+        "ploy",
+        "Neff",
+        "Nino",
+        "Keyes",
+        "confession",
+        "office",
+        "elevator",
+        "floor"
+      ],
+      "verbs": [
+        "be",
+        "tell",
+        "sit",
+        "know",
+        "kill",
+        "take",
+        "believe",
+        "look",
+        "convince",
+        "wait",
+        "call",
+        "dictate",
+        "drive",
+        "reach",
+        "collapse"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "achiever",
+        "knower",
+        "thing followed",
+        "impelled agent",
+        "admirer",
+        "carer",
+        "beginner",
+        "killer",
+        "projectile",
+        "injured party",
+        "Sayer",
+        "puller",
+        "looker",
+        "replier",
+        "convincer",
+        "dictator",
+        "driver",
+        "thing striving",
+        "causer of collapse",
+        "thing featured"
+      ]
+    },
+    {
+      "characterName": "Phyllis_Dietrichson",
+      "recipients": [
+        "policy",
+        "murder",
+        "part",
+        "Neff",
+        "home",
+        "death",
+        "Phyllis",
+        "boyfriend",
+        "back",
+        "him"
+      ],
+      "verbs": [
+        "renew",
+        "take",
+        "means",
+        "want",
+        "pursue",
+        "persuade",
+        "be",
+        "suspect",
+        "see",
+        "do",
+        "shoot",
+        "use",
+        "wait",
+        "call"
+      ],
+      "traits": [
+        "sultry",
+        "responsibile"
+      ],
+      "semanticRoles": [
+        "agent",
+        "wanter",
+        "thing following",
+        "convincer",
+        "suspicion: what arg0 thinks",
+        "suspecter",
+        "killer",
+        "viewer",
+        "Speaker",
+        "achiever",
+        "corpse",
+        "shooter",
+        "Utterance",
+        "User",
+        "lover",
+        "Sayer"
+      ]
+    }
+  ]
+}
