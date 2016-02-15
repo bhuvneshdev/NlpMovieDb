@@ -1,0 +1,279 @@
+{
+  "movieName": "HighNoon(1952)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Ben_Miller",
+      "recipients": [
+        "rides",
+        "impatient",
+        "depot",
+        "Kane",
+        "break",
+        "window",
+        "himself"
+      ],
+      "verbs": [
+        "grow",
+        "run",
+        "smash",
+        "show"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "thing welcomed",
+        "[causer of growth - should be possible]",
+        "operator",
+        "entity leaving",
+        "agent",
+        "Logical subject",
+        "shower",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Amy_Fowler",
+      "recipients": [
+        "station",
+        "gunshot",
+        "town"
+      ],
+      "verbs": [
+        "drive",
+        "hear",
+        "run"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "hustled to/into",
+        "Utterance",
+        "entity doing the dropping",
+        "Thinker",
+        "driver",
+        "looker",
+        "operator",
+        "finder",
+        "utterance",
+        "thing used",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Marshal_Will_Kane",
+      "recipients": [
+        "star",
+        "Kane",
+        "bride",
+        "Frank_Miller",
+        "prison",
+        "Amy",
+        "past",
+        "judge",
+        "reins",
+        "town",
+        "confines",
+        "church",
+        "visit",
+        "sermon",
+        "moment",
+        "which",
+        "office",
+        "undertaker",
+        "drawer",
+        "scene",
+        "street",
+        "break",
+        "gang",
+        "Ben_Miller",
+        "refuge",
+        "hayloft",
+        "gun",
+        "aim",
+        "Miller"
+      ],
+      "verbs": [
+        "hang",
+        "congratulate",
+        "arrest",
+        "tell",
+        "run",
+        "turn",
+        "get",
+        "enter",
+        "knock",
+        "pay",
+        "interrupt",
+        "go",
+        "win",
+        "hear",
+        "leaf",
+        "step",
+        "catch",
+        "circle",
+        "drop",
+        "take",
+        "lower",
+        "kill"
+      ],
+      "traits": [
+        "retired",
+        "new",
+        "angry"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "agent",
+        "person congratulated",
+        "expresser",
+        "police",
+        "sender",
+        "hustled to/into",
+        "Speaker",
+        "turner",
+        "operator",
+        "entity getting advice",
+        "pressed (on)",
+        "projectile",
+        "entity entering",
+        "thing hit",
+        "hitter",
+        "entity leaving",
+        "interrupter",
+        "payer or buyer",
+        "Thinker",
+        "resister",
+        "winner",
+        "cleaner",
+        "finder",
+        "creator",
+        "causer of movement",
+        "entity moving",
+        "entity doing the dropping",
+        "thing gotten",
+        "shooter",
+        "driver",
+        "entity escaping",
+        "entity moving something downward",
+        "killer"
+      ]
+    },
+    {
+      "characterName": "outlaws",
+      "recipients": [
+        "arrival",
+        "depot",
+        "gunbelts",
+        "fire",
+        "Kane"
+      ],
+      "verbs": [
+        "await",
+        "settle",
+        "lace",
+        "set",
+        "shoot"
+      ],
+      "traits": [
+        "other"
+      ],
+      "semanticRoles": [
+        "decider",
+        "rider",
+        "lacer",
+        "agent",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Frank_Miller",
+      "recipients": [
+        "contact",
+        "strap",
+        "train"
+      ],
+      "verbs": [
+        "make",
+        "turn",
+        "step"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "criminal",
+        "creator",
+        "turner",
+        "causer of movement",
+        "new knower"
+      ]
+    },
+    {
+      "characterName": "judge",
+      "recipients": [
+        "Miller",
+        "town",
+        "office",
+        "prison",
+        "Kane"
+      ],
+      "verbs": [
+        "sentence",
+        "get",
+        "packing",
+        "advise"
+      ],
+      "traits": [
+        "worldweary"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "packer",
+        "entity giving advice"
+      ]
+    },
+    {
+      "characterName": "Helen_Ramirez",
+      "recipients": [
+        "things",
+        "saloon",
+        "town",
+        "station"
+      ],
+      "verbs": [
+        "complicate",
+        "sell",
+        "leave",
+        "drive"
+      ],
+      "traits": [
+        "surprised"
+      ],
+      "semanticRoles": [
+        "entity leaving",
+        "decider",
+        "Seller",
+        "agent",
+        "driver"
+      ]
+    },
+    {
+      "characterName": "Pell",
+      "recipients": [
+        "Pell"
+      ],
+      "verbs": [
+        "see",
+        "follow"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "pressed (on)",
+        "entity leaving",
+        "viewer",
+        "causal agent",
+        "thing following",
+        "thing viewed",
+        "hit"
+      ]
+    }
+  ]
+}

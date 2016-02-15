@@ -1,0 +1,1850 @@
+{
+  "movieName": "PrincessMononoke(1997)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "gods",
+      "recipients": [
+        "nature",
+        "forest",
+        "beasts",
+        "business"
+      ],
+      "verbs": [
+        "represent",
+        "inhabit",
+        "be"
+      ],
+      "traits": [
+        "ancient",
+        "vengeful",
+        "giant"
+      ],
+      "semanticRoles": [
+        "entity taking place of other",
+        "resident",
+        "dweller",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "people",
+      "recipients": [
+        "Emishi",
+        "ways",
+        "people",
+        "Moro",
+        "terror",
+        "baby",
+        "trees"
+      ],
+      "verbs": [
+        "call",
+        "find",
+        "cut",
+        "throw"
+      ],
+      "traits": [
+        "ambitious",
+        "ancient"
+      ],
+      "semanticRoles": [
+        "entity attacked",
+        "finder",
+        "intentional cutter",
+        "thing cut",
+        "thrower",
+        "builder",
+        "thing attracted"
+      ]
+    },
+    {
+      "characterName": "Demon",
+      "recipients": [
+        "mist",
+        "village",
+        "tendrils",
+        "head",
+        "arrow",
+        "Ashitaka"
+      ],
+      "verbs": [
+        "shroud",
+        "rush",
+        "wrap",
+        "shoot",
+        "throw"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "applier of cover",
+        "causer of motion",
+        "entity attacked",
+        "agent/cause of wrapping",
+        "shooter",
+        "thrower",
+        "entity confronted"
+      ]
+    },
+    {
+      "characterName": "Ashitaka",
+      "recipients": [
+        "mist",
+        "tree",
+        "Yakul",
+        "demon",
+        "village",
+        "bow",
+        "hate",
+        "arm",
+        "She",
+        "day",
+        "town",
+        "rice",
+        "crowd",
+        "thugs",
+        "Jigo",
+        "journey",
+        "base",
+        "gods",
+        "kodama",
+        "home",
+        "route",
+        "Iron_Town",
+        "Ashitaka",
+        "part",
+        "footprints",
+        "forest",
+        "Tatara",
+        "mention",
+        "mercy",
+        "night",
+        "forge",
+        "bellows",
+        "San",
+        "Gonza",
+        "group",
+        "circle",
+        "them",
+        "herself",
+        "life",
+        "strength",
+        "half",
+        "water",
+        "name",
+        "humans",
+        "cave",
+        "nothing",
+        "dawn",
+        "things",
+        "necklace",
+        "wolf",
+        "Town",
+        "word",
+        "Lady_Eboshi",
+        "Eboshi",
+        "wound",
+        "arrow",
+        "men",
+        "message",
+        "straw",
+        "pool",
+        "Moro",
+        "tendrils",
+        "ishibiya",
+        "sword",
+        "island",
+        "lepers",
+        "women",
+        "head",
+        "Walker",
+        "peace"
+      ],
+      "verbs": [
+        "shroud",
+        "jump",
+        "mount",
+        "talk",
+        "leave",
+        "attack",
+        "take",
+        "feel",
+        "show",
+        "thanks",
+        "see",
+        "attempt",
+        "buy",
+        "leaf",
+        "tell",
+        "continue",
+        "arrive",
+        "be",
+        "join",
+        "follow",
+        "come",
+        "emerge",
+        "rescue",
+        "grow",
+        "have",
+        "stay",
+        "go",
+        "work",
+        "hold",
+        "break",
+        "knock",
+        "call",
+        "stop",
+        "save",
+        "eat",
+        "gain",
+        "lie",
+        "hear",
+        "defeat",
+        "wake",
+        "find",
+        "do",
+        "gather",
+        "throw",
+        "carry",
+        "bring",
+        "pull",
+        "reach",
+        "free",
+        "return",
+        "wash",
+        "hit",
+        "swim",
+        "ask",
+        "catch",
+        "reclaim",
+        "rebuild"
+      ],
+      "traits": [
+        "next",
+        "conscious",
+        "surprised",
+        "mercenary"
+      ],
+      "semanticRoles": [
+        "applier of cover",
+        "manager",
+        "climber",
+        "entity leaving",
+        "talker",
+        "attacker",
+        "thing given",
+        "entity suffering",
+        "feeler",
+        "Utterance",
+        "shower",
+        "finder",
+        "rider",
+        "intentional cutter",
+        "thanker",
+        "Sayer",
+        "viewer",
+        "entity intercepted",
+        "entity refusing",
+        "buyer",
+        "thing following",
+        "camper",
+        "Speaker",
+        "causer of continuation",
+        "thing brought",
+        "thing led",
+        "wanter",
+        "agent",
+        "first thing being tied",
+        "causal agent",
+        "knower",
+        "noticer",
+        "thing exiting",
+        "thing welcomed",
+        "rescuer",
+        "entity rescued",
+        "entity in motion",
+        "thanked",
+        "consumer",
+        "creator",
+        "question",
+        "designer",
+        "thing seen/shown",
+        "[causer of growth - should be possible]",
+        "helper",
+        "Agent/Entity Trying",
+        "holder",
+        "thing pushed",
+        "breaker",
+        "hitter",
+        "action being stopped",
+        "thing carried",
+        "thing hit",
+        "entity saving money",
+        "corpse",
+        "meal",
+        "thing put",
+        "speaker",
+        "achiever",
+        "suspecter",
+        "first fighter",
+        "entity victorious",
+        "alarm clock",
+        "receiver",
+        "asker",
+        "complainer",
+        "agent or causer",
+        "thrower",
+        "deflector",
+        "bringer",
+        "carrier",
+        "puller",
+        "thing striving",
+        "challenged (champion?)",
+        "entity providing freedom",
+        "looker",
+        "causer of motion",
+        "thing thrown",
+        "agent of washing",
+        "swimmer",
+        "sent",
+        "thing tossed",
+        "entity attacked",
+        "reclaimer",
+        "sleeper",
+        "replier",
+        "builder"
+      ]
+    },
+    {
+      "characterName": "forest",
+      "recipients": [
+        "eyes",
+        "peace",
+        "Ashitaka",
+        "forest",
+        "neck",
+        "tentacles"
+      ],
+      "verbs": [
+        "have",
+        "live",
+        "send",
+        "grow"
+      ],
+      "traits": [
+        "mountainous",
+        "healthy",
+        "holy"
+      ],
+      "semanticRoles": [
+        "place of residence",
+        "causal agent",
+        "decision",
+        "money",
+        "alive entity",
+        "place invaded",
+        "path",
+        "sender",
+        "[causer of growth - should be possible]"
+      ]
+    },
+    {
+      "characterName": "beasts",
+      "recipients": [
+        "forest",
+        "Spirit",
+        "allegiance",
+        "voiceover"
+      ],
+      "verbs": [
+        "inhabit",
+        "owe",
+        "say"
+      ],
+      "traits": [
+        "Giant",
+        "dumb"
+      ],
+      "semanticRoles": [
+        "resident",
+        "Sayer",
+        "payer or buyer"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "Ashitaka_Billy_Crudup",
+        "way",
+        "girls",
+        "Iron_Town"
+      ],
+      "verbs": [
+        "name",
+        "pass",
+        "tell",
+        "come"
+      ],
+      "traits": [
+        "young",
+        "old",
+        "wounded",
+        "other"
+      ],
+      "semanticRoles": [
+        "legislative body",
+        "Speaker",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "oracle",
+      "recipients": [
+        "village",
+        "everyone",
+        "trouble",
+        "his"
+      ],
+      "verbs": [
+        "order",
+        "sense",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "forcer",
+        "sensor",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Tara",
+      "recipients": [
+        "tower",
+        "edge",
+        "San",
+        "necklace"
+      ],
+      "verbs": [
+        "climb",
+        "look",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "climber",
+        "looker",
+        "question",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Yakul",
+      "recipients": [
+        "Yakul",
+        "girls",
+        "Kaya",
+        "Ashitaka",
+        "San",
+        "foot",
+        "name",
+        "bit",
+        "Jigo",
+        "grass"
+      ],
+      "verbs": [
+        "pursue",
+        "threaten",
+        "carry",
+        "set",
+        "tell",
+        "help",
+        "find",
+        "wake"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing followed",
+        "thing climbed (clomb?)",
+        "thing following",
+        "appealed to",
+        "operator",
+        "agent",
+        "projectile",
+        "carrier",
+        "Speaker",
+        "Sayer",
+        "helper",
+        "limper",
+        "place",
+        "finder",
+        "alarm clock"
+      ]
+    },
+    {
+      "characterName": "tendrils",
+      "recipients": [
+        "arm",
+        "Okkoto"
+      ],
+      "verbs": [
+        "hold",
+        "cover"
+      ],
+      "traits": [
+        "ghostly",
+        "snaky"
+      ],
+      "semanticRoles": [
+        "thing wrapped (e.g.",
+        "entity leaving",
+        "holder",
+        "shower",
+        "coverer",
+        "beginner",
+        "agent",
+        "thing being washed"
+      ]
+    },
+    {
+      "characterName": "arm",
+      "recipients": [
+        "anger",
+        "sword",
+        "life",
+        "one",
+        "check",
+        "ledge"
+      ],
+      "verbs": [
+        "swell",
+        "draw",
+        "spring",
+        "keep",
+        "walk"
+      ],
+      "traits": [
+        "right",
+        "own",
+        "broken",
+        "wounded",
+        "other"
+      ],
+      "semanticRoles": [
+        "thing seen/shown",
+        "[causer of growth - should be possible]",
+        "thing broken",
+        "entity healed",
+        "Logical subject",
+        "Agent/Entity Trying",
+        "artist",
+        "Keeper",
+        "killer",
+        "liker",
+        "thing held",
+        "thing being removed",
+        "looker",
+        "walker"
+      ]
+    },
+    {
+      "characterName": "Hiisama",
+      "recipients": [
+        "hut",
+        "elders",
+        "evening",
+        "divination",
+        "what",
+        "Gonza"
+      ],
+      "verbs": [
+        "call",
+        "perform",
+        "tell"
+      ],
+      "traits": [
+        "elderly"
+      ],
+      "semanticRoles": [
+        "thing carried",
+        "performer",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "She",
+      "recipients": [
+        "water",
+        "Ashitaka",
+        "boar",
+        "necklace",
+        "head",
+        "harness",
+        "pain",
+        "day",
+        "Eboshi",
+        "humans"
+      ],
+      "verbs": [
+        "give",
+        "approach",
+        "tell",
+        "crystal",
+        "knock",
+        "cut",
+        "remove",
+        "feel",
+        "long",
+        "kill",
+        "attack",
+        "care",
+        "forgive"
+      ],
+      "traits": [
+        "sorry",
+        "human"
+      ],
+      "semanticRoles": [
+        "giver",
+        "Speaker",
+        "thing forgotten",
+        "thanked",
+        "knower",
+        "hitter",
+        "intentional cutter",
+        "entity leaving",
+        "entity removing",
+        "feeler",
+        "wanter",
+        "killer",
+        "attacker",
+        "sent",
+        "carer",
+        "forgiver",
+        "other party"
+      ]
+    },
+    {
+      "characterName": "his",
+      "recipients": [
+        "mark",
+        "fate",
+        "forest",
+        "she"
+      ],
+      "verbs": [
+        "reveal",
+        "meet",
+        "visit"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "speaker",
+        "Utterance",
+        "corpse",
+        "achiever",
+        "one party",
+        "promiser"
+      ]
+    },
+    {
+      "characterName": "samurai",
+      "recipients": [
+        "Ashitaka",
+        "demon",
+        "David",
+        "haunch",
+        "arrow"
+      ],
+      "verbs": [
+        "intercept",
+        "\u0027s",
+        "stop",
+        "shoot"
+      ],
+      "traits": [
+        "other"
+      ],
+      "semanticRoles": [
+        "thing viewed",
+        "interceptor",
+        "agent",
+        "second fighter",
+        "Agent/Entity Trying",
+        "shooter",
+        "rider"
+      ]
+    },
+    {
+      "characterName": "town",
+      "recipients": [
+        "bags",
+        "money"
+      ],
+      "verbs": [
+        "be"
+      ],
+      "traits": [
+        "quiet"
+      ],
+      "semanticRoles": [
+        "refused action or object",
+        "place",
+        "defended",
+        "bomb",
+        "entity in motion",
+        "thing found",
+        "construction"
+      ]
+    },
+    {
+      "characterName": "Jigo",
+      "recipients": [
+        "town",
+        "skills",
+        "Ashitaka",
+        "getaway",
+        "secret",
+        "him",
+        "Walker",
+        "sin",
+        "mountain",
+        "hundreds",
+        "distance",
+        "San",
+        "riflemen",
+        "bravado",
+        "reward",
+        "Forest_Spirit",
+        "way",
+        "Lady_Eboshi",
+        "Asano",
+        "possibility",
+        "men",
+        "Moro",
+        "place",
+        "head",
+        "slope",
+        "box",
+        "air"
+      ],
+      "verbs": [
+        "leaf",
+        "notice",
+        "follow",
+        "propose",
+        "keep",
+        "tell",
+        "see",
+        "point",
+        "climb",
+        "travel",
+        "chew",
+        "send",
+        "laugh",
+        "collect",
+        "kill",
+        "ask",
+        "defend",
+        "trust",
+        "find",
+        "put",
+        "attack",
+        "tumble",
+        "grab",
+        "open",
+        "hold"
+      ],
+      "traits": [
+        "weak",
+        "keen",
+        "happy",
+        "convinced"
+      ],
+      "semanticRoles": [
+        "noticer",
+        "entity leaving",
+        "causal agent",
+        "entity proposing",
+        "speaker",
+        "Keeper",
+        "Sayer",
+        "Utterance",
+        "Thinker",
+        "Speaker",
+        "sleeper",
+        "viewer",
+        "pointer",
+        "climber",
+        "traveller",
+        "new knower",
+        "operator",
+        "alarm clock",
+        "finder",
+        "project",
+        "chewer",
+        "sender",
+        "goal",
+        "agent",
+        "killer",
+        "asker",
+        "defender",
+        "something",
+        "truster",
+        "entity experiencing confusion",
+        "allower",
+        "thing gotten",
+        "begger",
+        "attacker",
+        "causer of falling",
+        "grabber",
+        "opener",
+        "holder"
+      ]
+    },
+    {
+      "characterName": "wolves",
+      "recipients": [
+        "soul",
+        "apes",
+        "herself",
+        "boars"
+      ],
+      "verbs": [
+        "take",
+        "threaten",
+        "leave",
+        "join"
+      ],
+      "traits": [
+        "giant",
+        "white",
+        "injured",
+        "young"
+      ],
+      "semanticRoles": [
+        "noticed",
+        "vehicle or path",
+        "killer",
+        "agent",
+        "entity leaving",
+        "impelled agent"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "fire",
+        "men",
+        "trees",
+        "out"
+      ],
+      "verbs": [
+        "open",
+        "attack",
+        "cut",
+        "know",
+        "protect",
+        "knock"
+      ],
+      "traits": [
+        "big",
+        "pups",
+        "injured"
+      ],
+      "semanticRoles": [
+        "opener",
+        "thing reminded about",
+        "patient",
+        "thing pulled",
+        "place",
+        "performer",
+        "explainer",
+        "entity attacked",
+        "intentional cutter",
+        "attacker",
+        "knower",
+        "thing known or thought",
+        "thing destroyed",
+        "something",
+        "burier",
+        "Utterance",
+        "thing meant",
+        "new knower",
+        "entity leaving",
+        "hitter",
+        "operator"
+      ]
+    },
+    {
+      "characterName": "Eboshi",
+      "recipients": [
+        "men",
+        "Gonza",
+        "fire",
+        "forest",
+        "Nago",
+        "responsibility",
+        "secrets",
+        "Ashitaka",
+        "garden",
+        "necessity",
+        "pity",
+        "clan",
+        "Spirit",
+        "what",
+        "Eboshi",
+        "help",
+        "enemy",
+        "charges",
+        "nobody",
+        "Iron_Town",
+        "Jigo",
+        "iron",
+        "Asano",
+        "Emperor",
+        "promise",
+        "arms",
+        "humans",
+        "march",
+        "company",
+        "Forest_Spirit",
+        "distance",
+        "aim",
+        "despair"
+      ],
+      "verbs": [
+        "remind",
+        "invite",
+        "set",
+        "shot",
+        "deny",
+        "ask",
+        "show",
+        "take",
+        "maintain",
+        "say",
+        "kill",
+        "do",
+        "offer",
+        "meet",
+        "attack",
+        "ignore",
+        "cure",
+        "return",
+        "give",
+        "cooperate",
+        "keep",
+        "tell",
+        "trust",
+        "hate",
+        "go",
+        "help",
+        "halt",
+        "watch",
+        "fire",
+        "\u0027s",
+        "send",
+        "thank"
+      ],
+      "traits": [
+        "sure"
+      ],
+      "semanticRoles": [
+        "replier",
+        "cause",
+        "urger",
+        "thing viewed",
+        "inviter",
+        "agent",
+        "shooter",
+        "Utterance",
+        "asker",
+        "denier",
+        "shower",
+        "agreer",
+        "maintainer",
+        "apologist",
+        "Sayer",
+        "killer",
+        "alive entity",
+        "corpse",
+        "achiever",
+        "operator",
+        "goal",
+        "attacker",
+        "thing following",
+        "ignorer",
+        "sent",
+        "doctor (etc)",
+        "thing given",
+        "giver",
+        "one cooperator",
+        "Keeper",
+        "Speaker",
+        "truster",
+        "helper",
+        "wanter",
+        "experiencer",
+        "thing brought",
+        "[causer of growth - should be possible]",
+        "commentor",
+        "entity distracted",
+        "action being stopped",
+        "thing pulled",
+        "project",
+        "question",
+        "thanker",
+        "sender"
+      ]
+    },
+    {
+      "characterName": "you",
+      "recipients": [
+        "mother",
+        "god",
+        "forest"
+      ],
+      "verbs": [
+        "see",
+        "kill",
+        "live"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "thing seen/shown",
+        "killer",
+        "alive entity",
+        "winner"
+      ]
+    },
+    {
+      "characterName": "Moro",
+      "recipients": [
+        "tails",
+        "size",
+        "himself",
+        "Okkoto",
+        "pain",
+        "Moro",
+        "sleep",
+        "nothing",
+        "Ashitaka",
+        "Yakul",
+        "San",
+        "Spirit",
+        "herself",
+        "mass",
+        "Eboshi",
+        "surface",
+        "ground"
+      ],
+      "verbs": [
+        "have",
+        "be",
+        "introduce",
+        "convince",
+        "end",
+        "tell",
+        "cry",
+        "do",
+        "stumble",
+        "go",
+        "rous",
+        "drag",
+        "save",
+        "come",
+        "fall"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "asker",
+        "entity making introduction",
+        "Utterance",
+        "Agent/Entity Trying",
+        "convincer",
+        "Intentional agent",
+        "Sayer",
+        "impelled action",
+        "Speaker",
+        "Keeper",
+        "leader",
+        "speaker",
+        "understander",
+        "corpse",
+        "agent",
+        "object accompanied",
+        "goal",
+        "thing found",
+        "dragger",
+        "entity saving money",
+        "question",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "San",
+      "recipients": [
+        "Moro",
+        "hillside",
+        "San",
+        "Lady_Eboshi",
+        "Ashitaka",
+        "circle",
+        "grip",
+        "moment",
+        "lake",
+        "island",
+        "heart",
+        "Domain",
+        "meat",
+        "Jigo",
+        "brother",
+        "boars",
+        "battle",
+        "unnaturally",
+        "humans",
+        "warriors",
+        "danger",
+        "air"
+      ],
+      "verbs": [
+        "tell",
+        "run",
+        "make",
+        "fight",
+        "push",
+        "break",
+        "flail",
+        "call",
+        "calm",
+        "cross",
+        "take",
+        "offer",
+        "chew",
+        "ride",
+        "put",
+        "join",
+        "slither",
+        "`",
+        "be",
+        "beg",
+        "kill",
+        "hold"
+      ],
+      "traits": [
+        "unable",
+        "angry"
+      ],
+      "semanticRoles": [
+        "entity getting warning",
+        "Speaker",
+        "operator",
+        "creation",
+        "creator",
+        "Utterance",
+        "first fighter",
+        "pusher",
+        "thing following",
+        "first struggler",
+        "breaker",
+        "thing carried",
+        "thing brought",
+        "hitter",
+        "cause of conciliation",
+        "Agent/Entity Trying",
+        "agent of calming",
+        "entity becoming calm",
+        "crosser",
+        "food",
+        "chewer",
+        "legislative body",
+        "new knower",
+        "viewer",
+        "thing found",
+        "possession",
+        "loved",
+        "rider",
+        "Sayer",
+        "replier",
+        "agent",
+        "receiver",
+        "thing viewed",
+        "walker",
+        "entity slithering",
+        "entity afraid",
+        "begger",
+        "entity sucked",
+        "thing hit",
+        "thing given",
+        "thing dragged",
+        "money",
+        "wanter",
+        "killer",
+        "thing kept",
+        "holder",
+        "sleeper"
+      ]
+    },
+    {
+      "characterName": "spirit",
+      "recipients": [
+        "Ashitaka",
+        "human",
+        "Okkoto",
+        "bit",
+        "David",
+        "Eboshi"
+      ],
+      "verbs": [
+        "look",
+        "bother",
+        "stop",
+        "heal",
+        "allow"
+      ],
+      "traits": [
+        "small",
+        "white",
+        "dead"
+      ],
+      "semanticRoles": [
+        "corpse",
+        "looker",
+        "walker",
+        "entity causing cure",
+        "causer of sinking",
+        "thing hit",
+        "allower",
+        "thing given"
+      ]
+    },
+    {
+      "characterName": "Kouroku",
+      "recipients": [
+        "kodoma",
+        "sign",
+        "Kouroku",
+        "air",
+        "arm",
+        "bow",
+        "arrows",
+        "amazement"
+      ],
+      "verbs": [
+        "\u0027s",
+        "be",
+        "tell",
+        "raise",
+        "return",
+        "look"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "Speaker",
+        "Utterance",
+        "impelled agent",
+        "Agent",
+        "new knower",
+        "yelled at",
+        "looker"
+      ]
+    },
+    {
+      "characterName": "He",
+      "recipients": [
+        "gunner",
+        "area",
+        "herd",
+        "control",
+        "wolf"
+      ],
+      "verbs": [
+        "set",
+        "scan",
+        "spot",
+        "subdue",
+        "regain",
+        "free",
+        "need"
+      ],
+      "traits": [
+        "strong"
+      ],
+      "semanticRoles": [
+        "applauder",
+        "agent",
+        "looker",
+        "finder",
+        "defeater",
+        "recoverer",
+        "first struggler",
+        "carrier",
+        "horrified entity",
+        "entity providing freedom",
+        "helper",
+        "needer",
+        "entity guided"
+      ]
+    },
+    {
+      "characterName": "Gonza",
+      "recipients": [
+        "demands",
+        "Ashitaka",
+        "who",
+        "result",
+        "ball",
+        "wound",
+        "sleeve",
+        "Eboshi",
+        "Gonza",
+        "Iron_Town",
+        "ooze"
+      ],
+      "verbs": [
+        "approach",
+        "be",
+        "show",
+        "remove",
+        "tell",
+        "do",
+        "stop",
+        "escape"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "manager",
+        "walker",
+        "thing cut",
+        "entity being criticized",
+        "invited",
+        "shower",
+        "entity removing",
+        "Speaker",
+        "question",
+        "speaker",
+        "viewer",
+        "entity leaving",
+        "Utterance",
+        "place",
+        "thing held",
+        "Agent/Entity Trying",
+        "action being stopped",
+        "entity escaping",
+        "swimmer",
+        "complainer",
+        "thanked"
+      ]
+    },
+    {
+      "characterName": "women",
+      "recipients": [
+        "men",
+        "prostitutes",
+        "workers",
+        "wives",
+        "bellows",
+        "retribution",
+        "shots",
+        "Eboshi",
+        "Ashitaka",
+        "top",
+        "Iron_Town",
+        "trouble",
+        "care",
+        "walls",
+        "eye",
+        "lake"
+      ],
+      "verbs": [
+        "heckle",
+        "be",
+        "`",
+        "make",
+        "work",
+        "want",
+        "fire",
+        "tell",
+        "defend",
+        "have",
+        "ask",
+        "take",
+        "guard",
+        "keep",
+        "get"
+      ],
+      "traits": [
+        "Iron_Town",
+        "other"
+      ],
+      "semanticRoles": [
+        "heckler",
+        "entity made free",
+        "creator",
+        "Speaker",
+        "wanter",
+        "consumer",
+        "supporter",
+        "shooter",
+        "Thinker",
+        "sport or other school activity",
+        "place",
+        "defender",
+        "asker",
+        "Keeper",
+        "guard",
+        "viewer",
+        "receiver",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "Lady_Eboshi",
+      "recipients": [
+        "women",
+        "demon",
+        "Nago",
+        "samples",
+        "Ashitaka",
+        "night",
+        "power",
+        "San",
+        "Jigo",
+        "place",
+        "Forest_Spirit",
+        "head",
+        "Spirit"
+      ],
+      "verbs": [
+        "free",
+        "turn",
+        "inspect",
+        "ask",
+        "be",
+        "showcase",
+        "call",
+        "tell",
+        "see",
+        "shoot",
+        "grab",
+        "give"
+      ],
+      "traits": [
+        "intent",
+        "optimistic"
+      ],
+      "semanticRoles": [
+        "entity providing freedom",
+        "turner",
+        "examiner",
+        "asker",
+        "second fighter",
+        "thing broken",
+        "corpse",
+        "Speaker",
+        "shower",
+        "Sayer",
+        "question",
+        "replier",
+        "thing found",
+        "viewer",
+        "shooter",
+        "giver",
+        "grabber"
+      ]
+    },
+    {
+      "characterName": "lepers",
+      "recipients": [
+        "fear",
+        "Iron_Town",
+        "lake"
+      ],
+      "verbs": [
+        "shrink",
+        "defend",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent",
+        "place",
+        "defender",
+        "receiver",
+        "Utterance",
+        "entity causing cure",
+        "looker",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "enemy",
+      "recipients": [
+        "enemy",
+        "Eboshi",
+        "roof"
+      ],
+      "verbs": [
+        "\u0027s",
+        "follow"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "explainer",
+        "Agent/Entity Trying",
+        "entity attacked",
+        "causal agent",
+        "thing ignored"
+      ]
+    },
+    {
+      "characterName": "riflemen",
+      "recipients": [
+        "gate",
+        "Asano"
+      ],
+      "verbs": [
+        "reach",
+        "hold"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "supporter",
+        "sent",
+        "thing striving",
+        "holder",
+        "thing being withdrawn (often understood as \u0027self\u0027)",
+        "helper",
+        "Utterance",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "townspeople",
+      "recipients": [
+        "onlookers",
+        "San",
+        "Iron_Town"
+      ],
+      "verbs": [
+        "tell",
+        "carry",
+        "leaf",
+        "bring"
+      ],
+      "traits": [
+        "armed"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "carrier",
+        "opener",
+        "entity leaving",
+        "bringer"
+      ]
+    },
+    {
+      "characterName": "nobody",
+      "recipients": [
+        "speech",
+        "San",
+        "Eboshi"
+      ],
+      "verbs": [
+        "hear",
+        "take",
+        "hand"
+      ],
+      "traits": [
+        "ready"
+      ],
+      "semanticRoles": [
+        "patient",
+        "second fighter",
+        "Sayer",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "herself",
+      "recipients": [
+        "brothers",
+        "wolves",
+        "Ashitaka",
+        "trust",
+        "brother",
+        "She",
+        "boars",
+        "demon"
+      ],
+      "verbs": [
+        "wolf",
+        "convince",
+        "place",
+        "gain",
+        "send",
+        "fend",
+        "confront"
+      ],
+      "traits": [
+        "beautiful"
+      ],
+      "semanticRoles": [
+        "asker",
+        "knower",
+        "action being stopped",
+        "money",
+        "person surprised",
+        "thing interrupted",
+        "eater",
+        "convincer",
+        "putter",
+        "place",
+        "sender",
+        "Utterance",
+        "thing ignored",
+        "entity getting by",
+        "patient",
+        "confrontational entity"
+      ]
+    },
+    {
+      "characterName": "Walker",
+      "recipients": [
+        "view",
+        "clearing",
+        "itself",
+        "forest",
+        "search",
+        "couple",
+        "appearance",
+        "place",
+        "sun"
+      ],
+      "verbs": [
+        "come",
+        "lower",
+        "prowl",
+        "have",
+        "resume",
+        "straighten",
+        "face"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity moving something downward",
+        "thing viewed",
+        "agent",
+        "sensor",
+        "causal agent",
+        "cause of straightness",
+        "Agent",
+        "looker"
+      ]
+    },
+    {
+      "characterName": "boars",
+      "recipients": [
+        "humans",
+        "battle"
+      ],
+      "verbs": [
+        "attack",
+        "run"
+      ],
+      "traits": [
+        "native",
+        "angry"
+      ],
+      "semanticRoles": [
+        "planner",
+        "attacker",
+        "first thing being tied",
+        "operator",
+        "agent",
+        "corpse(s)",
+        "REC"
+      ]
+    },
+    {
+      "characterName": "Okkoto",
+      "recipients": [
+        "roar",
+        "Ashitaka",
+        "humans",
+        "strength",
+        "San",
+        "David",
+        "herself"
+      ],
+      "verbs": [
+        "let",
+        "sniff",
+        "thanks",
+        "attack",
+        "lose",
+        "believe",
+        "become",
+        "ignore",
+        "give"
+      ],
+      "traits": [
+        "blind"
+      ],
+      "semanticRoles": [
+        "allower",
+        "injured party",
+        "entity healed",
+        "sniffer",
+        "thanker",
+        "Sayer",
+        "planner",
+        "attacker",
+        "impelled agent",
+        "needer",
+        "Stimulusr of injury",
+        "leader",
+        "causer of bloodshed",
+        "ignorer",
+        "thing covered",
+        "question",
+        "giver",
+        "supporter"
+      ]
+    },
+    {
+      "characterName": "David",
+      "recipients": [
+        "Ashitaka",
+        "scheme",
+        "warning",
+        "explosions",
+        "distance",
+        "town",
+        "domain",
+        "demon"
+      ],
+      "verbs": [
+        "kill",
+        "listen",
+        "hear",
+        "see",
+        "near",
+        "walk",
+        "transform"
+      ],
+      "traits": [
+        "aware"
+      ],
+      "semanticRoles": [
+        "killer",
+        "listener",
+        "viewer",
+        "action being stopped",
+        "walker",
+        "entity victorious",
+        "Stimulusr of injury",
+        "experiencer",
+        "agent",
+        "action allowed"
+      ]
+    },
+    {
+      "characterName": "Forest_Spirit",
+      "recipients": [
+        "life",
+        "form"
+      ],
+      "verbs": [
+        "spare",
+        "approach",
+        "be"
+      ],
+      "traits": [
+        "halftransformed",
+        "dead"
+      ],
+      "semanticRoles": [
+        "savior",
+        "corpse",
+        "thing found",
+        "projectile",
+        "gun/projectile",
+        "creation"
+      ]
+    },
+    {
+      "characterName": "humans",
+      "recipients": [
+        "peace",
+        "forest",
+        "what"
+      ],
+      "verbs": [
+        "live",
+        "invade",
+        "do"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "corpse",
+        "entity attacked",
+        "entity defeated",
+        "alive entity",
+        "invader",
+        "target or hatred",
+        "entity forgiven"
+      ]
+    },
+    {
+      "characterName": "head",
+      "recipients": [
+        "life",
+        "Emperor",
+        "ground"
+      ],
+      "verbs": [
+        "give",
+        "fall"
+      ],
+      "traits": [
+        "severed"
+      ],
+      "semanticRoles": [
+        "giver",
+        "entity grabbed",
+        "entity in motion",
+        "thing carried",
+        "place",
+        "entity reclaimed",
+        "goal"
+      ]
+    },
+    {
+      "characterName": "baby",
+      "recipients": [
+        "San_Moro",
+        "San",
+        "Moro"
+      ],
+      "verbs": [
+        "be",
+        "love",
+        "kill"
+      ],
+      "traits": [
+        "back"
+      ],
+      "semanticRoles": [
+        "thing thrown",
+        "Logical subject",
+        "thing kept",
+        "lover",
+        "killer"
+      ]
+    }
+  ]
+}

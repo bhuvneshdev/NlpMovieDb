@@ -1,0 +1,77 @@
+{
+  "movieName": "Singin\u0027intheRain(1952)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Don_Lockwood",
+      "recipients": [
+        "star",
+        "lady",
+        "car",
+        "day",
+        "party",
+        "Kathy",
+        "amusement",
+        "scene",
+        "instance",
+        "audience",
+        "her"
+      ],
+      "verbs": [
+        "be",
+        "tolerate",
+        "jump",
+        "run",
+        "discover",
+        "repeat",
+        "introduce",
+        "have"
+      ],
+      "traits": [
+        "new"
+      ],
+      "semanticRoles": [
+        "tolerater",
+        "operator",
+        "finder",
+        "creator",
+        "thing changing",
+        "speaker",
+        "Theme(-Creation)",
+        "entity making introduction"
+      ]
+    },
+    {
+      "characterName": "Kathy_Selden",
+      "recipients": [
+        "girl",
+        "pie",
+        "Lockwood",
+        "voice",
+        "campaign",
+        "credit",
+        "future",
+        "while"
+      ],
+      "verbs": [
+        "be",
+        "throw",
+        "dub",
+        "receive",
+        "do",
+        "sing"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "driver",
+        "entity doing the dropping",
+        "thrower",
+        "assigner of name",
+        "causer of continuation",
+        "singer",
+        "Agent/Entity Trying",
+        "operator",
+        "Agent"
+      ]
+    }
+  ]
+}

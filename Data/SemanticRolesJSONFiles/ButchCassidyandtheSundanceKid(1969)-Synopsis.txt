@@ -1,0 +1,198 @@
+{
+  "movieName": "ButchCassidyandtheSundanceKid(1969)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Butch_Cassidy",
+      "recipients": [
+        "robbery",
+        "HoleintheWall",
+        "hideout",
+        "fight",
+        "idea",
+        "posse",
+        "town",
+        "amnesty",
+        "village",
+        "Spanish",
+        "cribsheet",
+        "man",
+        "evening",
+        "dinner",
+        "mine",
+        "job",
+        "robbers",
+        "bandidos",
+        "train",
+        "eatery",
+        "run",
+        "mule",
+        "ammunition",
+        "house"
+      ],
+      "verbs": [
+        "plan",
+        "Cassidy",
+        "win",
+        "take",
+        "find",
+        "arrive",
+        "arrange",
+        "speak",
+        "need",
+        "see",
+        "have",
+        "get",
+        "kill",
+        "return",
+        "attack",
+        "eat",
+        "make",
+        "retrieve",
+        "run"
+      ],
+      "traits": [
+        "own",
+        "unable",
+        "low"
+      ],
+      "semanticRoles": [
+        "planner",
+        "finder",
+        "winner",
+        "listener",
+        "User",
+        "thing following",
+        "betrayed",
+        "Agent/Entity Trying",
+        "builder",
+        "corpse",
+        "entity hunted for",
+        "thinker",
+        "thing seen/shown",
+        "talker",
+        "understander",
+        "needer",
+        "subject",
+        "receiver",
+        "thing sought",
+        "viewer",
+        "entity attacked",
+        "impelled agent",
+        "killer",
+        "decider",
+        "place",
+        "attacker",
+        "consumer",
+        "thing covered",
+        "creator",
+        "manager",
+        "operator"
+      ]
+    },
+    {
+      "characterName": "posse",
+      "recipients": [
+        "Sundance",
+        "Butch",
+        "Cassidy"
+      ],
+      "verbs": [
+        "follow",
+        "kill"
+      ],
+      "traits": [
+        "entire"
+      ],
+      "semanticRoles": [
+        "Logical subject",
+        "thing carried",
+        "causal agent",
+        "thing found",
+        "entity causing separation",
+        "killer"
+      ]
+    },
+    {
+      "characterName": "Sundance",
+      "recipients": [
+        "choice",
+        "evening",
+        "dinner",
+        "robbers",
+        "train",
+        "eatery",
+        "Cassidy"
+      ],
+      "verbs": [
+        "resent",
+        "have",
+        "kill",
+        "attack",
+        "eat",
+        "cover"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "listener",
+        "thing following",
+        "chooser",
+        "swimmer",
+        "first fighter",
+        "thing seen/shown",
+        "resenter",
+        "impelled agent",
+        "killer",
+        "attacker",
+        "consumer",
+        "coverer"
+      ]
+    },
+    {
+      "characterName": "persuers",
+      "recipients": [
+        "river",
+        "Butch",
+        "Kid",
+        "day",
+        "house",
+        "time"
+      ],
+      "verbs": [
+        "jump",
+        "kill",
+        "arrive",
+        "decide"
+      ],
+      "traits": [
+        "persuers"
+      ],
+      "semanticRoles": [
+        "decider",
+        "student",
+        "killer"
+      ]
+    },
+    {
+      "characterName": "Etta",
+      "recipients": [
+        "Butch",
+        "evening",
+        "dinner",
+        "Cassidy"
+      ],
+      "verbs": [
+        "teach",
+        "have",
+        "decide",
+        "leave"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing seen/shown",
+        "teacher",
+        "entity leaving",
+        "decider"
+      ]
+    }
+  ]
+}

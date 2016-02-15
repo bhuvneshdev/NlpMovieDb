@@ -1,0 +1,311 @@
+{
+  "movieName": "TheBridgeontheRiverKwai(1957)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "prisoners",
+      "recipients": [
+        "middle",
+        "corpse",
+        "prisoners",
+        "work"
+      ],
+      "verbs": [
+        "bury",
+        "be",
+        "return"
+      ],
+      "traits": [
+        "British",
+        "obedient",
+        "cooperative"
+      ],
+      "semanticRoles": [
+        "burier",
+        "agent walking",
+        "impelled agent",
+        "one surrendering",
+        "informed",
+        "item being addressed (letter",
+        "builder"
+      ]
+    },
+    {
+      "characterName": "Nicholson",
+      "recipients": [
+        "officers",
+        "morning",
+        "attention",
+        "amnesty",
+        "sabotage",
+        "men",
+        "wires",
+        "bridge",
+        "riverbank",
+        "help",
+        "Joyce"
+      ],
+      "verbs": [
+        "command",
+        "standing",
+        "use",
+        "find",
+        "drive",
+        "notice",
+        "walk",
+        "hurry",
+        "yell",
+        "stop"
+      ],
+      "traits": [
+        "shocked"
+      ],
+      "semanticRoles": [
+        "announcer",
+        "getter",
+        "causal agent",
+        "thing hit",
+        "causer",
+        "entity refusing",
+        "User",
+        "walker",
+        "finder",
+        "agent",
+        "explainer",
+        "driver",
+        "noticer",
+        "Yeller",
+        "Agent/Entity Trying",
+        "goal",
+        "speaker",
+        "injured party"
+      ]
+    },
+    {
+      "characterName": "commander",
+      "recipients": [
+        "prisoners",
+        "standing",
+        "sinking"
+      ],
+      "verbs": [
+        "address",
+        "leaf",
+        "survive"
+      ],
+      "traits": [
+        "Japanese"
+      ],
+      "semanticRoles": [
+        "addresser",
+        "entity leaving",
+        "corpse",
+        "survivor"
+      ]
+    },
+    {
+      "characterName": "officers",
+      "recipients": [],
+      "verbs": [],
+      "traits": [
+        "British",
+        "Japanese",
+        "willing",
+        "junior"
+      ],
+      "semanticRoles": [
+        "gotten",
+        "thing gotten",
+        "projectile",
+        "sent",
+        "entity exempted",
+        "walker",
+        "thrower",
+        "thing offered"
+      ]
+    },
+    {
+      "characterName": "Saito",
+      "recipients": [
+        "Nicholson",
+        "gun",
+        "meantime",
+        "deadline",
+        "amnesty",
+        "bridge",
+        "ingenuity",
+        "what",
+        "village",
+        "safety",
+        "Shears",
+        "mouth",
+        "riverbank"
+      ],
+      "verbs": [
+        "backhand",
+        "have",
+        "meet",
+        "proclaimed",
+        "build",
+        "consider",
+        "stumble",
+        "get",
+        "make",
+        "hurry"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "pointer",
+        "angry entity",
+        "impelled (non)agent",
+        "please or help whom? entity pleased by arg 0",
+        "causal agent",
+        "achiever",
+        "Utterance",
+        "speaker",
+        "releaser",
+        "breaker",
+        "decider",
+        "builder",
+        "thinker",
+        "wanter",
+        "receiver",
+        "agent",
+        "thing given",
+        "creator",
+        "thing picked",
+        "one who dallies",
+        "causer"
+      ]
+    },
+    {
+      "characterName": "Shears",
+      "recipients": [
+        "water",
+        "river",
+        "tags",
+        "Horne",
+        "prison",
+        "cover",
+        "explosives",
+        "fire"
+      ],
+      "verbs": [
+        "run",
+        "drink",
+        "switch",
+        "leave",
+        "wire",
+        "swim",
+        "turn"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "projectile",
+        "impelled agent",
+        "operator",
+        "drinker",
+        "creation",
+        "entity volunteering",
+        "question",
+        "entity refusing",
+        "teller of tale",
+        "causer of transformation",
+        "entity leaving",
+        "sender",
+        "swimmer",
+        "corpse",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "Jack_Hawkins",
+      "recipients": [
+        "group",
+        "Shears",
+        "area",
+        "sinking"
+      ],
+      "verbs": [
+        "lead",
+        "ask",
+        "know",
+        "be",
+        "survive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "talker",
+        "asker",
+        "leader",
+        "knower",
+        "survivor"
+      ]
+    },
+    {
+      "characterName": "Warden",
+      "recipients": [
+        "Warden",
+        "deal",
+        "status",
+        "Horne",
+        "soldier",
+        "shot",
+        "foot",
+        "fire"
+      ],
+      "verbs": [
+        "tell",
+        "offer",
+        "keep",
+        "jump",
+        "kill",
+        "get",
+        "turn"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "Speaker",
+        "thing given",
+        "avoider",
+        "survivor",
+        "receiver",
+        "Keeper",
+        "killer",
+        "wind",
+        "wanter",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "Joyce_Geoffrey_Horne",
+      "recipients": [
+        "volunteers",
+        "pressure",
+        "prison",
+        "cover",
+        "explosives",
+        "Nicholson"
+      ],
+      "verbs": [
+        "join",
+        "fold",
+        "wire",
+        "reach"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "mixer",
+        "causer of freezing",
+        "place",
+        "entity in motion",
+        "sender",
+        "action being stopped",
+        "thing hit",
+        "thing striving",
+        "projectile"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "movieName": "DogDayAfternoon(1975)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Sonny",
+      "recipients": [
+        "call",
+        "Eugene_Moretti",
+        "bargains",
+        "Wortzik",
+        "bank",
+        "chant",
+        "crowd",
+        "children",
+        "Angie",
+        "wife",
+        "police",
+        "it",
+        "front"
+      ],
+      "verbs": [
+        "get",
+        "nervously",
+        "release",
+        "step",
+        "start",
+        "incite",
+        "have",
+        "rob",
+        "tell",
+        "write",
+        "check",
+        "sit"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "receiver",
+        "releaser",
+        "impelled agent",
+        "causer of movement",
+        "Agent",
+        "causer of action",
+        "robber",
+        "thing given",
+        "Speaker",
+        "allower",
+        "question",
+        "agreer",
+        "checker",
+        "criminal"
+      ]
+    },
+    {
+      "characterName": "Eugene_Moretti",
+      "recipients": [
+        "Wortzik",
+        "siege",
+        "bank",
+        "hostage",
+        "Sonny"
+      ],
+      "verbs": [
+        "tell",
+        "set",
+        "call",
+        "ask",
+        "convince",
+        "persuade"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "agent",
+        "corpse",
+        "player",
+        "asker",
+        "convincer",
+        "Agent/Entity Trying"
+      ]
+    },
+    {
+      "characterName": "Wortzik",
+      "recipients": [
+        "shot",
+        "favors",
+        "Sonny",
+        "himself",
+        "Sal",
+        "Kennedy_Airport",
+        "hostages"
+      ],
+      "verbs": [
+        "fire",
+        "give",
+        "drive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "thing released",
+        "shooter",
+        "giver",
+        "entity refusing",
+        "impelled agent",
+        "decider",
+        "driver"
+      ]
+    },
+    {
+      "characterName": "Sal",
+      "recipients": [
+        "bank",
+        "Sal",
+        "gun",
+        "position"
+      ],
+      "verbs": [
+        "rob",
+        "sit",
+        "point",
+        "shoot",
+        "wait"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "robber",
+        "first thing being tied",
+        "vehicle or path",
+        "pointer",
+        "question",
+        "projectile",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Sheldon",
+      "recipients": [
+        "actions",
+        "command",
+        "doctor",
+        "Leon",
+        "weapon",
+        "dashboard"
+      ],
+      "verbs": [
+        "monitor",
+        "take",
+        "let",
+        "convince",
+        "force"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "observer",
+        "allower",
+        "convincer",
+        "shower",
+        "forcer"
+      ]
+    },
+    {
+      "characterName": "Leon",
+      "recipients": [
+        "Sonny",
+        "suicide",
+        "offer",
+        "nothing"
+      ],
+      "verbs": [
+        "talk",
+        "have",
+        "turn"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "talker",
+        "entity refusing",
+        "impelled agent",
+        "turner"
+      ]
+    }
+  ]
+}

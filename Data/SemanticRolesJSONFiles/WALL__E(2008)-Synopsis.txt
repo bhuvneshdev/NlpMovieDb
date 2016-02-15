@@ -1,0 +1,220 @@
+{
+  "movieName": "WALL__E(2008)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "humans",
+      "recipients": [
+        "variety",
+        "Axiom",
+        "planet",
+        "plant"
+      ],
+      "verbs": [
+        "see",
+        "cart",
+        "heal",
+        "nurture"
+      ],
+      "traits": [
+        "other"
+      ],
+      "semanticRoles": [
+        "alive entity",
+        "thing viewed",
+        "viewer",
+        "first (or all) communicator(s)",
+        "action allowed",
+        "conveyor",
+        "entity leaving",
+        "entity causing cure",
+        "caring entity",
+        "subject",
+        "Thinker"
+      ]
+    },
+    {
+      "characterName": "Ben_Burtt",
+      "recipients": [
+        "dreams",
+        "night",
+        "Dolly",
+        "plant"
+      ],
+      "verbs": [
+        "watch",
+        "discover"
+      ],
+      "traits": [
+        "only"
+      ],
+      "semanticRoles": [
+        "Keeper",
+        "agent",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "plant",
+      "recipients": [
+        "chute",
+        "cabin",
+        "McCrea"
+      ],
+      "verbs": [
+        "back"
+      ],
+      "traits": [
+        "lonely"
+      ],
+      "semanticRoles": [
+        "thing found",
+        "misser",
+        "creation",
+        "entity rescued",
+        "thing given",
+        "supporter",
+        "entity nurtured"
+      ]
+    },
+    {
+      "characterName": "WALLE",
+      "recipients": [
+        "hand",
+        "Knight",
+        "garage",
+        "ride",
+        "humans",
+        "chair",
+        "himself",
+        "man",
+        "EVE",
+        "bay",
+        "cannon",
+        "plant",
+        "hatch",
+        "extinguisher",
+        "chute",
+        "cabin",
+        "McCrea",
+        "Auto",
+        "her",
+        "garbage"
+      ],
+      "verbs": [
+        "hold",
+        "approach",
+        "take",
+        "hitch",
+        "see",
+        "knock",
+        "introduce",
+        "help",
+        "track",
+        "think",
+        "use",
+        "rescue",
+        "back",
+        "prevent",
+        "recognize",
+        "begin"
+      ],
+      "traits": [
+        "quick",
+        "smitten",
+        "able",
+        "damaged"
+      ],
+      "semanticRoles": [
+        "holder",
+        "hoper",
+        "causer of attachment",
+        "thing examined",
+        "viewer",
+        "hitter",
+        "entity making introduction",
+        "helper",
+        "thing following",
+        "caterer",
+        "Thinker",
+        "User",
+        "source of loud noise",
+        "rescuer",
+        "supporter",
+        "entity escaping",
+        "creator",
+        "Agent",
+        "thing crushed",
+        "beginner",
+        "applauder"
+      ]
+    },
+    {
+      "characterName": "EVE",
+      "recipients": [
+        "cannon",
+        "Recolonize",
+        "plant",
+        "robots",
+        "Garlin",
+        "Earth",
+        "chute",
+        "cabin",
+        "McCrea",
+        "hand",
+        "kiss"
+      ],
+      "verbs": [
+        "use",
+        "trigger",
+        "produce",
+        "be",
+        "send",
+        "back",
+        "put",
+        "hold",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "User",
+        "entity in motion",
+        "thing examined",
+        "thing followed",
+        "creator",
+        "entity damaged",
+        "sender",
+        "supporter",
+        "entity escaping",
+        "causer of motion",
+        "holder",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "McCrea_Jeff_Garlin",
+      "recipients": [
+        "AUTO",
+        "humans"
+      ],
+      "verbs": [
+        "shut",
+        "teach"
+      ],
+      "traits": [
+        "inert",
+        "confused",
+        "own"
+      ],
+      "semanticRoles": [
+        "sent",
+        "viewer",
+        "thing given",
+        "thing being supported",
+        "manager",
+        "person doing the closing",
+        "causal agent",
+        "teacher"
+      ]
+    }
+  ]
+}

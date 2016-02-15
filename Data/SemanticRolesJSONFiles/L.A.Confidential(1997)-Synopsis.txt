@@ -1,0 +1,897 @@
+{
+  "movieName": "L.A.Confidential(1997)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "officers",
+      "recipients": [
+        "Exley",
+        "Smith"
+      ],
+      "verbs": [
+        "assist"
+      ],
+      "traits": [
+        "separate",
+        "other",
+        "several"
+      ],
+      "semanticRoles": [
+        "employer",
+        "entity assaulted",
+        "Theme(-Creation)",
+        "impelled agent",
+        "thing found",
+        "thing pulled",
+        "causer of continuing event"
+      ]
+    },
+    {
+      "characterName": "White",
+      "recipients": [
+        "San_Quentin_State_Penitentiary",
+        "partner",
+        "White",
+        "cop",
+        "car",
+        "Stensland",
+        "Smith",
+        "complex",
+        "store",
+        "Lefferts",
+        "Meeks",
+        "night",
+        "Lynn",
+        "muzzle",
+        "Roulette",
+        "Exley",
+        "home",
+        "Mrs",
+        "corpse",
+        "crawlspace",
+        "supply",
+        "himself",
+        "pictures",
+        "trunk",
+        "house",
+        "precinct",
+        "toilet",
+        "head",
+        "call"
+      ],
+      "verbs": [
+        "send",
+        "find",
+        "watch",
+        "be",
+        "get",
+        "pull",
+        "calm",
+        "aid",
+        "beat",
+        "return",
+        "meet",
+        "put",
+        "play",
+        "attack",
+        "visit",
+        "notice",
+        "check",
+        "come",
+        "administer",
+        "photograph",
+        "kill",
+        "shove",
+        "dangle",
+        "receive"
+      ],
+      "traits": [
+        "own"
+      ],
+      "semanticRoles": [
+        "sender",
+        "finder",
+        "agent",
+        "entity confronted",
+        "releaser",
+        "sent",
+        "light itself",
+        "goal",
+        "Utterance",
+        "entity disarmed of weapons",
+        "receiver",
+        "puller",
+        "Agent/Entity Trying",
+        "agent of calming",
+        "informant",
+        "impelled agent",
+        "entity refusing",
+        "helper",
+        "agreer",
+        "viewer",
+        "animate",
+        "achiever",
+        "player",
+        "thing held",
+        "attacker",
+        "thing turning",
+        "one party",
+        "expecter",
+        "noticer",
+        "checker",
+        "talker",
+        "decider",
+        "thing viewed",
+        "administrator",
+        "speaker",
+        "photographer",
+        "killer",
+        "second fighter",
+        "causer of dangling",
+        "pusher",
+        "entity dangling",
+        "entity in motion",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "mother",
+      "recipients": [
+        "mother",
+        "Stensland",
+        "photograph",
+        "White"
+      ],
+      "verbs": [
+        "identify",
+        "tell"
+      ],
+      "traits": [
+        "own"
+      ],
+      "semanticRoles": [
+        "corpse",
+        "item being labelled",
+        "caller",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Bud",
+      "recipients": [
+        "tolerance",
+        "sleigh",
+        "decorations",
+        "man",
+        "store",
+        "alcohol",
+        "woman",
+        "White",
+        "Patchett",
+        "remorse",
+        "hands"
+      ],
+      "verbs": [
+        "have",
+        "yank",
+        "tell",
+        "go",
+        "buy",
+        "meet",
+        "notice",
+        "disarm",
+        "inquire",
+        "talk",
+        "feel",
+        "shake"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "puller",
+        "Speaker",
+        "buyer",
+        "achiever",
+        "noticer",
+        "inquirer",
+        "entity removing weapons",
+        "talker",
+        "finder",
+        "shooter",
+        "agreer",
+        "feeler",
+        "causer of trembling motion"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "White",
+        "car",
+        "shotguns",
+        "address",
+        "who",
+        "law"
+      ],
+      "verbs": [
+        "confront",
+        "drive",
+        "find",
+        "give",
+        "be",
+        "evade"
+      ],
+      "traits": [
+        "unidentified",
+        "black",
+        "next"
+      ],
+      "semanticRoles": [
+        "confrontational entity",
+        "Utterance",
+        "driver",
+        "finder",
+        "thing followed",
+        "giver",
+        "question or thing in doubt",
+        "avoider"
+      ]
+    },
+    {
+      "characterName": "Stensland",
+      "recipients": [
+        "store",
+        "downstairs",
+        "area"
+      ],
+      "verbs": [
+        "go",
+        "rush"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "confirmer",
+        "causer of motion",
+        "thing pulled",
+        "entity becoming calm",
+        "item being labelled",
+        "corpse",
+        "receiver",
+        "thing led",
+        "student",
+        "thing viewed",
+        "performer"
+      ]
+    },
+    {
+      "characterName": "Lynn",
+      "recipients": [
+        "Veronica_Lake",
+        "Rita_Hayworth",
+        "knowledge"
+      ],
+      "verbs": [
+        "be",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "applauder",
+        "goal",
+        "thing found",
+        "Sayer",
+        "driver"
+      ]
+    },
+    {
+      "characterName": "woman",
+      "recipients": [
+        "herself",
+        "White"
+      ],
+      "verbs": [
+        "tell"
+      ],
+      "traits": [
+        "beautiful",
+        "young",
+        "OK",
+        "injured",
+        "Mexican"
+      ],
+      "semanticRoles": [
+        "goal",
+        "noticed",
+        "Speaker",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "Sid_Hudgens",
+      "recipients": [
+        "Vincennes",
+        "bungalow",
+        "quantity",
+        "it",
+        "HushHush",
+        "incident",
+        "payment",
+        "LA_District_Attorney_Loew",
+        "job",
+        "mirror",
+        "them",
+        "beating"
+      ],
+      "verbs": [
+        "meet",
+        "rent",
+        "purchase",
+        "feature",
+        "cover",
+        "promise",
+        "report",
+        "set",
+        "offer",
+        "photograph",
+        "talk"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "purchaser",
+        "renter",
+        "coverer",
+        "cause of prominence",
+        "promiser",
+        "Reporter",
+        "agent",
+        "photographer",
+        "talker",
+        "secret agent",
+        "entity not breathing",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Vincennes",
+      "recipients": [
+        "bungalow",
+        "card",
+        "agency",
+        "transfer",
+        "department",
+        "squad",
+        "part",
+        "Matt_Reynolds",
+        "Vice",
+        "councilman",
+        "guilt",
+        "job",
+        "hotel",
+        "hook",
+        "actor",
+        "Exley",
+        "White",
+        "news",
+        "connection",
+        "house",
+        "anything",
+        "Rollo_Tomasi"
+      ],
+      "verbs": [
+        "investigate",
+        "find",
+        "agree",
+        "join",
+        "see",
+        "bust",
+        "return",
+        "blackmail",
+        "feel",
+        "go",
+        "let",
+        "help",
+        "get",
+        "tell",
+        "say"
+      ],
+      "traits": [
+        "unwilling",
+        "last"
+      ],
+      "semanticRoles": [
+        "goal",
+        "person promised to",
+        "interested entity",
+        "finder",
+        "examiner",
+        "experiencer",
+        "agent",
+        "witness",
+        "acceptor",
+        "agreer",
+        "breaker",
+        "viewer",
+        "first thing being tied",
+        "thing gotten",
+        "knower",
+        "speaker",
+        "thing invested",
+        "blackmailer",
+        "achiever",
+        "allower",
+        "feeler",
+        "impelled agent",
+        "helper",
+        "rememberer",
+        "receiver",
+        "Speaker",
+        "chortler (the jabberwocky)",
+        "Sayer",
+        "projectile",
+        "shower"
+      ]
+    },
+    {
+      "characterName": "Jack_Vincennes",
+      "recipients": [
+        "party",
+        "Matt",
+        "precinct",
+        "possession",
+        "Ed"
+      ],
+      "verbs": [
+        "dancing",
+        "bring",
+        "book",
+        "inform"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "dancer",
+        "booker",
+        "bringer",
+        "thing turning",
+        "projectile",
+        "informer",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "Exley",
+      "recipients": [
+        "lot",
+        "captain",
+        "tactics",
+        "detective",
+        "money",
+        "investigation",
+        "call",
+        "counter",
+        "shot",
+        "chair",
+        "trail",
+        "Crestfallen",
+        "Vincennes",
+        "shotgun",
+        "officers",
+        "skill",
+        "facilities",
+        "advantage",
+        "victim",
+        "career",
+        "address",
+        "Carlisle",
+        "Navarette",
+        "Exley",
+        "respect",
+        "coroner",
+        "lead",
+        "Mrs",
+        "Rollo_Tomasi",
+        "whom",
+        "murder",
+        "White",
+        "Bracken",
+        "face",
+        "nothing",
+        "connection",
+        "books",
+        "Smith",
+        "Lynn"
+      ],
+      "verbs": [
+        "have",
+        "talk",
+        "adopt",
+        "be",
+        "keep",
+        "move",
+        "get",
+        "find",
+        "notice",
+        "fill",
+        "join",
+        "deflect",
+        "pull",
+        "demonstrate",
+        "use",
+        "ask",
+        "counter",
+        "take",
+        "shoot",
+        "earn",
+        "follow",
+        "convince",
+        "name",
+        "solve",
+        "see",
+        "pay",
+        "know",
+        "realize",
+        "check",
+        "hit",
+        "fight",
+        "say",
+        "spot"
+      ],
+      "traits": [
+        "willing",
+        "concerned",
+        "same",
+        "cornered"
+      ],
+      "semanticRoles": [
+        "interviewee",
+        "talker",
+        "adopter",
+        "Speaker",
+        "question",
+        "Sayer",
+        "Utterance",
+        "Keeper",
+        "Agent/Entity Trying",
+        "nosy individual",
+        "first thing being locked",
+        "thing given",
+        "mover",
+        "thing despised",
+        "receiver",
+        "finder",
+        "noticer",
+        "new knower",
+        "agent",
+        "deflector",
+        "puller",
+        "demonstrator",
+        "User",
+        "asker",
+        "reactor",
+        "entity attacked",
+        "shooter",
+        "projectile",
+        "thing hit",
+        "thing greeted",
+        "earner",
+        "causal agent",
+        "convincer",
+        "solver",
+        "helper",
+        "project",
+        "viewer",
+        "payer or buyer",
+        "manager",
+        "knower",
+        "checker",
+        "entity becoming calm",
+        "thing found",
+        "corpse",
+        "claimer",
+        "first fighter",
+        "shower",
+        "goal",
+        "walker"
+      ]
+    },
+    {
+      "characterName": "Smith",
+      "recipients": [
+        "Exley",
+        "day",
+        "lead",
+        "one",
+        "what",
+        "lack",
+        "White",
+        "Hudgens",
+        "part",
+        "himself",
+        "men",
+        "gun",
+        "man",
+        "Ed"
+      ],
+      "verbs": [
+        "ask",
+        "announce",
+        "talk",
+        "be",
+        "deem",
+        "tell",
+        "suffocate",
+        "confront",
+        "turn",
+        "\u0027s"
+      ],
+      "traits": [
+        "willing",
+        "usual"
+      ],
+      "semanticRoles": [
+        "asker",
+        "target or hatred",
+        "project",
+        "signer",
+        "listener",
+        "announcer",
+        "talker",
+        "entity being criticized",
+        "assigner",
+        "Speaker",
+        "cause of not-breathing",
+        "speaker",
+        "confrontational entity",
+        "turner",
+        "instructor",
+        "projectile",
+        "really",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "himself",
+      "recipients": [
+        "Jack",
+        "interrogations",
+        "surgery",
+        "White"
+      ],
+      "verbs": [
+        "turn",
+        "lead",
+        "use",
+        "shoot"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "turner",
+        "leader",
+        "machine",
+        "User",
+        "entity administered",
+        "entity confronted",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Chief",
+      "recipients": [
+        "reputation",
+        "Exley",
+        "why",
+        "hero"
+      ],
+      "verbs": [
+        "realize",
+        "spot",
+        "ask",
+        "need"
+      ],
+      "traits": [
+        "incredulous"
+      ],
+      "semanticRoles": [
+        "achiever",
+        "new knower",
+        "finder",
+        "asker",
+        "needer"
+      ]
+    },
+    {
+      "characterName": "Dudley_Smith",
+      "recipients": [
+        "command",
+        "Jack",
+        "revolver",
+        "name",
+        "Smith",
+        "wrists",
+        "look"
+      ],
+      "verbs": [
+        "arrive",
+        "shoot",
+        "produce",
+        "know",
+        "criticize",
+        "have",
+        "make"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "creator",
+        "shooter",
+        "knower",
+        "critic",
+        "asker"
+      ]
+    },
+    {
+      "characterName": "Ellis_Loew",
+      "recipients": [
+        "information",
+        "Loew",
+        "Reynolds"
+      ],
+      "verbs": [
+        "divulge",
+        "cave",
+        "prosecute"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "Sayer",
+        "entity refusing",
+        "Speaker",
+        "thing caving",
+        "promiser",
+        "prosecutor",
+        "alive entity",
+        "action allowed"
+      ]
+    },
+    {
+      "characterName": "Bud_White",
+      "recipients": [
+        "hospital",
+        "room",
+        "relationship",
+        "work"
+      ],
+      "verbs": [
+        "rush",
+        "begin",
+        "continue"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causer of motion",
+        "Thinker",
+        "beginner",
+        "causer of continuation"
+      ]
+    },
+    {
+      "characterName": "Pierce_Patchett",
+      "recipients": [
+        "himself",
+        "Lefferts",
+        "details",
+        "ground",
+        "women"
+      ],
+      "verbs": [
+        "run",
+        "divulge",
+        "break",
+        "use"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing given",
+        "operator",
+        "Sayer",
+        "entity refusing",
+        "breaker",
+        "User"
+      ]
+    },
+    {
+      "characterName": "Matt_Reynolds",
+      "recipients": [
+        "bathroom"
+      ],
+      "verbs": [
+        "step"
+      ],
+      "traits": [
+        "present",
+        "late"
+      ],
+      "semanticRoles": [
+        "thing broken",
+        "thing discovered",
+        "causer of movement",
+        "speaker",
+        "corpse",
+        "case",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "they",
+      "recipients": [
+        "address",
+        "friends",
+        "man",
+        "officers",
+        "Motel",
+        "hometown"
+      ],
+      "verbs": [
+        "turn",
+        "track",
+        "find",
+        "go",
+        "interrogate"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "turner",
+        "thing following",
+        "finder",
+        "asker"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "victim",
+        "precinct",
+        "cabin",
+        "White",
+        "fire"
+      ],
+      "verbs": [
+        "left",
+        "escape",
+        "approach"
+      ],
+      "traits": [
+        "black"
+      ],
+      "semanticRoles": [
+        "criminal",
+        "entity tricked",
+        "entity leaving",
+        "entity escaping",
+        "corpse",
+        "thing set",
+        "entity confronted",
+        "killer"
+      ]
+    },
+    {
+      "characterName": "Breuning",
+      "recipients": [
+        "Hudgens",
+        "men",
+        "shotguns"
+      ],
+      "verbs": [
+        "suffocate",
+        "kill",
+        "plant"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "cause of not-breathing",
+        "killer",
+        "putter"
+      ]
+    }
+  ]
+}

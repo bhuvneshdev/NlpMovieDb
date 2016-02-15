@@ -1,0 +1,158 @@
+{
+  "movieName": "Network(1976)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Beale",
+      "recipients": [
+        "weeks",
+        "suicide",
+        "night",
+        "farewell",
+        "outburst",
+        "rant",
+        "nation",
+        "show",
+        "program",
+        "celebrity",
+        "tirade",
+        "onscreen",
+        "messages",
+        "ratings"
+      ],
+      "verbs": [
+        "have",
+        "commit",
+        "announce",
+        "apologise",
+        "launch",
+        "galvanise",
+        "develop",
+        "host",
+        "find",
+        "abandon"
+      ],
+      "traits": [
+        "docile"
+      ],
+      "semanticRoles": [
+        "causal agent",
+        "announcer",
+        "gun/projectile",
+        "promiser",
+        "starter",
+        "thing pulled",
+        "Sayer",
+        "a host",
+        "finder",
+        "achiever",
+        "impelled agent",
+        "abandoner",
+        "person assassinated"
+      ]
+    },
+    {
+      "characterName": "Schumacher",
+      "recipients": [
+        "Howard",
+        "wife",
+        "Christensen",
+        "lover"
+      ],
+      "verbs": [
+        "end",
+        "leaf",
+        "warn"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "nosy individual",
+        "entity in motion",
+        "Intentional agent",
+        "decider",
+        "gun/projectile",
+        "entity leaving",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Hackett",
+      "recipients": [
+        "diatribe",
+        "deal",
+        "format",
+        "executives",
+        "consent",
+        "Schumacher",
+        "Beale",
+        "Ecumenical_Liberation_Army"
+      ],
+      "verbs": [
+        "cut",
+        "develop",
+        "bully",
+        "fire",
+        "take",
+        "hire"
+      ],
+      "traits": [
+        "indifferent"
+      ],
+      "semanticRoles": [
+        "intentional cutter",
+        "agreer",
+        "shooter",
+        "bully",
+        "decider",
+        "employer"
+      ]
+    },
+    {
+      "characterName": "executives",
+      "recipients": [
+        "Beale",
+        "Ecumenical_Liberation_Army"
+      ],
+      "verbs": [
+        "fire",
+        "hire"
+      ],
+      "traits": [
+        "other"
+      ],
+      "semanticRoles": [
+        "victim",
+        "action allowed",
+        "shooter",
+        "decider",
+        "employer"
+      ]
+    },
+    {
+      "characterName": "Arthur_Jensen",
+      "recipients": [
+        "cosmology",
+        "tirade",
+        "Beale",
+        "evangel",
+        "executives"
+      ],
+      "verbs": [
+        "explicate",
+        "deliver",
+        "persuade",
+        "preach",
+        "allow"
+      ],
+      "traits": [
+        "own"
+      ],
+      "semanticRoles": [
+        "causer of clarification",
+        "sender",
+        "preacher",
+        "convincer",
+        "allower"
+      ]
+    }
+  ]
+}

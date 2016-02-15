@@ -1,0 +1,255 @@
+{
+  "movieName": "MillionDollarBaby(2004)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Maggie",
+      "recipients": [
+        "dream",
+        "Frankie",
+        "father",
+        "championship",
+        "Dunn",
+        "means",
+        "ring",
+        "fight",
+        "Maggie",
+        "corner",
+        "side",
+        "shot",
+        "landing",
+        "injury",
+        "chance",
+        "tongue",
+        "stitches",
+        "time",
+        "life",
+        "tube"
+      ],
+      "verbs": [
+        "pursue",
+        "get",
+        "have",
+        "go",
+        "take",
+        "ring",
+        "enter",
+        "win",
+        "turn",
+        "reach",
+        "send",
+        "suffer",
+        "ask",
+        "tell",
+        "bitten",
+        "rip",
+        "try",
+        "live",
+        "breathing"
+      ],
+      "traits": [
+        "young",
+        "ready",
+        "next",
+        "bedridden"
+      ],
+      "semanticRoles": [
+        "thing following",
+        "decider",
+        "skill",
+        "thing determined",
+        "thing given",
+        "receiver",
+        "wanter",
+        "patient",
+        "thing wanted",
+        "Speaker",
+        "causer of ringing",
+        "Utterance",
+        "entity entering",
+        "winner",
+        "thing set",
+        "agent",
+        "entity disqualified",
+        "thing turning",
+        "thing striving",
+        "turner",
+        "sender",
+        "entity suffering",
+        "place",
+        "viewer",
+        "asker",
+        "alive entity",
+        "biter",
+        "ripper",
+        "Agent/Entity Trying",
+        "corpse",
+        "thinker",
+        "Intentional agent",
+        "agent smiling",
+        "stuff being put in",
+        "breather"
+      ]
+    },
+    {
+      "characterName": "Frankie",
+      "recipients": [
+        "approach",
+        "Maggie",
+        "daughter",
+        "way",
+        "pie",
+        "story",
+        "life",
+        "wishes",
+        "kind"
+      ],
+      "verbs": [
+        "take",
+        "train",
+        "write",
+        "love",
+        "remember",
+        "end",
+        "fulfill",
+        "be"
+      ],
+      "traits": [
+        "skeptical",
+        "old",
+        "unwilling",
+        "hesitant"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "feeler",
+        "place",
+        "causal agent",
+        "trainer",
+        "agreer",
+        "thing gotten",
+        "lover",
+        "decider",
+        "question",
+        "Utterance",
+        "rememberer",
+        "entity refusing",
+        "entity awake",
+        "new knower",
+        "fulfiller",
+        "Intentional agent"
+      ]
+    },
+    {
+      "characterName": "Maggie_Dunn",
+      "recipients": [
+        "Maggie",
+        "Scrap",
+        "eye",
+        "trainer",
+        "top",
+        "which",
+        "church",
+        "trailer",
+        "sister",
+        "mother",
+        "series",
+        "business",
+        "end",
+        "gym",
+        "diner"
+      ],
+      "verbs": [
+        "train",
+        "stop",
+        "lose",
+        "\u0027s",
+        "take",
+        "add",
+        "go",
+        "live",
+        "see",
+        "set",
+        "tell",
+        "mind",
+        "walk",
+        "inject",
+        "end",
+        "return",
+        "buy"
+      ],
+      "traits": [
+        "afraid"
+      ],
+      "semanticRoles": [
+        "trainer",
+        "impelled action",
+        "speaker",
+        "feeler",
+        "viewer",
+        "alive entity",
+        "thinker",
+        "agent",
+        "Speaker",
+        "Utterance",
+        "entity being bothered",
+        "entity leaving",
+        "walker",
+        "injector",
+        "entity removing",
+        "Intentional agent",
+        "thing viewed",
+        "buyer",
+        "retiree",
+        "liker"
+      ]
+    },
+    {
+      "characterName": "Scrap",
+      "recipients": [
+        "pleas",
+        "Maggie",
+        "pointers",
+        "Dunn"
+      ],
+      "verbs": [
+        "ignore",
+        "give",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "action being stopped",
+        "ignorer",
+        "Intentional agent",
+        "causer of continuation",
+        "giver",
+        "Speaker",
+        "thing viewed"
+      ]
+    },
+    {
+      "characterName": "couple",
+      "recipients": [
+        "Frankie",
+        "ground",
+        "approach",
+        "fight"
+      ],
+      "verbs": [
+        "advise",
+        "break",
+        "take",
+        "win"
+      ],
+      "traits": [
+        "next"
+      ],
+      "semanticRoles": [
+        "entity giving advice",
+        "Agent",
+        "breaker",
+        "winner"
+      ]
+    }
+  ]
+}

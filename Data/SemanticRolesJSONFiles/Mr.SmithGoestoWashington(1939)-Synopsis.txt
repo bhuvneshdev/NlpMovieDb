@@ -1,0 +1,65 @@
+{
+  "movieName": "Mr.SmithGoestoWashington(1939)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Jefferson_Smith",
+      "recipients": [
+        "senator",
+        "land",
+        "what",
+        "exhaustion"
+      ],
+      "verbs": [
+        "be",
+        "own",
+        "have",
+        "approach"
+      ],
+      "traits": [
+        "worshipful",
+        "shocked"
+      ],
+      "semanticRoles": [
+        "entity selected",
+        "person being crucified",
+        "owner",
+        "accused",
+        "operator",
+        "promiser",
+        "presser"
+      ]
+    },
+    {
+      "characterName": "Joseph_Paine",
+      "recipients": [
+        "friend",
+        "father",
+        "power",
+        "card",
+        "state",
+        "himself",
+        "chamber"
+      ],
+      "verbs": [
+        "\u0027s",
+        "be",
+        "have",
+        "bring",
+        "kill",
+        "leaf",
+        "burst"
+      ],
+      "traits": [
+        "esteemed",
+        "crooked"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "bringer",
+        "entity leaving",
+        "killer",
+        "action being stopped"
+      ]
+    }
+  ]
+}

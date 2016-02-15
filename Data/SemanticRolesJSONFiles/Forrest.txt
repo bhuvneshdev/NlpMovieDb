@@ -1,0 +1,113 @@
+{
+  "movieName": "Forrest.txt",
+  "characters": [
+    {
+      "characterName": "Forrest",
+      "recipients": [
+        "feather",
+        "George",
+        "business",
+        "recovery",
+        "ability",
+        "company",
+        "success",
+        "boat",
+        "marriage",
+        "Jenny",
+        "run",
+        "times",
+        "stop",
+        "letter",
+        "presentday",
+        "father"
+      ],
+      "verbs": [
+        "pick",
+        "put",
+        "go",
+        "be",
+        "discover",
+        "endorse",
+        "have",
+        "use",
+        "propose",
+        "keep",
+        "visit",
+        "wait",
+        "receive",
+        "reveal"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "picker",
+        "impelled agent",
+        "rescuer",
+        "award",
+        "finder",
+        "unifier",
+        "supporter",
+        "User",
+        "puller",
+        "beginner",
+        "entity proposing",
+        "voters",
+        "decider",
+        "Keeper",
+        "one party",
+        "question",
+        "speaker",
+        "thing viewed",
+        "(first) thing(s) being unified",
+        "causer"
+      ]
+    },
+    {
+      "characterName": "George",
+      "recipients": [
+        "girl",
+        "army",
+        "friends"
+      ],
+      "verbs": [
+        "meet",
+        "enlist",
+        "make"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "thing gotten",
+        "sent",
+        "signer",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "Jenny",
+      "recipients": [
+        "lifestyle",
+        "day",
+        "morning",
+        "Forrest",
+        "son"
+      ],
+      "verbs": [
+        "live",
+        "return",
+        "leaf",
+        "ask",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "alive entity",
+        "one party",
+        "entity leaving",
+        "asker",
+        "other party",
+        "Speaker",
+        "causer"
+      ]
+    }
+  ]
+}

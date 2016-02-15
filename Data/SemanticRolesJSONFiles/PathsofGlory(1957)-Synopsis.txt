@@ -1,0 +1,1057 @@
+{
+  "movieName": "PathsofGlory(1957)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Broulard",
+      "recipients": [
+        "division",
+        "matter",
+        "temper",
+        "hearing",
+        "ball",
+        "Dax",
+        "visit",
+        "himself",
+        "library",
+        "door",
+        "moment",
+        "room",
+        "affair",
+        "Mireau",
+        "head"
+      ],
+      "verbs": [
+        "want",
+        "think",
+        "lose",
+        "recommend",
+        "attend",
+        "meet",
+        "be",
+        "accuse",
+        "excuse",
+        "slam",
+        "face",
+        "pause",
+        "exit",
+        "see",
+        "mention",
+        "tell",
+        "shout",
+        "shake",
+        "ridicule"
+      ],
+      "traits": [
+        "true",
+        "certain",
+        "unfeeling",
+        "impassive"
+      ],
+      "semanticRoles": [
+        "wanter",
+        "informed",
+        "speaker",
+        "Thinker",
+        "Sayer",
+        "shouter",
+        "complainer",
+        "recommender",
+        "thing attending",
+        "achiever",
+        "admitter",
+        "question",
+        "accuser",
+        "thing reminded about",
+        "excuser",
+        "looker",
+        "thrower",
+        "turner",
+        "describer",
+        "causer of continuation",
+        "thing pausing",
+        "departed entity",
+        "bill",
+        "noter",
+        "viewer",
+        "commentor",
+        "Speaker",
+        "replier",
+        "causer of trembling motion",
+        "ridiculer"
+      ]
+    },
+    {
+      "characterName": "Mireau",
+      "recipients": [
+        "idea",
+        "inspection",
+        "which",
+        "soldier",
+        "face",
+        "rage",
+        "inspections",
+        "commander",
+        "bunker",
+        "Dax",
+        "lack",
+        "plan",
+        "relieved",
+        "officers",
+        "advance",
+        "failure",
+        "What",
+        "Regiment",
+        "men",
+        "proposal",
+        "career",
+        "Mireau",
+        "pleasure",
+        "artillery",
+        "attack",
+        "testimony",
+        "allegation",
+        "command"
+      ],
+      "verbs": [
+        "balk",
+        "undertake",
+        "scold",
+        "strike",
+        "fly",
+        "deny",
+        "greet",
+        "inform",
+        "criticize",
+        "agree",
+        "have",
+        "offer",
+        "notice",
+        "reply",
+        "accuse",
+        "accept",
+        "ruin",
+        "rail",
+        "order",
+        "want",
+        "express",
+        "\u0027s",
+        "sign",
+        "resign"
+      ],
+      "traits": [
+        "due",
+        "following",
+        "cynical",
+        "last",
+        "conscious"
+      ],
+      "semanticRoles": [
+        "balker",
+        "decider",
+        "Sayer",
+        "criticizer",
+        "animate",
+        "denier",
+        "greeter",
+        "asker",
+        "informer",
+        "critic",
+        "agent",
+        "agreer",
+        "noticer",
+        "replier",
+        "informed",
+        "instructor",
+        "accuser",
+        "entity proposing",
+        "acceptor",
+        "recipient of chiding",
+        "promiser",
+        "destroyer",
+        "achiever",
+        "impelled agent",
+        "forcer",
+        "receiver",
+        "wanter",
+        "thing wanted",
+        "killer",
+        "bill",
+        "speaker",
+        "signer",
+        "question",
+        "shouter",
+        "causal agent",
+        "resigner"
+      ]
+    },
+    {
+      "characterName": "soldier",
+      "recipients": [
+        "shock",
+        "wife",
+        "baby",
+        "coward",
+        "day"
+      ],
+      "verbs": [
+        "suffer",
+        "have",
+        "see",
+        "want",
+        "be",
+        "die"
+      ],
+      "traits": [
+        "certain",
+        "third",
+        "dead",
+        "true"
+      ],
+      "semanticRoles": [
+        "entity suffering",
+        "replier",
+        "corpse",
+        "entity scolded",
+        "viewer",
+        "wanter",
+        "thing hit",
+        "thing found",
+        "pointer"
+      ]
+    },
+    {
+      "characterName": "general",
+      "recipients": [
+        "soldiers",
+        "what",
+        "artillery",
+        "rage",
+        "Dax",
+        "attack",
+        "who",
+        "men"
+      ],
+      "verbs": [
+        "ask",
+        "do",
+        "fly",
+        "launch",
+        "have"
+      ],
+      "traits": [
+        "right",
+        "own",
+        "same",
+        "elderly",
+        "wrong"
+      ],
+      "semanticRoles": [
+        "asker",
+        "Inquirer",
+        "Thinker",
+        "speaker",
+        "place",
+        "question",
+        "expecter",
+        "starter",
+        "Agent/Entity Trying",
+        "replier"
+      ]
+    },
+    {
+      "characterName": "Regiment",
+      "recipients": [
+        "effort",
+        "front"
+      ],
+      "verbs": [
+        "make",
+        "return"
+      ],
+      "traits": [
+        "701st",
+        "entire"
+      ],
+      "semanticRoles": [
+        "pressed (on)",
+        "accused",
+        "creator",
+        "impelled agent"
+      ]
+    },
+    {
+      "characterName": "SaintAuban",
+      "recipients": [
+        "remark",
+        "post",
+        "courtmartial",
+        "Regiment",
+        "argument"
+      ],
+      "verbs": [
+        "make",
+        "stand",
+        "assemble",
+        "have",
+        "assert"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Sayer",
+        "creator",
+        "causal agent",
+        "cook",
+        "asserter"
+      ]
+    },
+    {
+      "characterName": "commander",
+      "recipients": [
+        "Commander",
+        "degenerate",
+        "colonel"
+      ],
+      "verbs": [
+        "consider",
+        "be",
+        "enter"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing greeted",
+        "complier",
+        "entity refusing",
+        "achiever",
+        "Sayer",
+        "thinker",
+        "belief",
+        "Speaker",
+        "entity entering"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "heaps",
+        "ladder",
+        "try",
+        "soldier",
+        "Arnaud",
+        "courage",
+        "face",
+        "right",
+        "attack",
+        "cowardice",
+        "man",
+        "men",
+        "Dax",
+        "Broulard",
+        "Mireau",
+        "position",
+        "contact"
+      ],
+      "verbs": [
+        "go",
+        "give",
+        "have",
+        "include",
+        "show",
+        "execute",
+        "make",
+        "pass",
+        "march",
+        "come"
+      ],
+      "traits": [
+        "enlisted",
+        "own",
+        "accused",
+        "innocent",
+        "being"
+      ],
+      "semanticRoles": [
+        "place",
+        "thinker",
+        "things falling",
+        "mover",
+        "projectile",
+        "impelled agent",
+        "giver",
+        "agent",
+        "thing picked",
+        "shower",
+        "thing held",
+        "creation",
+        "helper",
+        "project",
+        "killer",
+        "corpse",
+        "money",
+        "thing lined",
+        "creator",
+        "legislative body",
+        "thing rolled or rolling",
+        "thing striving",
+        "first thing being tied",
+        "agent walking",
+        "first fighter",
+        "entity humming",
+        "beginner",
+        "thing given"
+      ]
+    },
+    {
+      "characterName": "Dax",
+      "recipients": [
+        "offense",
+        "Anthill",
+        "enthusiasm",
+        "report",
+        "matter",
+        "meeting",
+        "ladder",
+        "sergeant",
+        "confusion",
+        "Lt",
+        "headquarters",
+        "example",
+        "men",
+        "summation",
+        "Roget",
+        "curtly",
+        "Broulard",
+        "artillery",
+        "subject",
+        "general",
+        "statements",
+        "nothing",
+        "boy",
+        "lot",
+        "tavern",
+        "disillusionment"
+      ],
+      "verbs": [
+        "take",
+        "show",
+        "pick",
+        "pursue",
+        "have",
+        "climb",
+        "ask",
+        "reach",
+        "meet",
+        "reply",
+        "urge",
+        "protest",
+        "dismiss",
+        "bring",
+        "produce",
+        "say",
+        "respond",
+        "wander",
+        "reflect",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "informed",
+        "shower",
+        "picker",
+        "viewer",
+        "thing following",
+        "replier",
+        "walker",
+        "things falling",
+        "climber",
+        "asker",
+        "thing striving",
+        "achiever",
+        "causer of movement",
+        "explainer",
+        "urger",
+        "complainer",
+        "action or object being prevented",
+        "protester",
+        "entity removing",
+        "goal",
+        "speaker",
+        "accused",
+        "bringer",
+        "looked at",
+        "question",
+        "creator",
+        "bill",
+        "Sayer",
+        "announcer",
+        "Utterance",
+        "utterance",
+        "ridiculous thing",
+        "entity leaving",
+        "entity in motion",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Roget",
+      "recipients": [
+        "grenade",
+        "night",
+        "battle",
+        "what",
+        "patrol",
+        "Cpl",
+        "reasons",
+        "problem",
+        "someone",
+        "Lt",
+        "assignment",
+        "information",
+        "crying",
+        "Ferol",
+        "blindfold",
+        "Paris",
+        "Roget",
+        "apology",
+        "Ready"
+      ],
+      "verbs": [
+        "throw",
+        "do",
+        "choose",
+        "have",
+        "find",
+        "ask",
+        "like",
+        "offer",
+        "come",
+        "want",
+        "accept",
+        "shout"
+      ],
+      "traits": [
+        "halfdrunk",
+        "grenade",
+        "happy",
+        "alive",
+        "sorry",
+        "likely",
+        "drunk"
+      ],
+      "semanticRoles": [
+        "object accompanied",
+        "thing known or thought",
+        "thrower",
+        "operator",
+        "viewer",
+        "entity confronted",
+        "pointer",
+        "pretender",
+        "announcer",
+        "begger",
+        "knower",
+        "picker",
+        "question",
+        "replier",
+        "asker",
+        "finder",
+        "liker",
+        "entity leaving",
+        "walker",
+        "acceptor",
+        "wanter",
+        "Sayer",
+        "shouter"
+      ]
+    },
+    {
+      "characterName": "Paris",
+      "recipients": [
+        "Cpl",
+        "lieutenant",
+        "soldier",
+        "Lt",
+        "Roget",
+        "Paris",
+        "chateau",
+        "options",
+        "stable",
+        "Arnaud",
+        "sergeant",
+        "himself",
+        "head"
+      ],
+      "verbs": [
+        "like",
+        "discover",
+        "show",
+        "confront",
+        "forget",
+        "sit",
+        "consider",
+        "restrain",
+        "slug",
+        "warn",
+        "tell",
+        "pull",
+        "collect",
+        "nod"
+      ],
+      "traits": [
+        "worried",
+        "sobbing",
+        "same"
+      ],
+      "semanticRoles": [
+        "liker",
+        "replier",
+        "finder",
+        "shower",
+        "confrontational entity",
+        "forgetter",
+        "thing forgotten",
+        "thinker",
+        "question",
+        "Sayer",
+        "Agent/Entity Trying",
+        "Agent",
+        "impelled agent",
+        "hitter",
+        "receiver",
+        "thing picked",
+        "Speaker",
+        "asker",
+        "beginner",
+        "Utterance",
+        "puller",
+        "thing dragged",
+        "walker",
+        "causal agent",
+        "agent",
+        "talker",
+        "entity with a bobbing head"
+      ]
+    },
+    {
+      "characterName": "what",
+      "recipients": [
+        "cover",
+        "casualties",
+        "colonel",
+        "Mireau"
+      ],
+      "verbs": [
+        "provide",
+        "try",
+        "see",
+        "ask"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Thing thought about",
+        "causer of fog",
+        "provider",
+        "looked at",
+        "in response to",
+        "Agent/Entity Trying",
+        "Thought",
+        "viewer",
+        "thing wanted",
+        "asker"
+      ]
+    },
+    {
+      "characterName": "colonel",
+      "recipients": [
+        "which",
+        "what",
+        "colonel",
+        "night"
+      ],
+      "verbs": [
+        "reply",
+        "want",
+        "come"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "replier",
+        "entity refusing",
+        "thing viewed",
+        "wanter",
+        "place or thing entered"
+      ]
+    },
+    {
+      "characterName": "troops",
+      "recipients": [
+        "Anthill",
+        "discipline",
+        "door"
+      ],
+      "verbs": [
+        "hold",
+        "capture",
+        "crave",
+        "walk"
+      ],
+      "traits": [
+        "own"
+      ],
+      "semanticRoles": [
+        "holder",
+        "getter",
+        "impelled agent",
+        "Wanter",
+        "walker",
+        "entertained"
+      ]
+    },
+    {
+      "characterName": "officers",
+      "recipients": [
+        "details",
+        "morning",
+        "what",
+        "crime"
+      ],
+      "verbs": [
+        "discuss",
+        "face",
+        "be"
+      ],
+      "traits": [
+        "fellow"
+      ],
+      "semanticRoles": [
+        "discussant",
+        "looker",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "Arnaud",
+      "recipients": [
+        "time",
+        "chateau",
+        "options",
+        "stable",
+        "injustice",
+        "priest",
+        "anything",
+        "fracture",
+        "state",
+        "scene"
+      ],
+      "verbs": [
+        "have",
+        "sit",
+        "consider",
+        "pray",
+        "mock",
+        "punch",
+        "try",
+        "look"
+      ],
+      "traits": [
+        "Private",
+        "intellectual",
+        "best",
+        "unconscious",
+        "strapped"
+      ],
+      "semanticRoles": [
+        "thinker",
+        "thing picked",
+        "theme",
+        "needer",
+        "explainer",
+        "Thinker",
+        "pray-er",
+        "drinker",
+        "pretender",
+        "mocker",
+        "replier",
+        "agent",
+        "breaker",
+        "Theme (action or object being prevented)",
+        "lunger",
+        "hit",
+        "Agent/Entity Trying",
+        "alive entity",
+        "thing carried",
+        "legislative body",
+        "looker",
+        "thing skipped"
+      ]
+    },
+    {
+      "characterName": "You",
+      "recipients": [
+        "right",
+        "yourself",
+        "arrest",
+        "squad",
+        "mercy",
+        "day",
+        "edge",
+        "things",
+        "start",
+        "command",
+        "me",
+        "what",
+        "man",
+        "hell",
+        "disappointment",
+        "keenness",
+        "soldier",
+        "idealist",
+        "charges",
+        "Mireau",
+        "answer"
+      ],
+      "verbs": [
+        "have",
+        "place",
+        "be",
+        "plead",
+        "die",
+        "get",
+        "believe",
+        "offering",
+        "do",
+        "like",
+        "`",
+        "go",
+        "spoil",
+        "angling",
+        "bring",
+        "know"
+      ],
+      "traits": [
+        "smart"
+      ],
+      "semanticRoles": [
+        "putter",
+        "corpse",
+        "begger",
+        "receiver",
+        "viewer",
+        "Sayer",
+        "liker",
+        "apologist",
+        "Utterance",
+        "causer",
+        "entity in motion",
+        "thing pitied",
+        "bringer",
+        "knower"
+      ]
+    },
+    {
+      "characterName": "I",
+      "recipients": [
+        "psychopath",
+        "soldier",
+        "scapegoat",
+        "lot",
+        "boy",
+        "you",
+        "men",
+        "replies"
+      ],
+      "verbs": [
+        "be",
+        "am",
+        "pity",
+        "have",
+        "do"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "knower",
+        "apologist",
+        "pitier",
+        "asker"
+      ]
+    },
+    {
+      "characterName": "sergeant",
+      "recipients": [
+        "which",
+        "food",
+        "night",
+        "anything",
+        "sergeant",
+        "swig",
+        "thought",
+        "weeping",
+        "Paris"
+      ],
+      "verbs": [
+        "reply",
+        "miss",
+        "have",
+        "tell",
+        "take",
+        "crumble",
+        "remind"
+      ],
+      "traits": [
+        "remarkably"
+      ],
+      "semanticRoles": [
+        "knower",
+        "question",
+        "replier",
+        "Utterance",
+        "misser",
+        "asker",
+        "Speaker",
+        "giver",
+        "causer of crumbling",
+        "wanter",
+        "cause",
+        "thing reminded about",
+        "carer"
+      ]
+    },
+    {
+      "characterName": "sweethearts",
+      "recipients": [
+        "ones",
+        "day",
+        "bullets",
+        "French_Army",
+        "example"
+      ],
+      "verbs": [
+        "face",
+        "slaughter",
+        "set"
+      ],
+      "traits": [
+        "little"
+      ],
+      "semanticRoles": [
+        "looker",
+        "killer",
+        "wanter",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "man",
+        "confession"
+      ],
+      "verbs": [
+        "\u0027s",
+        "make"
+      ],
+      "traits": [
+        "religious",
+        "sadistic",
+        "degenerate",
+        "old",
+        "sick",
+        "heartless"
+      ],
+      "semanticRoles": [
+        "thing tried",
+        "thing picked",
+        "feeler",
+        "beginner",
+        "creator",
+        "liker",
+        "Utterance",
+        "corpse",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Private_Ferol",
+      "recipients": [
+        "chateau",
+        "options",
+        "stable",
+        "hand",
+        "arm"
+      ],
+      "verbs": [
+        "sit",
+        "consider",
+        "slam",
+        "have"
+      ],
+      "traits": [
+        "suspicious",
+        "stupid"
+      ],
+      "semanticRoles": [
+        "thing picked",
+        "thinker",
+        "Thinker",
+        "receiver",
+        "killer",
+        "speaker",
+        "thrower",
+        "consumer",
+        "entity refusing",
+        "breaker",
+        "object accompanied"
+      ]
+    },
+    {
+      "characterName": "Boulanger",
+      "recipients": [
+        "command",
+        "line",
+        "stable",
+        "door",
+        "Dax"
+      ],
+      "verbs": [
+        "stride",
+        "open",
+        "appear"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing put",
+        "legislative body",
+        "strider",
+        "creation",
+        "entity making guarantee",
+        "opener",
+        "Speaker",
+        "memory",
+        "wanter"
+      ]
+    },
+    {
+      "characterName": "priest",
+      "recipients": [
+        "man",
+        "Paris",
+        "Ferol"
+      ],
+      "verbs": [
+        "try",
+        "ask",
+        "tell",
+        "accompany"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent/Entity Trying",
+        "asker",
+        "Speaker",
+        "mocked",
+        "Sayer",
+        "entity punched",
+        "subject accompanier"
+      ]
+    }
+  ]
+}

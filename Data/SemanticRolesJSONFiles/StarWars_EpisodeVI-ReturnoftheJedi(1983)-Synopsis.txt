@@ -1,0 +1,508 @@
+{
+  "movieName": "StarWars_EpisodeVI-ReturnoftheJedi(1983)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Darth_Vader_David_Prowse",
+      "recipients": [
+        "men",
+        "appraisal",
+        "master",
+        "hangar",
+        "Luke",
+        "information",
+        "Anakin_Skywalker",
+        "ship",
+        "Star",
+        "Emperor",
+        "midst",
+        "feelings"
+      ],
+      "verbs": [
+        "need",
+        "challenge",
+        "kneel",
+        "enter",
+        "criticize",
+        "use",
+        "be",
+        "go",
+        "meet",
+        "read"
+      ],
+      "traits": [
+        "new",
+        "separated"
+      ],
+      "semanticRoles": [
+        "needer",
+        "challenger",
+        "speaker",
+        "entity entering",
+        "kneeler",
+        "looked at",
+        "critic",
+        "User",
+        "first thing being tied",
+        "achiever",
+        "reader",
+        "student",
+        "Agent",
+        "repenter",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "Leia_Organa_Carrie_Fisher",
+      "recipients": [
+        "V",
+        "Jabba",
+        "Han",
+        "carbonite",
+        "night",
+        "court",
+        "horror",
+        "Lando_Calrissian",
+        "battle",
+        "cannon",
+        "vehicle",
+        "scouts",
+        "destiny",
+        "Solo"
+      ],
+      "verbs": [
+        "rescue",
+        "threaten",
+        "free",
+        "sneak",
+        "watch",
+        "see",
+        "strangle",
+        "aim",
+        "pursue",
+        "face",
+        "reassure"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "rescuer",
+        "first arguer",
+        "agent",
+        "entity providing freedom",
+        "entity sneaking",
+        "thing gotten",
+        "thing kept",
+        "viewer",
+        "stranger",
+        "aimer",
+        "Utterance",
+        "thing following",
+        "new friend",
+        "looker",
+        "Speaker",
+        "thing turning",
+        "speaker",
+        "causer of assurance"
+      ]
+    },
+    {
+      "characterName": "Luke",
+      "recipients": [
+        "R2D2",
+        "palace",
+        "C3PO",
+        "hologram",
+        "Solo",
+        "rancor",
+        "salute",
+        "R2",
+        "fight",
+        "men",
+        "way",
+        "barge",
+        "Tatooine",
+        "Dagobah",
+        "training",
+        "confirmation",
+        "Yoda",
+        "himself",
+        "Skywalker",
+        "sister",
+        "Han",
+        "Leia",
+        "meeting",
+        "bike",
+        "team",
+        "alliance",
+        "anger",
+        "hand",
+        "battle",
+        "succumb",
+        "rage",
+        "father",
+        "helmet",
+        "Luke",
+        "brother",
+        "pyre",
+        "remains",
+        "evening",
+        "celebration",
+        "sight"
+      ],
+      "verbs": [
+        "send",
+        "offer",
+        "release",
+        "defeat",
+        "give",
+        "take",
+        "set",
+        "have",
+        "fly",
+        "return",
+        "complete",
+        "get",
+        "beg",
+        "allow",
+        "ask",
+        "tell",
+        "arrive",
+        "jump",
+        "rejoin",
+        "form",
+        "gain",
+        "make",
+        "kill",
+        "remove",
+        "be",
+        "cremate",
+        "catch"
+      ],
+      "traits": [
+        "first",
+        "distraught",
+        "right"
+      ],
+      "semanticRoles": [
+        "sender",
+        "negotiator",
+        "releaser",
+        "refused action or object",
+        "consumed",
+        "entity victorious",
+        "giver",
+        "agent",
+        "student",
+        "finisher",
+        "Utterance",
+        "receiver",
+        "begger",
+        "entity being criticized",
+        "thing reminded about",
+        "entity corrupted",
+        "allower",
+        "entity confronted",
+        "reactor",
+        "asker",
+        "Speaker",
+        "sensor",
+        "creator",
+        "decider",
+        "entity taunted",
+        "killer",
+        "entity refusing",
+        "entity removing",
+        "question",
+        "causer of cremation"
+      ]
+    },
+    {
+      "characterName": "Jabba",
+      "recipients": [
+        "message",
+        "decoration",
+        "Leia",
+        "Solo",
+        "bikini",
+        "Luke",
+        "pit"
+      ],
+      "verbs": [
+        "laugh",
+        "give",
+        "capture",
+        "keep",
+        "refuse"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "giver",
+        "entity refusing",
+        "threat",
+        "payer or buyer",
+        "agreer",
+        "getter",
+        "Keeper",
+        "entity doing the dropping",
+        "declarer",
+        "angry entity",
+        "entity strangled"
+      ]
+    },
+    {
+      "characterName": "Han",
+      "recipients": [
+        "Executor",
+        "attention",
+        "scouts"
+      ],
+      "verbs": [
+        "tell",
+        "draw",
+        "disarm"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "entity made free",
+        "leader",
+        "Utterance",
+        "Speaker",
+        "entity removing weapons",
+        "Agent/Entity Trying",
+        "artist",
+        "entity sneaking"
+      ]
+    },
+    {
+      "characterName": "Lando_Calrissian",
+      "recipients": [
+        "Ackbar",
+        "Denis_Lawson",
+        "group",
+        "victory"
+      ],
+      "verbs": [
+        "convince",
+        "lead",
+        "celebrate"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing viewed",
+        "thing thrown",
+        "convincer",
+        "leader",
+        "honorer"
+      ]
+    },
+    {
+      "characterName": "fleet",
+      "recipients": [
+        "bays",
+        "Vader",
+        "assault",
+        "battle",
+        "hyperspace",
+        "fleet",
+        "part",
+        "opportunity"
+      ],
+      "verbs": [
+        "surround",
+        "mass",
+        "emerge",
+        "appear",
+        "engage",
+        "seize"
+      ],
+      "traits": [
+        "sail",
+        "massive",
+        "entire",
+        "Imperial"
+      ],
+      "semanticRoles": [
+        "causative agent",
+        "people gathered",
+        "art",
+        "thing exiting",
+        "finder",
+        "attacker",
+        "thing appearing",
+        "entity sucked in",
+        "causer of engagement",
+        "beginner",
+        "regrouper",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "rest",
+      "recipients": [
+        "rendezvous",
+        "creatures",
+        "C3P0",
+        "victory"
+      ],
+      "verbs": [
+        "fly",
+        "sacrifice",
+        "celebrate"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "sacrificer",
+        "decider",
+        "honorer"
+      ]
+    },
+    {
+      "characterName": "Yoda_Frank_Oz",
+      "recipients": [
+        "fears",
+        "Oz",
+        "truth",
+        "Luke",
+        "warning"
+      ],
+      "verbs": [
+        "confirm",
+        "tell",
+        "remind",
+        "issue",
+        "charge"
+      ],
+      "traits": [
+        "ill",
+        "evasive"
+      ],
+      "semanticRoles": [
+        "confirmer",
+        "Utterance",
+        "Speaker",
+        "appealed to",
+        "agent",
+        "cause",
+        "issuer"
+      ]
+    },
+    {
+      "characterName": "ObiWan",
+      "recipients": [
+        "responsibility",
+        "Guinness",
+        "part",
+        "Luke"
+      ],
+      "verbs": [
+        "take",
+        "tell",
+        "confirm",
+        "warn"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "speaker",
+        "Speaker",
+        "confirmer"
+      ]
+    },
+    {
+      "characterName": "team",
+      "recipients": [
+        "shuttle",
+        "code",
+        "Endor",
+        "unit",
+        "Leia",
+        "generator"
+      ],
+      "verbs": [
+        "use",
+        "arrive",
+        "happen",
+        "look",
+        "destroy"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "User",
+        "patient",
+        "looker",
+        "thing gotten"
+      ]
+    },
+    {
+      "characterName": "Ewoks",
+      "recipients": [
+        "god",
+        "C3P0",
+        "spring",
+        "battle",
+        "forces"
+      ],
+      "verbs": [
+        "be",
+        "believe",
+        "counterattack",
+        "fight"
+      ],
+      "traits": [
+        "other"
+      ],
+      "semanticRoles": [
+        "getter",
+        "attacker",
+        "first fighter"
+      ]
+    },
+    {
+      "characterName": "droid",
+      "recipients": [
+        "father",
+        "brother",
+        "man",
+        "Vader"
+      ],
+      "verbs": [
+        "be",
+        "save",
+        "surrender",
+        "convince"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent/Entity Trying",
+        "entity saving money",
+        "speaker",
+        "convincer",
+        "one surrendering"
+      ]
+    },
+    {
+      "characterName": "Emperor",
+      "recipients": [
+        "plan",
+        "Emperor",
+        "Luke",
+        "path"
+      ],
+      "verbs": [
+        "reveal",
+        "attack",
+        "taunt",
+        "travel"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "speaker",
+        "goal",
+        "entity attacked",
+        "attacker",
+        "taunter",
+        "declarer",
+        "traveller"
+      ]
+    }
+  ]
+}

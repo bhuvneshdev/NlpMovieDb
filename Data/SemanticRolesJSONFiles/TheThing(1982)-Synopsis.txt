@@ -1,0 +1,338 @@
+{
+  "movieName": "TheThing(1982)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Garry_Donald_Moffat",
+      "recipients": [
+        "man",
+        "K",
+        "complex",
+        "fire"
+      ],
+      "verbs": [
+        "shoot",
+        "_",
+        "set"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "killer",
+        "shooter",
+        "accused",
+        "checker",
+        "agent",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "MacReady_Kurt_Russell",
+      "recipients": [
+        "base",
+        "day",
+        "site",
+        "Gary",
+        "point",
+        "test",
+        "others",
+        "Garry",
+        "working",
+        "PalmerThing",
+        "K",
+        "craft",
+        "complex",
+        "fire",
+        "stick"
+      ],
+      "verbs": [
+        "investigate",
+        "fly",
+        "quarantine",
+        "lead",
+        "continue",
+        "accuse",
+        "get",
+        "set",
+        "_",
+        "save",
+        "throw"
+      ],
+      "traits": [
+        "human"
+      ],
+      "semanticRoles": [
+        "examiner",
+        "quarantiner",
+        "leader",
+        "Sayer",
+        "causer of continuation",
+        "finder",
+        "accuser",
+        "receiver",
+        "manager",
+        "agent",
+        "entity saving money",
+        "checker",
+        "thrower",
+        "survivor"
+      ]
+    },
+    {
+      "characterName": "Norwegians",
+      "recipients": [
+        "dog",
+        "UFO",
+        "creature"
+      ],
+      "verbs": [
+        "kill",
+        "find",
+        "awaken"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent/Entity Trying",
+        "killer",
+        "finder",
+        "causer of waking"
+      ]
+    },
+    {
+      "characterName": "Mac",
+      "recipients": [
+        "sounds",
+        "Norris",
+        "Windows",
+        "window"
+      ],
+      "verbs": [
+        "hear",
+        "ask",
+        "tell",
+        "break"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "explorer",
+        "asker",
+        "theorist",
+        "Speaker",
+        "first thing being locked",
+        "breaker"
+      ]
+    },
+    {
+      "characterName": "Clark_Richard_Masur",
+      "recipients": [
+        "scene",
+        "Masur",
+        "attempt"
+      ],
+      "verbs": [
+        "discover",
+        "shot",
+        "make"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "tender",
+        "replier",
+        "shooter",
+        "corpse",
+        "projectile",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "thing",
+      "recipients": [
+        "organism",
+        "death",
+        "Fuchs",
+        "close"
+      ],
+      "verbs": [
+        "be",
+        "burn",
+        "come"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "corpse",
+        "thing found",
+        "pyromaniac",
+        "Theme (action or object being prevented)",
+        "bomber"
+      ]
+    },
+    {
+      "characterName": "Palmer",
+      "recipients": [
+        "crater",
+        "spaceship",
+        "themselves",
+        "block",
+        "ice"
+      ],
+      "verbs": [
+        "find",
+        "haul",
+        "chop"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "carrier",
+        "chopper",
+        "entity attacked"
+      ]
+    },
+    {
+      "characterName": "Blair",
+      "recipients": [
+        "cells",
+        "Thing",
+        "shed",
+        "creature",
+        "Garry"
+      ],
+      "verbs": [
+        "study",
+        "building",
+        "be",
+        "kill"
+      ],
+      "traits": [
+        "infected"
+      ],
+      "semanticRoles": [
+        "theorist",
+        "student",
+        "builder",
+        "action being stopped",
+        "killer"
+      ]
+    },
+    {
+      "characterName": "Windows",
+      "recipients": [
+        "room",
+        "members",
+        "building",
+        "MacReady",
+        "Thing",
+        "mouth",
+        "PalmerThing"
+      ],
+      "verbs": [
+        "return",
+        "get",
+        "be",
+        "hesitate",
+        "kill"
+      ],
+      "traits": [
+        "first"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "Utterance",
+        "turner",
+        "thing crushed",
+        "killer",
+        "hesitator"
+      ]
+    },
+    {
+      "characterName": "others",
+      "recipients": [
+        "room",
+        "compound",
+        "MacReady"
+      ],
+      "verbs": [
+        "become",
+        "struggle",
+        "rebel"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "first struggler",
+        "supporter",
+        "rebel",
+        "thing led"
+      ]
+    },
+    {
+      "characterName": "Nauls",
+      "recipients": [
+        "camp",
+        "others",
+        "break",
+        "compound",
+        "line",
+        "complex",
+        "fire"
+      ],
+      "verbs": [
+        "return",
+        "tell",
+        "make",
+        "cut",
+        "set"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "intentional cutter",
+        "creator",
+        "checker",
+        "agent",
+        "thing viewed",
+        "causal agent"
+      ]
+    },
+    {
+      "characterName": "Childs_Keith_David",
+      "recipients": [
+        "MacReady",
+        "attack",
+        "camp"
+      ],
+      "verbs": [
+        "rebel",
+        "have",
+        "watch"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "rebel",
+        "impelled agent",
+        "operator",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "head",
+      "recipients": [
+        "flamethrower",
+        "legs"
+      ],
+      "verbs": [
+        "use",
+        "sprout"
+      ],
+      "traits": [
+        "entire"
+      ],
+      "semanticRoles": [
+        "Agent/Entity Trying",
+        "agent",
+        "User",
+        "farmer",
+        "entity causing separation"
+      ]
+    }
+  ]
+}

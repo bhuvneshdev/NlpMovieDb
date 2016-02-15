@@ -1,0 +1,253 @@
+{
+  "movieName": "TheLordoftheRings_TheFellowshipoftheRing(2001)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Ring",
+      "recipients": [
+        "lands",
+        "Gollum",
+        "Isildur"
+      ],
+      "verbs": [
+        "conquer",
+        "come",
+        "leaf"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "conquering hero",
+        "copied",
+        "thing used",
+        "logical subject",
+        "thing found",
+        "entity leaving",
+        "place",
+        "thing gotten",
+        "thing thrown",
+        "thing stolen"
+      ]
+    },
+    {
+      "characterName": "Sauron",
+      "recipients": [
+        "Ring",
+        "King",
+        "Elendil"
+      ],
+      "verbs": [
+        "use",
+        "kill"
+      ],
+      "traits": [
+        "Dark"
+      ],
+      "semanticRoles": [
+        "thing seen/shown",
+        "User",
+        "killer",
+        "thing being divided",
+        "entity defeated"
+      ]
+    },
+    {
+      "characterName": "orcs",
+      "recipients": [
+        "Isildur",
+        "sunlight"
+      ],
+      "verbs": [
+        "ambush",
+        "withstand"
+      ],
+      "traits": [
+        "large",
+        "stronger",
+        "larger"
+      ],
+      "semanticRoles": [
+        "ambusher",
+        "entity withstanding",
+        "entity distracted",
+        "thing followed"
+      ]
+    },
+    {
+      "characterName": "Bilbo_Baggins",
+      "recipients": [
+        "Ring",
+        "home",
+        "Frodo_Baggins",
+        "birthday",
+        "nephew"
+      ],
+      "verbs": [
+        "find",
+        "return",
+        "adopt",
+        "leaf"
+      ],
+      "traits": [
+        "hobbit"
+      ],
+      "semanticRoles": [
+        "finder",
+        "entity leaving",
+        "adopter"
+      ]
+    },
+    {
+      "characterName": "Frodo_Baggins",
+      "recipients": [
+        "Bree",
+        "Mordor"
+      ],
+      "verbs": [
+        "reach",
+        "go"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing adopted",
+        "first thing being tied",
+        "thing led",
+        "achiever",
+        "manager",
+        "thing striving",
+        "agreer",
+        "entity guided",
+        "injured party",
+        "entity healed",
+        "object accompanied",
+        "thing given",
+        "entity escaping",
+        "entity leaving",
+        "decider",
+        "action allowed",
+        "place"
+      ]
+    },
+    {
+      "characterName": "Gandalf",
+      "recipients": [
+        "head",
+        "Gandalf",
+        "forest",
+        "Frodo",
+        "Rivendell_Frodo",
+        "Bree",
+        "Balrog"
+      ],
+      "verbs": [
+        "meet",
+        "send",
+        "destroy",
+        "guide",
+        "accompany",
+        "confront"
+      ],
+      "traits": [
+        "ultimate"
+      ],
+      "semanticRoles": [
+        "sender",
+        "student",
+        "achiever",
+        "goal",
+        "sent",
+        "criminal",
+        "beginner",
+        "viewer",
+        "guide",
+        "explainer",
+        "subject accompanier",
+        "confrontational entity"
+      ]
+    },
+    {
+      "characterName": "Strider",
+      "recipients": [
+        "Rivendell",
+        "Frodo",
+        "Ringwraiths",
+        "Aragorn"
+      ],
+      "verbs": [
+        "lead",
+        "fight",
+        "accompany",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agreer",
+        "leader",
+        "thing gotten",
+        "first fighter",
+        "subject accompanier",
+        "utterance"
+      ]
+    },
+    {
+      "characterName": "friends",
+      "recipients": [
+        "Frodo",
+        "Fellowship",
+        "mountain"
+      ],
+      "verbs": [
+        "accompany",
+        "comprise",
+        "travel"
+      ],
+      "traits": [
+        "hobbit"
+      ],
+      "semanticRoles": [
+        "subject accompanier",
+        "action being stopped",
+        "impelled agent",
+        "traveller"
+      ]
+    },
+    {
+      "characterName": "Fellowship",
+      "recipients": [
+        "Caradhras",
+        "Balrog",
+        "Bridge"
+      ],
+      "verbs": [
+        "pass",
+        "encounter"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "group",
+        "legislative body",
+        "Agent/Entity Trying",
+        "agent",
+        "entity encountering something"
+      ]
+    },
+    {
+      "characterName": "Boromir",
+      "recipients": [
+        "Frodo",
+        "Ring",
+        "aid"
+      ],
+      "verbs": [
+        "take",
+        "rush"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent/Entity Trying",
+        "causer of motion",
+        "injured party",
+        "thing found",
+        "regreter"
+      ]
+    }
+  ]
+}

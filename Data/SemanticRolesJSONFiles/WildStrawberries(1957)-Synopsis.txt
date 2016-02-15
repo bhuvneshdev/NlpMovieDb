@@ -1,0 +1,304 @@
+{
+  "movieName": "WildStrawberries(1957)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Isak_Borg",
+      "recipients": [
+        "bed",
+        "figure",
+        "hand",
+        "bedroom",
+        "Kindahl",
+        "Lund",
+        "doctorate",
+        "medicine",
+        "children",
+        "detour",
+        "house",
+        "patch",
+        "lake",
+        "Sigfrid",
+        "love",
+        "They",
+        "godfather",
+        "company",
+        "examination",
+        "ceremony",
+        "Evald",
+        "Agda",
+        "Marianne",
+        "exchange",
+        "extent"
+      ],
+      "verbs": [
+        "be",
+        "walk",
+        "look",
+        "leaf",
+        "ask",
+        "drive",
+        "receive",
+        "want",
+        "make",
+        "fishing",
+        "Sara",
+        "enjoy",
+        "fail",
+        "dress",
+        "induce",
+        "have",
+        "break"
+      ],
+      "traits": [
+        "78yearold",
+        "older",
+        "good",
+        "upright",
+        "last"
+      ],
+      "semanticRoles": [
+        "dreamer",
+        "walker",
+        "looker",
+        "entity leaving",
+        "asker",
+        "driver",
+        "decider",
+        "object accompanied",
+        "agreer",
+        "speaker",
+        "complainer",
+        "Sayer",
+        "wanter",
+        "creator",
+        "beginner",
+        "fisherman",
+        "thing reminded about",
+        "thing viewed",
+        "entity notified",
+        "liker",
+        "enjoyer",
+        "shower",
+        "Utterance",
+        "thing given",
+        "target of gratification",
+        "person putting on clothes",
+        "patient",
+        "causer",
+        "Agent/Entity Trying",
+        "entity serenaded",
+        "wisher",
+        "accommodator",
+        "breaker"
+      ]
+    },
+    {
+      "characterName": "one",
+      "recipients": [
+        "hearse",
+        "house",
+        "boyfriend",
+        "kind"
+      ],
+      "verbs": [
+        "drive",
+        "find",
+        "be"
+      ],
+      "traits": [
+        "unhappy"
+      ],
+      "semanticRoles": [
+        "driver",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "viewer",
+      "recipients": [
+        "Isak",
+        "loneliness",
+        "sense",
+        "juncture",
+        "feeling"
+      ],
+      "verbs": [
+        "sens",
+        "develop",
+        "get",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "sensor",
+        "student",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "They",
+      "recipients": [
+        "Stockholm",
+        "Lund",
+        "Isak",
+        "restaurant"
+      ],
+      "verbs": [
+        "fly",
+        "notify",
+        "stop"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "planner",
+        "first arguer",
+        "entity leaving",
+        "manager",
+        "talker",
+        "kisser",
+        "notifier",
+        "question"
+      ]
+    },
+    {
+      "characterName": "Marianne",
+      "recipients": [
+        "room",
+        "Stockholm",
+        "Lund",
+        "Isak",
+        "house",
+        "relationship",
+        "lake",
+        "orders",
+        "car",
+        "request",
+        "day",
+        "ceremony",
+        "exchange"
+      ],
+      "verbs": [
+        "enter",
+        "accompany",
+        "stay",
+        "talk",
+        "swim",
+        "stop",
+        "drive",
+        "tell",
+        "leave",
+        "dress",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity entering",
+        "game/music",
+        "asker",
+        "subject accompanier",
+        "Agent/Entity Trying",
+        "causer of smoke emission",
+        "talker",
+        "a person engaged in a quarrel",
+        "swimmer",
+        "driver",
+        "Speaker",
+        "entity leaving",
+        "person putting on clothes",
+        "thing wanted",
+        "accommodator"
+      ]
+    },
+    {
+      "characterName": "Evald",
+      "recipients": [
+        "physician",
+        "Isak",
+        "home",
+        "ceremony",
+        "debt"
+      ],
+      "verbs": [
+        "be",
+        "reveal",
+        "dress",
+        "forget"
+      ],
+      "traits": [
+        "rigid",
+        "pregnant",
+        "angry"
+      ],
+      "semanticRoles": [
+        "speaker",
+        "a person engaged in a quarrel",
+        "person putting on clothes",
+        "forgetter",
+        "thing wanted",
+        "accommodator"
+      ]
+    },
+    {
+      "characterName": "Sara",
+      "recipients": [
+        "strawberries",
+        "table",
+        "love"
+      ],
+      "verbs": [
+        "pick",
+        "leaf",
+        "be"
+      ],
+      "traits": [
+        "alive"
+      ],
+      "semanticRoles": [
+        "picker",
+        "consoled",
+        "entity leaving",
+        "Thinker",
+        "describer",
+        "game/music",
+        "logical subject",
+        "Agent/Entity Trying",
+        "Keeper"
+      ]
+    },
+    {
+      "characterName": "people",
+      "recipients": [
+        "award",
+        "car",
+        "glen",
+        "flowers",
+        "Lund",
+        "Isak",
+        "lift",
+        "Hamburg"
+      ],
+      "verbs": [
+        "learn",
+        "remain",
+        "go",
+        "gather",
+        "reach",
+        "serenade",
+        "get"
+      ],
+      "traits": [
+        "young",
+        "important"
+      ],
+      "semanticRoles": [
+        "student",
+        "agent or causer",
+        "thing striving",
+        "thing greeted",
+        "knower",
+        "agent",
+        "receiver"
+      ]
+    }
+  ]
+}

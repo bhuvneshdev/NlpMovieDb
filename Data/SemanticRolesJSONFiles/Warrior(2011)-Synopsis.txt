@@ -1,0 +1,626 @@
+{
+  "movieName": "Warrior(2011)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Conlon",
+      "recipients": [
+        "home",
+        "hardships",
+        "arm",
+        "jabs"
+      ],
+      "verbs": [
+        "arrive",
+        "Tess",
+        "overextend",
+        "take"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent",
+        "thing put",
+        "agent of overextension",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "Tommy",
+      "recipients": [
+        "bottle",
+        "pills",
+        "Paddy",
+        "drink",
+        "way",
+        "gym",
+        "membership",
+        "offer",
+        "Dog",
+        "manager",
+        "bottles",
+        "conditions",
+        "unit",
+        "woman",
+        "home",
+        "children",
+        "Tommy",
+        "attention",
+        "shore",
+        "evening",
+        "Brendan",
+        "fight",
+        "fluke",
+        "ring",
+        "exMarine",
+        "composure",
+        "corps",
+        "bed",
+        "Mad_Dog_Grimes",
+        "fighter",
+        "arena",
+        "mat",
+        "arm",
+        "times"
+      ],
+      "verbs": [
+        "drinking",
+        "pop",
+        "offer",
+        "make",
+        "come",
+        "sign",
+        "accept",
+        "knock",
+        "tell",
+        "want",
+        "empty",
+        "save",
+        "call",
+        "stand",
+        "know",
+        "arrive",
+        "duck",
+        "walk",
+        "see",
+        "accuse",
+        "acknowledge",
+        "enter",
+        "be",
+        "turn",
+        "prepare",
+        "shout",
+        "lose",
+        "desert",
+        "berate",
+        "lay",
+        "battle",
+        "drop",
+        "pummel",
+        "conceal",
+        "stop"
+      ],
+      "traits": [
+        "teenage",
+        "uninterested",
+        "ragefilled"
+      ],
+      "semanticRoles": [
+        "maker of sounds",
+        "drinker",
+        "visitor",
+        "creator",
+        "trainer",
+        "beginner",
+        "signer",
+        "acceptor",
+        "entity brushed",
+        "causal agent",
+        "action allowed",
+        "hitter",
+        "Speaker",
+        "expecter",
+        "alive entity",
+        "walker",
+        "wanter",
+        "explainer",
+        "Utterance",
+        "rescuer",
+        "entity saving money",
+        "knower",
+        "evader",
+        "thing viewed",
+        "fleer",
+        "viewer",
+        "accuser",
+        "entity refusing",
+        "admitter",
+        "entity entering",
+        "departed entity",
+        "turner",
+        "shouter",
+        "place",
+        "entity leaving",
+        "feeler",
+        "yeller",
+        "causer of waking",
+        "layer",
+        "first wrestler",
+        "combatant",
+        "entity being criticized",
+        "entity doing the dropping",
+        "agent",
+        "question",
+        "letter loose",
+        "causer of continuation",
+        "first fighter",
+        "impelled agent",
+        "quitter",
+        "thing(s) being latched (each gets its own arg1)",
+        "thing held"
+      ]
+    },
+    {
+      "characterName": "Paddy",
+      "recipients": [
+        "drink",
+        "son",
+        "cup",
+        "offer",
+        "diner",
+        "lunch",
+        "Paddy",
+        "proposal",
+        "Tommy",
+        "granddaughters",
+        "news",
+        "evening",
+        "story",
+        "room",
+        "machine",
+        "casino",
+        "crew",
+        "reply"
+      ],
+      "verbs": [
+        "refuse",
+        "invite",
+        "reject",
+        "eat",
+        "train",
+        "accept",
+        "tell",
+        "see",
+        "leave",
+        "watch",
+        "call",
+        "leaf",
+        "feed",
+        "head",
+        "shout",
+        "get"
+      ],
+      "traits": [
+        "next",
+        "surprised"
+      ],
+      "semanticRoles": [
+        "inviter",
+        "entity refusing",
+        "Utterance",
+        "rejecter",
+        "agreer",
+        "consumer",
+        "person surprised",
+        "trainer",
+        "thing wanted",
+        "skill",
+        "player",
+        "acceptor",
+        "Speaker",
+        "thing viewed",
+        "viewer",
+        "asker",
+        "entity leaving",
+        "picker",
+        "place",
+        "causal agent",
+        "smirker",
+        "leader",
+        "receiver",
+        "yelled at",
+        "shouter",
+        "looker"
+      ]
+    },
+    {
+      "characterName": "Brendan_Conlon",
+      "recipients": [
+        "Philadelphia",
+        "time",
+        "union",
+        "home",
+        "job",
+        "wife",
+        "goodnight",
+        "club",
+        "Tess",
+        "ring",
+        "win",
+        "evening",
+        "day",
+        "shiner",
+        "looks",
+        "Brendan",
+        "coach",
+        "strength",
+        "agility",
+        "night",
+        "Paddy",
+        "Tommy",
+        "times",
+        "underdog",
+        "fight",
+        "round",
+        "Midnight",
+        "hold",
+        "tapout",
+        "gestures",
+        "row",
+        "arena",
+        "Ode",
+        "composure",
+        "Frank",
+        "Conlon",
+        "arms",
+        "cameras",
+        "people"
+      ],
+      "verbs": [
+        "life",
+        "work",
+        "visit",
+        "lose",
+        "wrap",
+        "call",
+        "tell",
+        "say",
+        "head",
+        "pull",
+        "lie",
+        "enter",
+        "squeak",
+        "arrive",
+        "meet",
+        "regain",
+        "see",
+        "marry",
+        "approach",
+        "attempt",
+        "be",
+        "prepare",
+        "go",
+        "manage",
+        "force",
+        "put",
+        "survive",
+        "win",
+        "rally",
+        "ask",
+        "maintain",
+        "do",
+        "finish",
+        "convince",
+        "latch",
+        "hold",
+        "shoo"
+      ],
+      "traits": [
+        "underwater",
+        "surprised",
+        "dismisses",
+        "drunk",
+        "best",
+        "concerned",
+        "victorious"
+      ],
+      "semanticRoles": [
+        "alive entity",
+        "one party",
+        "student",
+        "agent/cause of wrapping",
+        "Speaker",
+        "Sayer",
+        "leader",
+        "puller",
+        "entity entering",
+        "causal agent",
+        "admitter",
+        "replier",
+        "Utterance",
+        "achiever",
+        "goal",
+        "thing put",
+        "decider",
+        "begger",
+        "trainer",
+        "action allowed",
+        "recoverer",
+        "viewer",
+        "thing viewed",
+        "causer",
+        "place",
+        "convincer",
+        "wanter",
+        "entity in motion",
+        "looker",
+        "knower",
+        "accused",
+        "proposition",
+        "thing hit",
+        "thing reminded about",
+        "winner",
+        "forcer",
+        "manager",
+        "impelled agent",
+        "agent",
+        "survivor",
+        "loser",
+        "person",
+        "patient",
+        "summoner",
+        "entity succeeding",
+        "kisser",
+        "asker",
+        "maintainer",
+        "Intentional agent",
+        "Thing finishing",
+        "supporter",
+        "new knower",
+        "causative agent",
+        "holder",
+        "expeller"
+      ]
+    },
+    {
+      "characterName": "Tess",
+      "recipients": [
+        "jobs",
+        "eye",
+        "decision",
+        "joy",
+        "Koba",
+        "horror"
+      ],
+      "verbs": [
+        "work",
+        "see",
+        "cave",
+        "jump",
+        "watch"
+      ],
+      "traits": [
+        "shocked"
+      ],
+      "semanticRoles": [
+        "Utterance",
+        "viewer",
+        "entity in motion / \u0027comer\u0027",
+        "asker",
+        "begger",
+        "one half",
+        "kisser"
+      ]
+    },
+    {
+      "characterName": "Pete_Mad_Dog_Grimes",
+      "recipients": [
+        "word",
+        "Tommy",
+        "mat",
+        "swing"
+      ],
+      "verbs": [
+        "put",
+        "brush",
+        "dance",
+        "take",
+        "badmouthe"
+      ],
+      "traits": [
+        "professional",
+        "brutal",
+        "Mad"
+      ],
+      "semanticRoles": [
+        "hitter",
+        "entity with brush",
+        "thing hit",
+        "dancer",
+        "critic",
+        "speaker",
+        "Logical subject"
+      ]
+    },
+    {
+      "characterName": "O.",
+      "recipients": [
+        "s",
+        "address",
+        "bag",
+        "winnings",
+        "family",
+        "Sparta",
+        "hugs",
+        "O."
+      ],
+      "verbs": [
+        "s",
+        "send",
+        "win",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "document",
+        "money",
+        "sender",
+        "winner",
+        "entity with a bobbing head"
+      ]
+    },
+    {
+      "characterName": "s",
+      "recipients": [
+        "teenager",
+        "videotape",
+        "girlfriend",
+        "arena"
+      ],
+      "verbs": [
+        "be",
+        "watch",
+        "have",
+        "enter"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing abandoned",
+        "entity entering",
+        "Speaker",
+        "wanter",
+        "legislative body"
+      ]
+    },
+    {
+      "characterName": "Joe_Zito",
+      "recipients": [
+        "classroom",
+        "head",
+        "Brendan",
+        "time",
+        "school",
+        "lot",
+        "fights",
+        "home"
+      ],
+      "verbs": [
+        "peek",
+        "tell",
+        "work",
+        "fight",
+        "watch"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "looker",
+        "first fighter",
+        "denier"
+      ]
+    },
+    {
+      "characterName": "Frank",
+      "recipients": [
+        "Brendan",
+        "Campana",
+        "trust",
+        "gestures",
+        "row",
+        "horror",
+        "fight",
+        "pleas"
+      ],
+      "verbs": [
+        "allow",
+        "put",
+        "remind",
+        "enter",
+        "watch",
+        "stop",
+        "ignore",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "allower",
+        "cause",
+        "entity entering",
+        "Utterance",
+        "ignorer",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "round",
+      "recipients": [
+        "end",
+        "Tommy"
+      ],
+      "verbs": [
+        "come"
+      ],
+      "traits": [
+        "next",
+        "final",
+        "first",
+        "second",
+        "third",
+        "fourth"
+      ],
+      "semanticRoles": [
+        "adverse circumstances",
+        "beginner"
+      ]
+    },
+    {
+      "characterName": "students",
+      "recipients": [
+        "Brendan",
+        "Mr",
+        "Principal_Zito",
+        "Sparta",
+        "Philadelphia",
+        "theater",
+        "fights"
+      ],
+      "verbs": [
+        "support",
+        "approach",
+        "watch",
+        "rent"
+      ],
+      "traits": [
+        "eager"
+      ],
+      "semanticRoles": [
+        "helper",
+        "asker",
+        "Utterance",
+        "finder",
+        "renter"
+      ]
+    },
+    {
+      "characterName": "Koba",
+      "recipients": [
+        "opponent",
+        "face",
+        "Koba"
+      ],
+      "verbs": [
+        "be",
+        "bloody",
+        "force"
+      ],
+      "traits": [
+        "undefeated",
+        "unable"
+      ],
+      "semanticRoles": [
+        "causer",
+        "forcer",
+        "impelled agent",
+        "agent"
+      ]
+    }
+  ]
+}

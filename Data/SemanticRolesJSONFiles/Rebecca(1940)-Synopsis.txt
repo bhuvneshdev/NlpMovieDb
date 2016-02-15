@@ -1,0 +1,150 @@
+{
+  "movieName": "Rebecca(1940)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "heroine",
+      "recipients": [
+        "woman",
+        "Maximilian_de_Winter",
+        "Mrs",
+        "costume",
+        "Danvers"
+      ],
+      "verbs": [
+        "be",
+        "meet",
+        "plan",
+        "confront"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "Agent/Entity Trying",
+        "planner",
+        "confrontational entity"
+      ]
+    },
+    {
+      "characterName": "Maximilian_de_Winter",
+      "recipients": [
+        "relationship",
+        "Maxim",
+        "blaze"
+      ],
+      "verbs": [
+        "doubt",
+        "convince",
+        "escape"
+      ],
+      "traits": [
+        "widower"
+      ],
+      "semanticRoles": [
+        "goal",
+        "disbeliever",
+        "beginner",
+        "entity intimidated",
+        "convincer",
+        "manager",
+        "entity escaping"
+      ]
+    },
+    {
+      "characterName": "Maxim",
+      "recipients": [
+        "house",
+        "bride",
+        "Manderley",
+        "party",
+        "police",
+        "suspicion",
+        "home"
+      ],
+      "verbs": [
+        "take",
+        "hold",
+        "tell",
+        "be",
+        "return"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "holder",
+        "impelled agent",
+        "informed",
+        "Speaker",
+        "entity blackmailed"
+      ]
+    },
+    {
+      "characterName": "Danvers",
+      "recipients": [
+        "portrait",
+        "outfit",
+        "place",
+        "woman"
+      ],
+      "verbs": [
+        "copy",
+        "take",
+        "convince"
+      ],
+      "traits": [
+        "domineering"
+      ],
+      "semanticRoles": [
+        "obsession",
+        "copyist",
+        "Sayer",
+        "entity confronted",
+        "manager",
+        "Speaker",
+        "convincer"
+      ]
+    },
+    {
+      "characterName": "Rebecca",
+      "recipients": [
+        "ball",
+        "outfit",
+        "year",
+        "marriage",
+        "beginning",
+        "Maxim_Rebecca",
+        "public",
+        "Maxim",
+        "night",
+        "argument",
+        "head",
+        "cancer"
+      ],
+      "verbs": [
+        "wear",
+        "lead",
+        "tell",
+        "act",
+        "inform",
+        "fall",
+        "hit",
+        "have"
+      ],
+      "traits": [
+        "pregnant",
+        "suicidal"
+      ],
+      "semanticRoles": [
+        "finder",
+        "wearer",
+        "leader",
+        "Speaker",
+        "thing led",
+        "player",
+        "[causer of growth - should be possible]",
+        "informer",
+        "agent",
+        "thing mistaken",
+        "corpse"
+      ]
+    }
+  ]
+}

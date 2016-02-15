@@ -1,0 +1,246 @@
+{
+  "movieName": "ASeparation(2011)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Simin",
+      "recipients": [
+        "daughter",
+        "court",
+        "country",
+        "opportunities",
+        "father",
+        "movie",
+        "money",
+        "Simin"
+      ],
+      "verbs": [
+        "claim",
+        "move",
+        "provide",
+        "say",
+        "Nader",
+        "believe",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "claimer",
+        "mover",
+        "planner",
+        "provider",
+        "Sayer",
+        "insister",
+        "alive entity",
+        "giver",
+        "agreer",
+        "allower",
+        "thing known or thought",
+        "belief",
+        "deserving entity (entity who is owed)"
+      ]
+    },
+    {
+      "characterName": "Nader",
+      "recipients": [
+        "country",
+        "opportunities",
+        "nurse",
+        "day",
+        "irresponsibility",
+        "what",
+        "house",
+        "Razieh",
+        "challenge",
+        "story",
+        "money",
+        "Simin",
+        "example"
+      ],
+      "verbs": [
+        "move",
+        "provide",
+        "hire",
+        "come",
+        "call",
+        "push",
+        "deny",
+        "hear",
+        "give",
+        "ask",
+        "be"
+      ],
+      "traits": [
+        "interested",
+        "alive",
+        "guilty",
+        "sure"
+      ],
+      "semanticRoles": [
+        "mover",
+        "planner",
+        "provider",
+        "entity refusing",
+        "thing known or thought",
+        "decider",
+        "employer",
+        "viewer",
+        "Thinker",
+        "first fighter",
+        "pusher",
+        "accused",
+        "knower",
+        "denier",
+        "insulted",
+        "giver",
+        "agreer",
+        "insister",
+        "asker",
+        "allower",
+        "belief",
+        "deserving entity (entity who is owed)"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "Alzheimer",
+        "room",
+        "day",
+        "house",
+        "bed",
+        "court",
+        "lie",
+        "hand",
+        "Simin"
+      ],
+      "verbs": [
+        "suffer",
+        "go",
+        "leaf",
+        "fall",
+        "left",
+        "tell",
+        "hold",
+        "know"
+      ],
+      "traits": [
+        "Termeh"
+      ],
+      "semanticRoles": [
+        "entity suffering",
+        "needer",
+        "forgetter",
+        "Sayer",
+        "thing found",
+        "entity leaving",
+        "legislative body",
+        "money",
+        "question",
+        "Speaker",
+        "holder",
+        "knower"
+      ]
+    },
+    {
+      "characterName": "Razieh",
+      "recipients": [
+        "house",
+        "care",
+        "man",
+        "father",
+        "story",
+        "street",
+        "pain",
+        "night",
+        "Nader",
+        "money"
+      ],
+      "verbs": [
+        "enter",
+        "take",
+        "help",
+        "find",
+        "left",
+        "talk",
+        "cross",
+        "experienced",
+        "get"
+      ],
+      "traits": [
+        "pregnant",
+        "sure",
+        "guilty"
+      ],
+      "semanticRoles": [
+        "entity entering",
+        "liker",
+        "wanter",
+        "helper",
+        "agreer",
+        "finder",
+        "entity leaving",
+        "thing pushed",
+        "claimer",
+        "talker",
+        "swearer",
+        "question",
+        "Thinker",
+        "entity refusing",
+        "causer of motion",
+        "crosser",
+        "experiencer",
+        "thing hit",
+        "speaker",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "Hodjat",
+      "recipients": [
+        "Nader",
+        "job",
+        "man",
+        "court",
+        "times",
+        "money"
+      ],
+      "verbs": [
+        "insult",
+        "have",
+        "be",
+        "fight",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "insulter",
+        "first fighter",
+        "receiver",
+        "wanter"
+      ]
+    },
+    {
+      "characterName": "Termeh",
+      "recipients": [
+        "destiny",
+        "father"
+      ],
+      "verbs": [
+        "choose",
+        "ask"
+      ],
+      "traits": [
+        "sure",
+        "right"
+      ],
+      "semanticRoles": [
+        "knower",
+        "picker",
+        "chooser",
+        "alive entity",
+        "wanter",
+        "asker"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1068 @@
+{
+  "movieName": "VforVendetta(2005)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "man",
+      "recipients": [
+        "name",
+        "head",
+        "neighborhood",
+        "badge",
+        "girl",
+        "bomb",
+        "nothing"
+      ],
+      "verbs": [
+        "go",
+        "be",
+        "do",
+        "flash",
+        "murder",
+        "assemble",
+        "mean"
+      ],
+      "traits": [
+        "worst"
+      ],
+      "semanticRoles": [
+        "creator",
+        "shower",
+        "corpse",
+        "thing hit",
+        "entity confronted",
+        "the deceased",
+        "wanter",
+        "killer",
+        "entity attacked",
+        "agent",
+        "person"
+      ]
+    },
+    {
+      "characterName": "people",
+      "recipients": [
+        "themselves",
+        "corruption",
+        "Parliament",
+        "rule",
+        "something",
+        "right",
+        "opinion",
+        "Evey",
+        "masks",
+        "slaves",
+        "fact",
+        "fear",
+        "man",
+        "ME",
+        "failure"
+      ],
+      "verbs": [
+        "pass",
+        "be",
+        "gather",
+        "go",
+        "do",
+        "bother",
+        "love",
+        "use",
+        "reinforce",
+        "live",
+        "support",
+        "represent",
+        "believe"
+      ],
+      "traits": [
+        "different",
+        "certain",
+        "weak",
+        "other",
+        "Several"
+      ],
+      "semanticRoles": [
+        "legislative body",
+        "gift",
+        "object",
+        "promise",
+        "entity blamed",
+        "overcomer",
+        "picker",
+        "causal agent",
+        "creator",
+        "agent or causer",
+        "killer",
+        "induced experiencer",
+        "lover",
+        "User",
+        "thing led",
+        "carrier",
+        "strengthener",
+        "relier",
+        "impelled agent",
+        "alive entity",
+        "thing turning",
+        "caller",
+        "helper",
+        "entity taking place of other"
+      ]
+    },
+    {
+      "characterName": "Government",
+      "recipients": [
+        "guise",
+        "people",
+        "control",
+        "what",
+        "police",
+        "Finch",
+        "virus",
+        "itself",
+        "arts"
+      ],
+      "verbs": [
+        "rule",
+        "protect",
+        "take",
+        "do",
+        "get",
+        "block",
+        "contain",
+        "pass"
+      ],
+      "traits": [
+        "corrupt",
+        "good",
+        "fascist",
+        "new",
+        "English",
+        "own",
+        "weak"
+      ],
+      "semanticRoles": [
+        "decider",
+        "action allowed",
+        "thing opposed to",
+        "thing set",
+        "creator",
+        "experiencer",
+        "receiver",
+        "Agent/Entity Trying",
+        "suppressor",
+        "container",
+        "thing abolished",
+        "causal agent",
+        "legislative body",
+        "enforcer"
+      ]
+    },
+    {
+      "characterName": "Chancellor",
+      "recipients": [
+        "people",
+        "mask",
+        "V",
+        "terrorist",
+        "power",
+        "program",
+        "image",
+        "position",
+        "justice",
+        "anyone",
+        "terrorism"
+      ],
+      "verbs": [
+        "deem",
+        "demand",
+        "confront",
+        "roar",
+        "secure",
+        "enact",
+        "mirror",
+        "come",
+        "take",
+        "vow",
+        "preach"
+      ],
+      "traits": [
+        "corrupt",
+        "high",
+        "able",
+        "effective"
+      ],
+      "semanticRoles": [
+        "assigner",
+        "thing held",
+        "mocked",
+        "asker",
+        "confrontational entity",
+        "roarer",
+        "agent",
+        "legislative body",
+        "releaser",
+        "turner",
+        "thing given",
+        "wanter",
+        "promiser",
+        "thing brought",
+        "preacher"
+      ]
+    },
+    {
+      "characterName": "we",
+      "recipients": [
+        "talk",
+        "nature",
+        "character",
+        "Evey",
+        "Prothero",
+        "Delia",
+        "night",
+        "facility",
+        "priestarchbishop",
+        "broadcast",
+        "V",
+        "point"
+      ],
+      "verbs": [
+        "evey_natalie_portman",
+        "meet",
+        "see",
+        "hear",
+        "go",
+        "learn"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing seen/shown",
+        "listener",
+        "viewer",
+        "entity being introduced",
+        "student",
+        "achiever",
+        "knower",
+        "needer",
+        "thing"
+      ]
+    },
+    {
+      "characterName": "Evey",
+      "recipients": [
+        "curfew",
+        "Evey",
+        "himself",
+        "speech",
+        "explosion",
+        "officer",
+        "him",
+        "newscaster",
+        "house",
+        "Rea",
+        "truth",
+        "hypocrisy",
+        "peace",
+        "herself",
+        "door",
+        "V",
+        "glass",
+        "love",
+        "enemies",
+        "government",
+        "man",
+        "mask",
+        "power",
+        "return",
+        "revenge",
+        "embodiment",
+        "destination",
+        "car"
+      ],
+      "verbs": [
+        "go",
+        "ask",
+        "identify",
+        "give",
+        "view",
+        "observe",
+        "sneak",
+        "spray",
+        "watch",
+        "wake",
+        "warn",
+        "see",
+        "find",
+        "walk",
+        "attempt",
+        "smash",
+        "attain",
+        "destroy",
+        "return",
+        "confront",
+        "have",
+        "await",
+        "be",
+        "fall",
+        "show",
+        "send"
+      ],
+      "traits": [
+        "upset",
+        "tortured",
+        "alive",
+        "worse"
+      ],
+      "semanticRoles": [
+        "decider",
+        "person doing the closing",
+        "asker",
+        "caller",
+        "question",
+        "giver",
+        "observer",
+        "agentive cause of confusion",
+        "criminal",
+        "needer",
+        "thing viewed",
+        "applier",
+        "entity sneaking",
+        "alarm clock",
+        "commentor",
+        "Agent/Entity Trying",
+        "thing gotten",
+        "viewer",
+        "finder",
+        "walker",
+        "money",
+        "replier",
+        "beginner",
+        "agent",
+        "loved",
+        "wanter",
+        "thing known or thought",
+        "reacher",
+        "place",
+        "confrontational entity",
+        "thing needed",
+        "thinker",
+        "Speaker",
+        "thing seen/shown",
+        "shower",
+        "sender",
+        "action allowed",
+        "goal"
+      ]
+    },
+    {
+      "characterName": "Prothero",
+      "recipients": [
+        "winged",
+        "us",
+        "fraud",
+        "Englishman",
+        "propaganda",
+        "etc",
+        "broadcast",
+        "chance",
+        "work",
+        "producer"
+      ],
+      "verbs": [
+        "be",
+        "test",
+        "am",
+        "blame",
+        "listen",
+        "have",
+        "say",
+        "die",
+        "call"
+      ],
+      "traits": [
+        "dead",
+        "capable"
+      ],
+      "semanticRoles": [
+        "talker",
+        "examiner",
+        "blamer",
+        "thing viewed",
+        "listener",
+        "wisher",
+        "Sayer",
+        "corpse",
+        "utterance",
+        "thing longed for",
+        "claimer",
+        "obsession"
+      ]
+    },
+    {
+      "characterName": "You",
+      "recipients": [
+        "chancellor",
+        "panic",
+        "fear",
+        "bullets"
+      ],
+      "verbs": [
+        "turn",
+        "have",
+        "be"
+      ],
+      "traits": [
+        "free"
+      ],
+      "semanticRoles": [
+        "Thinker",
+        "explainer",
+        "needer",
+        "looker",
+        "thing gotten",
+        "turner",
+        "loader"
+      ]
+    },
+    {
+      "characterName": "I",
+      "recipients": [
+        "void",
+        "you",
+        "Sutler"
+      ],
+      "verbs": [
+        "interpret",
+        "am",
+        "suppose"
+      ],
+      "traits": [
+        "proud"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "knower",
+        "Thinker",
+        "interpreter"
+      ]
+    },
+    {
+      "characterName": "virus",
+      "recipients": [
+        "death",
+        "cause",
+        "center",
+        "US"
+      ],
+      "verbs": [
+        "lead",
+        "be",
+        "destroy"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "leader",
+        "loose thing",
+        "contents"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "work",
+        "rape",
+        "Rea",
+        "class",
+        "guns"
+      ],
+      "verbs": [
+        "do",
+        "prepare",
+        "elevate",
+        "have"
+      ],
+      "traits": [
+        "richest"
+      ],
+      "semanticRoles": [
+        "causer of upward motion"
+      ]
+    },
+    {
+      "characterName": "It",
+      "recipients": [
+        "opinion",
+        "right",
+        "project",
+        "Creedy",
+        "ME"
+      ],
+      "verbs": [
+        "be"
+      ],
+      "traits": [
+        "late",
+        "sorry",
+        "interesting",
+        "possible",
+        "unclear",
+        "vulnerable",
+        "free"
+      ],
+      "semanticRoles": [
+        "belief",
+        "apologist",
+        "noter",
+        "thing set"
+      ]
+    },
+    {
+      "characterName": "V",
+      "recipients": [
+        "men",
+        "while",
+        "reason",
+        "lead",
+        "control",
+        "support",
+        "escape",
+        "officer",
+        "Evey",
+        "newsroom",
+        "house",
+        "him",
+        "Rea",
+        "mercy",
+        "Number",
+        "fire",
+        "Dietrich",
+        "cigar",
+        "shoes",
+        "raid",
+        "time",
+        "captor",
+        "strength",
+        "Finch",
+        "truth",
+        "inspector",
+        "Creedy",
+        "muscle",
+        "who",
+        "symbol",
+        "power",
+        "station",
+        "Portman",
+        "tunnel",
+        "police",
+        "knives",
+        "mask",
+        "No",
+        "force",
+        "bullets",
+        "Creedy_Beneath",
+        "majority"
+      ],
+      "verbs": [
+        "put",
+        "destroy",
+        "be",
+        "take",
+        "ask",
+        "make",
+        "knock",
+        "attack",
+        "show",
+        "address",
+        "kill",
+        "have",
+        "escape",
+        "slip",
+        "tie",
+        "save",
+        "Wightman",
+        "expose",
+        "tell",
+        "confront",
+        "leaf",
+        "respond",
+        "bring",
+        "meet",
+        "remove",
+        "slaughter",
+        "survive",
+        "return",
+        "look",
+        "convince"
+      ],
+      "traits": [
+        "happy"
+      ],
+      "semanticRoles": [
+        "item being labelled",
+        "thing found",
+        "asker",
+        "creator",
+        "hitter",
+        "attacker",
+        "shower",
+        "addresser",
+        "explainer",
+        "question",
+        "killer",
+        "Agent / entity seeking",
+        "thing viewed",
+        "Sayer",
+        "entity suffering",
+        "entity escaping",
+        "thing gotten",
+        "agent",
+        "game/music",
+        "entity confronted",
+        "entity saving money",
+        "replier",
+        "exposer",
+        "allower",
+        "Speaker",
+        "achiever",
+        "confrontational entity",
+        "entity leaving",
+        "surface",
+        "bringer",
+        "entity removing",
+        "survivor",
+        "looker",
+        "convincer"
+      ]
+    },
+    {
+      "characterName": "Anyone",
+      "recipients": [
+        "belief",
+        "crusade",
+        "lead",
+        "government"
+      ],
+      "verbs": [
+        "take",
+        "go"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing dealt with or in",
+        "item being labelled",
+        "promised action",
+        "thing hit"
+      ]
+    },
+    {
+      "characterName": "police",
+      "recipients": [
+        "location",
+        "charges"
+      ],
+      "verbs": [
+        "give",
+        "face",
+        "break"
+      ],
+      "traits": [
+        "secret"
+      ],
+      "semanticRoles": [
+        "sent",
+        "Utterance",
+        "looker",
+        "giver",
+        "entity refusing",
+        "thing thrown",
+        "speaker",
+        "breaker",
+        "thing gotten",
+        "condemned",
+        "entity defied",
+        "goal",
+        "causal agent",
+        "entity rendered"
+      ]
+    },
+    {
+      "characterName": "Creedy_Tim_PigottSmith",
+      "recipients": [
+        "head",
+        "V",
+        "Chancellor",
+        "self",
+        "mark",
+        "deal",
+        "Sutler",
+        "word",
+        "guns",
+        "Creedy"
+      ],
+      "verbs": [
+        "be",
+        "give",
+        "reveal",
+        "make",
+        "complete",
+        "deliver",
+        "bring",
+        "keep",
+        "have",
+        "kill"
+      ],
+      "traits": [
+        "secret",
+        "ready"
+      ],
+      "semanticRoles": [
+        "entity confronted",
+        "giver",
+        "promiser",
+        "speaker",
+        "viewer",
+        "agreer",
+        "finisher",
+        "creator",
+        "place",
+        "sender",
+        "bringer",
+        "goal",
+        "Keeper",
+        "Utterance",
+        "shooter",
+        "killer",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Rea",
+      "recipients": [
+        "doubts",
+        "government",
+        "pedophile",
+        "scene",
+        "investigation",
+        "facility",
+        "Evey",
+        "law"
+      ],
+      "verbs": [
+        "have",
+        "work",
+        "be",
+        "enter",
+        "cease",
+        "meet",
+        "uphold"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causer of continuation",
+        "entity elevated",
+        "corpse",
+        "entity entering",
+        "causer of ceasing",
+        "Utterance",
+        "achiever",
+        "student",
+        "new knower",
+        "helper",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "she",
+      "recipients": [
+        "agency",
+        "V",
+        "side",
+        "nothing"
+      ],
+      "verbs": [
+        "work",
+        "ask",
+        "remain",
+        "know"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "asker",
+        "helper",
+        "entity leaving",
+        "wanter",
+        "knower"
+      ]
+    },
+    {
+      "characterName": "Unbeknownst",
+      "recipients": [
+        "delivery",
+        "speech",
+        "himself",
+        "populace",
+        "truth",
+        "public"
+      ],
+      "verbs": [
+        "be",
+        "broadcast",
+        "describe",
+        "point",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "beginner",
+        "transmitter",
+        "pointer",
+        "describer",
+        "giver",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "Who",
+      "recipients": [
+        "girl",
+        "power",
+        "people"
+      ],
+      "verbs": [
+        "hide",
+        "come",
+        "lead"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "blamer",
+        "the deceased",
+        "thing exiting",
+        "leader"
+      ]
+    },
+    {
+      "characterName": "Finch",
+      "recipients": [
+        "dead",
+        "talks",
+        "Chancellor",
+        "truth",
+        "name",
+        "power",
+        "puzzle",
+        "center",
+        "rise",
+        "connection",
+        "what",
+        "face",
+        "Government",
+        "Evey"
+      ],
+      "verbs": [
+        "find",
+        "put",
+        "do",
+        "realize",
+        "serve",
+        "allow"
+      ],
+      "traits": [
+        "alive"
+      ],
+      "semanticRoles": [
+        "finder",
+        "Agent/Entity Trying",
+        "entity contacted",
+        "Utterance",
+        "Agent",
+        "understander",
+        "beginner",
+        "thing gotten",
+        "new knower",
+        "worker",
+        "promise",
+        "allower"
+      ]
+    },
+    {
+      "characterName": "priest",
+      "recipients": [
+        "victim",
+        "facility",
+        "Archbishop",
+        "irony",
+        "V"
+      ],
+      "verbs": [
+        "be",
+        "work",
+        "ask"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Thinker",
+        "corpse",
+        "asker"
+      ]
+    },
+    {
+      "characterName": "girl",
+      "recipients": [
+        "Natalie_Portman",
+        "game\u0027and",
+        "officer",
+        "back"
+      ],
+      "verbs": [
+        "be",
+        "play",
+        "shot"
+      ],
+      "traits": [
+        "older",
+        "recent",
+        "young"
+      ],
+      "semanticRoles": [
+        "player",
+        "entity molested",
+        "entity leaving",
+        "agent",
+        "shooter",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Delia",
+      "recipients": [
+        "Cusack",
+        "what",
+        "V",
+        "kills",
+        "one",
+        "diary",
+        "opinion",
+        "good"
+      ],
+      "verbs": [
+        "tell",
+        "do",
+        "see",
+        "be",
+        "write",
+        "feel",
+        "work"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "Speaker",
+        "alarm clock",
+        "goal",
+        "asker",
+        "corpse",
+        "thing viewed",
+        "feeler"
+      ]
+    },
+    {
+      "characterName": "Roman",
+      "recipients": [
+        "signs",
+        "burns",
+        "who"
+      ],
+      "verbs": [
+        "show",
+        "suffer",
+        "be"
+      ],
+      "traits": [
+        "human"
+      ],
+      "semanticRoles": [
+        "shower",
+        "entity suffering",
+        "forgetter"
+      ]
+    },
+    {
+      "characterName": "Dietrich",
+      "recipients": [
+        "girls",
+        "dinner",
+        "way",
+        "twist",
+        "room",
+        "host",
+        "show"
+      ],
+      "verbs": [
+        "have",
+        "invite",
+        "be",
+        "do"
+      ],
+      "traits": [
+        "homosexual"
+      ],
+      "semanticRoles": [
+        "inviter",
+        "decider",
+        "announcer",
+        "Logical subject",
+        "shouter",
+        "corpse",
+        "thing gotten"
+      ]
+    },
+    {
+      "characterName": "Sutler",
+      "recipients": [
+        "V",
+        "police",
+        "failure",
+        "himself"
+      ],
+      "verbs": [
+        "capture",
+        "send",
+        "be",
+        "saw"
+      ],
+      "traits": [
+        "fake",
+        "real",
+        "furious"
+      ],
+      "semanticRoles": [
+        "claimer",
+        "getter",
+        "sender",
+        "sent",
+        "thing brought",
+        "Thing thought about",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "heavy",
+      "recipients": [
+        "movie",
+        "maximumcool"
+      ],
+      "verbs": [
+        "state",
+        "edit"
+      ],
+      "traits": [
+        "Solidus7705",
+        "accurate"
+      ],
+      "semanticRoles": [
+        "pointer",
+        "editor",
+        "agent",
+        "announcer"
+      ]
+    }
+  ]
+}

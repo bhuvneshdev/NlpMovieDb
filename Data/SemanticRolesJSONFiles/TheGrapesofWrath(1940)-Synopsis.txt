@@ -1,0 +1,118 @@
+{
+  "movieName": "TheGrapesofWrath(1940)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Tom",
+      "recipients": [
+        "sheriff",
+        "walk",
+        "farm",
+        "Casy",
+        "mother"
+      ],
+      "verbs": [
+        "knock",
+        "take",
+        "encounter",
+        "vow"
+      ],
+      "traits": [
+        "wary"
+      ],
+      "semanticRoles": [
+        "(first) thing(s) being unified",
+        "finder",
+        "fleer",
+        "hitter",
+        "entity encountering something",
+        "killer",
+        "thing hit",
+        "promiser"
+      ]
+    },
+    {
+      "characterName": "family",
+      "recipients": [
+        "farm",
+        "day",
+        "belongings",
+        "truck",
+        "California",
+        "work",
+        "border",
+        "camp",
+        "shack",
+        "peaches",
+        "north"
+      ],
+      "verbs": [
+        "leave",
+        "pack",
+        "head",
+        "look",
+        "reach",
+        "leaf",
+        "arrive",
+        "settle",
+        "pick",
+        "load"
+      ],
+      "traits": [
+        "extended"
+      ],
+      "semanticRoles": [
+        "entity leaving",
+        "looker",
+        "packer",
+        "leader",
+        "thing striving",
+        "food",
+        "picker",
+        "decider",
+        "loader"
+      ]
+    },
+    {
+      "characterName": "sheriff",
+      "recipients": [
+        "work",
+        "man",
+        "sheriff",
+        "camp"
+      ],
+      "verbs": [
+        "come",
+        "arrest",
+        "shoot",
+        "arrive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "police",
+        "wanter",
+        "shooter",
+        "thing hit"
+      ]
+    },
+    {
+      "characterName": "Fonda",
+      "recipients": [
+        "injustice",
+        "night",
+        "camp"
+      ],
+      "verbs": [
+        "fight",
+        "head",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "first fighter",
+        "finder",
+        "leader",
+        "thing viewed"
+      ]
+    }
+  ]
+}

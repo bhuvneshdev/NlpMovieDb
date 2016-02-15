@@ -1,0 +1,676 @@
+{
+  "movieName": "GuardiansoftheGalaxy(2014)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Peter_Quill_Wyatt_Oleff",
+      "recipients": [
+        "room",
+        "Orb",
+        "enclosure",
+        "shootout",
+        "ship",
+        "Quill",
+        "partnermentor",
+        "Christopher_Fairbank",
+        "shop",
+        "Peter",
+        "favor",
+        "reward",
+        "leg",
+        "item",
+        "something",
+        "others",
+        "Walkman",
+        "people",
+        "place",
+        "mask",
+        "family",
+        "Yondu",
+        "Gamora",
+        "plan",
+        "Rocket",
+        "crowd",
+        "part",
+        "HQ",
+        "dick",
+        "idea",
+        "bridge",
+        "Ronan",
+        "danceoff",
+        "Child",
+        "Stone",
+        "courage",
+        "stone",
+        "one",
+        "Orbs",
+        "Guardians"
+      ],
+      "verbs": [
+        "sit",
+        "find",
+        "take",
+        "make",
+        "give",
+        "sell",
+        "kick",
+        "argue",
+        "help",
+        "get",
+        "need",
+        "left",
+        "leaf",
+        "retrieve",
+        "talk",
+        "decide",
+        "call",
+        "allow",
+        "have",
+        "persuade",
+        "emerge",
+        "warn",
+        "\u0027s",
+        "board",
+        "blow",
+        "start",
+        "go",
+        "shoot",
+        "challenge",
+        "dance",
+        "grab",
+        "switch",
+        "hold",
+        "ask"
+      ],
+      "traits": [
+        "young",
+        "own",
+        "rescued",
+        "glad"
+      ],
+      "semanticRoles": [
+        "person kidnapped",
+        "operator",
+        "finder",
+        "thing found",
+        "creator",
+        "entity escaping",
+        "Utterance",
+        "giver",
+        "thing given",
+        "decider",
+        "Seller",
+        "asker",
+        "thing kicked",
+        "kicker",
+        "thing jumping",
+        "speaker",
+        "entity causing separation",
+        "agreer",
+        "helper",
+        "needer",
+        "explainer",
+        "receiver",
+        "Sayer",
+        "joker",
+        "entity leaving",
+        "talker",
+        "manager",
+        "new knower",
+        "allower",
+        "entity in motion / \u0027comer\u0027",
+        "corpse",
+        "money",
+        "thing released",
+        "thing exiting",
+        "convincer",
+        "question",
+        "pointer",
+        "passenger",
+        "wind",
+        "Agent",
+        "shooter",
+        "causal agent",
+        "dancer",
+        "challenger",
+        "replier",
+        "grabber",
+        "thing affected",
+        "shower",
+        "liker",
+        "causer of transformation",
+        "student",
+        "holder",
+        "action allowed",
+        "opener"
+      ]
+    },
+    {
+      "characterName": "mom",
+      "recipients": [
+        "present",
+        "grandpa",
+        "hand",
+        "tape",
+        "Gamora",
+        "sorcery"
+      ],
+      "verbs": [
+        "give",
+        "ask",
+        "make",
+        "listen",
+        "trust",
+        "fall"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "giver",
+        "asker",
+        "creator",
+        "listener",
+        "liker",
+        "truster",
+        "question",
+        "dancer",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "Orb",
+      "recipients": [
+        "doll"
+      ],
+      "verbs": [
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing found",
+        "thing given",
+        "thing gotten",
+        "thing being traded (away)",
+        "thing wanted",
+        "Thing Sold",
+        "container",
+        "thing opening"
+      ]
+    },
+    {
+      "characterName": "Yondu_Michael_Rooker",
+      "recipients": [
+        "Peter",
+        "broker",
+        "ship",
+        "Rooker",
+        "Gamora",
+        "Xandar",
+        "weapon",
+        "Stone",
+        "dad",
+        "Quill",
+        "HQ",
+        "Orb"
+      ],
+      "verbs": [
+        "tell",
+        "go",
+        "find",
+        "exit",
+        "arrive",
+        "kill",
+        "release",
+        "defend",
+        "use",
+        "appear",
+        "take",
+        "turn",
+        "look",
+        "open"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "finder",
+        "shower",
+        "departed entity",
+        "causative agent",
+        "Utterance",
+        "agent",
+        "killer",
+        "releaser",
+        "defender",
+        "projectile",
+        "User",
+        "asker",
+        "Thing thought about",
+        "turner",
+        "speculator",
+        "looker",
+        "decider",
+        "opener",
+        "agent smiling"
+      ]
+    },
+    {
+      "characterName": "Gamora_Zoe_Saldana",
+      "recipients": [
+        "Peter",
+        "traitor",
+        "daughter",
+        "plan",
+        "device",
+        "mom",
+        "pass",
+        "idea",
+        "power",
+        "fight",
+        "Nebula",
+        "Gamora",
+        "hand",
+        "Starlord",
+        "stick",
+        "pot"
+      ],
+      "verbs": [
+        "jump",
+        "be",
+        "have",
+        "get",
+        "ask",
+        "make",
+        "board",
+        "cut",
+        "beat",
+        "tell",
+        "take",
+        "say",
+        "stick"
+      ],
+      "traits": [
+        "double",
+        "upset"
+      ],
+      "semanticRoles": [
+        "entity volunteering",
+        "sent",
+        "receiver",
+        "Agent/Entity Trying",
+        "criminal",
+        "corpse",
+        "explainer",
+        "creation",
+        "something",
+        "asker",
+        "Sayer",
+        "creator",
+        "thing used",
+        "place",
+        "action allowed",
+        "entity in motion / \u0027comer\u0027",
+        "money",
+        "thing released",
+        "passenger",
+        "thing being moved",
+        "intentional cutter",
+        "agent",
+        "Utterance",
+        "Speaker",
+        "entity grabbed",
+        "decider",
+        "causal agent"
+      ]
+    },
+    {
+      "characterName": "Ronan",
+      "recipients": [
+        "Nebula_Karen_Gillan",
+        "Gamora",
+        "wife",
+        "daughter",
+        "Sanctuary",
+        "group",
+        "Ronan",
+        "Thanos",
+        "plan",
+        "what"
+      ],
+      "verbs": [
+        "send",
+        "avenge",
+        "kill",
+        "report",
+        "ambush",
+        "tell",
+        "have",
+        "do",
+        "hammer"
+      ],
+      "traits": [
+        "strong",
+        "fine"
+      ],
+      "semanticRoles": [
+        "sender",
+        "planner",
+        "wanter",
+        "avenger",
+        "killer",
+        "Reporter",
+        "ambusher",
+        "finder",
+        "Utterance",
+        "Speaker",
+        "looked at",
+        "second fighter",
+        "rememberer",
+        "Sayer",
+        "Theme (action or object being prevented)",
+        "action being stopped",
+        "projectile",
+        "challenged (champion?)",
+        "asker",
+        "hammerer",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Nebula_Karen_Gillan",
+      "recipients": [
+        "Infinity_Stone",
+        "space",
+        "Gamora",
+        "fight"
+      ],
+      "verbs": [
+        "get",
+        "leaf"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "sent",
+        "experiencer",
+        "follower",
+        "receiver",
+        "entity leaving",
+        "thing hit"
+      ]
+    },
+    {
+      "characterName": "Groot_Vin_Diesel",
+      "recipients": [
+        "reward",
+        "fight",
+        "forces",
+        "idea",
+        "bridge",
+        "branch",
+        "goons",
+        "nest",
+        "safety",
+        "what",
+        "pile",
+        "pot",
+        "music"
+      ],
+      "verbs": [
+        "help",
+        "get",
+        "join",
+        "board",
+        "go",
+        "grow",
+        "impale",
+        "whip",
+        "form",
+        "do",
+        "be",
+        "dance"
+      ],
+      "traits": [
+        "dumb",
+        "tired",
+        "tiny"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "criminal",
+        "helper",
+        "agreer",
+        "grabber",
+        "receiver",
+        "decider",
+        "agent",
+        "Sayer",
+        "passenger",
+        "[causer of growth - should be possible]",
+        "causer",
+        "creator",
+        "corpse",
+        "replier",
+        "dancer",
+        "Agent"
+      ]
+    },
+    {
+      "characterName": "Rocket",
+      "recipients": [
+        "Lee",
+        "reward",
+        "plan",
+        "stuff",
+        "fight",
+        "forces",
+        "nothing",
+        "bridge",
+        "Milano",
+        "Ronan",
+        "hands",
+        "pot"
+      ],
+      "verbs": [
+        "call",
+        "help",
+        "have",
+        "rig",
+        "get",
+        "join",
+        "do",
+        "crash",
+        "destroy",
+        "hold"
+      ],
+      "traits": [
+        "surprised",
+        "special",
+        "upset"
+      ],
+      "semanticRoles": [
+        "criminal",
+        "agreer",
+        "helper",
+        "manipulator",
+        "Utterance",
+        "receiver",
+        "decider",
+        "agent",
+        "impelled agent",
+        "Sayer",
+        "creator",
+        "causer of damage",
+        "shooter",
+        "holder"
+      ]
+    },
+    {
+      "characterName": "everyone",
+      "recipients": [
+        "Gamora",
+        "branch",
+        "bridge"
+      ],
+      "verbs": [
+        "kill",
+        "make"
+      ],
+      "traits": [
+        "much",
+        "okay"
+      ],
+      "semanticRoles": [
+        "wanter",
+        "killer",
+        "receiver",
+        "knower",
+        "dismisser",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "Thanos",
+      "recipients": [
+        "Thanos",
+        "care",
+        "Orb"
+      ],
+      "verbs": [
+        "tell",
+        "take",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "Utterance",
+        "Speaker",
+        "noter",
+        "thing cut"
+      ]
+    },
+    {
+      "characterName": "Drax",
+      "recipients": [
+        "escape",
+        "fight",
+        "call",
+        "Ronan",
+        "forces",
+        "Gamora",
+        "Yondu",
+        "Peter",
+        "ship",
+        "Milano",
+        "idea",
+        "bridge",
+        "Korrath",
+        "hands",
+        "Groot"
+      ],
+      "verbs": [
+        "join",
+        "get",
+        "make",
+        "call",
+        "fight",
+        "save",
+        "blow",
+        "fly",
+        "prevent",
+        "board",
+        "go",
+        "kill",
+        "hold",
+        "look"
+      ],
+      "traits": [
+        "tired"
+      ],
+      "semanticRoles": [
+        "decider",
+        "agent",
+        "receiver",
+        "Thinker",
+        "creator",
+        "Agent/Entity Trying",
+        "thing hit",
+        "first fighter",
+        "corpse",
+        "entity saving money",
+        "wind",
+        "Agent",
+        "passenger",
+        "killer",
+        "shooter",
+        "survivor",
+        "holder",
+        "looker"
+      ]
+    },
+    {
+      "characterName": "Stone",
+      "recipients": [
+        "her",
+        "Headquarters"
+      ],
+      "verbs": [
+        "poisoning",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "utterance",
+        "entity grabbed",
+        "killer",
+        "thing released",
+        "thing appearing",
+        "thing given",
+        "thing held"
+      ]
+    },
+    {
+      "characterName": "ship",
+      "recipients": [
+        "ship",
+        "Peter",
+        "Xandar"
+      ],
+      "verbs": [
+        "be",
+        "abducted",
+        "plummet"
+      ],
+      "traits": [
+        "same",
+        "entire"
+      ],
+      "semanticRoles": [
+        "sender",
+        "place exited",
+        "agent",
+        "thing being moved",
+        "causer of damage"
+      ]
+    },
+    {
+      "characterName": "Aster",
+      "recipients": [
+        "Thanos",
+        "deal",
+        "Infinity_Stone",
+        "hammer",
+        "Stone"
+      ],
+      "verbs": [
+        "cut",
+        "have",
+        "put"
+      ],
+      "traits": [
+        "Dark"
+      ],
+      "semanticRoles": [
+        "intentional cutter"
+      ]
+    }
+  ]
+}

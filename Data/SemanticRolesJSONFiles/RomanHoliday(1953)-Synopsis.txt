@@ -1,0 +1,172 @@
+{
+  "movieName": "RomanHoliday(1953)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Ann",
+      "recipients": [
+        "princess",
+        "Rome",
+        "embassy",
+        "home",
+        "night",
+        "bed",
+        "Bradley",
+        "conference",
+        "day",
+        "Joe",
+        "Irving",
+        "allusion",
+        "message"
+      ],
+      "verbs": [
+        "be",
+        "go",
+        "leaf",
+        "take",
+        "spend",
+        "appropriate",
+        "get",
+        "appear",
+        "find",
+        "know",
+        "work"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "thing given",
+        "applauded",
+        "goal",
+        "taker of possession",
+        "patient",
+        "receiver",
+        "Agent/Entity Trying",
+        "finder",
+        "knower"
+      ]
+    },
+    {
+      "characterName": "Joe_Bradley",
+      "recipients": [
+        "Ann",
+        "money",
+        "sake",
+        "manner",
+        "morning",
+        "editor",
+        "picture",
+        "woman",
+        "story",
+        "Anya",
+        "Rome",
+        "course",
+        "nothing",
+        "while"
+      ],
+      "verbs": [
+        "meet",
+        "recognize",
+        "offer",
+        "decide",
+        "amuse",
+        "go",
+        "\u0027s",
+        "see",
+        "sit",
+        "show",
+        "know",
+        "admit",
+        "linger"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "applauder",
+        "allower",
+        "decider",
+        "causer of mirth",
+        "place",
+        "viewer",
+        "entity leaving",
+        "receiver",
+        "new knower",
+        "shower",
+        "entity escaping",
+        "knower",
+        "claimer",
+        "admitter",
+        "thing gotten",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "Anya_Smith",
+      "recipients": [
+        "herself",
+        "identity",
+        "returns"
+      ],
+      "verbs": [
+        "call",
+        "bid"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Sayer",
+        "entity refusing",
+        "entity escaping",
+        "new knower",
+        "utterance",
+        "bidder"
+      ]
+    },
+    {
+      "characterName": "Hennessy",
+      "recipients": [
+        "Hennessy",
+        "conference",
+        "course"
+      ],
+      "verbs": [
+        "ask",
+        "cover",
+        "tell",
+        "fire",
+        "learn"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "asker",
+        "question",
+        "coverer",
+        "Speaker",
+        "Utterance",
+        "agent",
+        "shooter",
+        "gun/projectile",
+        "student",
+        "suspecter"
+      ]
+    },
+    {
+      "characterName": "agents",
+      "recipients": [
+        "dance",
+        "night",
+        "Hepburn",
+        "love"
+      ],
+      "verbs": [
+        "track",
+        "escort",
+        "fall"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "subject accompanier",
+        "Agent/Entity Trying",
+        "thing following"
+      ]
+    }
+  ]
+}

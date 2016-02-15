@@ -1,0 +1,245 @@
+{
+  "movieName": "TouchofEvil(1958)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Susan_Vargas",
+      "recipients": [
+        "explosion",
+        "investigation",
+        "Quinlan",
+        "suspicions",
+        "business",
+        "outsider",
+        "search",
+        "evidence",
+        "conversation",
+        "side",
+        "Mexico_City",
+        "home",
+        "others",
+        "Sanchez",
+        "Susan"
+      ],
+      "verbs": [
+        "witness",
+        "observe",
+        "accuse",
+        "discuss",
+        "stay",
+        "be",
+        "launch",
+        "amass",
+        "record",
+        "cling",
+        "take",
+        "leave",
+        "prove"
+      ],
+      "traits": [
+        "safer"
+      ],
+      "semanticRoles": [
+        "agent",
+        "invited",
+        "observer",
+        "thing brought",
+        "decider",
+        "viewer",
+        "accuser",
+        "thing destroyed",
+        "thing in motion",
+        "projectile",
+        "informed",
+        "achiever",
+        "discussant",
+        "Utterance",
+        "goal",
+        "creator",
+        "thing found",
+        "criminal",
+        "student",
+        "starter",
+        "bomber",
+        "clingy thing",
+        "confrontational entity",
+        "entity leaving",
+        "thing released"
+      ]
+    },
+    {
+      "characterName": "Quinlan",
+      "recipients": [
+        "partner",
+        "Tanya",
+        "run",
+        "suspect",
+        "prodding",
+        "drinks",
+        "suspects",
+        "evidence",
+        "room",
+        "hotel",
+        "Grandi",
+        "frameup",
+        "haze",
+        "place",
+        "home",
+        "door",
+        "canal",
+        "shock",
+        "Menzies",
+        "Quinlan",
+        "murder",
+        "kind"
+      ],
+      "verbs": [
+        "\u0027s",
+        "visit",
+        "track",
+        "down",
+        "frame",
+        "find",
+        "enter",
+        "arrive",
+        "strangle",
+        "be",
+        "confess",
+        "ask",
+        "hole",
+        "go",
+        "reel",
+        "stumble",
+        "shoot",
+        "kill",
+        "pin"
+      ],
+      "traits": [
+        "unable",
+        "tortured"
+      ],
+      "semanticRoles": [
+        "container",
+        "one party",
+        "thing following",
+        "declarer",
+        "accused",
+        "causer",
+        "Sayer",
+        "entity in motion",
+        "finder",
+        "decorator",
+        "defended",
+        "entity entering",
+        "entity making guarantee",
+        "wanter",
+        "stranger",
+        "action being stopped",
+        "thing destroyed",
+        "speaker",
+        "asker",
+        "entity needing shelter",
+        "entity getting advice",
+        "entity confronted",
+        "agent",
+        "shooter",
+        "killer",
+        "corpse",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Pete_Menzies",
+      "recipients": [
+        "Vargas",
+        "behavior",
+        "Quinlan",
+        "Menzies",
+        "scene",
+        "cane",
+        "shock",
+        "edge"
+      ],
+      "verbs": [
+        "invite",
+        "apologize",
+        "defend",
+        "take",
+        "find",
+        "confront",
+        "accuse",
+        "do",
+        "stop",
+        "crawl",
+        "shoot"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "inviter",
+        "apologist",
+        "finder",
+        "defender",
+        "impelled agent",
+        "speaker",
+        "agreer",
+        "helper",
+        "beginner",
+        "confrontational entity",
+        "accuser",
+        "thing set",
+        "sent",
+        "Agent/Entity Trying",
+        "projectile",
+        "manager",
+        "agent",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Grandi",
+      "recipients": [
+        "Susan",
+        "motel",
+        "Quinlan",
+        "victim",
+        "Vargas"
+      ],
+      "verbs": [
+        "warn",
+        "own",
+        "approach",
+        "be",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causer of continuation",
+        "owner",
+        "entity strangled",
+        "Reporter",
+        "impelled agent",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Tanya",
+      "recipients": [
+        "fortune",
+        "Quinlan",
+        "edge"
+      ],
+      "verbs": [
+        "read",
+        "advise",
+        "arrive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "reader",
+        "question",
+        "entity giving advice",
+        "declarer",
+        "speaker"
+      ]
+    }
+  ]
+}

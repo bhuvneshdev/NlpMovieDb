@@ -1,0 +1,638 @@
+{
+  "movieName": "InglouriousBasterds(2009)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "film",
+      "recipients": [
+        "France",
+        "detective",
+        "masterpiece"
+      ],
+      "verbs": [
+        "open",
+        "be"
+      ],
+      "traits": [
+        "nitrate",
+        "complete"
+      ],
+      "semanticRoles": [
+        "opener",
+        "location",
+        "text",
+        "Intentional agent"
+      ]
+    },
+    {
+      "characterName": "Landa",
+      "recipients": [
+        "French",
+        "English",
+        "Mnochet",
+        "LaPadite",
+        "noise",
+        "Shosanna_Mlanie_Laurent",
+        "pistol",
+        "officer",
+        "pub",
+        "carnage",
+        "Raine",
+        "Bridget",
+        "lobby",
+        "tavern",
+        "himself",
+        "state",
+        "cinema",
+        "explosives",
+        "Landa",
+        "Utivich",
+        "uniform"
+      ],
+      "verbs": [
+        "exhaust",
+        "switch",
+        "note",
+        "get",
+        "coerce",
+        "tell",
+        "switching",
+        "hear",
+        "see",
+        "decide",
+        "be",
+        "investigate",
+        "approach",
+        "retrieve",
+        "strangle",
+        "reveal",
+        "state",
+        "plant",
+        "drive",
+        "surrender",
+        "take"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "causer of transformation",
+        "asker",
+        "claimer",
+        "agent/cause of depletion",
+        "noter",
+        "receiver",
+        "manager",
+        "persuasive entity",
+        "Speaker",
+        "understander",
+        "viewer",
+        "thinker",
+        "decider",
+        "finder",
+        "examiner",
+        "killer",
+        "stranger",
+        "speaker",
+        "announcer",
+        "putter",
+        "driver",
+        "vehicle or path",
+        "agent",
+        "one surrendering",
+        "criminal"
+      ]
+    },
+    {
+      "characterName": "LaPadite",
+      "recipients": [
+        "location",
+        "French",
+        "door"
+      ],
+      "verbs": [
+        "point",
+        "open"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "impelled person",
+        "pointer",
+        "Utterance",
+        "opener",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Shosanna_Mlanie_Laurent",
+      "recipients": [
+        "feelings",
+        "booth",
+        "showing",
+        "owner",
+        "Shosanna",
+        "film",
+        "camera",
+        "reel",
+        "screen",
+        "stack",
+        "lever"
+      ],
+      "verbs": [
+        "reciprocate",
+        "man",
+        "force",
+        "leaf",
+        "edit",
+        "load",
+        "step",
+        "place",
+        "pull"
+      ],
+      "traits": [
+        "teenage"
+      ],
+      "semanticRoles": [
+        "thing viewed",
+        "new knower",
+        "worker",
+        "Speaker",
+        "forcer",
+        "place",
+        "entity leaving",
+        "editor",
+        "loader",
+        "causer of movement",
+        "putter",
+        "puller",
+        "entity confronted"
+      ]
+    },
+    {
+      "characterName": "Basterds",
+      "recipients": [
+        "place",
+        "havoc",
+        "herself"
+      ],
+      "verbs": [
+        "take",
+        "cause",
+        "capture"
+      ],
+      "traits": [
+        "Nazi"
+      ],
+      "semanticRoles": [
+        "forcer",
+        "Logical subject",
+        "signifier",
+        "thing provided",
+        "getter",
+        "place"
+      ]
+    },
+    {
+      "characterName": "Adolf_Hitler_Martin_Wuttke",
+      "recipients": [
+        "survivor",
+        "Butz_Snke_Mhring",
+        "survivors",
+        "Butz",
+        "scene",
+        "movie"
+      ],
+      "verbs": [
+        "be",
+        "interview",
+        "do",
+        "ask",
+        "enjoy"
+      ],
+      "traits": [
+        "terribletempered"
+      ],
+      "semanticRoles": [
+        "thing seen/shown",
+        "interviewer",
+        "asker",
+        "corpse",
+        "enjoyer"
+      ]
+    },
+    {
+      "characterName": "Raine",
+      "recipients": [
+        "Raine",
+        "whereabouts",
+        "information",
+        "Sgt",
+        "nonEnglish",
+        "herself",
+        "Bridget",
+        "finger",
+        "wound",
+        "operation",
+        "Pride",
+        "general",
+        "Utivich",
+        "swastika",
+        "forehead"
+      ],
+      "verbs": [
+        "have",
+        "disclose",
+        "call",
+        "interrogate",
+        "capture",
+        "take",
+        "poke",
+        "continue",
+        "attend",
+        "reach",
+        "declare",
+        "carve"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "Sayer",
+        "asker",
+        "allower",
+        "replier",
+        "getter",
+        "toucher",
+        "Utterance",
+        "causer of continuation",
+        "decider",
+        "picker",
+        "talker",
+        "entity in motion",
+        "vehicle or path",
+        "thing attending",
+        "thing striving",
+        "thing put",
+        "driver",
+        "speaker",
+        "causer of improvement",
+        "planner",
+        "declarer",
+        "carver"
+      ]
+    },
+    {
+      "characterName": "Mimieux",
+      "recipients": [
+        "Paris",
+        "Samuel_L",
+        "storage",
+        "cinema"
+      ],
+      "verbs": [
+        "become",
+        "hold",
+        "burn"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "holder",
+        "pyromaniac",
+        "entity making resolution"
+      ]
+    },
+    {
+      "characterName": "Fredrick_Zoller_Daniel_Brhl",
+      "recipients": [
+        "Paris",
+        "Joseph_Goebbels_Sylvester_Groth",
+        "way",
+        "auditorium",
+        "room",
+        "treatment",
+        "Shosanna",
+        "door",
+        "death",
+        "She",
+        "soldiers"
+      ],
+      "verbs": [
+        "choose",
+        "convince",
+        "leaf",
+        "push",
+        "confront",
+        "lock",
+        "shoot",
+        "take"
+      ],
+      "traits": [
+        "uncomfortable",
+        "alive"
+      ],
+      "semanticRoles": [
+        "picker",
+        "experiencer of infatuation",
+        "convincer",
+        "entity leaving",
+        "creator",
+        "item being labelled",
+        "Utterance",
+        "confrontational entity",
+        "pusher",
+        "theme",
+        "thing gotten",
+        "question",
+        "agent",
+        "projectile",
+        "thing turning",
+        "entity giving in",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Marcel",
+      "recipients": [
+        "reel",
+        "closeup",
+        "way",
+        "auditorium",
+        "doors",
+        "cigarette",
+        "pile"
+      ],
+      "verbs": [
+        "reedit",
+        "film",
+        "make",
+        "lock",
+        "flick"
+      ],
+      "traits": [
+        "flammability"
+      ],
+      "semanticRoles": [
+        "recorder",
+        "creator",
+        "agent",
+        "cause of motion"
+      ]
+    },
+    {
+      "characterName": "Hicox",
+      "recipients": [
+        "himself",
+        "order",
+        "fire",
+        "Hellstrom"
+      ],
+      "verbs": [
+        "betray",
+        "give",
+        "return"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "thing picked",
+        "goal",
+        "first thing being tied",
+        "betrayer",
+        "giver",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Bridget_Von_Hammersmark",
+      "recipients": [
+        "basement",
+        "Hicox",
+        "shots",
+        "Wilhelm",
+        "pistol",
+        "enemy",
+        "herself",
+        "debacle",
+        "tavern",
+        "cast"
+      ],
+      "verbs": [
+        "meet",
+        "fire",
+        "retrieve",
+        "work",
+        "allow",
+        "explain",
+        "break"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "builder",
+        "thing hit",
+        "receiver",
+        "shooter",
+        "allower",
+        "question or thing in doubt",
+        "explainer",
+        "object accompanied",
+        "claimer",
+        "breaker",
+        "injured party",
+        "entity in motion",
+        "Agent/Entity Trying",
+        "entity strangled"
+      ]
+    },
+    {
+      "characterName": "Hellstrom",
+      "recipients": [
+        "von_Hammersmark",
+        "Hicox",
+        "round",
+        "table",
+        "auf_Wiedersehen",
+        "Bridget"
+      ],
+      "verbs": [
+        "join",
+        "play",
+        "buy",
+        "say",
+        "hit",
+        "shoot"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "player",
+        "agent",
+        "buyer",
+        "Utterance",
+        "Sayer",
+        "shooter",
+        "thing stabbed"
+      ]
+    },
+    {
+      "characterName": "Stiglitz",
+      "recipients": [
+        "things",
+        "Stiglitz",
+        "Hellstrom",
+        "Beethoven"
+      ],
+      "verbs": [
+        "start",
+        "shoot",
+        "stab",
+        "turn"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent",
+        "shooter",
+        "projectile",
+        "stabber",
+        "causal agent",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "Donowitz",
+      "recipients": [
+        "seats",
+        "auditorium",
+        "ambush",
+        "time",
+        "himself",
+        "Hitler",
+        "box",
+        "crowd"
+      ],
+      "verbs": [
+        "leave",
+        "exit",
+        "prepare",
+        "disguise",
+        "burst",
+        "fire"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "talker",
+        "entity leaving",
+        "departed entity",
+        "secret agent",
+        "causer of disguise",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Ulmer",
+      "recipients": [
+        "ambush",
+        "time",
+        "Hitler",
+        "box",
+        "crowd"
+      ],
+      "verbs": [
+        "prepare",
+        "burst",
+        "fire"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "talker",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Novak",
+      "recipients": [
+        "truck",
+        "Raine",
+        "intention",
+        "one",
+        "perks",
+        "deal"
+      ],
+      "verbs": [
+        "be",
+        "tell",
+        "have",
+        "make",
+        "appreciate"
+      ],
+      "traits": [
+        "prepared"
+      ],
+      "semanticRoles": [
+        "thing gotten",
+        "Speaker",
+        "allower",
+        "creator",
+        "wanter",
+        "agent",
+        "experiencer"
+      ]
+    },
+    {
+      "characterName": "She",
+      "recipients": [
+        "Zoller",
+        "gun",
+        "auditorium",
+        "groan",
+        "moment",
+        "audience",
+        "revenge"
+      ],
+      "verbs": [
+        "tell",
+        "ask",
+        "shoot",
+        "pull",
+        "glance",
+        "hear",
+        "turn",
+        "take"
+      ],
+      "traits": [
+        "concerned",
+        "ready"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "asker",
+        "puller",
+        "shooter",
+        "looker",
+        "new knower",
+        "turner",
+        "projectile",
+        "Signaler"
+      ]
+    },
+    {
+      "characterName": "orders",
+      "recipients": [
+        "Novak",
+        "Utivich",
+        "Landa",
+        "driver"
+      ],
+      "verbs": [
+        "order",
+        "handcuff",
+        "shoot"
+      ],
+      "traits": [
+        "Raine"
+      ],
+      "semanticRoles": [
+        "cop",
+        "forcer",
+        "shooter"
+      ]
+    }
+  ]
+}

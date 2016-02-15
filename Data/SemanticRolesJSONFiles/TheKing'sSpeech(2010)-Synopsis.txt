@@ -1,0 +1,180 @@
+{
+  "movieName": "TheKing\u0027sSpeech(2010)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Bertie_Colin_Firth",
+      "recipients": [
+        "close",
+        "side",
+        "himself",
+        "treatment",
+        "moment",
+        "huff",
+        "recording",
+        "party",
+        "session",
+        "incident",
+        "king"
+      ],
+      "verbs": [
+        "speak",
+        "hear",
+        "receive",
+        "read",
+        "leaf",
+        "train",
+        "play",
+        "return",
+        "point",
+        "forget",
+        "be"
+      ],
+      "traits": [
+        "reluctant",
+        "soliloquy",
+        "standoffish"
+      ],
+      "semanticRoles": [
+        "talker",
+        "reader",
+        "speaker",
+        "entity leaving",
+        "thing given",
+        "trainer",
+        "player",
+        "thing touched",
+        "thing viewed",
+        "pointer",
+        "forgetter"
+      ]
+    },
+    {
+      "characterName": "prince",
+      "recipients": [
+        "treatments",
+        "Lionel_Logue_Geoffrey_Rush",
+        "throne"
+      ],
+      "verbs": [
+        "try",
+        "see",
+        "ascend"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "impelled agent",
+        "Agent/Entity Trying",
+        "giver",
+        "entity rising"
+      ]
+    },
+    {
+      "characterName": "Lionel_Logue_Geoffrey_Rush",
+      "recipients": [
+        "record",
+        "reading",
+        "recording",
+        "Bertie",
+        "roots",
+        "St",
+        "address",
+        "country",
+        "studio"
+      ],
+      "verbs": [
+        "record",
+        "give",
+        "probe",
+        "sit",
+        "prepare",
+        "move"
+      ],
+      "traits": [
+        "present"
+      ],
+      "semanticRoles": [
+        "thing viewed",
+        "giver",
+        "prober",
+        "insister",
+        "accused",
+        "entity seated",
+        "explainer",
+        "invited",
+        "mover"
+      ]
+    },
+    {
+      "characterName": "David",
+      "recipients": [
+        "Wallis_Simpson_Eve_Best",
+        "Wallis",
+        "brother",
+        "taunt"
+      ],
+      "verbs": [
+        "marry",
+        "accuse",
+        "resurrect"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causer",
+        "wanter",
+        "accuser",
+        "Dr. Frankenstein"
+      ]
+    },
+    {
+      "characterName": "king",
+      "recipients": [
+        "doctor",
+        "studio",
+        "speech",
+        "balcony"
+      ],
+      "verbs": [
+        "be",
+        "move",
+        "deliver",
+        "step"
+      ],
+      "traits": [
+        "new",
+        "capable"
+      ],
+      "semanticRoles": [
+        "insister",
+        "explainer",
+        "beginner",
+        "claimer",
+        "impelled agent",
+        "mover",
+        "team",
+        "sender",
+        "causer of movement"
+      ]
+    },
+    {
+      "characterName": "George_VI",
+      "recipients": [
+        "September",
+        "Logue",
+        "II",
+        "Commander"
+      ],
+      "verbs": [
+        "summons",
+        "give",
+        "make"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "inviter",
+        "giver",
+        "creator"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1395 @@
+{
+  "movieName": "StarWars(1977)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "people",
+      "recipients": [
+        "thing",
+        "People"
+      ],
+      "verbs": [
+        "set",
+        "find"
+      ],
+      "traits": [
+        "dangerous"
+      ],
+      "semanticRoles": [
+        "money",
+        "agent",
+        "finder",
+        "thing found",
+        "entity ambushed"
+      ]
+    },
+    {
+      "characterName": "ship",
+      "recipients": [
+        "barrage",
+        "ambassador",
+        "Star",
+        "ship",
+        "wall"
+      ],
+      "verbs": [
+        "endure",
+        "have",
+        "send",
+        "ricochet"
+      ],
+      "traits": [
+        "damaged",
+        "larger",
+        "entire",
+        "Luke",
+        "own",
+        "modern"
+      ],
+      "semanticRoles": [
+        "vehicle",
+        "thing pulled",
+        "thing gotten",
+        "Area searched",
+        "thing bought",
+        "manager",
+        "entity escaping",
+        "entity leaving",
+        "guarded",
+        "thing kept",
+        "thing not working",
+        "thing longed for",
+        "bomber",
+        "sender",
+        "sent"
+      ]
+    },
+    {
+      "characterName": "James_Earl_Jones",
+      "recipients": [
+        "damage",
+        "Princess",
+        "capacity",
+        "comrades",
+        "something",
+        "control",
+        "Imperial_Fleet",
+        "base"
+      ],
+      "verbs": [
+        "survey",
+        "tell",
+        "proceed",
+        "hunt",
+        "overlook",
+        "regain",
+        "meet"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "examiner",
+        "Speaker",
+        "hunter",
+        "causer of continuing event",
+        "non-noticer",
+        "sensor",
+        "thing hit",
+        "decider",
+        "cause of stability",
+        "manager",
+        "recoverer",
+        "achiever"
+      ]
+    },
+    {
+      "characterName": "Vader",
+      "recipients": [
+        "captain",
+        "Princess",
+        "Jir",
+        "Tarkin",
+        "Force",
+        "tactics",
+        "report",
+        "hangar",
+        "explanation",
+        "what",
+        "Jones",
+        "glimpse",
+        "plan",
+        "pilots",
+        "notice",
+        "YWings",
+        "Wedge",
+        "prey",
+        "strength",
+        "one"
+      ],
+      "verbs": [
+        "strangle",
+        "believe",
+        "instruct",
+        "tell",
+        "use",
+        "shift",
+        "receive",
+        "leaf",
+        "inform",
+        "imagine",
+        "strike",
+        "catch",
+        "discuss",
+        "recruit",
+        "take",
+        "outmaneuver",
+        "allow",
+        "sens",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "perceiver",
+        "stranger",
+        "instructor",
+        "Speaker",
+        "User",
+        "mover",
+        "entity leaving",
+        "informer",
+        "entity encountered",
+        "informed",
+        "thinker",
+        "causer of continuation",
+        "animate",
+        "action allowed",
+        "entity experiencing confusion",
+        "surprised",
+        "receiver",
+        "discussant",
+        "recruiter",
+        "allower",
+        "shooter",
+        "sensor"
+      ]
+    },
+    {
+      "characterName": "troops",
+      "recipients": [
+        "ship",
+        "pod",
+        "Moments",
+        "Jawas",
+        "Luke",
+        "roadblock",
+        "Solo",
+        "route",
+        "their"
+      ],
+      "verbs": [
+        "search",
+        "destroy",
+        "stunned",
+        "kill",
+        "approach",
+        "fire",
+        "cut"
+      ],
+      "traits": [
+        "transmitted",
+        "hot",
+        "arriving",
+        "more"
+      ],
+      "semanticRoles": [
+        "searcher",
+        "bringer",
+        "looker",
+        "picker",
+        "surprise",
+        "thing stolen",
+        "killer",
+        "Utterance",
+        "shooter",
+        "intentional cutter",
+        "entity distracted"
+      ]
+    },
+    {
+      "characterName": "C3PO",
+      "recipients": [
+        "firefight",
+        "damage",
+        "planet",
+        "Imperial"
+      ],
+      "verbs": [
+        "escape",
+        "go"
+      ],
+      "traits": [
+        "polished"
+      ],
+      "semanticRoles": [
+        "manager",
+        "entity escaping",
+        "beast of burden",
+        "receiver",
+        "worried entity",
+        "Intentional agent",
+        "question"
+      ]
+    },
+    {
+      "characterName": "R2D2",
+      "recipients": [
+        "firefight",
+        "damage",
+        "planet",
+        "Imperial",
+        "Kenobi"
+      ],
+      "verbs": [
+        "escape",
+        "go",
+        "find"
+      ],
+      "traits": [
+        "overhauled"
+      ],
+      "semanticRoles": [
+        "manager",
+        "entity escaping",
+        "achiever",
+        "receiver",
+        "finder",
+        "thing hit"
+      ]
+    },
+    {
+      "characterName": "Leia",
+      "recipients": [
+        "message",
+        "C3PO",
+        "R2",
+        "order",
+        "probe",
+        "hole",
+        "everyone",
+        "escape",
+        "entrance",
+        "bay",
+        "Han",
+        "medals",
+        "Luke"
+      ],
+      "verbs": [
+        "record",
+        "load",
+        "store",
+        "undergo",
+        "shoot",
+        "tell",
+        "escape",
+        "meet",
+        "award"
+      ],
+      "traits": [
+        "tortured"
+      ],
+      "semanticRoles": [
+        "loader",
+        "storer",
+        "question or thing in doubt",
+        "impelled agent",
+        "Speaker",
+        "shooter",
+        "entity escaping",
+        "operator",
+        "achiever",
+        "insister",
+        "viewer",
+        "excited entity",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Rebels",
+      "recipients": [
+        "plans",
+        "ship",
+        "troops",
+        "Star"
+      ],
+      "verbs": [
+        "steal",
+        "attack"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thief",
+        "thinker",
+        "agent",
+        "attacker"
+      ]
+    },
+    {
+      "characterName": "Princess",
+      "recipients": [
+        "ignorance",
+        "protests",
+        "Vader",
+        "member",
+        "plans",
+        "ObiWan",
+        "father",
+        "plea",
+        "location",
+        "Tarkin"
+      ],
+      "verbs": [
+        "feign",
+        "be",
+        "hide",
+        "remind",
+        "convey",
+        "ask",
+        "reveal",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "pretender",
+        "cause",
+        "causer",
+        "asker",
+        "speaker",
+        "Speaker",
+        "thing held",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "Jawas",
+      "recipients": [
+        "traders",
+        "settlement",
+        "equipment",
+        "droids"
+      ],
+      "verbs": [
+        "be",
+        "travel",
+        "sell"
+      ],
+      "traits": [
+        "likely"
+      ],
+      "semanticRoles": [
+        "traveller",
+        "Seller",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "droids",
+      "recipients": [
+        "someone",
+        "battle",
+        "Falcon"
+      ],
+      "verbs": [
+        "belong",
+        "escape",
+        "board"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Thing Sold",
+        "thing cleaned",
+        "possession",
+        "entity escaping",
+        "looker",
+        "thing gotten",
+        "passenger"
+      ]
+    },
+    {
+      "characterName": "Owen",
+      "recipients": [
+        "nephew",
+        "hope",
+        "fear",
+        "something",
+        "none"
+      ],
+      "verbs": [
+        "tell",
+        "hold",
+        "express",
+        "know",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "acceptor",
+        "Sayer",
+        "Utterance",
+        "speaker",
+        "holder",
+        "knower"
+      ]
+    },
+    {
+      "characterName": "Luke",
+      "recipients": [
+        "plans",
+        "clip",
+        "cleanup",
+        "bolt",
+        "rest",
+        "what",
+        "C3PO",
+        "uncle",
+        "aunt",
+        "dinner",
+        "room",
+        "Imperial_Military_Academy",
+        "home",
+        "Luke",
+        "scanner",
+        "man",
+        "Anchorhead",
+        "sandcrawler",
+        "victims",
+        "ObiWan",
+        "Alderaan",
+        "city",
+        "transport",
+        "Mos_Eisley_Cantina",
+        "scuffle",
+        "price",
+        "ship",
+        "Kenobi",
+        "speeder",
+        "modifications",
+        "planet",
+        "exercise",
+        "lightsaber",
+        "Force",
+        "stormtroopers",
+        "uniforms",
+        "initiative",
+        "captive",
+        "identities",
+        "weapons",
+        "utility",
+        "belts",
+        "gorge",
+        "hook",
+        "entrance",
+        "bay",
+        "shout",
+        "friends",
+        "turrets",
+        "ships",
+        "Red",
+        "hanger",
+        "fighter",
+        "voice",
+        "charge",
+        "Wedge",
+        "computer",
+        "target",
+        "shot",
+        "torpedoes",
+        "aisle"
+      ],
+      "verbs": [
+        "have",
+        "stumble",
+        "remove",
+        "play",
+        "talk",
+        "ask",
+        "tell",
+        "leaf",
+        "leave",
+        "locate",
+        "find",
+        "confirm",
+        "be",
+        "recognize",
+        "learn",
+        "help",
+        "travel",
+        "return",
+        "go",
+        "get",
+        "balk",
+        "buy",
+        "fly",
+        "pay",
+        "reach",
+        "sell",
+        "make",
+        "clear",
+        "continue",
+        "use",
+        "sense",
+        "shoot",
+        "steal",
+        "accompany",
+        "see",
+        "take",
+        "assume",
+        "keep",
+        "Leia",
+        "meet",
+        "let",
+        "join",
+        "man",
+        "destroy",
+        "head",
+        "board",
+        "dismiss",
+        "decide",
+        "hear",
+        "switch",
+        "hit",
+        "lock",
+        "release",
+        "respond",
+        "assure",
+        "walk"
+      ],
+      "traits": [
+        "able",
+        "much",
+        "adamant",
+        "late",
+        "perturbed",
+        "own",
+        "disappointed",
+        "clear"
+      ],
+      "semanticRoles": [
+        "agent",
+        "insister",
+        "entity removing",
+        "player",
+        "talker",
+        "asker",
+        "Speaker",
+        "entity leaving",
+        "hoper",
+        "finder",
+        "institution",
+        "receiver",
+        "causer of location",
+        "thing found",
+        "informed",
+        "confirmer",
+        "entity afraid",
+        "thing hit",
+        "applauder",
+        "student",
+        "Utterance",
+        "helper",
+        "traveller",
+        "new knower",
+        "wanter",
+        "declarer",
+        "entity in motion",
+        "entity experiencing confusion",
+        "corpse",
+        "Agent/Entity Trying",
+        "avoider",
+        "balker",
+        "buyer",
+        "payer or buyer",
+        "thing striving",
+        "Seller",
+        "assured one",
+        "creator",
+        "applauded",
+        "criminal",
+        "cleaner",
+        "thing followed",
+        "skill",
+        "causer of continuation",
+        "manager",
+        "User",
+        "sensor",
+        "thief",
+        "shooter",
+        "subject accompanier",
+        "object accompanied",
+        "viewer",
+        "thing viewed",
+        "Sayer",
+        "knower",
+        "thing pulled",
+        "entity covered",
+        "Keeper",
+        "operator",
+        "achiever",
+        "allower",
+        "impelled agent",
+        "relenter",
+        "worker",
+        "leader",
+        "(first) thing(s) being unified",
+        "person congratulated",
+        "passenger",
+        "decider",
+        "pressed (on)",
+        "saddened entity",
+        "relier",
+        "causer of transformation",
+        "replier",
+        "artist",
+        "Thing finishing",
+        "releaser",
+        "excited entity",
+        "project",
+        "entity damaged",
+        "causer of assurance",
+        "utterance",
+        "walker",
+        "award"
+      ]
+    },
+    {
+      "characterName": "R2",
+      "recipients": [
+        "claims",
+        "message",
+        "Luke",
+        "system",
+        "center",
+        "location",
+        "compactors",
+        "time",
+        "communicator",
+        "readouts",
+        "Star"
+      ],
+      "verbs": [
+        "play",
+        "inform",
+        "plug",
+        "discover",
+        "shut",
+        "comply",
+        "save",
+        "carry"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "insister",
+        "announcer",
+        "player",
+        "thing cleaned",
+        "thing found",
+        "informer",
+        "operator",
+        "advertiser",
+        "finder",
+        "person doing the closing",
+        "entity saving money",
+        "complier",
+        "carrier",
+        "beast of burden",
+        "thing pulled"
+      ]
+    },
+    {
+      "characterName": "ObiWan",
+      "recipients": [
+        "Anakin",
+        "lightsaber",
+        "point",
+        "father",
+        "transport",
+        "port",
+        "signs",
+        "city",
+        "Alderaan",
+        "guard",
+        "state",
+        "Solo",
+        "Luke",
+        "Imperials",
+        "Vader"
+      ],
+      "verbs": [
+        "know",
+        "produce",
+        "have",
+        "deliver",
+        "book",
+        "recognize",
+        "travel",
+        "find",
+        "induce",
+        "tell",
+        "training",
+        "encounter"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing under consideration",
+        "knower",
+        "creator",
+        "explainer",
+        "thing reminded about",
+        "Utterance",
+        "thing brought",
+        "sender",
+        "question",
+        "hoper",
+        "decider",
+        "reactor",
+        "booker",
+        "applauder",
+        "finder",
+        "traveller",
+        "causer",
+        "Agent/Entity Trying",
+        "avoider",
+        "Speaker",
+        "entity leaving",
+        "applauded",
+        "criminal",
+        "trainer",
+        "announcer",
+        "person doing the closing",
+        "agent",
+        "entity encountering something",
+        "replier"
+      ]
+    },
+    {
+      "characterName": "Ben_Kenobi",
+      "recipients": [
+        "miles",
+        "area",
+        "terrain",
+        "name",
+        "ObiWan_Kenobi",
+        "Luke",
+        "weapon",
+        "hope",
+        "ways",
+        "Alderaan",
+        "Kenobi",
+        "Force",
+        "presence",
+        "time",
+        "station",
+        "generator",
+        "Vader",
+        "man",
+        "son"
+      ],
+      "verbs": [
+        "life",
+        "go",
+        "be",
+        "give",
+        "learn",
+        "accompany",
+        "tell",
+        "believe",
+        "sens",
+        "feel",
+        "deactivate",
+        "inform",
+        "take"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "alive entity",
+        "thing found",
+        "giver",
+        "subject accompanier",
+        "student",
+        "object accompanied",
+        "Speaker",
+        "money or attention",
+        "disturbed",
+        "feeler",
+        "thinker",
+        "decider",
+        "sensor",
+        "deactivator",
+        "informer",
+        "causer of continuation",
+        "betrayed",
+        "Utterance",
+        "operator"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "forehead",
+        "withdraws",
+        "Kenobi"
+      ],
+      "verbs": [
+        "touch",
+        "betray"
+      ],
+      "traits": [
+        "old",
+        "bearded"
+      ],
+      "semanticRoles": [
+        "applauded",
+        "Utterance",
+        "speaker",
+        "experiencer of surprise",
+        "betrayer",
+        "thing followed"
+      ]
+    },
+    {
+      "characterName": "beings",
+      "recipients": [
+        "galaxy",
+        "us",
+        "field"
+      ],
+      "verbs": [
+        "bind",
+        "surround",
+        "penetrate",
+        "create"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity entering",
+        "creator",
+        "attacher",
+        "causative agent"
+      ]
+    },
+    {
+      "characterName": "Force",
+      "recipients": [
+        "power",
+        "Motti",
+        "influence"
+      ],
+      "verbs": [
+        "draw",
+        "strangle",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "artist",
+        "helper",
+        "stranger",
+        "thing used",
+        "action allowed",
+        "thing sensed"
+      ]
+    },
+    {
+      "characterName": "Tarkin",
+      "recipients": [
+        "Cassio_Tagge_Don_Henderson",
+        "Conan_Motti_Richard_LeParmentier",
+        "Mordramin_Bast_Leslie_Schofield",
+        "Tarkin",
+        "chance",
+        "tactics",
+        "report",
+        "Alderaan",
+        "location",
+        "plan",
+        "evacuation"
+      ],
+      "verbs": [
+        "meet",
+        "tell",
+        "have",
+        "shift",
+        "receive",
+        "approach",
+        "be",
+        "discuss",
+        "scoff"
+      ],
+      "traits": [
+        "doubtful"
+      ],
+      "semanticRoles": [
+        "achiever",
+        "Utterance",
+        "Speaker",
+        "mover",
+        "informed",
+        "finder",
+        "container",
+        "discussant",
+        "insister",
+        "dismisser"
+      ]
+    },
+    {
+      "characterName": "Conan_Motti_Richard_LeParmentier",
+      "recipients": [
+        "schematics",
+        "headquarters",
+        "heritage",
+        "tactics"
+      ],
+      "verbs": [
+        "recover",
+        "pinpoint",
+        "mock",
+        "shift"
+      ],
+      "traits": [
+        "confident"
+      ],
+      "semanticRoles": [
+        "goal",
+        "decider",
+        "mocker",
+        "entity strangled",
+        "mover"
+      ]
+    },
+    {
+      "characterName": "Star",
+      "recipients": [
+        "submission",
+        "location",
+        "weakness",
+        "shielding",
+        "side"
+      ],
+      "verbs": [
+        "intimidate",
+        "destroy",
+        "have",
+        "orbit"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing used",
+        "intimidating entity",
+        "entity attacked",
+        "revolving entity",
+        "entity in motion"
+      ]
+    },
+    {
+      "characterName": "Imperials",
+      "recipients": [
+        "aunt",
+        "uncle",
+        "homestead",
+        "nothing",
+        "fighter",
+        "beam"
+      ],
+      "verbs": [
+        "kill",
+        "burn",
+        "find",
+        "see",
+        "activate"
+      ],
+      "traits": [
+        "unable"
+      ],
+      "semanticRoles": [
+        "killer",
+        "pyromaniac",
+        "finder",
+        "viewer",
+        "follower",
+        "thing gotten",
+        "Utterance",
+        "place or thing escaped",
+        "activator",
+        "entity confronted"
+      ]
+    },
+    {
+      "characterName": "criminals",
+      "recipients": [
+        "Luke",
+        "mate",
+        "Han_Solo_Harrison_Ford"
+      ],
+      "verbs": [
+        "kill",
+        "meet"
+      ],
+      "traits": [
+        "later",
+        "Moments"
+      ],
+      "semanticRoles": [
+        "killer",
+        "agent",
+        "achiever"
+      ]
+    },
+    {
+      "characterName": "Han_Solo_Harrison_Ford",
+      "recipients": [
+        "credits",
+        "price",
+        "Chewbacca",
+        "care",
+        "shipment",
+        "Jabba",
+        "selfdefense",
+        "pistol",
+        "table",
+        "exceptions",
+        "Luke",
+        "rings",
+        "stormtroopers",
+        "captive",
+        "moments",
+        "princess",
+        "breath",
+        "entrance",
+        "bay",
+        "turrets",
+        "Leia",
+        "rescue",
+        "hopes",
+        "fight"
+      ],
+      "verbs": [
+        "give",
+        "tell",
+        "take",
+        "transport",
+        "pay",
+        "fire",
+        "kill",
+        "remove",
+        "make",
+        "assure",
+        "run",
+        "shoot",
+        "assist",
+        "have",
+        "find",
+        "catch",
+        "meet",
+        "man",
+        "boast",
+        "join",
+        "inform",
+        "help"
+      ],
+      "traits": [
+        "dubious",
+        "impressed",
+        "doubtful"
+      ],
+      "semanticRoles": [
+        "goal",
+        "giver",
+        "Utterance",
+        "agreer",
+        "Speaker",
+        "action being stopped",
+        "agent",
+        "causer of motion",
+        "new employee",
+        "insister",
+        "impelled agent",
+        "admitter",
+        "payer or buyer",
+        "killer",
+        "shooter",
+        "entity removing",
+        "thrower",
+        "entity confronted",
+        "creator",
+        "causer of assurance",
+        "operator",
+        "speaker",
+        "explainer",
+        "confirmer",
+        "knower",
+        "finder",
+        "receiver",
+        "thing crushed",
+        "achiever",
+        "worker",
+        "Agent",
+        "boaster",
+        "entity refusing",
+        "informer",
+        "helper",
+        "utterance",
+        "award"
+      ]
+    },
+    {
+      "characterName": "Chewbacca",
+      "recipients": [
+        "preparations",
+        "Luke",
+        "entrance",
+        "bay"
+      ],
+      "verbs": [
+        "make",
+        "assist",
+        "meet"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "entity leaving",
+        "creator",
+        "impelled agent",
+        "achiever",
+        "utterance"
+      ]
+    },
+    {
+      "characterName": "Greedo_Maria_De_Aragon",
+      "recipients": [
+        "Han",
+        "pistol",
+        "Solo",
+        "Jabba"
+      ],
+      "verbs": [
+        "stop",
+        "point",
+        "force",
+        "turn",
+        "kill"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "forcer",
+        "pointer",
+        "Sayer",
+        "admitter",
+        "killer",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "Jabba",
+      "recipients": [
+        "Han",
+        "credits",
+        "loss",
+        "money",
+        "frustration",
+        "time"
+      ],
+      "verbs": [
+        "hire",
+        "have",
+        "cover",
+        "express",
+        "need",
+        "warn"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "employer",
+        "coverer",
+        "needer",
+        "impelled agent",
+        "money or attention",
+        "corpse",
+        "viewer",
+        "putter",
+        "thing turning",
+        "speaker",
+        "agreer"
+      ]
+    },
+    {
+      "characterName": "Falcon",
+      "recipients": [
+        "freighter",
+        "ObiWan",
+        "Luke",
+        "board",
+        "field",
+        "bay",
+        "base",
+        "station",
+        "diving",
+        "Vader"
+      ],
+      "verbs": [
+        "be",
+        "do",
+        "training",
+        "fly",
+        "make",
+        "destroy"
+      ],
+      "traits": [
+        "Millennium"
+      ],
+      "semanticRoles": [
+        "trainer",
+        "theme",
+        "destination",
+        "vehicle",
+        "thing followed",
+        "creator",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "orders",
+      "recipients": [
+        "equipment",
+        "Luke",
+        "trench"
+      ],
+      "verbs": [
+        "scanning",
+        "Luke",
+        "run"
+      ],
+      "traits": [
+        "Tarkin",
+        "Garven"
+      ],
+      "semanticRoles": [
+        "new knower",
+        "looker",
+        "operator"
+      ]
+    },
+    {
+      "characterName": "fighter",
+      "recipients": [
+        "snubfighter",
+        "bombers"
+      ],
+      "verbs": [
+        "keep",
+        "engage"
+      ],
+      "traits": [
+        "x1",
+        "gyrating"
+      ],
+      "semanticRoles": [
+        "thing viewed",
+        "Keeper",
+        "vehicle",
+        "causer of engagement"
+      ]
+    },
+    {
+      "characterName": "stormtroopers",
+      "recipients": [
+        "Falcon",
+        "stormtroopers",
+        "center",
+        "comments"
+      ],
+      "verbs": [
+        "go",
+        "set",
+        "infiltrate",
+        "exchange"
+      ],
+      "traits": [
+        "last"
+      ],
+      "semanticRoles": [
+        "projectile",
+        "thing set",
+        "agent",
+        "infiltrator",
+        "action allowed"
+      ]
+    },
+    {
+      "characterName": "trench",
+      "recipients": [
+        "Backstabber",
+        "Mauler"
+      ],
+      "verbs": [
+        "run"
+      ],
+      "traits": [
+        "narrow",
+        "Dutch",
+        "commence",
+        "wingmen"
+      ],
+      "semanticRoles": [
+        "surface of what",
+        "operator",
+        "machine",
+        "Theme(-Creation)"
+      ]
+    },
+    {
+      "characterName": "Biggs_Darklighter_Garrick_Hagon",
+      "recipients": [
+        "Luke",
+        "money",
+        "trench",
+        "wing"
+      ],
+      "verbs": [
+        "congratulate",
+        "take",
+        "start",
+        "fly"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "User",
+        "Speaker",
+        "expresser",
+        "corpse",
+        "Agent",
+        "thing followed",
+        "thing hit"
+      ]
+    },
+    {
+      "characterName": "pilots",
+      "recipients": [
+        "attack",
+        "port",
+        "time",
+        "Garven"
+      ],
+      "verbs": [
+        "start",
+        "approach",
+        "buy"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "recruit",
+        "Agent",
+        "buyer"
+      ]
+    }
+  ]
+}

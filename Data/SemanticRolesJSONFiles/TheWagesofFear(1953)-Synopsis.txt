@@ -1,0 +1,493 @@
+{
+  "movieName": "TheWagesofFear(1953)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Mario",
+      "recipients": [
+        "waitress",
+        "taxi",
+        "Corsario",
+        "Mario",
+        "officer",
+        "dollars",
+        "Paris",
+        "Jo",
+        "Cognac",
+        "one",
+        "Linda",
+        "truck",
+        "ticket",
+        "being",
+        "length",
+        "rest",
+        "speed",
+        "gasoline",
+        "tank",
+        "maneuver",
+        "what",
+        "scene",
+        "crater",
+        "exhaustion",
+        "home",
+        "road",
+        "corner",
+        "death"
+      ],
+      "verbs": [
+        "be",
+        "pay",
+        "take",
+        "give",
+        "leave",
+        "leaf",
+        "go",
+        "share",
+        "neglect",
+        "left",
+        "kick",
+        "want",
+        "see",
+        "have",
+        "use",
+        "stop",
+        "drive",
+        "put",
+        "maneuver",
+        "force",
+        "help",
+        "guide",
+        "do",
+        "think",
+        "ask",
+        "catch",
+        "bring",
+        "arrive",
+        "find",
+        "collapse",
+        "get",
+        "head",
+        "plunge"
+      ],
+      "traits": [
+        "last",
+        "mad"
+      ],
+      "semanticRoles": [
+        "goal",
+        "payer or buyer",
+        "giver",
+        "entity leaving",
+        "sharer",
+        "Speaker",
+        "ignorer",
+        "decider",
+        "alive entity",
+        "User",
+        "thing gotten",
+        "entity gathered",
+        "kicker",
+        "driver",
+        "thing wanted",
+        "wanter",
+        "viewer",
+        "feeler",
+        "thing given",
+        "finder",
+        "new knower",
+        "director",
+        "project",
+        "guide",
+        "impelled agent",
+        "helper",
+        "entity guided",
+        "forcer",
+        "Agent",
+        "Thinker",
+        "asker",
+        "expresser",
+        "receiver",
+        "bringer",
+        "agent",
+        "thing brought",
+        "steerer",
+        "operator",
+        "entity succeeding",
+        "causer of collapse",
+        "leader"
+      ]
+    },
+    {
+      "characterName": "Bernardo",
+      "recipients": [
+        "van",
+        "pilot",
+        "visa",
+        "country",
+        "truck",
+        "bar",
+        "himself",
+        "letter"
+      ],
+      "verbs": [
+        "sneak",
+        "find",
+        "hold",
+        "drive",
+        "go",
+        "hang",
+        "trust"
+      ],
+      "traits": [
+        "frightened"
+      ],
+      "semanticRoles": [
+        "entity sneaking",
+        "Agent/Entity Trying",
+        "finder",
+        "holder",
+        "driver",
+        "thrower",
+        "agent",
+        "truster"
+      ]
+    },
+    {
+      "characterName": "Frenchman",
+      "recipients": [
+        "european",
+        "dollars",
+        "officer",
+        "airport",
+        "taxi",
+        "town",
+        "Mario"
+      ],
+      "verbs": [
+        "be",
+        "give",
+        "walk",
+        "take",
+        "meet"
+      ],
+      "traits": [
+        "elegant"
+      ],
+      "semanticRoles": [
+        "giver",
+        "walker",
+        "achiever"
+      ]
+    },
+    {
+      "characterName": "Jo",
+      "recipients": [
+        "Paris",
+        "Mario",
+        "apartment",
+        "shares",
+        "lunch",
+        "radio",
+        "music",
+        "Hernandez",
+        "man",
+        "Bill_O\u0027Brien",
+        "office",
+        "what",
+        "past",
+        "cord",
+        "bottle",
+        "gun",
+        "face",
+        "Luigi",
+        "goodbye",
+        "absence",
+        "Smerloff",
+        "truck",
+        "yard",
+        "something",
+        "end",
+        "headlights",
+        "platform",
+        "mountain",
+        "boulder",
+        "trucks",
+        "cigarette",
+        "scene",
+        "crater"
+      ],
+      "verbs": [
+        "be",
+        "explain",
+        "go",
+        "eat",
+        "shut",
+        "like",
+        "ask",
+        "know",
+        "see",
+        "do",
+        "tear",
+        "take",
+        "point",
+        "slap",
+        "give",
+        "say",
+        "look",
+        "kill",
+        "climb",
+        "start",
+        "leaf",
+        "stop",
+        "come",
+        "run",
+        "move",
+        "roll",
+        "arrive",
+        "find",
+        "walk"
+      ],
+      "traits": [
+        "mad",
+        "old"
+      ],
+      "semanticRoles": [
+        "explainer",
+        "consumer",
+        "place",
+        "person doing the closing",
+        "liker",
+        "asker",
+        "knower",
+        "viewer",
+        "thing given",
+        "puller",
+        "thing hit",
+        "pointer",
+        "giver",
+        "agent",
+        "thing picked",
+        "looker",
+        "Sayer",
+        "walker",
+        "killer",
+        "thing known or thought",
+        "entity leaving",
+        "climber",
+        "Agent",
+        "thing kicked",
+        "Thinker",
+        "feeler",
+        "decider",
+        "operator",
+        "mover",
+        "question",
+        "pisser",
+        "roller",
+        "agent of calming",
+        "finder",
+        "injured party"
+      ]
+    },
+    {
+      "characterName": "Luigi",
+      "recipients": [
+        "table",
+        "evening",
+        "Jo",
+        "bar",
+        "gun",
+        "words",
+        "speed",
+        "liter",
+        "can",
+        "boulder",
+        "hole",
+        "truck"
+      ],
+      "verbs": [
+        "sit",
+        "walk",
+        "hit",
+        "leaf",
+        "drop",
+        "have",
+        "keep",
+        "siphon",
+        "dig",
+        "drive"
+      ],
+      "traits": [
+        "Italian"
+      ],
+      "semanticRoles": [
+        "agent",
+        "walker",
+        "Keeper",
+        "wanter",
+        "thing given",
+        "thing pushed",
+        "entity leaving",
+        "entity doing the dropping",
+        "student",
+        "thing gotten",
+        "entity gathered",
+        "thing striving",
+        "conveyor",
+        "digger",
+        "question",
+        "expresser",
+        "driver",
+        "thing understood"
+      ]
+    },
+    {
+      "characterName": "O\u0027Brien",
+      "recipients": [
+        "pal",
+        "thing",
+        "advice",
+        "driver",
+        "O\u0027Brien",
+        "job",
+        "Jo"
+      ],
+      "verbs": [
+        "do",
+        "go",
+        "give",
+        "tell",
+        "get",
+        "know"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "knower",
+        "asker",
+        "giver",
+        "Speaker",
+        "receiver",
+        "Utterance",
+        "understander"
+      ]
+    },
+    {
+      "characterName": "truck",
+      "recipients": [
+        "mph",
+        "end",
+        "danger"
+      ],
+      "verbs": [
+        "go",
+        "reach",
+        "be"
+      ],
+      "traits": [
+        "small",
+        "bigger",
+        "second",
+        "other",
+        "same"
+      ],
+      "semanticRoles": [
+        "vehicle or path",
+        "Theme(-Creation)",
+        "thing viewed",
+        "action being stopped",
+        "agent",
+        "thing brought",
+        "causer of fast motion",
+        "thing striving",
+        "Agent",
+        "entity maneuvered",
+        "breaker",
+        "thing understood",
+        "Theme (action or object being prevented)",
+        "thing gotten"
+      ]
+    },
+    {
+      "characterName": "Bimba",
+      "recipients": [
+        "Luigi",
+        "Jo",
+        "hole",
+        "hammer",
+        "end",
+        "rock",
+        "piss",
+        "explosion",
+        "truck"
+      ],
+      "verbs": [
+        "ask",
+        "pour",
+        "tie",
+        "light",
+        "hide",
+        "go",
+        "see",
+        "understand"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing gotten",
+        "entity gathered",
+        "thing striving",
+        "asker",
+        "agent",
+        "setter of fire",
+        "operator",
+        "expresser",
+        "viewer",
+        "understander"
+      ]
+    },
+    {
+      "characterName": "kid",
+      "recipients": [
+        "handkerchief",
+        "truck",
+        "mph",
+        "length"
+      ],
+      "verbs": [
+        "steal",
+        "bring",
+        "cross"
+      ],
+      "traits": [
+        "local"
+      ],
+      "semanticRoles": [
+        "thief",
+        "bringer",
+        "crosser"
+      ]
+    },
+    {
+      "characterName": "they",
+      "recipients": [
+        "platform",
+        "truck",
+        "journey",
+        "rocks",
+        "field"
+      ],
+      "verbs": [
+        "use",
+        "maneuver",
+        "hide",
+        "reach"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "director",
+        "User",
+        "entity succeeding",
+        "Agent",
+        "thing striving"
+      ]
+    }
+  ]
+}

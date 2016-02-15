@@ -1,0 +1,359 @@
+{
+  "movieName": "HarryPotterandtheDeathlyHallows_Part2(2011)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "them",
+      "recipients": [
+        "vault",
+        "Gringotts",
+        "exchange",
+        "Hermione_Emma_Watson",
+        "Horcrux"
+      ],
+      "verbs": [
+        "get",
+        "retrieve",
+        "arrive",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "entity attacked",
+        "coverer",
+        "manager",
+        "finder",
+        "betrayed",
+        "swimmer"
+      ]
+    },
+    {
+      "characterName": "Harry_Potter_Daniel_Radcliffe",
+      "recipients": [
+        "Griphook_Warwick_Davis",
+        "Cloak",
+        "vision",
+        "Aberforth_Dumbledore_Ciarn_Hinds",
+        "Harry",
+        "friend",
+        "boathouse",
+        "mind",
+        "eyes",
+        "castle",
+        "office",
+        "Pensieve",
+        "Horcrux",
+        "reason",
+        "Forest",
+        "snitch",
+        "Voldemort",
+        "spell",
+        "army",
+        "himself",
+        "spells",
+        "Ron",
+        "Malfoy_Manor",
+        "Draco",
+        "wand",
+        "platform",
+        "children",
+        "parents",
+        "Albus"
+      ],
+      "verbs": [
+        "convince",
+        "go",
+        "have",
+        "see",
+        "confront",
+        "save",
+        "be",
+        "look",
+        "use",
+        "die",
+        "open",
+        "face",
+        "ask",
+        "cast",
+        "reveal",
+        "explain",
+        "disarm",
+        "snap",
+        "guide"
+      ],
+      "traits": [
+        "alive",
+        "dead"
+      ],
+      "semanticRoles": [
+        "convincer",
+        "grabber",
+        "viewer",
+        "causal agent",
+        "confrontational entity",
+        "entity confronted",
+        "thing looked at or for or on",
+        "finder",
+        "causer of motion",
+        "entity escaping",
+        "entity saving money",
+        "knower",
+        "looker",
+        "agent",
+        "Utterance",
+        "User",
+        "student",
+        "corpse",
+        "opener",
+        "talker",
+        "alarm clock",
+        "decider",
+        "asker",
+        "question",
+        "goal",
+        "entity with a bobbing head",
+        "thing carried",
+        "speaker",
+        "thrower",
+        "explainer",
+        "entity removing weapons",
+        "guide"
+      ]
+    },
+    {
+      "characterName": "Griphook_Warwick_Davis",
+      "recipients": [
+        "Cloak",
+        "them",
+        "Cup"
+      ],
+      "verbs": [
+        "go",
+        "betray"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "impelled agent",
+        "helper",
+        "betrayer",
+        "fleer",
+        "bringer"
+      ]
+    },
+    {
+      "characterName": "Voldemort_Ralph_Fiennes",
+      "recipients": [
+        "Wand",
+        "goblins",
+        "Hogwarts",
+        "army",
+        "Diadem",
+        "Room",
+        "Snape",
+        "orders",
+        "forces",
+        "Harry",
+        "himself",
+        "Forbidden_Forest",
+        "everyone",
+        "Lily_Potter",
+        "Hollow",
+        "night",
+        "curse",
+        "bit",
+        "staff",
+        "Voldemort",
+        "students",
+        "spells"
+      ],
+      "verbs": [
+        "have",
+        "kill",
+        "summon",
+        "hide",
+        "use",
+        "attack",
+        "command",
+        "tell",
+        "give",
+        "create",
+        "torment",
+        "cast"
+      ],
+      "traits": [
+        "angry",
+        "ready"
+      ],
+      "semanticRoles": [
+        "killer",
+        "inviter",
+        "User",
+        "attacker",
+        "corpse",
+        "talker",
+        "getter",
+        "Speaker",
+        "giver",
+        "decider",
+        "creator",
+        "looked at",
+        "tormenter",
+        "tormented",
+        "looker",
+        "thrower"
+      ]
+    },
+    {
+      "characterName": "Horcrux",
+      "recipients": [
+        "dragon",
+        "castle"
+      ],
+      "verbs": [
+        "use",
+        "be"
+      ],
+      "traits": [
+        "next",
+        "last"
+      ],
+      "semanticRoles": [
+        "User",
+        "thing found",
+        "thing stolen",
+        "thing under consideration",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Aberforth_Dumbledore_Ciarn_Hinds",
+      "recipients": [
+        "Eaters",
+        "Potter",
+        "Snape"
+      ],
+      "verbs": [
+        "save",
+        "protect",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing viewed",
+        "entity saving money",
+        "provider",
+        "Speaker",
+        "Sayer",
+        "entity disarmed of weapons"
+      ]
+    },
+    {
+      "characterName": "Neville_Longbottom_Matthew_Lewis",
+      "recipients": [
+        "way",
+        "speech",
+        "sword",
+        "hat"
+      ],
+      "verbs": [
+        "lead",
+        "say",
+        "give",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "leader",
+        "Sayer",
+        "giver",
+        "receiver",
+        "killer"
+      ]
+    },
+    {
+      "characterName": "Snape_Alan_Rickman",
+      "recipients": [
+        "prison",
+        "Hogwarts",
+        "master",
+        "tear",
+        "Dumbledore",
+        "anything",
+        "life",
+        "Harry",
+        "Snape"
+      ],
+      "verbs": [
+        "turn",
+        "be",
+        "cry",
+        "do",
+        "love",
+        "protect",
+        "kill"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "turner",
+        "entity attacked",
+        "speaker",
+        "commentor",
+        "promiser",
+        "lover",
+        "Utterance",
+        "killer",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Hermione",
+      "recipients": [
+        "Chamber",
+        "Cup",
+        "fang",
+        "castle",
+        "Horcrux"
+      ],
+      "verbs": [
+        "go",
+        "destroy",
+        "get",
+        "kill"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "kisser",
+        "causer of motion",
+        "entity escaping",
+        "agent",
+        "Agent/Entity Trying",
+        "killer",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Ron",
+      "recipients": [
+        "Chamber",
+        "fang",
+        "castle",
+        "Horcrux"
+      ],
+      "verbs": [
+        "go",
+        "get",
+        "kill"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "causer of motion",
+        "entity escaping",
+        "agent",
+        "Agent/Entity Trying",
+        "killer"
+      ]
+    }
+  ]
+}

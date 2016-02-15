@@ -1,0 +1,95 @@
+{
+  "movieName": "Gandhi(1982)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Gandhi",
+      "recipients": [
+        "protest",
+        "center",
+        "permits",
+        "minorities",
+        "blows",
+        "officer",
+        "oppression",
+        "handful",
+        "reporter",
+        "jail",
+        "masses",
+        "face",
+        "street",
+        "country",
+        "rule",
+        "causes",
+        "city",
+        "requests",
+        "degree",
+        "followers"
+      ],
+      "verbs": [
+        "stage",
+        "burn",
+        "overcome",
+        "converse",
+        "meet",
+        "free",
+        "pay",
+        "refuse",
+        "continue",
+        "travels",
+        "take",
+        "go",
+        "rebuff",
+        "pursue",
+        "urge"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing thrown",
+        "performer",
+        "pyromaniac",
+        "thing hit",
+        "causer of continuation",
+        "overcomer",
+        "criminal",
+        "talker",
+        "achiever",
+        "entity providing freedom",
+        "entity confronted",
+        "payer or buyer",
+        "entity refusing",
+        "traveller",
+        "goal",
+        "rejecter",
+        "object accompanied",
+        "thing following",
+        "entity leaving",
+        "new knower",
+        "urger"
+      ]
+    },
+    {
+      "characterName": "Dyer",
+      "recipients": [
+        "fire",
+        "troops",
+        "gun"
+      ],
+      "verbs": [
+        "command",
+        "order",
+        "use"
+      ],
+      "traits": [
+        "silent"
+      ],
+      "semanticRoles": [
+        "Sayer",
+        "getter",
+        "forcer",
+        "User",
+        "announcer",
+        "question"
+      ]
+    }
+  ]
+}

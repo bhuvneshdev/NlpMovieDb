@@ -1,0 +1,257 @@
+{
+  "movieName": "Trainspotting(1996)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Spud_Ewen_Bremner",
+      "recipients": [
+        "Street",
+        "heroin",
+        "money",
+        "nothing",
+        "scene",
+        "Renton"
+      ],
+      "verbs": [
+        "sprint",
+        "use",
+        "consider",
+        "say",
+        "retrieve"
+      ],
+      "traits": [
+        "scared"
+      ],
+      "semanticRoles": [
+        "decider",
+        "User",
+        "thing gotten",
+        "sent",
+        "thing released",
+        "goal",
+        "thinker",
+        "viewer",
+        "entity leaving",
+        "Sayer",
+        "place",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "Renton",
+      "recipients": [
+        "state",
+        "life",
+        "day",
+        "heroin",
+        "high",
+        "dealer",
+        "suppositories",
+        "room",
+        "Renton",
+        "nightclub",
+        "morning",
+        "incident",
+        "sex",
+        "tape",
+        "hit",
+        "turkey",
+        "bed",
+        "London",
+        "job",
+        "flat",
+        "base",
+        "friends",
+        "purity",
+        "injection",
+        "Boy",
+        "anyone",
+        "money",
+        "Begbie",
+        "nod",
+        "voiceover",
+        "remorse",
+        "passport"
+      ],
+      "verbs": [
+        "state",
+        "decide",
+        "give",
+        "need",
+        "buy",
+        "lock",
+        "go",
+        "realize",
+        "shake",
+        "have",
+        "borrow",
+        "use",
+        "take",
+        "beat",
+        "lie",
+        "move",
+        "get",
+        "turn",
+        "rent",
+        "check",
+        "relate",
+        "wake",
+        "travels",
+        "live",
+        "talk",
+        "do",
+        "feel",
+        "leaf",
+        "hide"
+      ],
+      "traits": [
+        "flat",
+        "traditional",
+        "stable"
+      ],
+      "semanticRoles": [
+        "decider",
+        "announcer",
+        "giver",
+        "needer",
+        "thing gotten",
+        "buyer",
+        "agent",
+        "first thing being locked",
+        "entity leaving",
+        "new knower",
+        "Agent/Entity Trying",
+        "causer of trembling motion",
+        "Agent",
+        "borrower",
+        "User",
+        "thing followed",
+        "hallucinator",
+        "examined",
+        "Utterance",
+        "entity awake",
+        "alive entity",
+        "receiver",
+        "mover",
+        "beginner",
+        "turner",
+        "thing given",
+        "thing used",
+        "rend-er",
+        "checker",
+        "operator",
+        "Sayer",
+        "feeler",
+        "alarm clock",
+        "life",
+        "promiser",
+        "traveller",
+        "Thinker",
+        "talker",
+        "place"
+      ]
+    },
+    {
+      "characterName": "Tommy_Kevin_McKidd",
+      "recipients": [
+        "store",
+        "tape"
+      ],
+      "verbs": [
+        "return",
+        "try"
+      ],
+      "traits": [
+        "cleancut",
+        "brokenhearted"
+      ],
+      "semanticRoles": [
+        "entity being introduced",
+        "thing gotten rid of",
+        "asker",
+        "Agent/Entity Trying",
+        "other party",
+        "logical subject"
+      ]
+    },
+    {
+      "characterName": "Boy",
+      "recipients": [
+        "addicts",
+        "heroin",
+        "father",
+        "transaction",
+        "help",
+        "drinks",
+        "money"
+      ],
+      "verbs": [
+        "be",
+        "use",
+        "suggest",
+        "need",
+        "get",
+        "deserve",
+        "steal"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "decider",
+        "User",
+        "implication",
+        "Sayer",
+        "needer",
+        "receiver",
+        "deserving entity (entity who is owed)",
+        "thief"
+      ]
+    },
+    {
+      "characterName": "friends",
+      "recipients": [
+        "tape",
+        "advice",
+        "Renton",
+        "Spud"
+      ],
+      "verbs": [
+        "like",
+        "give",
+        "use",
+        "meet"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "liker",
+        "giver",
+        "creator",
+        "User",
+        "thing given",
+        "achiever"
+      ]
+    },
+    {
+      "characterName": "Begbie",
+      "recipients": [
+        "robbery",
+        "money",
+        "patron",
+        "face"
+      ],
+      "verbs": [
+        "involve",
+        "deserve",
+        "head",
+        "smash"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "deserving entity (entity who is owed)",
+        "entity splilling",
+        "leader",
+        "turner",
+        "agent",
+        "finder"
+      ]
+    }
+  ]
+}

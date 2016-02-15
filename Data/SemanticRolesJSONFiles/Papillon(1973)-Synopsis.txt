@@ -1,0 +1,327 @@
+{
+  "movieName": "Papillon(1973)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "man",
+      "recipients": [
+        "counterfeiter",
+        "knife",
+        "man",
+        "Dega",
+        "ocean",
+        "leprosy"
+      ],
+      "verbs": [
+        "be",
+        "have",
+        "protect",
+        "befriend",
+        "walk",
+        "noncontagious"
+      ],
+      "traits": [
+        "short",
+        "bespectacled",
+        "blueeyed",
+        "young",
+        "innocent"
+      ],
+      "semanticRoles": [
+        "Utterance",
+        "promiser",
+        "decider",
+        "agentive friend",
+        "walker",
+        "projectile",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "man",
+        "Dega",
+        "night"
+      ],
+      "verbs": [
+        "talk",
+        "assault"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "talker",
+        "beginner",
+        "thing viewed",
+        "second fighter",
+        "assaulter",
+        "viewer",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "prisoners",
+      "recipients": [
+        "voyage",
+        "years",
+        "butterflies"
+      ],
+      "verbs": [
+        "begin",
+        "get",
+        "chase"
+      ],
+      "traits": [
+        "marched"
+      ],
+      "semanticRoles": [
+        "thing seen/shown",
+        "beginner",
+        "receiver",
+        "Agent/Entity Trying",
+        "entity escaping",
+        "thing issued",
+        "follower"
+      ]
+    },
+    {
+      "characterName": "Dega",
+      "recipients": [
+        "day",
+        "one",
+        "glasses",
+        "Papillon",
+        "money",
+        "map",
+        "ankle"
+      ],
+      "verbs": [
+        "get",
+        "catch",
+        "give",
+        "join",
+        "break"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "new friend",
+        "entity assaulted",
+        "applauded",
+        "causal agent",
+        "receiver",
+        "Utterance",
+        "impelled agent",
+        "giver",
+        "entity refusing",
+        "agent",
+        "breaker",
+        "goal",
+        "entity escaping"
+      ]
+    },
+    {
+      "characterName": "Papillon",
+      "recipients": [
+        "men",
+        "exam",
+        "day",
+        "prisoner",
+        "buyer",
+        "help",
+        "Dega",
+        "camp",
+        "food",
+        "friendship",
+        "Papillon",
+        "ward",
+        "wall",
+        "river",
+        "run",
+        "jungle",
+        "strength",
+        "tattoo",
+        "Mother_Superior_Papillon",
+        "nun",
+        "pearls",
+        "church",
+        "Maturette"
+      ],
+      "verbs": [
+        "fight",
+        "have",
+        "get",
+        "meet",
+        "approach",
+        "ask",
+        "convince",
+        "come",
+        "arrange",
+        "renew",
+        "give",
+        "notice",
+        "encourage",
+        "escape",
+        "leper",
+        "fall",
+        "regain",
+        "declare"
+      ],
+      "traits": [
+        "tanned"
+      ],
+      "semanticRoles": [
+        "thing put",
+        "manager",
+        "first fighter",
+        "causal agent",
+        "thing assigned",
+        "receiver",
+        "Utterance",
+        "achiever",
+        "asker",
+        "entity escaping",
+        "Agent/Entity Trying",
+        "convincer",
+        "builder",
+        "talker",
+        "entity refusing",
+        "thing released",
+        "agent",
+        "giver",
+        "thing given",
+        "noticer",
+        "project",
+        "Agent",
+        "first thing being tied",
+        "examined",
+        "thing hit",
+        "recoverer",
+        "declarer",
+        "betrayed",
+        "entity getting by",
+        "beginner",
+        "thinker"
+      ]
+    },
+    {
+      "characterName": "prisoner",
+      "recipients": [
+        "shiv",
+        "gangplank",
+        "prisoner",
+        "knee",
+        "village"
+      ],
+      "verbs": [
+        "ask",
+        "fall",
+        "cut",
+        "awakes"
+      ],
+      "traits": [
+        "young",
+        "Spanish"
+      ],
+      "semanticRoles": [
+        "intentional cutter",
+        "asker",
+        "pretender",
+        "Logical subject",
+        "thing brought",
+        "goal",
+        "noticed",
+        "entity molested",
+        "thing impaled"
+      ]
+    },
+    {
+      "characterName": "buyer",
+      "recipients": [
+        "ups",
+        "piece"
+      ],
+      "verbs": [
+        "do",
+        "find"
+      ],
+      "traits": [
+        "poor"
+      ],
+      "semanticRoles": [
+        "entity in motion",
+        "Utterance",
+        "thing put",
+        "Agent",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Maturette",
+      "recipients": [
+        "Papillon",
+        "wall",
+        "medicine",
+        "aid"
+      ],
+      "verbs": [
+        "help",
+        "get",
+        "know",
+        "do"
+      ],
+      "traits": [
+        "homosexual"
+      ],
+      "semanticRoles": [
+        "admitter",
+        "helper",
+        "entity escaping",
+        "receiver",
+        "Agent/Entity Trying",
+        "knower",
+        "goal"
+      ]
+    },
+    {
+      "characterName": "lepers",
+      "recipients": [
+        "money",
+        "boat",
+        "escapees",
+        "sail",
+        "turtles",
+        "water"
+      ],
+      "verbs": [
+        "give",
+        "eat",
+        "scavenge"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "giver",
+        "consumer",
+        "searcher"
+      ]
+    },
+    {
+      "characterName": "chief",
+      "recipients": [
+        "clothes",
+        "tourist",
+        "natives"
+      ],
+      "verbs": [
+        "get",
+        "be",
+        "join"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "place",
+        "alarm clock",
+        "receiver",
+        "agent"
+      ]
+    }
+  ]
+}

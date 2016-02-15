@@ -1,0 +1,225 @@
+{
+  "movieName": "TheGoldRush(1925)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Prospector",
+      "recipients": [
+        "tundra",
+        "cabin",
+        "blizzard",
+        "chicken",
+        "ax",
+        "pick",
+        "town",
+        "shoe",
+        "hall",
+        "morning",
+        "decorated",
+        "speech",
+        "backwards",
+        "steward"
+      ],
+      "verbs": [
+        "search",
+        "barge",
+        "be",
+        "sell",
+        "stumble",
+        "sport",
+        "enter",
+        "bamboozle",
+        "have",
+        "respond",
+        "fall",
+        "tell"
+      ],
+      "traits": [
+        "lone",
+        "smaller",
+        "hungry",
+        "longforgotten"
+      ],
+      "semanticRoles": [
+        "searcher",
+        "Agent",
+        "entity in motion",
+        "thing being moved",
+        "entity attacked",
+        "Seller",
+        "agent",
+        "wearer",
+        "entity entering",
+        "the blow",
+        "bamboozler",
+        "replier",
+        "thinker",
+        "entity grabbed",
+        "thing found",
+        "impelled action",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Black_Larsen",
+      "recipients": [
+        "LP",
+        "deuce",
+        "strike"
+      ],
+      "verbs": [
+        "eject",
+        "draw",
+        "work"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "thrower out",
+        "Agent/Entity Trying",
+        "artist",
+        "applauded",
+        "goal"
+      ]
+    },
+    {
+      "characterName": "LP",
+      "recipients": [
+        "shoe",
+        "LP",
+        "photo",
+        "clothing",
+        "Jack",
+        "hall",
+        "girls",
+        "midst",
+        "fight",
+        "pile",
+        "noise",
+        "balcony",
+        "Georgia",
+        "McKay",
+        "morning",
+        "experience",
+        "anything",
+        "multimillionaire",
+        "kiss"
+      ],
+      "verbs": [
+        "boil",
+        "shoot",
+        "find",
+        "conceal",
+        "prevent",
+        "leaf",
+        "invite",
+        "have",
+        "shovel",
+        "wander",
+        "get",
+        "guide",
+        "awake",
+        "say",
+        "be",
+        "give"
+      ],
+      "traits": [
+        "sightless",
+        "deliriouslyhappy"
+      ],
+      "semanticRoles": [
+        "thing thrown",
+        "applier of heat",
+        "shooter",
+        "thing in motion",
+        "projectile",
+        "thing hidden",
+        "finder",
+        "agent",
+        "blind one",
+        "Agent",
+        "entity leaving",
+        "appointee",
+        "thing given",
+        "inviter",
+        "entity awake",
+        "entity in motion",
+        "receiver",
+        "Agent/Entity Trying",
+        "guide",
+        "first thing(s) roped",
+        "Sayer",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Big_Jim",
+      "recipients": [
+        "Prospector",
+        "shotgun",
+        "cabin",
+        "scene",
+        "morning",
+        "experience"
+      ],
+      "verbs": [
+        "attack",
+        "start",
+        "return",
+        "awake"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent",
+        "hallucinator",
+        "attacker",
+        "thing seen/shown",
+        "Lecturer",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "Georgia",
+      "recipients": [
+        "behavior",
+        "room",
+        "fight",
+        "pillow",
+        "picture",
+        "Curtis",
+        "ceiling",
+        "shots",
+        "Jack",
+        "note",
+        "mercy",
+        "pocket"
+      ],
+      "verbs": [
+        "like",
+        "flee",
+        "have",
+        "discover",
+        "find",
+        "fire",
+        "slap",
+        "write",
+        "plead"
+      ],
+      "traits": [
+        "unknowing"
+      ],
+      "semanticRoles": [
+        "liker",
+        "fleer",
+        "finder",
+        "promiser",
+        "shooter",
+        "agent",
+        "sent",
+        "experiencer of surprise",
+        "lurker",
+        "begger",
+        "thing given"
+      ]
+    }
+  ]
+}

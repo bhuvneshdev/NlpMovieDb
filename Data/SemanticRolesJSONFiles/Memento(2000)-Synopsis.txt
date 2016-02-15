@@ -1,0 +1,430 @@
+{
+  "movieName": "Memento(2000)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "man",
+      "recipients": [
+        "head",
+        "mirror",
+        "man"
+      ],
+      "verbs": [
+        "smash",
+        "club"
+      ],
+      "traits": [
+        "second"
+      ],
+      "semanticRoles": [
+        "entity damaged",
+        "goal",
+        "insister",
+        "striker",
+        "agent",
+        "entity clubbed"
+      ]
+    },
+    {
+      "characterName": "attacker",
+      "recipients": [
+        "dealer",
+        "evidence"
+      ],
+      "verbs": [
+        "be",
+        "left"
+      ],
+      "traits": [
+        "second",
+        "dead",
+        "smart"
+      ],
+      "semanticRoles": [
+        "thing found",
+        "item being labelled",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "Leonard_Shelby",
+      "recipients": [
+        "room",
+        "amnesia",
+        "memories",
+        "caller",
+        "condition",
+        "drive",
+        "story",
+        "Sammy",
+        "her",
+        "conversation",
+        "fact",
+        "Gammell",
+        "man",
+        "lobby",
+        "Leonard_Teddy",
+        "outside",
+        "Jimmy",
+        "what",
+        "Leonard",
+        "photo",
+        "basement",
+        "killing",
+        "Teddy",
+        "truck",
+        "refinery",
+        "parlor",
+        "number",
+        "leg",
+        "note",
+        "coat",
+        "Natalie_CarrieAnne_Moss",
+        "gun",
+        "wife",
+        "intruder",
+        "Natalie",
+        "Dodd_Callum_Keith_Rennie",
+        "Dodd",
+        "advice",
+        "Inn",
+        "service",
+        "relive",
+        "escort",
+        "them",
+        "items",
+        "reservoir",
+        "morning",
+        "motel",
+        "day",
+        "clues"
+      ],
+      "verbs": [
+        "wake",
+        "suffer",
+        "create",
+        "tell",
+        "describe",
+        "have",
+        "continue",
+        "meet",
+        "talk",
+        "tattoo",
+        "be",
+        "call",
+        "do",
+        "threaten",
+        "strangle",
+        "take",
+        "drag",
+        "hear",
+        "believe",
+        "forget",
+        "ditch",
+        "leaf",
+        "find",
+        "tatoo",
+        "see",
+        "wear",
+        "remember",
+        "get",
+        "shot",
+        "name",
+        "look",
+        "follow",
+        "go",
+        "pay",
+        "want",
+        "ask",
+        "burn",
+        "escape",
+        "wait",
+        "beat",
+        "convince",
+        "put",
+        "shoot"
+      ],
+      "traits": [
+        "undercover",
+        "diabetic"
+      ],
+      "semanticRoles": [
+        "alarm clock",
+        "talker",
+        "creator",
+        "entity suffering",
+        "Speaker",
+        "describer",
+        "Sayer",
+        "achiever",
+        "thing assigned",
+        "decider",
+        "explainer",
+        "causer of continuation",
+        "thing provided",
+        "tattooer",
+        "Utterance",
+        "agreer",
+        "thing given",
+        "applauded",
+        "remover",
+        "agent",
+        "Agent",
+        "stranger",
+        "dragger",
+        "impelled agent",
+        "forgetter",
+        "beginner",
+        "entity leaving",
+        "driver",
+        "finder",
+        "viewer",
+        "wearer",
+        "Thinker",
+        "teller of tale",
+        "rememberer",
+        "receiver",
+        "shooter",
+        "looker",
+        "causal agent",
+        "payer or buyer",
+        "subject accompanier",
+        "wanter",
+        "asker",
+        "pyromaniac",
+        "thing found",
+        "entity escaping",
+        "thing hit",
+        "convincer"
+      ]
+    },
+    {
+      "characterName": "caller",
+      "recipients": [
+        "conversation",
+        "himself",
+        "Leonard",
+        "attacker",
+        "meeting"
+      ],
+      "verbs": [
+        "talk",
+        "identify",
+        "provide",
+        "tell"
+      ],
+      "traits": [
+        "unknown"
+      ],
+      "semanticRoles": [
+        "Utterance",
+        "talker",
+        "caller",
+        "provider",
+        "Speaker",
+        "agent",
+        "goal"
+      ]
+    },
+    {
+      "characterName": "Sammy_Jankis_Stephen_Tobolowsky",
+      "recipients": [
+        "problem",
+        "memories",
+        "injections"
+      ],
+      "verbs": [
+        "have",
+        "make",
+        "give"
+      ],
+      "traits": [
+        "unable",
+        "able"
+      ],
+      "semanticRoles": [
+        "goal",
+        "student",
+        "thing covered",
+        "creator",
+        "question",
+        "giver",
+        "entity confined"
+      ]
+    },
+    {
+      "characterName": "Teddy",
+      "recipients": [
+        "Leonard",
+        "directions",
+        "meeting",
+        "scene",
+        "officer",
+        "Teddy",
+        "John_G",
+        "picture",
+        "home",
+        "room",
+        "Dodd",
+        "John_Edward_Gammell",
+        "attacker"
+      ],
+      "verbs": [
+        "give",
+        "bring",
+        "arrive",
+        "convince",
+        "tell",
+        "be",
+        "believe",
+        "kill",
+        "take",
+        "leaf",
+        "wait",
+        "warn",
+        "come"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "giver",
+        "bringer",
+        "Agent/Entity Trying",
+        "convincer",
+        "admitter",
+        "Speaker",
+        "claimer",
+        "helper",
+        "thing following",
+        "killer",
+        "Sayer",
+        "corpse",
+        "viewer",
+        "entity leaving",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Jimmy",
+      "recipients": [
+        "Leonard",
+        "life",
+        "Sammy",
+        "man",
+        "bar"
+      ],
+      "verbs": [
+        "tell",
+        "plead",
+        "know",
+        "be",
+        "come"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "goal",
+        "threat",
+        "Speaker",
+        "begger",
+        "entity strangled",
+        "thing dragged",
+        "knower",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "Grantz",
+      "recipients": [
+        "attacker",
+        "car",
+        "clothes",
+        "Natalie"
+      ],
+      "verbs": [
+        "be",
+        "drive",
+        "wear",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "driver",
+        "wearer",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Lenny",
+      "recipients": [
+        "revelations",
+        "hunt",
+        "number",
+        "town"
+      ],
+      "verbs": [
+        "forget",
+        "continue",
+        "record",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "forgetter",
+        "causer of continuation",
+        "decider",
+        "entity leaving",
+        "receiver",
+        "thing gotten"
+      ]
+    },
+    {
+      "characterName": "Natalie_CarrieAnne_Moss",
+      "recipients": [
+        "story",
+        "home",
+        "Leonard",
+        "morning",
+        "number",
+        "information",
+        "day"
+      ],
+      "verbs": [
+        "believe",
+        "take",
+        "agree",
+        "trace",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "goal",
+        "Utterance",
+        "Speaker",
+        "harassed",
+        "copier",
+        "agreer",
+        "knower",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Dodd_Callum_Keith_Rennie",
+      "recipients": [
+        "Leonard",
+        "room",
+        "town"
+      ],
+      "verbs": [
+        "spotted",
+        "return",
+        "leave"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "harassed",
+        "finder",
+        "place or thing escaped",
+        "entity leaving",
+        "impelled agent"
+      ]
+    }
+  ]
+}

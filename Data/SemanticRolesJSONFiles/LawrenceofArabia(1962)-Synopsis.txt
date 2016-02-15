@@ -1,0 +1,158 @@
+{
+  "movieName": "LawrenceofArabia(1962)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Lawrence",
+      "recipients": [
+        "lieutenant",
+        "Brighton",
+        "Faisal",
+        "commands",
+        "attack",
+        "man",
+        "Auda_abu_Tayi",
+        "Cairo",
+        "commander",
+        "Dryden",
+        "quicksand",
+        "Arabs",
+        "qualms",
+        "Allenby",
+        "war",
+        "Farraj",
+        "city",
+        "desert",
+        "destiny",
+        "army",
+        "mercenaries",
+        "cutthroats",
+        "cry",
+        "what",
+        "consequences"
+      ],
+      "verbs": [
+        "be",
+        "meet",
+        "ignore",
+        "propose",
+        "turn",
+        "persuade",
+        "head",
+        "inform",
+        "stumble",
+        "support",
+        "brush",
+        "ask",
+        "launch",
+        "shoot",
+        "scout",
+        "swear",
+        "have",
+        "recruit",
+        "take",
+        "do",
+        "realise"
+      ],
+      "traits": [
+        "disturbed",
+        "traumatised",
+        "dejected"
+      ],
+      "semanticRoles": [
+        "corpse",
+        "thing known or thought",
+        "achiever",
+        "ignorer",
+        "entity proposing",
+        "turner",
+        "convincer",
+        "declarer",
+        "killer",
+        "leader",
+        "informer",
+        "agent",
+        "thing in motion",
+        "helper",
+        "entity with brush",
+        "enjoyer",
+        "asker",
+        "starter",
+        "impelled agent",
+        "shooter",
+        "searcher",
+        "entity ogled",
+        "entity urged",
+        "thing removed",
+        "abandoner",
+        "swearer",
+        "recruiter",
+        "hesitator",
+        "vehicle or path"
+      ]
+    },
+    {
+      "characterName": "Sherif_Ali",
+      "recipients": [
+        "guide",
+        "robes",
+        "uniform"
+      ],
+      "verbs": [
+        "kill",
+        "give",
+        "burn"
+      ],
+      "traits": [
+        "sceptical"
+      ],
+      "semanticRoles": [
+        "killer",
+        "leader",
+        "pyromaniac",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Brighton",
+      "recipients": [
+        "assessment",
+        "Faisal"
+      ],
+      "verbs": [
+        "make",
+        "advise",
+        "convince"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "creator",
+        "goal",
+        "Keeper",
+        "entity giving advice",
+        "convincer"
+      ]
+    },
+    {
+      "characterName": "Allenby",
+      "recipients": [
+        "Jerusalem",
+        "Allenby",
+        "push"
+      ],
+      "verbs": [
+        "urge",
+        "support"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "question",
+        "impelled agent",
+        "helper",
+        "urger",
+        "relenter",
+        "insister"
+      ]
+    }
+  ]
+}

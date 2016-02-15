@@ -1,0 +1,435 @@
+{
+  "movieName": "StandbyMe(1986)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Richard_Dreyfuss",
+      "recipients": [
+        "car",
+        "being",
+        "story"
+      ],
+      "verbs": [
+        "sit",
+        "saw",
+        "narrate"
+      ],
+      "traits": [
+        "old"
+      ],
+      "semanticRoles": [
+        "beginner",
+        "narrater",
+        "difficulty",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "Gordie_Lachance_Wil_Wheaton",
+      "recipients": [
+        "day",
+        "morning",
+        "room",
+        "friends",
+        "sports",
+        "interest",
+        "Chris",
+        "bureau",
+        "aim",
+        "can",
+        "trigger",
+        "money",
+        "something",
+        "way",
+        "others",
+        "time",
+        "fence",
+        "rails",
+        "plumes",
+        "distance",
+        "Vern",
+        "TRAIN",
+        "kid",
+        "story",
+        "They",
+        "opportunity",
+        "shortcut",
+        "stretcher",
+        "gun",
+        "start",
+        "film",
+        "Chance_Quinn",
+        "son"
+      ],
+      "verbs": [
+        "sleep",
+        "go",
+        "fetch",
+        "have",
+        "play",
+        "criticize",
+        "swipe",
+        "meet",
+        "take",
+        "pull",
+        "buy",
+        "notice",
+        "turn",
+        "run",
+        "make",
+        "feel",
+        "see",
+        "yell",
+        "shout",
+        "tell",
+        "build",
+        "fire",
+        "read",
+        "close"
+      ],
+      "traits": [
+        "only",
+        "very"
+      ],
+      "semanticRoles": [
+        "player",
+        "sleeper",
+        "creator",
+        "bringer",
+        "question",
+        "critic",
+        "cherisher",
+        "thing given",
+        "thing seen/shown",
+        "striker",
+        "achiever",
+        "puller",
+        "new knower",
+        "buyer",
+        "agreer",
+        "noticer",
+        "turner",
+        "thinker",
+        "operator",
+        "viewer",
+        "bender",
+        "looker",
+        "feeler",
+        "thing led",
+        "receiver",
+        "Yeller",
+        "shouter",
+        "Speaker",
+        "finder",
+        "breaker",
+        "decider",
+        "builder",
+        "shooter",
+        "announcer",
+        "narrater",
+        "reader",
+        "person doing the closing",
+        "Intentional agent",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "Chambers",
+      "recipients": [
+        "father",
+        "Chambers",
+        "support",
+        "guidance",
+        "name",
+        "money",
+        "school",
+        "knife",
+        "Ace",
+        "fight"
+      ],
+      "verbs": [
+        "be",
+        "give",
+        "hate",
+        "take",
+        "return",
+        "pull",
+        "threaten",
+        "break"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing given",
+        "wisher",
+        "impelled agent",
+        "giver",
+        "experiencer",
+        "feeler",
+        "speaker",
+        "puller",
+        "corpse",
+        "agent",
+        "Agent/Entity Trying",
+        "breaker",
+        "thing stabbed"
+      ]
+    },
+    {
+      "characterName": "Chris",
+      "recipients": [
+        "family",
+        "Gordie",
+        "alley",
+        "Chambers",
+        "theft",
+        "heat",
+        "college",
+        "time"
+      ],
+      "verbs": [
+        "come",
+        "take",
+        "show",
+        "yell",
+        "encourage",
+        "confide",
+        "go",
+        "stick"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity being criticized",
+        "goal",
+        "shower",
+        "threat",
+        "achiever",
+        "Yeller",
+        "puller",
+        "joker",
+        "Thinker",
+        "entity moving slower",
+        "Agent/Entity Trying",
+        "convincer",
+        "speaker",
+        "atoner",
+        "agent",
+        "insulter",
+        "manager",
+        "causal agent"
+      ]
+    },
+    {
+      "characterName": "Teddy",
+      "recipients": [
+        "insults",
+        "army",
+        "time",
+        "jobs"
+      ],
+      "verbs": [
+        "throw",
+        "join",
+        "serve",
+        "perform"
+      ],
+      "traits": [
+        "recognizable",
+        "eccentric"
+      ],
+      "semanticRoles": [
+        "talker",
+        "imitator",
+        "thrower",
+        "person surprised",
+        "breaker",
+        "sleeper",
+        "[causer of growth - should be possible]",
+        "agent",
+        "thing rejected",
+        "worker",
+        "performer"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "top",
+        "which",
+        "institution",
+        "Normandy",
+        "beach",
+        "father",
+        "Denny"
+      ],
+      "verbs": [
+        "hold",
+        "reside",
+        "storm",
+        "hate",
+        "favor"
+      ],
+      "traits": [
+        "unstable"
+      ],
+      "semanticRoles": [
+        "holder",
+        "entity residing",
+        "thing led",
+        "experiencer",
+        "target or hatred",
+        "liker"
+      ]
+    },
+    {
+      "characterName": "Ace",
+      "recipients": [
+        "cap",
+        "Chris",
+        "knife"
+      ],
+      "verbs": [
+        "steal",
+        "threaten",
+        "pull"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thief",
+        "agent",
+        "thing viewed",
+        "leader",
+        "puller",
+        "entity leaving",
+        "threat"
+      ]
+    },
+    {
+      "characterName": "boys",
+      "recipients": [
+        "town",
+        "home"
+      ],
+      "verbs": [
+        "return",
+        "head"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "allower",
+        "walker",
+        "yelled at",
+        "decider",
+        "sleeper",
+        "driver",
+        "Reporter",
+        "entity causing separation",
+        "leader"
+      ]
+    },
+    {
+      "characterName": "They",
+      "recipients": [
+        "junkyard",
+        "distance",
+        "side",
+        "forest",
+        "camp"
+      ],
+      "verbs": [
+        "arrive",
+        "make",
+        "continue",
+        "set"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "creator",
+        "knower",
+        "causer of continuation",
+        "Utterance",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "others",
+      "recipients": [
+        "father",
+        "bridge",
+        "lead",
+        "news",
+        "body",
+        "shortcut"
+      ],
+      "verbs": [
+        "lead",
+        "come",
+        "cross",
+        "report",
+        "find",
+        "take"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "noticed",
+        "leader",
+        "crosser",
+        "hesitator",
+        "beginner",
+        "Reporter",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Milo",
+      "recipients": [
+        "reputation",
+        "Chopper",
+        "fence",
+        "boys",
+        "father"
+      ],
+      "verbs": [
+        "shout",
+        "rush",
+        "berate",
+        "call"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "shouter",
+        "causer of motion",
+        "yeller"
+      ]
+    },
+    {
+      "characterName": "Vern",
+      "recipients": [
+        "which",
+        "comb",
+        "pocket",
+        "school",
+        "lumberyard",
+        "children"
+      ],
+      "verbs": [
+        "hope",
+        "lose",
+        "packed",
+        "marry",
+        "become",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing picked",
+        "agent",
+        "hoper",
+        "packer",
+        "sleeper",
+        "[causer of growth - should be possible]",
+        "causer"
+      ]
+    }
+  ]
+}

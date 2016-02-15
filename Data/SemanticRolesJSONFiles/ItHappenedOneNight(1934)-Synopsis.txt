@@ -1,0 +1,164 @@
+{
+  "movieName": "ItHappenedOneNight(1934)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Ellie_Andrews",
+      "recipients": [
+        "father",
+        "rooms",
+        "bus",
+        "driver",
+        "herself",
+        "Warne",
+        "ceremony"
+      ],
+      "verbs": [
+        "sequester",
+        "share",
+        "leave",
+        "get",
+        "throw",
+        "run"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "cause of isolation",
+        "sharer",
+        "applauded",
+        "entity leaving",
+        "receiver",
+        "thrower",
+        "entity proposing",
+        "operator"
+      ]
+    },
+    {
+      "characterName": "heiress",
+      "recipients": [
+        "yacht",
+        "ticket",
+        "out",
+        "destination",
+        "woman"
+      ],
+      "verbs": [
+        "escape",
+        "buy",
+        "meet",
+        "get",
+        "be"
+      ],
+      "traits": [
+        "rich"
+      ],
+      "semanticRoles": [
+        "entity escaping",
+        "swimmer",
+        "buyer",
+        "achiever",
+        "thing turning",
+        "agreer",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "meantime",
+        "marriage",
+        "aviator",
+        "her",
+        "Warne"
+      ],
+      "verbs": [
+        "agree",
+        "allow",
+        "pick",
+        "like",
+        "pay"
+      ],
+      "traits": [
+        "heiress"
+      ],
+      "semanticRoles": [
+        "allower",
+        "agreer",
+        "picker",
+        "Agent",
+        "liker",
+        "payer or buyer"
+      ]
+    },
+    {
+      "characterName": "Warne",
+      "recipients": [
+        "rooms",
+        "Andrews",
+        "passenger",
+        "Warne",
+        "bus",
+        "sleeping",
+        "her",
+        "middle",
+        "boss",
+        "story",
+        "time",
+        "daughter"
+      ],
+      "verbs": [
+        "share",
+        "turn",
+        "scare",
+        "become",
+        "shoot",
+        "leave",
+        "spend",
+        "reject",
+        "drive",
+        "sell",
+        "return",
+        "love"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "sharer",
+        "helper",
+        "turner",
+        "projectile",
+        "scary entity",
+        "agent",
+        "shooter",
+        "entity leaving",
+        "thing turning",
+        "rejecter",
+        "driver",
+        "Seller",
+        "agreer",
+        "lover",
+        "object of affection"
+      ]
+    },
+    {
+      "characterName": "passenger",
+      "recipients": [
+        "money",
+        "case",
+        "Warne"
+      ],
+      "verbs": [
+        "split",
+        "decide",
+        "turn"
+      ],
+      "traits": [
+        "other"
+      ],
+      "semanticRoles": [
+        "entity causing separation",
+        "scared entity",
+        "decider",
+        "turner"
+      ]
+    }
+  ]
+}

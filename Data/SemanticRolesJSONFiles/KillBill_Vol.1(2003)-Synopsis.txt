@@ -1,0 +1,279 @@
+{
+  "movieName": "KillBill_Vol.1(2003)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Bride",
+      "recipients": [
+        "truck",
+        "door",
+        "home",
+        "floor",
+        "face",
+        "child",
+        "member",
+        "revenge",
+        "Vernita",
+        "Bride",
+        "Nikki",
+        "coma",
+        "hospital",
+        "flashback",
+        "gun",
+        "top",
+        "profusion",
+        "bed",
+        "Buck",
+        "couple",
+        "blows",
+        "pickup",
+        "herself",
+        "process",
+        "use",
+        "Okinawa",
+        "Shin",
+        "barkeeper",
+        "steel",
+        "Bill",
+        "training",
+        "Ishii",
+        "others",
+        "Tokyo",
+        "Sofie",
+        "bar",
+        "dart",
+        "room",
+        "ceiling",
+        "while",
+        "toilet",
+        "Gogo",
+        "swordfight",
+        "it",
+        "name",
+        "slope",
+        "everything",
+        "threat"
+      ],
+      "verbs": [
+        "drive",
+        "crash",
+        "see",
+        "have",
+        "be",
+        "kill",
+        "tell",
+        "spit",
+        "lie",
+        "rush",
+        "sever",
+        "get",
+        "read",
+        "give",
+        "identify",
+        "haul",
+        "start",
+        "regain",
+        "fly",
+        "look",
+        "need",
+        "means",
+        "spend",
+        "behead",
+        "warn",
+        "spot",
+        "sit",
+        "throw",
+        "lurk",
+        "brace",
+        "enter",
+        "fight",
+        "cross",
+        "roll"
+      ],
+      "traits": [
+        "comatose",
+        "able",
+        "alive"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "driver",
+        "viewer",
+        "looker",
+        "causer of damage",
+        "speaker",
+        "User",
+        "promiser",
+        "killer",
+        "creator",
+        "corpse",
+        "explainer",
+        "thing found",
+        "[causer of growth - should be possible]",
+        "receiver",
+        "spitter",
+        "causer of motion",
+        "shrieker",
+        "weeper",
+        "pretender",
+        "causer",
+        "biter",
+        "Agent/Entity Trying",
+        "causer of collapse",
+        "person",
+        "asker",
+        "knower",
+        "reader",
+        "giver",
+        "caller",
+        "Agent",
+        "carrier",
+        "agent",
+        "recoverer",
+        "needer",
+        "thing seen/shown",
+        "creation",
+        "axeman",
+        "finder",
+        "thrower",
+        "lurker",
+        "thing viewed",
+        "preparer",
+        "entity entering",
+        "causer of engagement",
+        "sender",
+        "first fighter",
+        "winner",
+        "crosser",
+        "thing rolled or rolling",
+        "roller",
+        "artist"
+      ]
+    },
+    {
+      "characterName": "woman",
+      "recipients": [
+        "sleep",
+        "line",
+        "contents"
+      ],
+      "verbs": [
+        "die",
+        "inject"
+      ],
+      "traits": [
+        "blonde",
+        "attractive",
+        "available"
+      ],
+      "semanticRoles": [
+        "walker",
+        "item being labelled",
+        "action allowed",
+        "Sayer",
+        "causal agent",
+        "injector",
+        "person assassinated"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "anything",
+        "marks",
+        "kiss",
+        "bar"
+      ],
+      "verbs": [
+        "do",
+        "leave",
+        "start",
+        "enter"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "payer or buyer",
+        "entity leaving",
+        "climber",
+        "Agent",
+        "place",
+        "entity entering"
+      ]
+    },
+    {
+      "characterName": "ORen",
+      "recipients": [
+        "age",
+        "murders",
+        "Gogo",
+        "slashes",
+        "swordfight",
+        "it",
+        "start",
+        "doubt",
+        "insult"
+      ],
+      "verbs": [
+        "survive",
+        "send",
+        "watch",
+        "fight",
+        "cast",
+        "apologize"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "survivor",
+        "avenger",
+        "sensor",
+        "sender",
+        "causer of engagement",
+        "first fighter",
+        "thrower",
+        "apologist"
+      ]
+    },
+    {
+      "characterName": "Hanzo",
+      "recipients": [
+        "work",
+        "mission",
+        "month",
+        "pact"
+      ],
+      "verbs": [
+        "be",
+        "support",
+        "hand",
+        "break"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "helper",
+        "admitter",
+        "breaker",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Gogo_Yubari_Chiaki_Kuriyama",
+      "recipients": [
+        "Bride",
+        "sword"
+      ],
+      "verbs": [
+        "see",
+        "oppose"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "giver of credit",
+        "sent",
+        "looker",
+        "viewer",
+        "opposer",
+        "corpse"
+      ]
+    }
+  ]
+}

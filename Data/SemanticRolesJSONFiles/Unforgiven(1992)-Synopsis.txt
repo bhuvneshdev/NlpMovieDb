@@ -1,0 +1,362 @@
+{
+  "movieName": "Unforgiven(1992)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "William_Munny_Clint_Eastwood",
+      "recipients": [
+        "widower",
+        "gunfighter",
+        "drinking",
+        "gunfighting",
+        "vices",
+        "mud",
+        "farmer",
+        "things",
+        "thoughts",
+        "partner",
+        "mind",
+        "sort",
+        "way",
+        "health",
+        "time",
+        "drink",
+        "man",
+        "house",
+        "whiskey",
+        "rest",
+        "shares",
+        "men",
+        "Munny",
+        "himself",
+        "saloon",
+        "rifle",
+        "which",
+        "steps",
+        "pistol",
+        "shot",
+        "door",
+        "anyone",
+        "horse",
+        "San_Francisco"
+      ],
+      "verbs": [
+        "be",
+        "give",
+        "fall",
+        "do",
+        "have",
+        "contact",
+        "end",
+        "back",
+        "regain",
+        "wait",
+        "drink",
+        "take",
+        "leave",
+        "tell",
+        "shoot",
+        "arm",
+        "decorate",
+        "load",
+        "cock",
+        "get",
+        "walk",
+        "kill",
+        "announce",
+        "move"
+      ],
+      "traits": [
+        "interested",
+        "sick",
+        "true",
+        "rife"
+      ],
+      "semanticRoles": [
+        "giver",
+        "thing wanted",
+        "goal",
+        "thing known or thought",
+        "beginner",
+        "contactor",
+        "decider",
+        "Intentional agent",
+        "thing whose size is important",
+        "thing hit",
+        "supporter",
+        "thing gotten",
+        "recoverer",
+        "promiser",
+        "shooter",
+        "Utterance",
+        "drinker",
+        "entity leaving",
+        "Speaker",
+        "projectile",
+        "asker",
+        "equiper",
+        "replier",
+        "decorator",
+        "killer",
+        "loader",
+        "thing given",
+        "frightened entity",
+        "setter at upward angle",
+        "receiver",
+        "aimer",
+        "deserving entity (entity who is owed)",
+        "walker",
+        "viewer",
+        "announcer",
+        "mover",
+        "thing prospering"
+      ]
+    },
+    {
+      "characterName": "Mike",
+      "recipients": [
+        "remorse",
+        "point",
+        "outhouse"
+      ],
+      "verbs": [
+        "show",
+        "use"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "perceiver",
+        "thing wanted",
+        "agent",
+        "corpse",
+        "shower",
+        "shelter",
+        "User"
+      ]
+    },
+    {
+      "characterName": "women",
+      "recipients": [
+        "Davey",
+        "Mike",
+        "Delilah",
+        "stones",
+        "manure"
+      ],
+      "verbs": [
+        "want",
+        "do",
+        "throw"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "wanter",
+        "thrower"
+      ]
+    },
+    {
+      "characterName": "Little_Bill",
+      "recipients": [
+        "gun",
+        "jail",
+        "Bob",
+        "street",
+        "deputies",
+        "Munny",
+        "coward",
+        "Bill",
+        "pistol",
+        "men",
+        "everyone",
+        "bar",
+        "himself",
+        "whiskey"
+      ],
+      "verbs": [
+        "conceal",
+        "debunk",
+        "put",
+        "throw",
+        "send",
+        "size",
+        "beat",
+        "call",
+        "shoot",
+        "draw",
+        "tell",
+        "go",
+        "help"
+      ],
+      "traits": [
+        "alive"
+      ],
+      "semanticRoles": [
+        "decider",
+        "ruler",
+        "receiver",
+        "agent",
+        "agent of truth",
+        "sender",
+        "thrower",
+        "asker",
+        "Speaker",
+        "artist",
+        "shooter",
+        "projectile",
+        "thing hit",
+        "helper",
+        "turner",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "horses",
+        "Skinny",
+        "pursuit",
+        "Kid",
+        "target",
+        "Ned",
+        "Mike"
+      ],
+      "verbs": [
+        "give",
+        "ride",
+        "catch",
+        "see",
+        "capture",
+        "protect"
+      ],
+      "traits": [
+        "other",
+        "several"
+      ],
+      "semanticRoles": [
+        "giver",
+        "rider",
+        "receiver",
+        "viewer",
+        "perceiver",
+        "getter",
+        "thing assigned",
+        "Utterance",
+        "mover",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Scofield_Kid_Jaimz_Woolvett",
+      "recipients": [
+        "help",
+        "Munny",
+        "reputation",
+        "visitor",
+        "midst",
+        "can",
+        "firing",
+        "house",
+        "rifle",
+        "blows",
+        "man"
+      ],
+      "verbs": [
+        "like",
+        "know",
+        "have",
+        "set",
+        "begin",
+        "go",
+        "get",
+        "wait",
+        "tell",
+        "kill"
+      ],
+      "traits": [
+        "nearsighted"
+      ],
+      "semanticRoles": [
+        "knower",
+        "liker",
+        "entity leaving",
+        "beginner",
+        "agent",
+        "receiver",
+        "thing gotten",
+        "entity escaping",
+        "dealer",
+        "Speaker",
+        "killer",
+        "entity making resolution"
+      ]
+    },
+    {
+      "characterName": "Mucci",
+      "recipients": [
+        "Skinny",
+        "Delilah",
+        "tracking",
+        "help",
+        "Mucci"
+      ],
+      "verbs": [
+        "tell",
+        "offer",
+        "need",
+        "shoot"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "needer",
+        "Sayer",
+        "projectile",
+        "Thing finishing",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Beauchamp",
+      "recipients": [
+        "Whiskey",
+        "cell",
+        "Rubinek"
+      ],
+      "verbs": [
+        "arrive",
+        "be",
+        "engage"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing thrown",
+        "Utterance",
+        "causer of engagement",
+        "Agent/Entity Trying"
+      ]
+    },
+    {
+      "characterName": "Ned",
+      "recipients": [
+        "town",
+        "Munny",
+        "horse",
+        "companions"
+      ],
+      "verbs": [
+        "ride",
+        "get",
+        "leaf"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "manager",
+        "entity escaping",
+        "rider",
+        "entity leaving",
+        "thing gotten",
+        "corpse"
+      ]
+    }
+  ]
+}

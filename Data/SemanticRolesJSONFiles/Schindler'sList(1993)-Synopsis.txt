@@ -1,0 +1,182 @@
+{
+  "movieName": "Schindler\u0027sList(1993)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Oskar_Schindler_Liam_Neeson",
+      "recipients": [
+        "Czechoslovakia",
+        "bribes",
+        "Itzhak_Stern_Ben_Kingsley",
+        "functionary",
+        "contact",
+        "Nazis",
+        "status",
+        "wealth",
+        "massacre",
+        "Gth",
+        "subcamp",
+        "factory",
+        "workers",
+        "way",
+        "list",
+        "game",
+        "idea",
+        "Schindler",
+        "meantime",
+        "Auschwitz",
+        "children",
+        "women",
+        "controls",
+        "Jews",
+        "money",
+        "Soviet_Red_Army",
+        "lives"
+      ],
+      "verbs": [
+        "arrive",
+        "lavish",
+        "gain",
+        "please",
+        "enjoy",
+        "watch",
+        "befriend",
+        "build",
+        "move",
+        "keep",
+        "assemble",
+        "play",
+        "float",
+        "rush",
+        "spare",
+        "institute",
+        "permit",
+        "run",
+        "flee",
+        "save"
+      ],
+      "traits": [
+        "affected",
+        "careful",
+        "able",
+        "successful"
+      ],
+      "semanticRoles": [
+        "giver",
+        "enjoyer",
+        "agent",
+        "agentive friend",
+        "builder",
+        "action allowed",
+        "mover",
+        "allower",
+        "winner",
+        "Keeper",
+        "thing kept",
+        "player",
+        "decider",
+        "causative agent",
+        "game/music",
+        "causer of motion",
+        "savior",
+        "causer of movement",
+        "operator",
+        "fleer",
+        "entity saving money",
+        "entity leaving",
+        "item being described + description",
+        "thing gotten"
+      ]
+    },
+    {
+      "characterName": "Stern",
+      "recipients": [
+        "administration",
+        "Jews",
+        "documents",
+        "list"
+      ],
+      "verbs": [
+        "handle",
+        "suggest",
+        "falsify",
+        "assemble"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "handler",
+        "Sayer",
+        "faker"
+      ]
+    },
+    {
+      "characterName": "Jews",
+      "recipients": [
+        "Sabbath",
+        "mass",
+        "church",
+        "town"
+      ],
+      "verbs": [
+        "observe",
+        "\u0027s",
+        "walk"
+      ],
+      "traits": [
+        "nowaged"
+      ],
+      "semanticRoles": [
+        "Utterance (suggestion)",
+        "observer",
+        "action allowed",
+        "walker"
+      ]
+    },
+    {
+      "characterName": "women",
+      "recipients": [
+        "what",
+        "water",
+        "train",
+        "ZwittauBrinnlitz"
+      ],
+      "verbs": [
+        "believe",
+        "see",
+        "board",
+        "arrive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing carried",
+        "viewer",
+        "remover",
+        "impelled agent",
+        "thing directed",
+        "thing seen/shown",
+        "entity spared",
+        "thing gotten",
+        "passenger"
+      ]
+    },
+    {
+      "characterName": "he",
+      "recipients": [
+        "wife",
+        "town",
+        "woman",
+        "life"
+      ],
+      "verbs": [
+        "surprise",
+        "tell",
+        "save"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "surpriser",
+        "Speaker",
+        "entity saving money"
+      ]
+    }
+  ]
+}

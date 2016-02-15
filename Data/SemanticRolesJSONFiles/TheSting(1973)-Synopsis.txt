@@ -1,0 +1,213 @@
+{
+  "movieName": "TheSting(1973)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Doyle_Lonnegan_Robert_Shaw",
+      "recipients": [
+        "revenge",
+        "accomplice",
+        "Hooker",
+        "results",
+        "phone",
+        "drugstore",
+        "tip",
+        "parlor",
+        "race",
+        "Harold_Gould",
+        "panic",
+        "wager"
+      ],
+      "verbs": [
+        "exact",
+        "meet",
+        "give",
+        "receive",
+        "go",
+        "listen",
+        "join",
+        "try",
+        "rescind"
+      ],
+      "traits": [
+        "convinced"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "new knower",
+        "victim",
+        "biter",
+        "thing given",
+        "thing seen/shown",
+        "achiever",
+        "asker",
+        "Utterance",
+        "giver",
+        "corpse",
+        "agent",
+        "listener",
+        "speaker",
+        "better",
+        "winner",
+        "taker back",
+        "Agent/Entity Trying",
+        "shouter",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "Hooker",
+      "recipients": [
+        "Chicago",
+        "wrath",
+        "Lonnegan",
+        "Snyder",
+        "cash",
+        "act",
+        "night",
+        "waitress",
+        "something",
+        "alley",
+        "explanation",
+        "Gondorff",
+        "look",
+        "mouth"
+      ],
+      "verbs": [
+        "go",
+        "escape",
+        "tell",
+        "give",
+        "hook",
+        "fit",
+        "walk",
+        "listen",
+        "throw",
+        "bleed"
+      ],
+      "traits": [
+        "close"
+      ],
+      "semanticRoles": [
+        "entity escaping",
+        "sent",
+        "needer",
+        "Speaker",
+        "thing given",
+        "thing followed",
+        "giver",
+        "consumer",
+        "liker",
+        "causer of attachment",
+        "alarm clock",
+        "finder",
+        "cause",
+        "person robbed",
+        "person putting on clothes",
+        "agent",
+        "walker",
+        "listener",
+        "Agent",
+        "thrower",
+        "causer of bloodshed",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "Henry_Gondorff_Paul_Newman",
+      "recipients": [
+        "Chicago_Hooker",
+        "game",
+        "Hooker",
+        "room",
+        "lot",
+        "mob",
+        "basement",
+        "race",
+        "tip",
+        "drugstore",
+        "calls",
+        "Lonnegan",
+        "trouble",
+        "me",
+        "bet",
+        "gun",
+        "Newman",
+        "mobsters"
+      ],
+      "verbs": [
+        "meet",
+        "get",
+        "send",
+        "do",
+        "assemble",
+        "rent",
+        "choose",
+        "call",
+        "give",
+        "run",
+        "ask",
+        "accept",
+        "pull",
+        "shoot",
+        "tell"
+      ],
+      "traits": [
+        "final"
+      ],
+      "semanticRoles": [
+        "achiever",
+        "receiver",
+        "entity removing",
+        "sender",
+        "victim",
+        "rend-er",
+        "picker",
+        "giver",
+        "thing destroyed",
+        "operator",
+        "thing released",
+        "thing given",
+        "criminal",
+        "asker",
+        "acceptor",
+        "puller",
+        "shooter",
+        "projectile",
+        "Speaker",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "Snyder_Charles_Durning",
+      "recipients": [
+        "Hooker",
+        "cash",
+        "Durning",
+        "Dana_Elcar",
+        "Gondorff",
+        "Polk"
+      ],
+      "verbs": [
+        "pursue",
+        "try",
+        "shake",
+        "outrun",
+        "assist",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing given",
+        "thing following",
+        "Agent/Entity Trying",
+        "causer of trembling motion",
+        "thing trembling",
+        "receiver",
+        "chaser",
+        "slow-poke",
+        "event induced",
+        "giver"
+      ]
+    }
+  ]
+}

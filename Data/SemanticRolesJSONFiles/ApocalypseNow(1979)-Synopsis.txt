@@ -1,0 +1,138 @@
+{
+  "movieName": "ApocalypseNow(1979)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Willard",
+      "recipients": [
+        "room",
+        "jungle",
+        "Nung_River",
+        "Navy_PBR",
+        "men",
+        "PBR",
+        "upriver",
+        "officer",
+        "woman",
+        "himself",
+        "Lance",
+        "village",
+        "heads",
+        "corpses",
+        "event",
+        "everything",
+        "chamber",
+        "night",
+        "Kurtz",
+        "work",
+        "exiting",
+        "stairs",
+        "weapon",
+        "boat",
+        "Willard",
+        "hand"
+      ],
+      "verbs": [
+        "hallucinate",
+        "follow",
+        "join",
+        "gather",
+        "begin",
+        "be",
+        "shoot",
+        "believe",
+        "take",
+        "sever",
+        "see",
+        "tell",
+        "enter",
+        "attack",
+        "discover",
+        "descend",
+        "drop",
+        "lead"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "drinker",
+        "hallucinator",
+        "causal agent",
+        "entity in motion",
+        "agent",
+        "causer of motion",
+        "beginner",
+        "agent or causer",
+        "filter",
+        "shooter",
+        "student",
+        "thing pulled",
+        "causer",
+        "viewer",
+        "thing brought",
+        "thing bound",
+        "thing given",
+        "thing released",
+        "Speaker",
+        "entity entering",
+        "attacker",
+        "finder",
+        "entity doing the dropping",
+        "entity descending",
+        "thing led",
+        "leader",
+        "action allowed"
+      ]
+    },
+    {
+      "characterName": "Kurtz",
+      "recipients": [
+        "troops",
+        "Cambodia",
+        "Kurtz",
+        "son",
+        "recording"
+      ],
+      "verbs": [
+        "command",
+        "deride",
+        "lecture",
+        "discuss",
+        "make"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "getter",
+        "corpse",
+        "treater",
+        "entity derided",
+        "audience",
+        "lecturer",
+        "asker",
+        "discussant",
+        "creator",
+        "entity attacked"
+      ]
+    },
+    {
+      "characterName": "Bill_Kilgore",
+      "recipients": [
+        "them",
+        "Lance",
+        "strike"
+      ],
+      "verbs": [
+        "escort",
+        "befriend",
+        "regale"
+      ],
+      "traits": [
+        "reckless"
+      ],
+      "semanticRoles": [
+        "subject accompanier",
+        "agentive friend",
+        "agreer",
+        "agent"
+      ]
+    }
+  ]
+}

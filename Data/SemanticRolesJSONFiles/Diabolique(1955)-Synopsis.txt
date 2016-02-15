@@ -1,0 +1,119 @@
+{
+  "movieName": "Diabolique(1955)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Michel_Delassalle",
+      "recipients": [
+        "photo",
+        "tub",
+        "Christina"
+      ],
+      "verbs": [
+        "be",
+        "rise",
+        "set"
+      ],
+      "traits": [
+        "physically",
+        "dead"
+      ],
+      "semanticRoles": [
+        "thing meant",
+        "sedated",
+        "thing attracted",
+        "Utterance",
+        "agent",
+        "player",
+        "police",
+        "criminal"
+      ]
+    },
+    {
+      "characterName": "Christina",
+      "recipients": [
+        "school",
+        "Nicole",
+        "Delassalle",
+        "everything",
+        "room",
+        "corpse",
+        "attack",
+        "slingshot",
+        "boy"
+      ],
+      "verbs": [
+        "own",
+        "help",
+        "sedate",
+        "tell",
+        "run",
+        "find",
+        "have",
+        "give"
+      ],
+      "traits": [
+        "frail",
+        "unable"
+      ],
+      "semanticRoles": [
+        "owner",
+        "agreer",
+        "helper",
+        "sedator",
+        "subject",
+        "Speaker",
+        "operator",
+        "decider",
+        "finder",
+        "thing set",
+        "scared entity",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Nicole",
+      "recipients": [
+        "plan",
+        "paper",
+        "school",
+        "Christina"
+      ],
+      "verbs": [
+        "devise",
+        "see",
+        "leaf",
+        "set"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "deviser",
+        "project",
+        "viewer",
+        "entity leaving",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "boy",
+      "recipients": [
+        "Delassalle",
+        "window",
+        "slingshot"
+      ],
+      "verbs": [
+        "say",
+        "break",
+        "get"
+      ],
+      "traits": [
+        "same"
+      ],
+      "semanticRoles": [
+        "person punished",
+        "Sayer",
+        "breaker",
+        "receiver"
+      ]
+    }
+  ]
+}

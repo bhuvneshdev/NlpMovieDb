@@ -1,0 +1,159 @@
+{
+  "movieName": "TheGreatDictator(1940)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Barber",
+      "recipients": [
+        "officer",
+        "loss",
+        "barbershop",
+        "ghetto",
+        "painting",
+        "troopers",
+        "camp",
+        "speech",
+        "humanity",
+        "science",
+        "progress"
+      ],
+      "verbs": [
+        "rescue",
+        "suffer",
+        "return",
+        "oppose",
+        "evade",
+        "escape",
+        "make",
+        "call",
+        "use"
+      ],
+      "traits": [
+        "unaware",
+        "lynched"
+      ],
+      "semanticRoles": [
+        "rescuer",
+        "entity suffering",
+        "thing released",
+        "opposer",
+        "fleer",
+        "avoider",
+        "entity escaping",
+        "creator",
+        "breaker",
+        "User"
+      ]
+    },
+    {
+      "characterName": "Schultz",
+      "recipients": [
+        "dispatches",
+        "medics",
+        "objection",
+        "pogrom",
+        "ghetto",
+        "mission",
+        "camp"
+      ],
+      "verbs": [
+        "carry",
+        "give",
+        "voice",
+        "flee",
+        "propose",
+        "escape"
+      ],
+      "traits": [
+        "empathetic"
+      ],
+      "semanticRoles": [
+        "carrier",
+        "speaker",
+        "Utterance",
+        "giver",
+        "nosy individual",
+        "subject",
+        "beginner",
+        "fleer",
+        "entity proposing",
+        "entity escaping"
+      ]
+    },
+    {
+      "characterName": "Hynkel",
+      "recipients": [
+        "Jews",
+        "parody",
+        "stance",
+        "loan",
+        "country",
+        "persecution",
+        "Schultz",
+        "war",
+        "Osterlich",
+        "seeing",
+        "wife"
+      ],
+      "verbs": [
+        "persecute",
+        "speak",
+        "relax",
+        "need",
+        "invade",
+        "reinstate",
+        "denounce",
+        "declare",
+        "invite"
+      ],
+      "traits": [
+        "excited",
+        "identical"
+      ],
+      "semanticRoles": [
+        "persecutor",
+        "decider",
+        "talker",
+        "thing causing relaxation",
+        "invader",
+        "planner",
+        "needer",
+        "namer",
+        "causer of intensity",
+        "speaker",
+        "thing opposed to",
+        "declarer",
+        "inviter",
+        "thing impressed",
+        "entities failing",
+        "place or thing escaped",
+        "thing mistaken",
+        "entity being introduced"
+      ]
+    },
+    {
+      "characterName": "Hannah",
+      "recipients": [
+        "object",
+        "Osterlich",
+        "Hynkel",
+        "speech"
+      ],
+      "verbs": [
+        "throw",
+        "emigrate",
+        "escape",
+        "hear"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thrower",
+        "forcer",
+        "finder",
+        "entity escaping",
+        "population",
+        "looker",
+        "amazed entity"
+      ]
+    }
+  ]
+}

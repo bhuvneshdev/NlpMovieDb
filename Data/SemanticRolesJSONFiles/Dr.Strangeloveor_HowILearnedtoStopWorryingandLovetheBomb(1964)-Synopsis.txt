@@ -1,0 +1,160 @@
+{
+  "movieName": "Dr.Strangeloveor_HowILearnedtoStopWorryingandLovetheBomb(1964)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Ripper",
+      "recipients": [
+        "personnel",
+        "R",
+        "wing",
+        "recall",
+        "office",
+        "code",
+        "men"
+      ],
+      "verbs": [
+        "tell",
+        "use",
+        "recall",
+        "issue",
+        "lock",
+        "give",
+        "warn"
+      ],
+      "traits": [
+        "psychotic",
+        "uniform"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "forcer",
+        "User",
+        "entity refusing",
+        "knower",
+        "agent",
+        "issuer",
+        "impelled agent",
+        "giver",
+        "entity in motion",
+        "criminal",
+        "applauder"
+      ]
+    },
+    {
+      "characterName": "Air_Force_General_Buck_Turgidson",
+      "recipients": [
+        "Room",
+        "Merkin_Muffley",
+        "Muffley"
+      ],
+      "verbs": [
+        "briefs",
+        "convince"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "giver",
+        "Agent/Entity Trying",
+        "convincer",
+        "rebuked",
+        "speaker",
+        "ranter"
+      ]
+    },
+    {
+      "characterName": "attack",
+      "recipients": [
+        "authority",
+        "Soviet_Union"
+      ],
+      "verbs": [
+        "require",
+        "hit"
+      ],
+      "traits": [
+        "nuclear",
+        "sneak",
+        "fullscale"
+      ],
+      "semanticRoles": [
+        "requirer",
+        "thing being launched",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Lionel_Mandrake",
+      "recipients": [
+        "Ripper",
+        "mutiny",
+        "phone",
+        "Guano"
+      ],
+      "verbs": [
+        "reveal",
+        "convince",
+        "lead",
+        "use",
+        "persuade"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "new knower",
+        "announcer",
+        "speaker",
+        "Agent/Entity Trying",
+        "convincer",
+        "leader",
+        "impelled agent",
+        "User"
+      ]
+    },
+    {
+      "characterName": "Strangelove",
+      "recipients": [
+        "type",
+        "Device",
+        "President",
+        "ratio"
+      ],
+      "verbs": [
+        "be",
+        "say",
+        "recommend",
+        "suggest"
+      ],
+      "traits": [
+        "wheelchairbound"
+      ],
+      "semanticRoles": [
+        "explainer",
+        "Sayer",
+        "pointer",
+        "recommender"
+      ]
+    },
+    {
+      "characterName": "plane",
+      "recipients": [
+        "code",
+        "radar",
+        "target",
+        "level"
+      ],
+      "verbs": [
+        "receive",
+        "fly",
+        "reach"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "causer of continuing event",
+        "thing striving"
+      ]
+    }
+  ]
+}

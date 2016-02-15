@@ -1,0 +1,149 @@
+{
+  "movieName": "RagingBull(1980)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Jake_LaMotta",
+      "recipients": [
+        "standup",
+        "debut",
+        "faith",
+        "girl",
+        "fights",
+        "second",
+        "conscription",
+        "sport",
+        "LaMotta",
+        "dive",
+        "shot",
+        "fight",
+        "error",
+        "title",
+        "Stadium",
+        "brother",
+        "Copca",
+        "truth",
+        "door",
+        "nothing",
+        "what",
+        "property",
+        "sentence",
+        "cell"
+      ],
+      "verbs": [
+        "practice",
+        "have",
+        "spot",
+        "set",
+        "lose",
+        "leave",
+        "beat",
+        "show",
+        "take",
+        "want",
+        "bother",
+        "put",
+        "realize",
+        "win",
+        "ask",
+        "fight",
+        "find",
+        "knock",
+        "say",
+        "do",
+        "buy",
+        "serve",
+        "brutally"
+      ],
+      "traits": [
+        "restless",
+        "keen",
+        "sexual"
+      ],
+      "semanticRoles": [
+        "practicer",
+        "admitter",
+        "finder",
+        "agent",
+        "entity leaving",
+        "shower",
+        "thing hit",
+        "patient",
+        "thing seen/shown",
+        "Utterance",
+        "wanter",
+        "Theme (action or object being stopped)",
+        "new knower",
+        "winner",
+        "asker",
+        "first fighter",
+        "decider",
+        "hitter",
+        "Sayer",
+        "thing dragged",
+        "former job",
+        "buyer",
+        "worker",
+        "achiever"
+      ]
+    },
+    {
+      "characterName": "Joey_LaMotta",
+      "recipients": [
+        "partner",
+        "shot",
+        "word",
+        "pool",
+        "Jake",
+        "affair"
+      ],
+      "verbs": [
+        "be",
+        "discuss",
+        "have",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "discussant",
+        "giver",
+        "entity distracted",
+        "Speaker",
+        "entity leaving",
+        "replier",
+        "decider",
+        "entity refusing"
+      ]
+    },
+    {
+      "characterName": "brother",
+      "recipients": [
+        "pool",
+        "brother",
+        "fight",
+        "call",
+        "slack",
+        "himself"
+      ],
+      "verbs": [
+        "accompany",
+        "remind",
+        "start",
+        "make",
+        "give",
+        "be"
+      ],
+      "traits": [
+        "keen"
+      ],
+      "semanticRoles": [
+        "subject accompanier",
+        "thing reminded about",
+        "cause",
+        "question",
+        "Agent",
+        "creator",
+        "giver"
+      ]
+    }
+  ]
+}

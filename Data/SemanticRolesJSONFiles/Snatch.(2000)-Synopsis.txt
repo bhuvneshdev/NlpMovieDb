@@ -1,0 +1,820 @@
+{
+  "movieName": "Snatch.(2000)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Turkish",
+      "recipients": [
+        "Tommy",
+        "bout",
+        "time",
+        "business",
+        "trouble",
+        "friends",
+        "Mickey",
+        "Rover",
+        "Boris",
+        "car",
+        "day",
+        "campsite"
+      ],
+      "verbs": [
+        "\u0027s",
+        "prepare",
+        "run",
+        "be",
+        "find",
+        "drive",
+        "wake",
+        "get",
+        "go"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "operator",
+        "foolhardy entity in motion",
+        "finder",
+        "thing gotten",
+        "driver",
+        "receiver",
+        "alarm clock",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Frankie_Four_Fingers",
+      "recipients": [
+        "diamond",
+        "robbery",
+        "gun",
+        "Head",
+        "back",
+        "combination"
+      ],
+      "verbs": [
+        "nab",
+        "pull",
+        "buy",
+        "contact",
+        "know"
+      ],
+      "traits": [
+        "compulsive",
+        "gangster",
+        "close",
+        "interested"
+      ],
+      "semanticRoles": [
+        "puller",
+        "agent",
+        "buyer",
+        "thing attracted",
+        "contactor",
+        "thing kept",
+        "thing hit",
+        "thing viewed",
+        "thing brought",
+        "thing pulled",
+        "knower"
+      ]
+    },
+    {
+      "characterName": "diamond",
+      "recipients": [],
+      "verbs": [],
+      "traits": [
+        "86karat"
+      ],
+      "semanticRoles": [
+        "criminal",
+        "thing stolen",
+        "thing gotten",
+        "thing found",
+        "favor",
+        "misser",
+        "thing given",
+        "admired",
+        "entity grabbed"
+      ]
+    },
+    {
+      "characterName": "Boris",
+      "recipients": [
+        "Frankie",
+        "business",
+        "Vinny",
+        "Sol",
+        "pawnbrokers",
+        "gun",
+        "diamond",
+        "hacks",
+        "cleaver",
+        "BulletDodger",
+        "Boris",
+        "house"
+      ],
+      "verbs": [
+        "lure",
+        "be",
+        "hire",
+        "compensate",
+        "pull",
+        "demand",
+        "sell",
+        "walk"
+      ],
+      "traits": [
+        "cool",
+        "angry",
+        "alive"
+      ],
+      "semanticRoles": [
+        "attractor",
+        "employer",
+        "receiver",
+        "payer or buyer",
+        "Utterance",
+        "explainer",
+        "puller",
+        "asker",
+        "Seller",
+        "entity entering",
+        "thing gotten",
+        "thing found",
+        "corpse",
+        "thing viewed",
+        "walker",
+        "thing hit"
+      ]
+    },
+    {
+      "characterName": "gun",
+      "recipients": [
+        "idea",
+        "Eagle"
+      ],
+      "verbs": [
+        "Boris",
+        "have"
+      ],
+      "traits": [
+        "defective",
+        "empty"
+      ],
+      "semanticRoles": [
+        "thing bought",
+        "thing pulled",
+        "examined",
+        "thing given",
+        "entity grabbed",
+        "favor"
+      ]
+    },
+    {
+      "characterName": "Doug",
+      "recipients": [
+        "Avi",
+        "Frankie",
+        "selling",
+        "Doug"
+      ],
+      "verbs": [
+        "\u0027s",
+        "keep",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "Keeper",
+        "thing found",
+        "Sayer",
+        "finder",
+        "looker",
+        "knower"
+      ]
+    },
+    {
+      "characterName": "Avi",
+      "recipients": [
+        "Doug",
+        "Head",
+        "sights",
+        "name",
+        "troubleshooter",
+        "Boris",
+        "street",
+        "bathroom",
+        "door",
+        "ground",
+        "Tony",
+        "diamond",
+        "firing",
+        "gun"
+      ],
+      "verbs": [
+        "tell",
+        "hound",
+        "set",
+        "hire",
+        "kill",
+        "look",
+        "see",
+        "go",
+        "open",
+        "drop",
+        "admire",
+        "grab"
+      ],
+      "traits": [
+        "angry"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "harasser",
+        "knower",
+        "agent",
+        "decider",
+        "employer",
+        "Utterance",
+        "thing seen/shown",
+        "thing following",
+        "Sayer",
+        "vehicle or path",
+        "wanter",
+        "killer",
+        "viewer",
+        "looker",
+        "opener",
+        "projectile",
+        "entity doing the dropping",
+        "admirer",
+        "grabber",
+        "new knower",
+        "sent",
+        "thing viewed"
+      ]
+    },
+    {
+      "characterName": "Tommy",
+      "recipients": [
+        "bout",
+        "time",
+        "Blade",
+        "firearm",
+        "business",
+        "Tommy",
+        "campsite",
+        "caravan",
+        "money",
+        "brawl",
+        "news",
+        "trouble",
+        "gun",
+        "arm",
+        "Rover",
+        "milk",
+        "Boris",
+        "car",
+        "day",
+        "dog"
+      ],
+      "verbs": [
+        "prepare",
+        "buy",
+        "carry",
+        "run",
+        "urge",
+        "go",
+        "ask",
+        "have",
+        "turkish",
+        "be",
+        "test",
+        "walk",
+        "drive",
+        "grab",
+        "talk",
+        "wake",
+        "get",
+        "find",
+        "keep"
+      ],
+      "traits": [
+        "ready"
+      ],
+      "semanticRoles": [
+        "buyer",
+        "carrier",
+        "operator",
+        "impelled agent",
+        "urger",
+        "asker",
+        "Speaker",
+        "Reporter",
+        "foolhardy entity in motion",
+        "Agent/Entity Trying",
+        "examiner",
+        "walker",
+        "explainer",
+        "driver",
+        "grabber",
+        "talker",
+        "alarm clock",
+        "sleeper",
+        "Sayer",
+        "projectile",
+        "receiver",
+        "finder",
+        "entity grabbed",
+        "wanter",
+        "Keeper"
+      ]
+    },
+    {
+      "characterName": "gypsies",
+      "recipients": [
+        "Mickey_O\u0027Neil",
+        "men",
+        "car",
+        "middle"
+      ],
+      "verbs": [
+        "meet",
+        "surround",
+        "wait",
+        "left"
+      ],
+      "traits": [
+        "other"
+      ],
+      "semanticRoles": [
+        "achiever",
+        "corpse",
+        "causative agent",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "Mickey_O\u0027Neil",
+      "recipients": [
+        "money",
+        "shirt",
+        "hat",
+        "Mickey",
+        "George",
+        "punch",
+        "fight",
+        "dive",
+        "fighter",
+        "gypsy",
+        "brawl",
+        "promoters",
+        "caravan",
+        "bet",
+        "beating",
+        "ground",
+        "Tommy",
+        "Turkish",
+        "car",
+        "ambush"
+      ],
+      "verbs": [
+        "fight",
+        "remove",
+        "beat",
+        "lay",
+        "do",
+        "take",
+        "knock",
+        "throw",
+        "use",
+        "tell",
+        "want",
+        "place",
+        "save",
+        "hit",
+        "shoot",
+        "get",
+        "expect"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "goal",
+        "entity refusing",
+        "first fighter",
+        "decider",
+        "entity removing",
+        "agent",
+        "thing hit",
+        "layer",
+        "Sayer",
+        "action allowed",
+        "entity with a bobbing head",
+        "thrower",
+        "hitter",
+        "wanter",
+        "User",
+        "thing found",
+        "question",
+        "Speaker",
+        "putter",
+        "Agent/Entity Trying",
+        "entity saving money",
+        "thing held",
+        "rule or rule-giver",
+        "opener",
+        "swimmer",
+        "shooter",
+        "projectile",
+        "receiver",
+        "expecter"
+      ]
+    },
+    {
+      "characterName": "Brick_Top",
+      "recipients": [
+        "Mickey",
+        "Vinny",
+        "hours",
+        "Sol",
+        "point",
+        "gunfire",
+        "gun"
+      ],
+      "verbs": [
+        "allow",
+        "lead",
+        "give",
+        "make",
+        "hear",
+        "demand"
+      ],
+      "traits": [
+        "pissed",
+        "impressed",
+        "happy"
+      ],
+      "semanticRoles": [
+        "allower",
+        "thing found",
+        "Speaker",
+        "thing impressed",
+        "explainer",
+        "entity leaving",
+        "wanter",
+        "knower",
+        "leader",
+        "Utterance",
+        "thing gotten",
+        "giver",
+        "agreer",
+        "creator",
+        "causer of motion",
+        "asker",
+        "hitter",
+        "talker",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Vinny",
+      "recipients": [
+        "driver",
+        "bookie",
+        "guns",
+        "building",
+        "ground",
+        "pawnshop",
+        "chair",
+        "Frankie",
+        "Boris",
+        "case",
+        "stone",
+        "Top",
+        "head",
+        "gun",
+        "Brick_Top",
+        "Sol",
+        "diamond",
+        "Avi"
+      ],
+      "verbs": [
+        "enlist",
+        "rob",
+        "draw",
+        "enter",
+        "fall",
+        "tie",
+        "bring",
+        "tell",
+        "open",
+        "find",
+        "get",
+        "reveal",
+        "grab",
+        "give",
+        "hide",
+        "hand"
+      ],
+      "traits": [
+        "interested"
+      ],
+      "semanticRoles": [
+        "new employee",
+        "signer",
+        "finder",
+        "robber",
+        "decider",
+        "entity trapped",
+        "entity entering",
+        "artist",
+        "thing hit",
+        "agent",
+        "bringer",
+        "thing bought or paid for",
+        "Speaker",
+        "opener",
+        "listener",
+        "walker",
+        "applauded",
+        "thing led",
+        "receiver",
+        "speaker",
+        "operator",
+        "grabber",
+        "giver",
+        "Sayer",
+        "resister"
+      ]
+    },
+    {
+      "characterName": "Sol",
+      "recipients": [
+        "driver",
+        "bookie",
+        "girl",
+        "hole",
+        "wall",
+        "shotgun",
+        "door",
+        "pistol",
+        "pawnshop",
+        "chair",
+        "Tyrone",
+        "Brick_Top",
+        "Top",
+        "message",
+        "gun",
+        "back"
+      ],
+      "verbs": [
+        "enlist",
+        "rob",
+        "tell",
+        "blow",
+        "place",
+        "fire",
+        "tie",
+        "open",
+        "get",
+        "put",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "new employee",
+        "signer",
+        "robber",
+        "decider",
+        "entity trapped",
+        "wind",
+        "Speaker",
+        "putter",
+        "shooter",
+        "agent",
+        "applauded",
+        "opener",
+        "Sayer",
+        "receiver",
+        "thing given",
+        "criminal",
+        "thing gotten",
+        "giver",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "pawnbrokers",
+      "recipients": [
+        "cash",
+        "van",
+        "guns",
+        "replicas",
+        "Avi",
+        "Tony",
+        "standing",
+        "street",
+        "side",
+        "hall",
+        "ground"
+      ],
+      "verbs": [
+        "get",
+        "crash",
+        "have",
+        "purchase",
+        "follow",
+        "hit",
+        "write",
+        "be",
+        "shoot",
+        "drop"
+      ],
+      "traits": [
+        "inept"
+      ],
+      "semanticRoles": [
+        "new employee",
+        "receiver",
+        "causer of damage",
+        "scared entity",
+        "purchaser",
+        "thing not level",
+        "causal agent",
+        "agent",
+        "walker",
+        "asker",
+        "knower",
+        "entity leaving",
+        "shooter",
+        "entity doing the dropping"
+      ]
+    },
+    {
+      "characterName": "dog",
+      "recipients": [
+        "window",
+        "diamond",
+        "man"
+      ],
+      "verbs": [
+        "eat",
+        "grab",
+        "jump",
+        "have"
+      ],
+      "traits": [
+        "restless",
+        "toy"
+      ],
+      "semanticRoles": [
+        "puller",
+        "consumer",
+        "thing opening",
+        "grabber",
+        "path walked",
+        "thing found",
+        "entity grabbed",
+        "thing kept"
+      ]
+    },
+    {
+      "characterName": "girl",
+      "recipients": [
+        "window",
+        "shotgun"
+      ],
+      "verbs": [
+        "close",
+        "grab"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "Utterance",
+        "Sayer",
+        "person doing the closing",
+        "grabber",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Tyrone",
+      "recipients": [
+        "Tyrone",
+        "pawnshop",
+        "chair",
+        "everything",
+        "pawnbrokers",
+        "Boris"
+      ],
+      "verbs": [
+        "walk",
+        "knock",
+        "tie",
+        "tell",
+        "tip",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "pusher",
+        "thing hit",
+        "hitter",
+        "walker",
+        "agent",
+        "applauded",
+        "institution",
+        "Speaker",
+        "cause",
+        "finder",
+        "place",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Tony",
+      "recipients": [
+        "Avi",
+        "name",
+        "Rosebud",
+        "bar",
+        "room",
+        "everything",
+        "round",
+        "hallway",
+        "Tyrone",
+        "pawnshop",
+        "window",
+        "dog",
+        "Tony"
+      ],
+      "verbs": [
+        "work",
+        "hear",
+        "tell",
+        "drive",
+        "go",
+        "be",
+        "fire",
+        "walk",
+        "shoot",
+        "open",
+        "follow"
+      ],
+      "traits": [
+        "surprised",
+        "fine",
+        "dead"
+      ],
+      "semanticRoles": [
+        "agreer",
+        "grabber",
+        "Speaker",
+        "viewer",
+        "thing seen/shown",
+        "thing following",
+        "driver",
+        "projectile",
+        "Sayer",
+        "thing stabbed",
+        "impelled action",
+        "artist",
+        "finder",
+        "shooter",
+        "walker",
+        "Agent/Entity Trying",
+        "Utterance",
+        "opener",
+        "causal agent",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Rosebud",
+      "recipients": [
+        "care",
+        "BulletDodger",
+        "Boris",
+        "house",
+        "diamond",
+        "blade"
+      ],
+      "verbs": [
+        "take",
+        "get",
+        "Boris",
+        "pull"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Sayer",
+        "thing seen/shown",
+        "receiver",
+        "vehicle or path",
+        "Utterance",
+        "puller"
+      ]
+    }
+  ]
+}

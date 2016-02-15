@@ -1,0 +1,451 @@
+{
+  "movieName": "StarWars_EpisodeV-TheEmpireStrikesBack(1980)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Fleet",
+      "recipients": [
+        "Alliance",
+        "hyperspace",
+        "scene"
+      ],
+      "verbs": [
+        "pursue",
+        "emerge",
+        "assemble"
+      ],
+      "traits": [
+        "fugitive",
+        "rebel",
+        "defeated"
+      ],
+      "semanticRoles": [
+        "thing following",
+        "thing exiting",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Rebels",
+      "recipients": [
+        "base",
+        "Hutt",
+        "shield",
+        "trenches"
+      ],
+      "verbs": [
+        "evacuate",
+        "owe",
+        "set"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causer of emptiness",
+        "impelled agent",
+        "place",
+        "payer or buyer",
+        "agent",
+        "entity with less"
+      ]
+    },
+    {
+      "characterName": "Luke",
+      "recipients": [
+        "patrolling",
+        "site",
+        "departure",
+        "base",
+        "patrol",
+        "lair",
+        "apparition",
+        "Oz",
+        "training",
+        "shelter",
+        "Luke",
+        "Leia",
+        "room",
+        "danger",
+        "squadron",
+        "plan",
+        "Solo",
+        "landing",
+        "creature",
+        "patience",
+        "anger",
+        "Yoda",
+        "cause",
+        "lessons",
+        "side",
+        "lightsaber",
+        "vision",
+        "cave",
+        "Darth_Vader",
+        "head",
+        "himself",
+        "Han",
+        "Dagobah",
+        "Emperor",
+        "Cloud_City",
+        "ensues",
+        "Vader",
+        "hallway",
+        "fight",
+        "catwalk",
+        "truth",
+        "denial",
+        "Side",
+        "platform",
+        "pipe",
+        "Ben",
+        "help",
+        "vane"
+      ],
+      "verbs": [
+        "be",
+        "mount",
+        "delay",
+        "leaf",
+        "return",
+        "escape",
+        "see",
+        "receive",
+        "build",
+        "heal",
+        "meet",
+        "rescue",
+        "lead",
+        "devise",
+        "make",
+        "begin",
+        "learn",
+        "harbor",
+        "tell",
+        "become",
+        "undergo",
+        "explore",
+        "take",
+        "encounter",
+        "fight",
+        "cut",
+        "end",
+        "have",
+        "depart",
+        "hold",
+        "land",
+        "head",
+        "resume",
+        "glance",
+        "know",
+        "scream",
+        "overthrow",
+        "join",
+        "embrace",
+        "fall",
+        "pull",
+        "plead",
+        "reach",
+        "hang"
+      ],
+      "traits": [
+        "old",
+        "afraid",
+        "susceptible",
+        "cornered",
+        "defenseless",
+        "unable"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "rider",
+        "climber",
+        "thing hit",
+        "entity leaving",
+        "agent",
+        "entity escaping",
+        "difficulty",
+        "impelled agent",
+        "builder",
+        "thing found",
+        "thing given",
+        "entity causing cure",
+        "achiever",
+        "thing reminded about",
+        "entity rescued",
+        "rescuer",
+        "leader",
+        "deviser",
+        "creator",
+        "consumer",
+        "[causer of growth - should be possible]",
+        "beginner",
+        "student",
+        "new knower",
+        "holder",
+        "Speaker",
+        "thing turning",
+        "thing brought",
+        "explorer",
+        "entity encountering something",
+        "first fighter",
+        "intentional cutter",
+        "Intentional agent",
+        "wanter",
+        "promiser",
+        "thing attracted",
+        "thing freezing",
+        "thing held",
+        "bringer",
+        "entity trapped",
+        "Agent",
+        "looker",
+        "thing not working",
+        "knower",
+        "informed",
+        "claimer",
+        "screamer",
+        "victor",
+        "includer",
+        "first thing being tied",
+        "agent or entity signifying",
+        "allower",
+        "entity refusing",
+        "entity sucked",
+        "puller",
+        "Agent/Entity Trying",
+        "begger",
+        "thing striving"
+      ]
+    },
+    {
+      "characterName": "Han_Solo_Harrison_Ford",
+      "recipients": [
+        "intention",
+        "Luke",
+        "shelter",
+        "droid",
+        "space",
+        "crater",
+        "Falcon",
+        "cave",
+        "pursuit",
+        "plan",
+        "log",
+        "ship",
+        "city"
+      ],
+      "verbs": [
+        "announce",
+        "find",
+        "give",
+        "remind",
+        "discover",
+        "land",
+        "argue",
+        "evade",
+        "figure",
+        "check",
+        "repair",
+        "lure",
+        "love"
+      ],
+      "traits": [
+        "tortured"
+      ],
+      "semanticRoles": [
+        "announcer",
+        "finder",
+        "giver",
+        "cause",
+        "examiner",
+        "creation",
+        "bringer",
+        "speaker",
+        "avoider",
+        "thinker",
+        "checker",
+        "new knower",
+        "entity rescued",
+        "repairer",
+        "attractor",
+        "lover",
+        "Logical subject",
+        "money"
+      ]
+    },
+    {
+      "characterName": "creature",
+      "recipients": [
+        "rations",
+        "spirit",
+        "himself"
+      ],
+      "verbs": [
+        "criticize",
+        "talk",
+        "Yoda"
+      ],
+      "traits": [
+        "ostrichlike",
+        "little",
+        "green",
+        "wizened",
+        "small"
+      ],
+      "semanticRoles": [
+        "critic",
+        "player",
+        "goal",
+        "talker",
+        "beginner"
+      ]
+    },
+    {
+      "characterName": "Vader",
+      "recipients": [
+        "transmission",
+        "message",
+        "Ozzel",
+        "orders",
+        "system",
+        "Luke_Skywalker",
+        "us",
+        "payoff",
+        "platform",
+        "Vader",
+        "panel",
+        "hand",
+        "wrist",
+        "Luke"
+      ],
+      "verbs": [
+        "see",
+        "dismiss",
+        "overrule",
+        "confer",
+        "join",
+        "promise",
+        "bring",
+        "cut",
+        "slash",
+        "inform",
+        "kill",
+        "persuade"
+      ],
+      "traits": [
+        "superior",
+        "furious"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "new knower",
+        "entity removing",
+        "prevailer",
+        "informed",
+        "one party",
+        "agent",
+        "promiser",
+        "goal",
+        "thing brought",
+        "bringer",
+        "intentional cutter",
+        "cutter",
+        "informer",
+        "corpse",
+        "killer",
+        "replier",
+        "Agent/Entity Trying",
+        "convincer"
+      ]
+    },
+    {
+      "characterName": "R2D2",
+      "recipients": [
+        "landing",
+        "hyperspace",
+        "R2D2",
+        "escapes"
+      ],
+      "verbs": [
+        "make",
+        "reactivate"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "creator",
+        "thing found",
+        "reactivator",
+        "finder",
+        "thing now active"
+      ]
+    },
+    {
+      "characterName": "Yoda",
+      "recipients": [
+        "which",
+        "tree",
+        "Luke",
+        "apprentice"
+      ],
+      "verbs": [
+        "reply",
+        "bring",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "goal",
+        "insister",
+        "assured one",
+        "replier",
+        "Utterance",
+        "bringer",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Lando_Calrissian",
+      "recipients": [
+        "party",
+        "others",
+        "meal",
+        "Williams",
+        "hatch"
+      ],
+      "verbs": [
+        "welcome",
+        "invite",
+        "open",
+        "pull"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "welcomer",
+        "inviter",
+        "insister",
+        "creator",
+        "finder",
+        "opener",
+        "puller"
+      ]
+    },
+    {
+      "characterName": "Williams",
+      "recipients": [
+        "beeping",
+        "group",
+        "room"
+      ],
+      "verbs": [
+        "hear",
+        "\u0027s"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "invited",
+        "viewer",
+        "conspirator",
+        "impelled agent",
+        "thing pulled"
+      ]
+    }
+  ]
+}

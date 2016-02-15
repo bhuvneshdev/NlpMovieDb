@@ -1,0 +1,31 @@
+{
+  "movieName": "FannyandAlexander(1982)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Alexander",
+      "recipients": [
+        "Heaven",
+        "ghost",
+        "servant",
+        "Ismael_Retzinsky",
+        "house",
+        "fire"
+      ],
+      "verbs": [
+        "go",
+        "learn",
+        "tell",
+        "meet",
+        "start"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "asker",
+        "student",
+        "Speaker",
+        "achiever",
+        "Agent"
+      ]
+    }
+  ]
+}

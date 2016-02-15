@@ -1,0 +1,1465 @@
+{
+  "movieName": "TheMatrix(1999)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "humans",
+      "recipients": [
+        "Morpheus",
+        "area",
+        "resources"
+      ],
+      "verbs": [
+        "terminate",
+        "spread",
+        "consume",
+        "save"
+      ],
+      "traits": [
+        "free"
+      ],
+      "semanticRoles": [
+        "thing examined",
+        "first item in comparison",
+        "consumer",
+        "applier",
+        "Agent/Entity Trying",
+        "entity saving money"
+      ]
+    },
+    {
+      "characterName": "Trinity",
+      "recipients": [
+        "person",
+        "leap",
+        "alley",
+        "dash",
+        "raver",
+        "herself",
+        "Neo",
+        "road",
+        "bug",
+        "dinner",
+        "idea",
+        "Construct",
+        "armaments",
+        "lobby",
+        "bomb",
+        "elevator",
+        "aircraft",
+        "floor",
+        "helicopter",
+        "line",
+        "side",
+        "Morpheus",
+        "which",
+        "Smith"
+      ],
+      "verbs": [
+        "discuss",
+        "make",
+        "approach",
+        "introduce",
+        "pick",
+        "drop",
+        "take",
+        "bring",
+        "reject",
+        "get",
+        "enter",
+        "arm",
+        "pilot",
+        "sever",
+        "jump",
+        "ask",
+        "implore",
+        "remind"
+      ],
+      "traits": [
+        "late"
+      ],
+      "semanticRoles": [
+        "discussant",
+        "enjoyer",
+        "entity victorious",
+        "creator",
+        "creation",
+        "thing picked",
+        "entity making introduction",
+        "picker",
+        "Speaker",
+        "entity doing the dropping",
+        "bringer",
+        "Sayer",
+        "question",
+        "harrassed",
+        "thing brought",
+        "rejecter",
+        "decider",
+        "receiver",
+        "entity entering",
+        "equiper",
+        "thing in motion",
+        "pilot; tester",
+        "causer",
+        "thing carried",
+        "asker",
+        "cause",
+        "kissed"
+      ]
+    },
+    {
+      "characterName": "Cypher",
+      "recipients": [
+        "call",
+        "room",
+        "streaming",
+        "Neo",
+        "job",
+        "restaurant",
+        "steak",
+        "garbage",
+        "phone",
+        "Oracle",
+        "one",
+        "Nebuchadnezzar",
+        "Trinity",
+        "him",
+        "Dozer",
+        "headset",
+        "plug",
+        "back",
+        "protests",
+        "Cypher",
+        "Matrix"
+      ],
+      "verbs": [
+        "end",
+        "remark",
+        "work",
+        "ask",
+        "say",
+        "be",
+        "cut",
+        "throw",
+        "see",
+        "return",
+        "attack",
+        "electrocute",
+        "pull",
+        "talk",
+        "switch",
+        "kill"
+      ],
+      "traits": [
+        "dead"
+      ],
+      "semanticRoles": [
+        "Utterance (suggestion)",
+        "Intentional agent",
+        "speaker",
+        "Sayer",
+        "experiencer of surprise",
+        "asker",
+        "intentional cutter",
+        "thinker",
+        "thrower",
+        "viewer",
+        "replier",
+        "entity refusing",
+        "Utterance",
+        "helper",
+        "entity leaving",
+        "person sneezing",
+        "attacker",
+        "thing tackled",
+        "Causer of electrocution",
+        "puller",
+        "talker",
+        "teller of tale",
+        "mover",
+        "corpse",
+        "killer",
+        "Theme (action or object being prevented)",
+        "question",
+        "User",
+        "screamer",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "policemen",
+      "recipients": [
+        "Hotel",
+        "beam",
+        "hallway",
+        "woman",
+        "girl"
+      ],
+      "verbs": [
+        "move",
+        "find",
+        "send"
+      ],
+      "traits": [
+        "astonishing"
+      ],
+      "semanticRoles": [
+        "mover",
+        "looker",
+        "finder",
+        "sender",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "woman",
+      "recipients": [
+        "command",
+        "cube",
+        "gun",
+        "Neo",
+        "device"
+      ],
+      "verbs": [
+        "work",
+        "point",
+        "pull",
+        "tell",
+        "use"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing found",
+        "pointer",
+        "Speaker",
+        "puller",
+        "something",
+        "User"
+      ]
+    },
+    {
+      "characterName": "Agents",
+      "recipients": [
+        "Weaving",
+        "front",
+        "himself",
+        "room",
+        "Neo",
+        "eye",
+        "time",
+        "what",
+        "world",
+        "bottom",
+        "hole",
+        "Agent",
+        "Matrix",
+        "move",
+        "Smith",
+        "line",
+        "harness",
+        "alley",
+        "floor"
+      ],
+      "verbs": [
+        "be",
+        "reunite",
+        "take",
+        "confront",
+        "have",
+        "throw",
+        "live",
+        "stream",
+        "find",
+        "put",
+        "process",
+        "leave",
+        "force",
+        "drop"
+      ],
+      "traits": [
+        "implant",
+        "other"
+      ],
+      "semanticRoles": [
+        "entity contacted",
+        "leader",
+        "unifier",
+        "confrontational entity",
+        "thing given",
+        "thrower",
+        "adverse circumstances",
+        "alive entity",
+        "leaking container",
+        "finder",
+        "processor",
+        "agent",
+        "decider",
+        "causal agent",
+        "question",
+        "entity leaving",
+        "gotten",
+        "feeler",
+        "getter",
+        "shooter",
+        "forcer",
+        "entity doing the dropping"
+      ]
+    },
+    {
+      "characterName": "Smith",
+      "recipients": [
+        "policeman",
+        "Smith",
+        "Morpheus",
+        "amnesty",
+        "codes",
+        "mainframe",
+        "unit",
+        "beauty",
+        "humans",
+        "musings",
+        "Agents",
+        "Matrix",
+        "earphone",
+        "glasses",
+        "reality",
+        "stench",
+        "blood",
+        "notion",
+        "Neo",
+        "others"
+      ],
+      "verbs": [
+        "admonish",
+        "ask",
+        "help",
+        "want",
+        "send",
+        "marvel",
+        "compare",
+        "share",
+        "command",
+        "hate",
+        "remove",
+        "get",
+        "spit",
+        "kill",
+        "have",
+        "throw",
+        "put",
+        "instruct",
+        "run"
+      ],
+      "traits": [
+        "unable",
+        "rich",
+        "sure",
+        "angered",
+        "satisfied",
+        "furious"
+      ],
+      "semanticRoles": [
+        "speaker",
+        "persuader",
+        "thing given",
+        "replier",
+        "knower",
+        "question",
+        "helper",
+        "asker",
+        "talker",
+        "finder",
+        "wanter",
+        "Sayer",
+        "receiver",
+        "thing hit",
+        "sender",
+        "experiencer of marvelation :)",
+        "causer of continuation",
+        "entity making comparison",
+        "sharer",
+        "place",
+        "getter",
+        "experiencer",
+        "entity removing",
+        "admitter",
+        "thing found",
+        "Stimulusr",
+        "looker",
+        "Utterance",
+        "breaker",
+        "looked at",
+        "thing asked for",
+        "spitter",
+        "agent",
+        "killer",
+        "corpse",
+        "summoned",
+        "Agent",
+        "thrower",
+        "instructor",
+        "operator",
+        "kicker"
+      ]
+    },
+    {
+      "characterName": "girl",
+      "recipients": [
+        "how",
+        "line",
+        "exit",
+        "pursuers",
+        "Trinity",
+        "booth",
+        "hacker"
+      ],
+      "verbs": [
+        "know",
+        "make",
+        "lose",
+        "be",
+        "tell"
+      ],
+      "traits": [
+        "little",
+        "apprehend",
+        "seductive",
+        "stunning"
+      ],
+      "semanticRoles": [
+        "thing handled",
+        "thing brought",
+        "knower",
+        "informed",
+        "creator",
+        "Speaker",
+        "noticed"
+      ]
+    },
+    {
+      "characterName": "line",
+      "recipients": [],
+      "verbs": [],
+      "traits": [
+        "other",
+        "hydraulic"
+      ],
+      "semanticRoles": [
+        "thing traced",
+        "creation",
+        "thing hit",
+        "thing cut",
+        "projectile",
+        "entity grabbed",
+        "entity severed",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "Morpheus",
+      "recipients": [
+        "girl",
+        "Neo",
+        "building",
+        "importance",
+        "Matrix",
+        "pills",
+        "slave",
+        "room",
+        "point",
+        "humans",
+        "fields",
+        "program",
+        "street",
+        "simulation",
+        "anyone",
+        "everyone",
+        "one",
+        "doors",
+        "Agents",
+        "keys",
+        "call",
+        "image",
+        "system",
+        "ship",
+        "power",
+        "meal",
+        "warehouse",
+        "parameters",
+        "codes",
+        "himself",
+        "key",
+        "release",
+        "helicopter",
+        "Tank",
+        "EMP",
+        "code",
+        "what",
+        "choice"
+      ],
+      "verbs": [
+        "inform",
+        "tell",
+        "guide",
+        "underestimate",
+        "exist",
+        "hold",
+        "pinpoint",
+        "say",
+        "enter",
+        "get",
+        "prepare",
+        "show",
+        "be",
+        "test",
+        "stand",
+        "walk",
+        "stop",
+        "take",
+        "guard",
+        "survive",
+        "see",
+        "set",
+        "turn",
+        "interrupt",
+        "have",
+        "believe",
+        "explain",
+        "reset",
+        "`",
+        "give",
+        "sacrifice",
+        "run",
+        "call",
+        "use"
+      ],
+      "traits": [
+        "solar",
+        "certain",
+        "strong",
+        "fast",
+        "willing",
+        "brutalized"
+      ],
+      "semanticRoles": [
+        "informer",
+        "Speaker",
+        "guide",
+        "Agent/Entity Trying",
+        "project",
+        "underestimator",
+        "explainer",
+        "holder",
+        "decider",
+        "person wearing clothes",
+        "Sayer",
+        "replier",
+        "thing used",
+        "entity entering",
+        "knower",
+        "receiver",
+        "dealer",
+        "User",
+        "shower",
+        "amazed entity",
+        "wanter",
+        "examiner",
+        "causal agent",
+        "bidder",
+        "Intentional agent",
+        "agent fighting",
+        "mover",
+        "walker",
+        "question",
+        "guard",
+        "survivor",
+        "second fighter",
+        "viewer",
+        "turner",
+        "agent",
+        "thing meant",
+        "interrupter",
+        "entity raised",
+        "resetter",
+        "entity trapped",
+        "breaker",
+        "looker",
+        "creator",
+        "engineer",
+        "first thing being tied",
+        "thing known or thought",
+        "thing unplugged",
+        "giver",
+        "sacrificer",
+        "thing brought",
+        "money",
+        "beginner",
+        "operator",
+        "Logical subject",
+        "Utterance",
+        "thing reminded about"
+      ]
+    },
+    {
+      "characterName": "one",
+      "recipients": [
+        "who",
+        "Agent",
+        "Prophecy",
+        "literature"
+      ],
+      "verbs": [
+        "know",
+        "stand",
+        "make",
+        "read"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Sayer",
+        "knower",
+        "survivor",
+        "causal agent",
+        "creator",
+        "reader",
+        "replier"
+      ]
+    },
+    {
+      "characterName": "She",
+      "recipients": [
+        "Neo",
+        "you",
+        "everything",
+        "Agent_Smith",
+        "ship",
+        "him"
+      ],
+      "verbs": [
+        "size",
+        "ask",
+        "tell",
+        "offer",
+        "enlighten",
+        "neo",
+        "see",
+        "look",
+        "kiss"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "asker",
+        "agent",
+        "acceptor",
+        "prophet",
+        "Speaker",
+        "Stimulusr of knowledge",
+        "moved",
+        "speaker",
+        "Sayer",
+        "viewer",
+        "looker",
+        "kisser"
+      ]
+    },
+    {
+      "characterName": "We",
+      "recipients": [
+        "name",
+        "law",
+        "Matrix",
+        "intelligence",
+        "consciousness",
+        "birth",
+        "trouble",
+        "language"
+      ],
+      "verbs": [
+        "have",
+        "call",
+        "give",
+        "get",
+        "lack"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "giver",
+        "receiver",
+        "(non)possessor",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "Neo_Keanu_Reeves",
+      "recipients": [
+        "group",
+        "Neo",
+        "disc",
+        "tattoo",
+        "bar",
+        "database",
+        "boss",
+        "delivery",
+        "cellphone",
+        "elevator",
+        "advice",
+        "life",
+        "finger",
+        "Agents",
+        "call",
+        "shirt",
+        "woman",
+        "pill",
+        "mirror",
+        "muck",
+        "back",
+        "socket",
+        "connector",
+        "What",
+        "tour",
+        "world",
+        "Construct",
+        "hair",
+        "truth",
+        "what",
+        "himself",
+        "chair",
+        "reality",
+        "bunk",
+        "training",
+        "program",
+        "nothing",
+        "punch",
+        "jump",
+        "Nebudchanezzar",
+        "street",
+        "girl",
+        "Agent_Smith",
+        "Cypher",
+        "Oracle",
+        "Trinity",
+        "path",
+        "apartment",
+        "spoon",
+        "One",
+        "fine",
+        "messiah",
+        "Morpheus",
+        "help",
+        "armaments",
+        "anything",
+        "lobby",
+        "cable",
+        "Agent",
+        "rounds",
+        "she",
+        "move",
+        "fire",
+        "leap",
+        "helicopter",
+        "line",
+        "Smith",
+        "head",
+        "blow",
+        "ceiling",
+        "them",
+        "Matrix",
+        "phone",
+        "suit",
+        "Mr",
+        "pile",
+        "Hotel",
+        "303",
+        "floor",
+        "eyes",
+        "things",
+        "blows",
+        "flight"
+      ],
+      "verbs": [
+        "read",
+        "give",
+        "see",
+        "stand",
+        "crack",
+        "listen",
+        "receive",
+        "find",
+        "look",
+        "reject",
+        "life",
+        "ask",
+        "tell",
+        "take",
+        "trust",
+        "drown",
+        "remove",
+        "wake",
+        "be",
+        "have",
+        "explain",
+        "experience",
+        "pull",
+        "free",
+        "start",
+        "bring",
+        "follow",
+        "make",
+        "walk",
+        "notice",
+        "face",
+        "startle",
+        "enter",
+        "bend",
+        "sacrifice",
+        "feel",
+        "am",
+        "need",
+        "get",
+        "do",
+        "sever",
+        "shoot",
+        "move",
+        "open",
+        "throw",
+        "grab",
+        "\u0027s",
+        "haul",
+        "sweep",
+        "beckon",
+        "set",
+        "deliver",
+        "propel",
+        "swipe",
+        "call",
+        "leap",
+        "arrive",
+        "reach",
+        "slump",
+        "breathe",
+        "block",
+        "hang"
+      ],
+      "traits": [
+        "asleep",
+        "next",
+        "ready",
+        "thinking",
+        "unsettled",
+        "dead"
+      ],
+      "semanticRoles": [
+        "reader",
+        "thing given",
+        "giver",
+        "first thing being tied",
+        "viewer",
+        "causal agent",
+        "shaker",
+        "applauder",
+        "yelled at",
+        "listener",
+        "finder",
+        "informed",
+        "Utterance",
+        "looker",
+        "rejecter",
+        "receiver",
+        "impelled agent",
+        "entity guided",
+        "entity confronted",
+        "alive entity",
+        "asker",
+        "thing thrown",
+        "Speaker",
+        "goal",
+        "thing picked",
+        "truster",
+        "Area searched",
+        "feeler",
+        "explainer",
+        "removed material",
+        "entity covering",
+        "legislative body",
+        "thing striving",
+        "entity removing",
+        "entity being introduced",
+        "person or event ushered",
+        "Sayer",
+        "alarm clock",
+        "experiencer",
+        "puller",
+        "entity providing freedom",
+        "first fighter",
+        "thing brought",
+        "Agent",
+        "thing strapped",
+        "thing gone around",
+        "person surprised",
+        "replier",
+        "liker",
+        "food",
+        "examined",
+        "thing hit",
+        "attack",
+        "agent",
+        "thing kicked",
+        "bringer",
+        "creator",
+        "Agent/Entity Trying",
+        "thing following",
+        "walker",
+        "noticer",
+        "question",
+        "turner",
+        "cause of surprise",
+        "knower",
+        "entity with a bobbing head",
+        "thing found",
+        "entity entering",
+        "bender",
+        "thing whose size is important",
+        "Thinker",
+        "admitter",
+        "enlightened entity",
+        "agent smiling",
+        "sacrificer",
+        "planner",
+        "thing gotten",
+        "corpse",
+        "causer of continuation",
+        "money",
+        "needer",
+        "causer",
+        "thing in motion",
+        "shooter",
+        "avoider",
+        "entity in motion",
+        "mover",
+        "opener",
+        "thrower",
+        "new knower",
+        "Logical subject",
+        "grabber",
+        "carrier",
+        "summoner",
+        "sender",
+        "causer of motion",
+        "striker",
+        "projectile",
+        "is an agent possible?",
+        "thing checked",
+        "breather"
+      ]
+    },
+    {
+      "characterName": "Matrix",
+      "recipients": [
+        "you",
+        "dreamworld",
+        "system",
+        "enemy"
+      ],
+      "verbs": [
+        "have",
+        "be"
+      ],
+      "traits": [
+        "first"
+      ],
+      "semanticRoles": [
+        "thing created",
+        "place of residence",
+        "thing designed",
+        "entity redesigned",
+        "target or hatred"
+      ]
+    },
+    {
+      "characterName": "himself",
+      "recipients": [
+        "crew"
+      ],
+      "verbs": [
+        "surround"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "action allowed",
+        "causative agent",
+        "thing pulled",
+        "entity made free",
+        "thing sacrificed",
+        "thing given",
+        "thing thrown",
+        "thing set",
+        "entity doing the dropping"
+      ]
+    },
+    {
+      "characterName": "others",
+      "recipients": [
+        "Neo",
+        "Smith"
+      ],
+      "verbs": [
+        "pick",
+        "tell",
+        "check"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "picker",
+        "thing broken",
+        "first fighter",
+        "thing brought",
+        "Speaker",
+        "new knower",
+        "impelled agent",
+        "checker"
+      ]
+    },
+    {
+      "characterName": "you",
+      "recipients": [
+        "whatever",
+        "Wonderland",
+        "Morpheus",
+        "Matrix",
+        "What",
+        "Neo",
+        "me",
+        "Trinity",
+        "glow",
+        "them",
+        "people"
+      ],
+      "verbs": [
+        "want",
+        "stay",
+        "use",
+        "know",
+        "wait",
+        "tell",
+        "believe",
+        "hear"
+      ],
+      "traits": [
+        "faster",
+        "ready",
+        "dead",
+        "afraid"
+      ],
+      "semanticRoles": [
+        "wanter",
+        "thing seen/shown",
+        "User",
+        "knower",
+        "listener",
+        "Speaker",
+        "needer",
+        "Utterance",
+        "viewer",
+        "loved",
+        "emotion or sensation"
+      ]
+    },
+    {
+      "characterName": "I",
+      "recipients": [
+        "you",
+        "what",
+        "bullets",
+        "pill",
+        "future",
+        "people",
+        "phone",
+        "world"
+      ],
+      "verbs": [
+        "show",
+        "do",
+        "dodge",
+        "take",
+        "love",
+        "feel",
+        "know",
+        "tell",
+        "hang"
+      ],
+      "traits": [
+        "afraid"
+      ],
+      "semanticRoles": [
+        "shower",
+        "Thinker",
+        "avoider",
+        "knower",
+        "enjoyer",
+        "lover",
+        "feeler",
+        "Speaker",
+        "agent",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "rest",
+      "recipients": [
+        "him",
+        "chair",
+        "fight",
+        "room",
+        "oatmealgruel"
+      ],
+      "verbs": [
+        "strap",
+        "watch",
+        "try",
+        "choke"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "fastener",
+        "agent or causer",
+        "Agent/Entity Trying",
+        "causer of choking"
+      ]
+    },
+    {
+      "characterName": "beings",
+      "recipients": [
+        "that",
+        "reality"
+      ],
+      "verbs": [
+        "define"
+      ],
+      "traits": [
+        "human",
+        "other"
+      ],
+      "semanticRoles": [
+        "food",
+        "entity ensconced",
+        "thing grown",
+        "first thing being tied",
+        "describer"
+      ]
+    },
+    {
+      "characterName": "people",
+      "recipients": [
+        "Matrix",
+        "part",
+        "program"
+      ],
+      "verbs": [
+        "inhabit",
+        "be",
+        "accept"
+      ],
+      "traits": [
+        "certain"
+      ],
+      "semanticRoles": [
+        "thing brought",
+        "resident",
+        "entity providing freedom",
+        "Agent/Entity Trying",
+        "acceptor",
+        "viewer",
+        "thing seen/shown",
+        "thing wanted"
+      ]
+    },
+    {
+      "characterName": "Oracle_Gloria_Foster",
+      "recipients": [
+        "Cypher",
+        "cookies",
+        "Neo",
+        "him",
+        "me"
+      ],
+      "verbs": [
+        "tell",
+        "bake",
+        "enlighten",
+        "ask"
+      ],
+      "traits": [
+        "right"
+      ],
+      "semanticRoles": [
+        "prophet",
+        "thing viewed",
+        "Speaker",
+        "baker",
+        "Stimulusr of knowledge",
+        "asker"
+      ]
+    },
+    {
+      "characterName": "Tank",
+      "recipients": [
+        "operator",
+        "oldfashioned",
+        "Neo",
+        "chair",
+        "load",
+        "Hell",
+        "switch",
+        "layout",
+        "others",
+        "headset",
+        "Trinity",
+        "building",
+        "us",
+        "ability",
+        "Morpheus",
+        "EMP"
+      ],
+      "verbs": [
+        "be",
+        "strap",
+        "hit",
+        "want",
+        "stand",
+        "find",
+        "bring",
+        "pull",
+        "\u0027s",
+        "load",
+        "download",
+        "tell",
+        "charge"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "explainer",
+        "fastener",
+        "agent",
+        "wanter",
+        "amazed entity",
+        "causal agent",
+        "noticer",
+        "finder",
+        "bringer",
+        "replier",
+        "puller",
+        "new knower",
+        "Sayer",
+        "performer",
+        "thing pulled",
+        "loader",
+        "downloader",
+        "Speaker",
+        "Utterance",
+        "question"
+      ]
+    },
+    {
+      "characterName": "child",
+      "recipients": [
+        "blocks",
+        "spoons",
+        "spoon"
+      ],
+      "verbs": [
+        "levitate",
+        "bend",
+        "give"
+      ],
+      "traits": [
+        "genuine",
+        "bald"
+      ],
+      "semanticRoles": [
+        "thing held",
+        "causer of levitation",
+        "bender",
+        "Sayer",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "he",
+      "recipients": [
+        "mind",
+        "leaps",
+        "building",
+        "Neo",
+        "match",
+        "Trinity"
+      ],
+      "verbs": [
+        "free",
+        "ask",
+        "\u0027s",
+        "kiss"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity providing freedom",
+        "asker",
+        "kisser"
+      ]
+    },
+    {
+      "characterName": "Agent_Smith",
+      "recipients": [
+        "weapon",
+        "soldiers",
+        "Neo",
+        "line"
+      ],
+      "verbs": [
+        "pull",
+        "dodge",
+        "approach",
+        "shoot",
+        "shot"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "looked at",
+        "entity entering",
+        "sender",
+        "puller",
+        "avoider",
+        "beginner",
+        "shooter",
+        "thing viewed",
+        "place"
+      ]
+    },
+    {
+      "characterName": "crew",
+      "recipients": [
+        "Agents",
+        "squiddies",
+        "hotel",
+        "floors",
+        "plumbing"
+      ],
+      "verbs": [
+        "survive",
+        "see",
+        "neo",
+        "climb"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "survivor",
+        "viewer",
+        "climber",
+        "beginner",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "they",
+      "recipients": [
+        "deal",
+        "They",
+        "elevator",
+        "roof"
+      ],
+      "verbs": [
+        "have",
+        "shoot",
+        "make",
+        "climb"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "projectile",
+        "creator",
+        "shooter",
+        "creation",
+        "climber"
+      ]
+    },
+    {
+      "characterName": "Mouse",
+      "recipients": [
+        "window",
+        "guns",
+        "chair",
+        "mouth",
+        "blood"
+      ],
+      "verbs": [
+        "run",
+        "pick",
+        "die",
+        "spurt"
+      ],
+      "traits": [
+        "real"
+      ],
+      "semanticRoles": [
+        "thinker",
+        "operator",
+        "picker"
+      ]
+    },
+    {
+      "characterName": "Dozer",
+      "recipients": [
+        "Cypher",
+        "world",
+        "city"
+      ],
+      "verbs": [
+        "tackle",
+        "hate",
+        "gaze"
+      ],
+      "traits": [
+        "dead"
+      ],
+      "semanticRoles": [
+        "tackler",
+        "electrocuted entity",
+        "experiencer",
+        "looker"
+      ]
+    },
+    {
+      "characterName": "Sentinels",
+      "recipients": [
+        "Nebuchadnezzar",
+        "booth",
+        "subway",
+        "Matrix",
+        "exits",
+        "ship",
+        "hull"
+      ],
+      "verbs": [
+        "attack",
+        "find",
+        "Morpheus",
+        "tear",
+        "breach",
+        "be"
+      ],
+      "traits": [
+        "right"
+      ],
+      "semanticRoles": [
+        "deployed",
+        "entity dispatched",
+        "attacker",
+        "finder",
+        "person doing the closing",
+        "puller",
+        "beginner",
+        "breaker"
+      ]
+    }
+  ]
+}

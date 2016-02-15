@@ -1,0 +1,958 @@
+{
+  "movieName": "Solaris(1972)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "man",
+      "recipients": [
+        "car",
+        "borders"
+      ],
+      "verbs": [
+        "get",
+        "extend"
+      ],
+      "traits": [
+        "older"
+      ],
+      "semanticRoles": [
+        "causal agent",
+        "receiver",
+        "thing greeted",
+        "Utterance",
+        "thing viewed",
+        "owner",
+        "wanter",
+        "thing needed",
+        "thing created"
+      ]
+    },
+    {
+      "characterName": "Banionis",
+      "recipients": [
+        "lake",
+        "hands",
+        "car",
+        "Chris",
+        "ocean",
+        "Dr"
+      ],
+      "verbs": [
+        "wash",
+        "hear",
+        "tell",
+        "see",
+        "return"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "walker",
+        "agent of washing",
+        "Speaker",
+        "viewer",
+        "bill",
+        "entity leaving",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "Chris",
+      "recipients": [
+        "Berton",
+        "room",
+        "books",
+        "papers",
+        "picture",
+        "round",
+        "planet",
+        "trip",
+        "Dr",
+        "door",
+        "hall",
+        "Snaut_Jri_Jrvet",
+        "Gibarian",
+        "Chris",
+        "head",
+        "people",
+        "tomorrow",
+        "man",
+        "video",
+        "recording",
+        "lab",
+        "doctor",
+        "message",
+        "woman",
+        "impression",
+        "it",
+        "Natalya_Bondarchuk",
+        "what",
+        "scissors",
+        "Hari",
+        "rocket",
+        "station",
+        "her",
+        "sequence",
+        "inside",
+        "cover",
+        "blanket",
+        "face",
+        "burns",
+        "launch",
+        "shower",
+        "himself",
+        "company",
+        "time",
+        "task",
+        "dreams",
+        "bed",
+        "herself",
+        "mantle",
+        "dress",
+        "something",
+        "astonishment",
+        "sample",
+        "autopsy",
+        "mother",
+        "experiments",
+        "Sartorius",
+        "passionately",
+        "quarreled",
+        "liquid",
+        "one",
+        "exwife",
+        "reaction",
+        "library",
+        "trance",
+        "She",
+        "Snaut",
+        "choice",
+        "nature",
+        "remarks",
+        "dog",
+        "Earth",
+        "home",
+        "conversation",
+        "them",
+        "sound",
+        "talk",
+        "hanging",
+        "opinion",
+        "box",
+        "land",
+        "house",
+        "Father"
+      ],
+      "verbs": [
+        "talk",
+        "listen",
+        "burn",
+        "put",
+        "make",
+        "see",
+        "look",
+        "find",
+        "know",
+        "warn",
+        "lose",
+        "come",
+        "pick",
+        "start",
+        "proceeds",
+        "believe",
+        "assure",
+        "resume",
+        "saw",
+        "push",
+        "do",
+        "stop",
+        "love",
+        "ask",
+        "invite",
+        "use",
+        "take",
+        "ready",
+        "urge",
+        "trap",
+        "sustain",
+        "dous",
+        "return",
+        "have",
+        "tell",
+        "panic",
+        "focus",
+        "rest",
+        "close",
+        "stuff",
+        "carry",
+        "show",
+        "try",
+        "meet",
+        "like",
+        "get",
+        "forget",
+        "say",
+        "grab",
+        "hug",
+        "explain",
+        "left",
+        "be",
+        "comfort",
+        "awaken",
+        "calm",
+        "call",
+        "neglect",
+        "remind",
+        "continue",
+        "question"
+      ],
+      "traits": [
+        "interested",
+        "skeptical",
+        "insane",
+        "confused",
+        "nervous",
+        "confusing",
+        "fortunate",
+        "jealous",
+        "unhappy"
+      ],
+      "semanticRoles": [
+        "creator",
+        "thing seen/shown",
+        "entity leaving",
+        "viewer",
+        "regretter",
+        "talker",
+        "Sayer",
+        "yelled at",
+        "knower",
+        "thing wanted",
+        "listener",
+        "pyromaniac",
+        "speaker",
+        "thing greeted",
+        "causer of continuing event",
+        "finder",
+        "hitter",
+        "looker",
+        "Utterance",
+        "insister",
+        "action allowed",
+        "entity refusing",
+        "picker",
+        "impelled agent",
+        "shower",
+        "Agent",
+        "informed",
+        "art",
+        "dismisser",
+        "question",
+        "asker",
+        "causer of assurance",
+        "pusher",
+        "alarm clock",
+        "lover",
+        "inviter",
+        "person putting on clothes",
+        "User",
+        "preparer",
+        "urger",
+        "entity entering",
+        "person doing the closing",
+        "trapper",
+        "first thing being locked",
+        "Agent/Entity Trying",
+        "Intentional agent (often inanimate",
+        "douser",
+        "Speaker",
+        "scared entity",
+        "role",
+        "admitter",
+        "wanter",
+        "achiever",
+        "agent",
+        "thing given",
+        "entity resting",
+        "sleeper",
+        "causer of waking",
+        "player",
+        "carrier",
+        "packer",
+        "thinker",
+        "person surprised",
+        "feeler",
+        "commentor",
+        "liker",
+        "entity afraid",
+        "receiver",
+        "one cooperator",
+        "thing gotten",
+        "invited",
+        "forgetter",
+        "hugger",
+        "grabber",
+        "entity forgiven",
+        "understander",
+        "Thinker",
+        "thing explained",
+        "explainer",
+        "rememberer",
+        "implier",
+        "agreer",
+        "comforter",
+        "causative agent",
+        "thing used",
+        "agent of calming",
+        "entity in motion",
+        "ignorer",
+        "impelled action",
+        "lied to",
+        "cause",
+        "causer of continuation",
+        "entity immersed",
+        "agent smiling"
+      ]
+    },
+    {
+      "characterName": "Berton",
+      "recipients": [
+        "shock",
+        "base",
+        "fog",
+        "things",
+        "tape",
+        "Chris",
+        "day",
+        "car",
+        "thing",
+        "call",
+        "ride",
+        "books",
+        "papers",
+        "videos"
+      ],
+      "verbs": [
+        "arrive",
+        "return",
+        "clear",
+        "imagine",
+        "stop",
+        "talk",
+        "hallucinate",
+        "leaf",
+        "have",
+        "want",
+        "disconnect",
+        "seem",
+        "need",
+        "take"
+      ],
+      "traits": [
+        "young",
+        "apprehensive",
+        "concerned"
+      ],
+      "semanticRoles": [
+        "explainer",
+        "thing seen/shown",
+        "noticer",
+        "cleaner",
+        "speaker",
+        "thinker",
+        "talker",
+        "insister",
+        "claimer",
+        "first arguer",
+        "hallucinator",
+        "entity leaving",
+        "wanter",
+        "viewer",
+        "entity causing separation",
+        "needer"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "times",
+        "Berton",
+        "Chris",
+        "Father",
+        "books"
+      ],
+      "verbs": [
+        "see",
+        "berate",
+        "remind",
+        "sort"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "yeller",
+        "cause",
+        "thing reminded about",
+        "creator",
+        "sorter"
+      ]
+    },
+    {
+      "characterName": "ocean",
+      "recipients": [
+        "substance",
+        "scientists",
+        "minds",
+        "ocean",
+        "parts"
+      ],
+      "verbs": [
+        "be",
+        "probe",
+        "extract"
+      ],
+      "traits": [
+        "swirling",
+        "due",
+        "vast"
+      ],
+      "semanticRoles": [
+        "thing longed for",
+        "thing seen/shown",
+        "theorist",
+        "thing viewed",
+        "remover",
+        "prober",
+        "reacher",
+        "thing tried",
+        "entity in the position"
+      ]
+    },
+    {
+      "characterName": "others",
+      "recipients": [
+        "Chris",
+        "deadlock",
+        "resents"
+      ],
+      "verbs": [
+        "inform",
+        "break",
+        "exwife"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "implier",
+        "informer",
+        "first (or all) communicator(s)",
+        "breaker",
+        "Thinker"
+      ]
+    },
+    {
+      "characterName": "planet",
+      "recipients": [
+        "field",
+        "her",
+        "Visitors"
+      ],
+      "verbs": [
+        "send",
+        "kill",
+        "understand"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity (e.g. region) bombarded",
+        "sender",
+        "killer",
+        "reader",
+        "understander"
+      ]
+    },
+    {
+      "characterName": "Sartorius",
+      "recipients": [
+        "lab",
+        "laboratory",
+        "everyone",
+        "specimen",
+        "herself",
+        "night",
+        "toast",
+        "courage"
+      ],
+      "verbs": [
+        "be",
+        "summon",
+        "call",
+        "tell",
+        "propose"
+      ],
+      "traits": [
+        "astrobiologist"
+      ],
+      "semanticRoles": [
+        "speaker",
+        "machine",
+        "inviter",
+        "viewer",
+        "explainer",
+        "Sayer",
+        "implier",
+        "admitter",
+        "Speaker",
+        "saddened entity",
+        "entity immersed",
+        "entity proposing",
+        "reactor"
+      ]
+    },
+    {
+      "characterName": "woman",
+      "recipients": [
+        "Banionis",
+        "Chris",
+        "mantle",
+        "chair",
+        "picture",
+        "while",
+        "manifestation",
+        "woman",
+        "house"
+      ],
+      "verbs": [
+        "pass",
+        "ask",
+        "wear",
+        "put",
+        "walk",
+        "find",
+        "take",
+        "stay",
+        "be",
+        "hate",
+        "tell",
+        "leave"
+      ],
+      "traits": [
+        "young",
+        "real"
+      ],
+      "semanticRoles": [
+        "legislative body",
+        "asker",
+        "thing pushed",
+        "thing viewed",
+        "wearer",
+        "walker",
+        "finder",
+        "new knower",
+        "rememberer",
+        "knower",
+        "loved",
+        "wanter",
+        "question",
+        "Sayer",
+        "invited",
+        "target or hatred",
+        "experiencer",
+        "entity leaving",
+        "Utterance",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "door",
+      "recipients": [
+        "hallway",
+        "recording"
+      ],
+      "verbs": [
+        "go",
+        "take"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing viewed",
+        "person doing the closing",
+        "Agent",
+        "opener",
+        "patient",
+        "thing closing"
+      ]
+    },
+    {
+      "characterName": "Snaut",
+      "recipients": [
+        "quarters",
+        "Chris",
+        "wish",
+        "Snaut",
+        "paper",
+        "room",
+        "impression",
+        "Gibarian",
+        "toast",
+        "argument",
+        "walk",
+        "mission",
+        "way",
+        "corridor",
+        "something",
+        "choice",
+        "resurrections",
+        "letter",
+        "talk",
+        "link",
+        "station",
+        "box"
+      ],
+      "verbs": [
+        "\u0027s",
+        "let",
+        "express",
+        "warn",
+        "believe",
+        "attach",
+        "urge",
+        "enter",
+        "tell",
+        "invite",
+        "make",
+        "propose",
+        "quell",
+        "start",
+        "seek",
+        "do",
+        "run",
+        "give",
+        "read",
+        "continue",
+        "feel",
+        "carry"
+      ],
+      "traits": [
+        "unlikely"
+      ],
+      "semanticRoles": [
+        "Sayer",
+        "allower",
+        "replier",
+        "speaker",
+        "announcer",
+        "tortured",
+        "regretter",
+        "entity entering",
+        "knower",
+        "thing probed",
+        "implier",
+        "urger",
+        "viewer",
+        "hitter",
+        "Speaker",
+        "entity proposing",
+        "inviter",
+        "event delayed",
+        "creator",
+        "decider",
+        "causer",
+        "Agent",
+        "wearer",
+        "receiver",
+        "action allowed",
+        "Agent / entity seeking",
+        "Utterance",
+        "operator",
+        "thing found",
+        "giver",
+        "thing given",
+        "reader",
+        "causer of continuation",
+        "feeler",
+        "Thinker",
+        "carrier"
+      ]
+    },
+    {
+      "characterName": "Gibarian",
+      "recipients": [
+        "depression",
+        "warning",
+        "research",
+        "victim",
+        "coward",
+        "syringe",
+        "suicide",
+        "fear"
+      ],
+      "verbs": [
+        "suffer",
+        "have",
+        "agree",
+        "be",
+        "die",
+        "pick",
+        "commit"
+      ],
+      "traits": [
+        "dead",
+        "fearful"
+      ],
+      "semanticRoles": [
+        "entity suffering",
+        "thing known or thought",
+        "explainer",
+        "agreer",
+        "picker",
+        "impelled agent",
+        "causal agent",
+        "thing seen/shown"
+      ]
+    },
+    {
+      "characterName": "her",
+      "recipients": [
+        "pretense",
+        "Chris",
+        "solution",
+        "letter",
+        "Snaut"
+      ],
+      "verbs": [
+        "enter",
+        "forgive",
+        "saw",
+        "do"
+      ],
+      "traits": [
+        "sorry"
+      ],
+      "semanticRoles": [
+        "entity entering",
+        "impelled agent",
+        "corpse",
+        "forgiver",
+        "question",
+        "loved",
+        "entity experiencing confusion",
+        "claimer",
+        "explainer",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "herself",
+      "recipients": [
+        "chair",
+        "mantle",
+        "pair",
+        "upright",
+        "herself",
+        "someone",
+        "way",
+        "Chris",
+        "desperation",
+        "horror"
+      ],
+      "verbs": [
+        "mantle",
+        "take",
+        "sit",
+        "introduce",
+        "be",
+        "continue",
+        "ask",
+        "kill",
+        "herself"
+      ],
+      "traits": [
+        "alive"
+      ],
+      "semanticRoles": [
+        "opener",
+        "person putting on clothes",
+        "agent",
+        "person wearing clothes",
+        "thing pushed",
+        "injured party",
+        "noticer",
+        "Sayer",
+        "entity being introduced",
+        "entity making introduction",
+        "thing known or thought",
+        "corpse",
+        "wanter",
+        "causer of continuation",
+        "saddened entity",
+        "Utterance",
+        "asker",
+        "stuff being put in",
+        "viewer",
+        "Thinker",
+        "loved",
+        "impelled agent",
+        "sleeper",
+        "lover",
+        "entity immersed",
+        "killer",
+        "The Reanimator",
+        "cause of convulsion",
+        "new knower",
+        "entity becoming calm"
+      ]
+    },
+    {
+      "characterName": "She",
+      "recipients": [
+        "herself",
+        "painting",
+        "memory"
+      ],
+      "verbs": [
+        "dress",
+        "look",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "person putting on clothes",
+        "Thinker",
+        "looker",
+        "entity awake"
+      ]
+    },
+    {
+      "characterName": "Hari",
+      "recipients": [
+        "side",
+        "pain",
+        "mirror",
+        "everything",
+        "blanket",
+        "herself",
+        "Chris",
+        "station",
+        "miracle",
+        "hope"
+      ],
+      "verbs": [
+        "pound",
+        "feel",
+        "look",
+        "hear",
+        "sob",
+        "poison",
+        "inject",
+        "exist",
+        "live",
+        "wait",
+        "have"
+      ],
+      "traits": [
+        "disturbed",
+        "real",
+        "distressed",
+        "dead"
+      ],
+      "semanticRoles": [
+        "place",
+        "Agent",
+        "agent",
+        "thing carried",
+        "noticer",
+        "thing seen/shown",
+        "feeler",
+        "looker",
+        "Sayer",
+        "goal",
+        "entity deceived",
+        "entity refusing",
+        "sleeper",
+        "knower",
+        "weeper",
+        "entity grabbed",
+        "causal agent",
+        "killer",
+        "injector",
+        "thing given",
+        "admitter",
+        "thing found",
+        "alive entity"
+      ]
+    },
+    {
+      "characterName": "Visitors",
+      "recipients": [
+        "animals",
+        "Visitors",
+        "conscience"
+      ],
+      "verbs": [
+        "lower",
+        "send",
+        "visitor"
+      ],
+      "traits": [
+        "inferior"
+      ],
+      "semanticRoles": [
+        "creation",
+        "entity moving something downward",
+        "thing extracted",
+        "sender",
+        "sent",
+        "thing cared for/about",
+        "thing understood"
+      ]
+    },
+    {
+      "characterName": "mother",
+      "recipients": [
+        "face",
+        "herself",
+        "eyes"
+      ],
+      "verbs": [
+        "remember",
+        "know",
+        "close"
+      ],
+      "traits": [
+        "young"
+      ],
+      "semanticRoles": [
+        "thing seen/shown",
+        "rememberer",
+        "knower",
+        "person doing the closing",
+        "assured one",
+        "asker"
+      ]
+    },
+    {
+      "characterName": "exwife",
+      "recipients": [
+        "words",
+        "Sartorius",
+        "drink"
+      ],
+      "verbs": [
+        "hurt",
+        "take",
+        "swallow"
+      ],
+      "traits": [
+        "human"
+      ],
+      "semanticRoles": [
+        "loved",
+        "claimer",
+        "agent",
+        "hitter",
+        "walker",
+        "Agent/Entity Trying",
+        "swallower",
+        "patient"
+      ]
+    }
+  ]
+}

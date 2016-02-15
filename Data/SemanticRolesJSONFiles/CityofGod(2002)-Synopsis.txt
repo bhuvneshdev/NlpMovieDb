@@ -1,0 +1,216 @@
+{
+  "movieName": "CityofGod(2002)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Rocket",
+      "recipients": [
+        "violence",
+        "desperation",
+        "part",
+        "gang",
+        "photos",
+        "life"
+      ],
+      "verbs": [
+        "demonstrate",
+        "become",
+        "take",
+        "fear"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "[causer of growth - should be possible]",
+        "demonstrator",
+        "entity afraid",
+        "photographer"
+      ]
+    },
+    {
+      "characterName": "movie",
+      "recipients": [
+        "struggle",
+        "crime",
+        "abuse",
+        "story",
+        "number"
+      ],
+      "verbs": [
+        "depict",
+        "tell",
+        "forwards"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "beginner",
+        "Speaker",
+        "shower",
+        "sender"
+      ]
+    },
+    {
+      "characterName": "gang",
+      "recipients": [
+        "Rocket",
+        "boy",
+        "chicken",
+        "beginning"
+      ],
+      "verbs": [
+        "chase",
+        "kill"
+      ],
+      "traits": [
+        "armed"
+      ],
+      "semanticRoles": [
+        "killer",
+        "wanter",
+        "follower",
+        "into what"
+      ]
+    },
+    {
+      "characterName": "boy",
+      "recipients": [
+        "position",
+        "himself",
+        "gang",
+        "Ned"
+      ],
+      "verbs": [
+        "get",
+        "infiltrate",
+        "kill"
+      ],
+      "traits": [
+        "younger"
+      ],
+      "semanticRoles": [
+        "corpse",
+        "receiver",
+        "person robbed",
+        "item being labelled",
+        "infiltrator",
+        "killer"
+      ]
+    },
+    {
+      "characterName": "hoodlums",
+      "recipients": [
+        "businesses",
+        "Hood",
+        "part",
+        "hoodlums",
+        "occupants"
+      ],
+      "verbs": [
+        "terrorize",
+        "split",
+        "protect",
+        "hold"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "intentional agent of scaring",
+        "entity causing separation",
+        "holder",
+        "impelled agent"
+      ]
+    },
+    {
+      "characterName": "Dice",
+      "recipients": [
+        "hangeron",
+        "shot",
+        "Goose",
+        "himself",
+        "Benny"
+      ],
+      "verbs": [
+        "be",
+        "fire",
+        "slay",
+        "call"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "shooter",
+        "killer"
+      ]
+    },
+    {
+      "characterName": "Z",
+      "recipients": [
+        "rival",
+        "judgment",
+        "brother",
+        "uncle",
+        "Z",
+        "picture"
+      ],
+      "verbs": [
+        "eliminate",
+        "kill",
+        "take"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "planner",
+        "entity removing",
+        "Stimulusr of humiliation",
+        "killer",
+        "wanter",
+        "corpse",
+        "patient",
+        "criminal",
+        "thing trembling",
+        "guarantee"
+      ]
+    },
+    {
+      "characterName": "friend",
+      "recipients": [
+        "point",
+        "City",
+        "life"
+      ],
+      "verbs": [
+        "decide",
+        "become",
+        "leave"
+      ],
+      "traits": [
+        "best"
+      ],
+      "semanticRoles": [
+        "decider",
+        "entity leaving",
+        "pursuer",
+        "entity shot"
+      ]
+    },
+    {
+      "characterName": "Ned",
+      "recipients": [
+        "sides",
+        "violent",
+        "war",
+        "robbery",
+        "father"
+      ],
+      "verbs": [
+        "turn",
+        "start",
+        "kill"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "turner",
+        "Agent",
+        "killer",
+        "corpse"
+      ]
+    }
+  ]
+}

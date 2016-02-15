@@ -1,0 +1,388 @@
+{
+  "movieName": "PulpFiction(1994)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Pumpkin_Tim_Roth",
+      "recipients": [
+        "cons",
+        "pros",
+        "robbery",
+        "Marsellus"
+      ],
+      "verbs": [
+        "discuss",
+        "begin",
+        "take"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "discussant",
+        "beginner",
+        "thing pulled",
+        "Agent/Entity Trying",
+        "corpse",
+        "entity leaving",
+        "action allowed"
+      ]
+    },
+    {
+      "characterName": "Bunny_Amanda_Plummer",
+      "recipients": [
+        "cons",
+        "pros",
+        "equation",
+        "restaurants",
+        "booth",
+        "diner",
+        "robbery",
+        "register",
+        "cash"
+      ],
+      "verbs": [
+        "discuss",
+        "add",
+        "stand",
+        "rob",
+        "begin",
+        "collect"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "discussant",
+        "speaker",
+        "creator",
+        "causal agent",
+        "announcer",
+        "robber",
+        "beginner",
+        "agent",
+        "thing held"
+      ]
+    },
+    {
+      "characterName": "Vincent_Vega_John_Travolta",
+      "recipients": [
+        "building",
+        "belonging",
+        "group",
+        "item",
+        "transfixes",
+        "Brett",
+        "day",
+        "Valley",
+        "bar",
+        "Butch",
+        "wife",
+        "entertained",
+        "bathroom",
+        "Thurman",
+        "home",
+        "Marsellus",
+        "member",
+        "idea",
+        "gang",
+        "Marvin",
+        "car",
+        "Vega",
+        "breakfast",
+        "Hawthorne_Grill",
+        "discussion",
+        "Bunny",
+        "morning",
+        "Pumpkin",
+        "keeper",
+        "Honey_Bunny"
+      ],
+      "verbs": [
+        "arrive",
+        "retrieve",
+        "take",
+        "execute",
+        "wear",
+        "visit",
+        "go",
+        "insult",
+        "keep",
+        "revive",
+        "run",
+        "kill",
+        "dismiss",
+        "leave",
+        "ask",
+        "shoot",
+        "have",
+        "continue",
+        "hold",
+        "be",
+        "allow"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "thing hit",
+        "killer",
+        "wearer",
+        "one party",
+        "insulter",
+        "Keeper",
+        "The Reanimator",
+        "Agent/Entity Trying",
+        "operator",
+        "knower",
+        "thing longed for",
+        "entity removing",
+        "entity leaving",
+        "corpse",
+        "asker",
+        "projectile",
+        "shooter",
+        "decider",
+        "causer of continuation",
+        "holder",
+        "allower"
+      ]
+    },
+    {
+      "characterName": "Ezekiel",
+      "recipients": [
+        "Brett",
+        "diner",
+        "themselves",
+        "club"
+      ],
+      "verbs": [
+        "execute",
+        "leave",
+        "Marsellus"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "killer",
+        "entity leaving",
+        "leader"
+      ]
+    },
+    {
+      "characterName": "Jules",
+      "recipients": [
+        "room",
+        "house",
+        "Marsellus",
+        "breakfast",
+        "Hawthorne_Grill",
+        "plan",
+        "gun",
+        "Pumpkin",
+        "wallet",
+        "Bunny"
+      ],
+      "verbs": [
+        "head",
+        "drive",
+        "call",
+        "have",
+        "reveal",
+        "pull",
+        "give",
+        "pumpkin"
+      ],
+      "traits": [
+        "certain"
+      ],
+      "semanticRoles": [
+        "speaker",
+        "leader",
+        "thing longed for",
+        "driver",
+        "decider",
+        "puller",
+        "giver",
+        "explainer"
+      ]
+    },
+    {
+      "characterName": "Marsellus_Wallace_Ving_Rhames",
+      "recipients": [
+        "Butch_Coolidge_Bruce_Willis",
+        "Wife",
+        "Willis",
+        "Vincent",
+        "town",
+        "associate",
+        "heroin",
+        "dealer",
+        "Jack_Rabbit_Slim",
+        "Mia",
+        "street",
+        "shop",
+        "Butch",
+        "basement",
+        "tortureexecution",
+        "gambler",
+        "Winston_Wolf_Harvey_Keitel",
+        "criminal",
+        "suave"
+      ],
+      "verbs": [
+        "pay",
+        "embrace",
+        "call",
+        "leave",
+        "believe",
+        "buy",
+        "visit",
+        "escort",
+        "cross",
+        "chase",
+        "wake",
+        "oversee"
+      ],
+      "traits": [
+        "nervous",
+        "friendly"
+      ],
+      "semanticRoles": [
+        "payer or buyer",
+        "includer",
+        "entity leaving",
+        "one party",
+        "buyer",
+        "subject accompanier",
+        "Utterance",
+        "crosser",
+        "machine",
+        "follower",
+        "alarm clock",
+        "entity rescued",
+        "promiser",
+        "supervisor",
+        "forgetter"
+      ]
+    },
+    {
+      "characterName": "Butch_Coolidge_Bruce_Willis",
+      "recipients": [
+        "fight",
+        "Willis",
+        "watch",
+        "dream",
+        "opponent",
+        "Marsellus",
+        "money",
+        "talk",
+        "driver",
+        "boxer",
+        "cab",
+        "morning",
+        "hometown",
+        "country",
+        "outburst",
+        "room",
+        "car",
+        "wristwatch",
+        "bedroom",
+        "gun",
+        "apartment",
+        "basement",
+        "sword",
+        "scene",
+        "town"
+      ],
+      "verbs": [
+        "throw",
+        "bring",
+        "wake",
+        "kill",
+        "take",
+        "make",
+        "\u0027s",
+        "be",
+        "travel",
+        "leave",
+        "wreck",
+        "find",
+        "notice",
+        "procure",
+        "rescue"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "money or attention",
+        "thrower",
+        "violent entity",
+        "entity embraced",
+        "insulted",
+        "bringer",
+        "other party",
+        "thing brought",
+        "alarm clock",
+        "first fighter",
+        "killer",
+        "creator",
+        "vehicle or path",
+        "entity leaving",
+        "traveller",
+        "cherisher",
+        "entity entering",
+        "finder",
+        "noticer",
+        "new knower",
+        "entity encountering something",
+        "thing followed",
+        "entity escaping",
+        "hitter",
+        "receiver",
+        "rescuer",
+        "causer of ringing",
+        "speaker",
+        "agreer"
+      ]
+    },
+    {
+      "characterName": "Thurman",
+      "recipients": [
+        "baggie",
+        "pocket",
+        "mouth",
+        "foam"
+      ],
+      "verbs": [
+        "discover",
+        "begin"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "snorter",
+        "finder",
+        "legislative body",
+        "beginner",
+        "thing brought back to life"
+      ]
+    },
+    {
+      "characterName": "Watch",
+      "recipients": [
+        "fight",
+        "Butch",
+        "greatgrandfather"
+      ],
+      "verbs": [
+        "visit",
+        "belong"
+      ],
+      "traits": [
+        "gold"
+      ],
+      "semanticRoles": [
+        "one party",
+        "thing brought",
+        "possession",
+        "thing given",
+        "thing forgotten",
+        "thing gotten"
+      ]
+    }
+  ]
+}

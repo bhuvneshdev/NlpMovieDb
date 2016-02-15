@@ -1,0 +1,77 @@
+{
+  "movieName": "LifeIsBeautiful(1997)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Guido_Orefice",
+      "recipients": [
+        "wit",
+        "board",
+        "Giosu",
+        "tasks",
+        "sacrifices",
+        "survival"
+      ],
+      "verbs": [
+        "use",
+        "see",
+        "tell",
+        "complete",
+        "hide",
+        "make",
+        "jeapordise"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "User",
+        "viewer",
+        "thing destroyed",
+        "Speaker",
+        "finisher",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "Germans",
+      "recipients": [
+        "son",
+        "preparation",
+        "house",
+        "1930s",
+        "camp",
+        "Giosu"
+      ],
+      "verbs": [
+        "arrest",
+        "transfer",
+        "discover"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "police",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Giosu",
+      "recipients": [
+        "shower",
+        "Dora"
+      ],
+      "verbs": [
+        "take",
+        "free"
+      ],
+      "traits": [
+        "pessimistic"
+      ],
+      "semanticRoles": [
+        "Utterance",
+        "money",
+        "entity escaping",
+        "entity refusing",
+        "thing found",
+        "entity providing freedom"
+      ]
+    }
+  ]
+}

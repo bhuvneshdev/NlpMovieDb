@@ -1,0 +1,266 @@
+{
+  "movieName": "Stalker(1979)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "stalker",
+      "recipients": [
+        "guide",
+        "men",
+        "bar",
+        "Zone",
+        "Writer",
+        "group",
+        "Professor",
+        "journey",
+        "wall",
+        "power",
+        "he",
+        "threshold",
+        "failure",
+        "failures",
+        "people",
+        "Room",
+        "daughter",
+        "river"
+      ],
+      "verbs": [
+        "be",
+        "guide",
+        "leave",
+        "send",
+        "rejoin",
+        "dissuade",
+        "tell",
+        "continue",
+        "pass",
+        "meet",
+        "talk",
+        "convince",
+        "lead",
+        "stop",
+        "help",
+        "bring",
+        "carry",
+        "walk"
+      ],
+      "traits": [
+        "tearful",
+        "depressed",
+        "married"
+      ],
+      "semanticRoles": [
+        "opener",
+        "guide",
+        "entity leaving",
+        "driver",
+        "sender",
+        "Utterance",
+        "agent",
+        "thrower",
+        "swearer",
+        "convincer",
+        "Speaker",
+        "causer of continuation",
+        "causer of continuing event",
+        "legislative body",
+        "achiever",
+        "applauder",
+        "talker",
+        "leader",
+        "thing torn",
+        "first struggler",
+        "helper",
+        "replier",
+        "bringer",
+        "carrier",
+        "walker"
+      ]
+    },
+    {
+      "characterName": "Room",
+      "recipients": [
+        "Zone",
+        "ones"
+      ],
+      "verbs": [
+        "be",
+        "grant"
+      ],
+      "traits": [
+        "dingy",
+        "illuminated"
+      ],
+      "semanticRoles": [
+        "Utterance",
+        "granter",
+        "thing seen/shown",
+        "place",
+        "goal"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "sink",
+        "himself",
+        "woman",
+        "room",
+        "waterfront",
+        "couple"
+      ],
+      "verbs": [
+        "go",
+        "wash",
+        "push",
+        "argue",
+        "leaf",
+        "dismiss",
+        "wait"
+      ],
+      "traits": [
+        "third"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "agent of washing",
+        "person putting on clothes",
+        "first thing being tied",
+        "thing landing",
+        "allower",
+        "speaker",
+        "entity leaving",
+        "pusher",
+        "goal",
+        "entity removing",
+        "walker"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "bar",
+        "Zone"
+      ],
+      "verbs": [
+        "leave"
+      ],
+      "traits": [
+        "able",
+        "sincere"
+      ],
+      "semanticRoles": [
+        "achiever",
+        "Agent",
+        "entity guided",
+        "entity leaving",
+        "thing led",
+        "fulfiller",
+        "wisher"
+      ]
+    },
+    {
+      "characterName": "Writer",
+      "recipients": [
+        "car",
+        "Stalker",
+        "journey",
+        "power",
+        "door",
+        "direction",
+        "monologue",
+        "sorts"
+      ],
+      "verbs": [
+        "look",
+        "return",
+        "continue",
+        "talk",
+        "reach",
+        "proceed",
+        "deliver",
+        "bring"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "explainer",
+        "sent",
+        "looker",
+        "turner",
+        "causer of continuation",
+        "thrower",
+        "talker",
+        "designated",
+        "thing striving",
+        "sender",
+        "causer of continuing event",
+        "entity refusing",
+        "bringer",
+        "place"
+      ]
+    },
+    {
+      "characterName": "Professor",
+      "recipients": [
+        "volunteers",
+        "story",
+        "absence",
+        "group",
+        "power",
+        "knapsack",
+        "pieces",
+        "water",
+        "bomb"
+      ],
+      "verbs": [
+        "calmly",
+        "relate",
+        "fetch",
+        "want",
+        "carry",
+        "throw",
+        "take"
+      ],
+      "traits": [
+        "serene",
+        "nuclear"
+      ],
+      "semanticRoles": [
+        "agent",
+        "swearer",
+        "impelled (non)agent",
+        "entity refusing",
+        "bringer",
+        "wanter",
+        "Utterance",
+        "goal",
+        "entity leaving",
+        "thrower",
+        "creator",
+        "carrier",
+        "place"
+      ]
+    },
+    {
+      "characterName": "he",
+      "recipients": [
+        "voice",
+        "pistol",
+        "chestdeep",
+        "stone"
+      ],
+      "verbs": [
+        "hear",
+        "pull",
+        "throw",
+        "drop"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "impelled agent",
+        "thrower",
+        "puller",
+        "entity doing the dropping"
+      ]
+    }
+  ]
+}

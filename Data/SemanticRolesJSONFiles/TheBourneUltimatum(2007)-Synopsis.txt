@@ -1,0 +1,244 @@
+{
+  "movieName": "TheBourneUltimatum(2007)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Simon_Ross",
+      "recipients": [
+        "Treadstone",
+        "Blackbriar",
+        "capture"
+      ],
+      "verbs": [
+        "discuss",
+        "mention",
+        "evade"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "discussant",
+        "thing followed",
+        "speaker",
+        "corpse",
+        "entity in motion",
+        "avoider"
+      ]
+    },
+    {
+      "characterName": "Paz",
+      "recipients": [
+        "Ross",
+        "Bourne",
+        "gun"
+      ],
+      "verbs": [
+        "kill",
+        "confront",
+        "ask",
+        "lower"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "killer",
+        "sent",
+        "thing gotten",
+        "asker",
+        "confrontational entity",
+        "question",
+        "entity moving something downward"
+      ]
+    },
+    {
+      "characterName": "Bourne",
+      "recipients": [
+        "way",
+        "Desh",
+        "Daniels",
+        "death",
+        "hiding",
+        "Parsons",
+        "address",
+        "contents",
+        "New_York_City",
+        "Landy",
+        "office",
+        "documents",
+        "Paz",
+        "gunpoint",
+        "files",
+        "Treadstone",
+        "Hirsch",
+        "Bourne",
+        "what",
+        "roof"
+      ],
+      "verbs": [
+        "make",
+        "follow",
+        "prevent",
+        "kill",
+        "send",
+        "find",
+        "examine",
+        "travels",
+        "tell",
+        "watch",
+        "break",
+        "steal",
+        "get",
+        "give",
+        "volunteer",
+        "encounter",
+        "ask",
+        "jump"
+      ],
+      "traits": [
+        "Jason_Bourne"
+      ],
+      "semanticRoles": [
+        "new knower",
+        "creator",
+        "finder",
+        "disabler",
+        "project",
+        "Agent",
+        "causal agent",
+        "manager",
+        "sender",
+        "killer",
+        "examiner",
+        "traveller",
+        "Utterance",
+        "Speaker",
+        "thing gotten",
+        "thief",
+        "breaker",
+        "thing given",
+        "receiver",
+        "holder",
+        "giver",
+        "achiever",
+        "entity encountering something",
+        "rememberer",
+        "entity volunteering",
+        "announcer",
+        "question",
+        "entity confronted",
+        "corpse",
+        "knower",
+        "speaker",
+        "Thing thought about",
+        "asker",
+        "operator",
+        "thing seen/shown"
+      ]
+    },
+    {
+      "characterName": "Pamela_Landy",
+      "recipients": [
+        "Vosen",
+        "which",
+        "rest",
+        "Bourne",
+        "receiver",
+        "files",
+        "information"
+      ],
+      "verbs": [
+        "help",
+        "understand",
+        "get",
+        "give",
+        "fax",
+        "release"
+      ],
+      "traits": [
+        "unsuccessful"
+      ],
+      "semanticRoles": [
+        "thing brought",
+        "thing assigned",
+        "helper",
+        "first arguer",
+        "speaker",
+        "sent",
+        "understander",
+        "receiver",
+        "Utterance",
+        "looker",
+        "thing following",
+        "giver",
+        "thing given",
+        "sender",
+        "releaser"
+      ]
+    },
+    {
+      "characterName": "Vosen",
+      "recipients": [
+        "Blackbriar",
+        "call",
+        "which",
+        "office",
+        "Landy",
+        "Bourne",
+        "text",
+        "Paz",
+        "Dr",
+        "East_River"
+      ],
+      "verbs": [
+        "direct",
+        "tap",
+        "understand",
+        "intercept",
+        "send",
+        "warn",
+        "shoot",
+        "leap"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "project",
+        "student",
+        "director",
+        "agent",
+        "understander",
+        "entity leaving",
+        "interceptor",
+        "sender",
+        "thinker",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Parsons",
+      "recipients": [
+        "Daniels",
+        "information",
+        "Desh",
+        "broadcast",
+        "investigation",
+        "David_Webb",
+        "arrests"
+      ],
+      "verbs": [
+        "track",
+        "log",
+        "send",
+        "watch"
+      ],
+      "traits": [
+        "unable"
+      ],
+      "semanticRoles": [
+        "Agent/Entity Trying",
+        "thing following",
+        "sender",
+        "recorder",
+        "corpse",
+        "sent"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "movieName": "GoodWillHunting(1997)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "subconsciously",
+      "recipients": [
+        "selfloathing",
+        "form",
+        "himself",
+        "upbringing"
+      ],
+      "verbs": [
+        "turn",
+        "blame"
+      ],
+      "traits": [
+        "abused",
+        "foster"
+      ],
+      "semanticRoles": [
+        "blamer",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "Will",
+      "recipients": [
+        "problem",
+        "board",
+        "Lambeau",
+        "Will",
+        "youth",
+        "potential",
+        "latter",
+        "point",
+        "painting",
+        "chances",
+        "appointment",
+        "relationship",
+        "look",
+        "California",
+        "thought",
+        "while",
+        "tantrum",
+        "Chuckie",
+        "session",
+        "note",
+        "life"
+      ],
+      "verbs": [
+        "solve",
+        "vandalize",
+        "attack",
+        "have",
+        "choose",
+        "analyze",
+        "ruin",
+        "walk",
+        "end",
+        "establish",
+        "take",
+        "move",
+        "panic",
+        "storm",
+        "tell",
+        "go",
+        "leaf",
+        "left"
+      ],
+      "traits": [
+        "adept",
+        "defensive"
+      ],
+      "semanticRoles": [
+        "solver",
+        "the problem",
+        "thing found",
+        "vandal",
+        "thing followed",
+        "turner",
+        "attacker",
+        "picker",
+        "student",
+        "destroyer",
+        "Intentional agent",
+        "walker",
+        "entity grabbed",
+        "thing viewed",
+        "thing hit",
+        "Agent/Entity Trying",
+        "impelled agent",
+        "agent",
+        "thing pushed",
+        "entity refusing",
+        "mover",
+        "question",
+        "envied",
+        "provider",
+        "Speaker",
+        "decider",
+        "entity leaving",
+        "thing seen/shown"
+      ]
+    },
+    {
+      "characterName": "Gerald_Lambeau",
+      "recipients": [
+        "problem",
+        "Will",
+        "trial",
+        "Lambeau",
+        "week",
+        "future",
+        "event",
+        "work"
+      ],
+      "verbs": [
+        "put",
+        "track",
+        "go",
+        "bring",
+        "push",
+        "arrange",
+        "squabble",
+        "realize",
+        "shrug",
+        "envy",
+        "do"
+      ],
+      "traits": [
+        "incapable"
+      ],
+      "semanticRoles": [
+        "entity leaving",
+        "thing vandalized",
+        "Agent/Entity Trying",
+        "thing following",
+        "path walked",
+        "Utterance",
+        "bringer",
+        "thing brought",
+        "pusher",
+        "builder",
+        "first arguer",
+        "new knower",
+        "viewer",
+        "envier"
+      ]
+    },
+    {
+      "characterName": "Realizing",
+      "recipients": [
+        "mathematics",
+        "psychotherapist",
+        "therapy"
+      ],
+      "verbs": [
+        "study",
+        "see",
+        "need"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing released",
+        "viewer",
+        "student",
+        "needer"
+      ]
+    },
+    {
+      "characterName": "Sean",
+      "recipients": [
+        "feelings",
+        "guilt",
+        "himself",
+        "Will",
+        "throat",
+        "Lambeau",
+        "Maguire",
+        "future",
+        "door",
+        "world"
+      ],
+      "verbs": [
+        "suppress",
+        "do",
+        "grab",
+        "see",
+        "tell",
+        "encourage",
+        "take",
+        "squabble",
+        "show",
+        "travel"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "first arguer",
+        "decider",
+        "suppressor",
+        "grabber",
+        "Speaker",
+        "viewer",
+        "convincer",
+        "agreer",
+        "pointer",
+        "shower",
+        "sharer",
+        "explainer",
+        "entity leaving",
+        "traveller"
+      ]
+    },
+    {
+      "characterName": "Maguire",
+      "recipients": [
+        "Will",
+        "neighborhood",
+        "bar",
+        "cancer",
+        "death",
+        "reason",
+        "acknowledgment",
+        "what"
+      ],
+      "verbs": [
+        "push",
+        "be",
+        "meet",
+        "consider",
+        "break",
+        "do"
+      ],
+      "traits": [
+        "young",
+        "unable"
+      ],
+      "semanticRoles": [
+        "pusher",
+        "Utterance",
+        "achiever",
+        "thinker",
+        "allower",
+        "abadoner",
+        "breaker"
+      ]
+    },
+    {
+      "characterName": "Skylar",
+      "recipients": [
+        "Will",
+        "Stanford",
+        "school",
+        "past",
+        "support",
+        "tantrum"
+      ],
+      "verbs": [
+        "ask",
+        "begin",
+        "express",
+        "trigger"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "beginner",
+        "asker",
+        "speaker"
+      ]
+    },
+    {
+      "characterName": "friend",
+      "recipients": [
+        "work",
+        "friend",
+        "insult",
+        "laborer"
+      ],
+      "verbs": [
+        "pick",
+        "\u0027s",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "picker",
+        "finder",
+        "thing picked",
+        "wanter",
+        "entity leaving"
+      ]
+    }
+  ]
+}

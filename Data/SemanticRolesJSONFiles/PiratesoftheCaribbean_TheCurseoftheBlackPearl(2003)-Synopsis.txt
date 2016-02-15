@@ -1,0 +1,270 @@
+{
+  "movieName": "PiratesoftheCaribbean_TheCurseoftheBlackPearl(2003)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Elizabeth",
+      "recipients": [
+        "medallion",
+        "rampart",
+        "emits",
+        "pulse",
+        "daughter",
+        "Turner",
+        "exchange",
+        "attack",
+        "key",
+        "coin",
+        "child",
+        "chest",
+        "Bootstrap",
+        "truth",
+        "Norrington",
+        "pirates",
+        "Pearl",
+        "crew",
+        "help",
+        "island",
+        "infiltrates",
+        "Barbossa",
+        "support",
+        "Elizabeth",
+        "love",
+        "Will"
+      ],
+      "verbs": [
+        "find",
+        "fall",
+        "wear",
+        "\u0027s",
+        "be",
+        "cease",
+        "anoint",
+        "drop",
+        "discover",
+        "convince",
+        "destroy",
+        "infiltrate",
+        "free",
+        "enlist",
+        "head",
+        "save",
+        "battle",
+        "lend",
+        "declare"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "finder",
+        "fainter",
+        "impelled action",
+        "replier",
+        "wearer",
+        "entity rescued",
+        "invoker",
+        "thing gotten",
+        "Speaker",
+        "causer of ceasing",
+        "negotiator",
+        "loved",
+        "entity doing the dropping",
+        "anointer",
+        "entity made free",
+        "convincer",
+        "entity providing freedom",
+        "infiltrator",
+        "Agent/Entity Trying",
+        "signer",
+        "leader",
+        "combatant",
+        "entity saving money",
+        "thing lent",
+        "declarer",
+        "lender",
+        "one half"
+      ]
+    },
+    {
+      "characterName": "Will",
+      "recipients": [
+        "Jack_Sparrow",
+        "Elizabeth",
+        "past",
+        "medallions",
+        "Jack"
+      ],
+      "verbs": [
+        "persuade",
+        "love",
+        "learn",
+        "return",
+        "rescue",
+        "marry"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "accused",
+        "convincer",
+        "lover",
+        "project",
+        "student",
+        "speaker",
+        "entity rescued",
+        "rescuer",
+        "causer",
+        "thing granted",
+        "action allowed"
+      ]
+    },
+    {
+      "characterName": "James_Norrington",
+      "recipients": [
+        "Elizabeth",
+        "ceremony",
+        "Norrington",
+        "fire",
+        "Will",
+        "crew",
+        "start"
+      ],
+      "verbs": [
+        "propose",
+        "recognize",
+        "spotted",
+        "rescue",
+        "tell",
+        "kill",
+        "allow"
+      ],
+      "traits": [
+        "impressed"
+      ],
+      "semanticRoles": [
+        "thing in motion",
+        "entity proposing",
+        "applauded",
+        "applauder",
+        "criminal",
+        "finder",
+        "impelled agent",
+        "rescuer",
+        "Speaker",
+        "killer",
+        "Utterance",
+        "agent",
+        "allower"
+      ]
+    },
+    {
+      "characterName": "Jack_Sparrow",
+      "recipients": [
+        "Port_Royal",
+        "ship",
+        "Elizabeth",
+        "shop",
+        "Will_Turner",
+        "Will",
+        "son",
+        "himself",
+        "island",
+        "coin",
+        "chest",
+        "allegiance",
+        "Barbossa"
+      ],
+      "verbs": [
+        "arrive",
+        "commandeer",
+        "rescue",
+        "escape",
+        "encounter",
+        "help",
+        "be",
+        "shoot",
+        "get",
+        "remove",
+        "reveal",
+        "toss"
+      ],
+      "traits": [
+        "mysterious"
+      ],
+      "semanticRoles": [
+        "agent",
+        "rescuer",
+        "entity escaping",
+        "evader",
+        "entity encountering something",
+        "thing hit",
+        "criminal",
+        "entity made free",
+        "impelled agent",
+        "helper",
+        "agreer",
+        "knower",
+        "shooter",
+        "receiver",
+        "entity removing",
+        "speaker",
+        "tosser(s)",
+        "entity saving money",
+        "corpse",
+        "entity rescued",
+        "alive entity",
+        "deserving entity (entity who is owed)"
+      ]
+    },
+    {
+      "characterName": "Barbossa",
+      "recipients": [
+        "Bootstrap",
+        "cave",
+        "Pearl",
+        "child",
+        "loophole",
+        "crew",
+        "brig"
+      ],
+      "verbs": [
+        "have",
+        "remains",
+        "reveal",
+        "apply",
+        "throw"
+      ],
+      "traits": [
+        "wounded"
+      ],
+      "semanticRoles": [
+        "agreer",
+        "speaker",
+        "Sayer",
+        "applier",
+        "thrower",
+        "fight or other combatant",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "crew",
+      "recipients": [
+        "Captain",
+        "Jack"
+      ],
+      "verbs": [
+        "make",
+        "rescue"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity made free",
+        "thing thrown",
+        "corpse",
+        "creator",
+        "entity escaping",
+        "rescuer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "movieName": "Gladiator(2000)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Marcus_Aurelius",
+      "recipients": [
+        "son",
+        "leadership",
+        "time"
+      ],
+      "verbs": [
+        "have",
+        "appoint",
+        "inform"
+      ],
+      "traits": [
+        "elderly"
+      ],
+      "semanticRoles": [
+        "appointer",
+        "decider",
+        "informer"
+      ]
+    },
+    {
+      "characterName": "Maximus_Decimus_Meridius",
+      "recipients": [
+        "D.",
+        "Juba",
+        "Hagen",
+        "barbarian",
+        "reunification",
+        "victory",
+        "recreation",
+        "decision",
+        "battle",
+        "Commodus",
+        "Tigris",
+        "fight",
+        "Cicero",
+        "plot",
+        "death",
+        "wound",
+        "Maximus",
+        "sword",
+        "submission",
+        "son",
+        "wife"
+      ],
+      "verbs": [
+        "lead",
+        "befriend",
+        "maximus",
+        "defeat",
+        "spare",
+        "meet",
+        "form",
+        "witness",
+        "have",
+        "exceed",
+        "drop",
+        "beat",
+        "kill",
+        "see"
+      ],
+      "traits": [
+        "grieving",
+        "stabs",
+        "Commodus",
+        "own"
+      ],
+      "semanticRoles": [
+        "leader",
+        "question",
+        "thing found",
+        "entity refusing",
+        "first fighter",
+        "entity changing",
+        "agentive friend",
+        "corpse",
+        "alive entity",
+        "action allowed",
+        "one combatant",
+        "thing aimed at",
+        "entity victorious",
+        "savior",
+        "utterance",
+        "achiever",
+        "(first) thing(s) being unified",
+        "creator",
+        "entity escaping",
+        "entity ambushed",
+        "agent",
+        "thing that\u0027s more",
+        "thing that\u0027s less",
+        "entity doing the dropping",
+        "killer",
+        "viewer",
+        "causer of collapse"
+      ]
+    },
+    {
+      "characterName": "Commodus",
+      "recipients": [
+        "father",
+        "bout",
+        "Maximus",
+        "loyalty",
+        "lead",
+        "himself",
+        "arena",
+        "Rome",
+        "games",
+        "victors",
+        "sister",
+        "son",
+        "sword",
+        "attack",
+        "stiletto",
+        "Colosseum",
+        "wife"
+      ],
+      "verbs": [
+        "smother",
+        "ask",
+        "refuse",
+        "defend",
+        "reopen",
+        "descend",
+        "meet",
+        "discover",
+        "pit",
+        "threaten",
+        "request",
+        "renew",
+        "pull",
+        "collapse",
+        "reach"
+      ],
+      "traits": [
+        "stunned",
+        "sister"
+      ],
+      "semanticRoles": [
+        "cause of difficult breathing",
+        "informed",
+        "asker",
+        "entity refusing",
+        "thing purchased",
+        "thing found",
+        "defender",
+        "trainer",
+        "first fighter",
+        "opener",
+        "achiever",
+        "finder",
+        "entity descending",
+        "entity setting up a fight",
+        "entity defeated",
+        "entity overthrown",
+        "agent",
+        "puller",
+        "corpse",
+        "thing hit",
+        "causer of collapse",
+        "thing pulled",
+        "thing striving"
+      ]
+    },
+    {
+      "characterName": "orders",
+      "recipients": [
+        "Guards",
+        "execution",
+        "government",
+        "Rome"
+      ],
+      "verbs": [
+        "maximus",
+        "return"
+      ],
+      "traits": [
+        "Commodus",
+        "Maximus"
+      ],
+      "semanticRoles": [
+        "namer",
+        "instructor"
+      ]
+    }
+  ]
+}

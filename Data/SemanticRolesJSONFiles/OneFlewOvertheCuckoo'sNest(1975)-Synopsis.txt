@@ -1,0 +1,225 @@
+{
+  "movieName": "OneFlewOvertheCuckoo\u0027sNest(1975)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Randle_Patrick_McMurphy",
+      "recipients": [
+        "Oregon",
+        "rest",
+        "friendships",
+        "figure",
+        "Chief",
+        "size",
+        "ward",
+        "session",
+        "patients",
+        "game",
+        "objections",
+        "piece",
+        "situation",
+        "time",
+        "attendant",
+        "date",
+        "evening",
+        "room",
+        "suicide",
+        "rage"
+      ],
+      "verbs": [
+        "decide",
+        "serve",
+        "form",
+        "want",
+        "see",
+        "insult",
+        "use",
+        "enter",
+        "propose",
+        "lead",
+        "ignore",
+        "offer",
+        "fake",
+        "allow",
+        "convince",
+        "leave",
+        "rush",
+        "commit",
+        "explode"
+      ],
+      "traits": [
+        "surprised"
+      ],
+      "semanticRoles": [
+        "decider",
+        "worker",
+        "expecter",
+        "entity changing",
+        "creator",
+        "wanter",
+        "viewer",
+        "entity entering",
+        "User",
+        "insulter",
+        "entity proposing",
+        "thing preferred",
+        "thinker",
+        "beginner",
+        "leader",
+        "ignorer",
+        "faker",
+        "new knower",
+        "allower",
+        "entity making resolution",
+        "convincer",
+        "entity leaving",
+        "impelled agent",
+        "causer of motion",
+        "causal agent",
+        "bomber",
+        "thing hit",
+        "entity in motion",
+        "place"
+      ]
+    },
+    {
+      "characterName": "patients",
+      "recipients": [
+        "control",
+        "Series",
+        "pool"
+      ],
+      "verbs": [
+        "be",
+        "watch",
+        "relax"
+      ],
+      "traits": [
+        "other",
+        "disruptive"
+      ],
+      "semanticRoles": [
+        "entity intimidated",
+        "understander",
+        "thing led",
+        "entity removing",
+        "thing causing relaxation",
+        "drinker",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Ratched",
+      "recipients": [
+        "manchild",
+        "mess",
+        "her",
+        "authority",
+        "rules",
+        "morning",
+        "others",
+        "mother"
+      ],
+      "verbs": [
+        "humiliate",
+        "antagonize",
+        "undermine",
+        "alter",
+        "arrive",
+        "demand",
+        "tell"
+      ],
+      "traits": [
+        "angry"
+      ],
+      "semanticRoles": [
+        "Stimulusr of humiliation",
+        "causer",
+        "causal agent",
+        "entity making resolution",
+        "assigner",
+        "asker",
+        "Speaker",
+        "agent",
+        "appealed to",
+        "entity strangled"
+      ]
+    },
+    {
+      "characterName": "Billy_Bibbit",
+      "recipients": [
+        "Mac",
+        "sex",
+        "Billy"
+      ],
+      "verbs": [
+        "hint",
+        "have",
+        "tell",
+        "allow"
+      ],
+      "traits": [
+        "fellow"
+      ],
+      "semanticRoles": [
+        "flirt",
+        "Sayer",
+        "action allowed",
+        "thing given",
+        "thing found",
+        "allower",
+        "Utterance",
+        "Speaker",
+        "Thinker",
+        "thing dragged",
+        "breaker",
+        "thing led"
+      ]
+    },
+    {
+      "characterName": "Chief",
+      "recipients": [
+        "bed",
+        "scars",
+        "friend"
+      ],
+      "verbs": [
+        "sneak",
+        "see",
+        "suffocate"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "insulted",
+        "talker",
+        "action allowed",
+        "finder",
+        "entity sneaking",
+        "viewer",
+        "cause of not-breathing"
+      ]
+    },
+    {
+      "characterName": "orderlies",
+      "recipients": [
+        "window",
+        "count",
+        "night",
+        "bed",
+        "McMurphy"
+      ],
+      "verbs": [
+        "lock",
+        "conduct",
+        "return"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "claimer",
+        "conductor",
+        "agent",
+        "gotten",
+        "finder"
+      ]
+    }
+  ]
+}

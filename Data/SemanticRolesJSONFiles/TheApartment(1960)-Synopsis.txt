@@ -1,0 +1,160 @@
+{
+  "movieName": "TheApartment(1960)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Baxter",
+      "recipients": [
+        "drone",
+        "demands",
+        "Charlie",
+        "criticism",
+        "truth",
+        "apartment",
+        "Kubelik",
+        "party",
+        "relationship",
+        "realization",
+        "woman",
+        "home",
+        "help",
+        "which",
+        "affair",
+        "stand",
+        "firm",
+        "man",
+        "love"
+      ],
+      "verbs": [
+        "be",
+        "juggle",
+        "accept",
+        "reveal",
+        "use",
+        "ask",
+        "forgive",
+        "discover",
+        "conceal",
+        "pick",
+        "find",
+        "send",
+        "enlist",
+        "concede",
+        "have",
+        "take",
+        "quit",
+        "declare"
+      ],
+      "traits": [
+        "willing",
+        "depressed"
+      ],
+      "semanticRoles": [
+        "juggler",
+        "speaker",
+        "acceptor",
+        "User",
+        "action allowed",
+        "thing given",
+        "asker",
+        "disappointed",
+        "forgiver",
+        "finder",
+        "agent",
+        "picker",
+        "sender",
+        "signer",
+        "entity admitting something",
+        "quitter",
+        "loved",
+        "entity experiencing confusion",
+        "declarer"
+      ]
+    },
+    {
+      "characterName": "Fran_Kubelik",
+      "recipients": [
+        "Kubelik",
+        "secretary",
+        "apartment",
+        "Sheldrake",
+        "family",
+        "care",
+        "neighbour",
+        "affair",
+        "access"
+      ],
+      "verbs": [
+        "meet",
+        "learn",
+        "confront",
+        "return",
+        "recuperate",
+        "entertain",
+        "have",
+        "deny"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing brought",
+        "achiever",
+        "question",
+        "goal",
+        "entity forgiven",
+        "student",
+        "entity leaving",
+        "maintainer",
+        "confrontational entity",
+        "thing found",
+        "thing brought back to life",
+        "entertainer",
+        "agent or Stimulusr",
+        "Agent/Entity Trying",
+        "thing directed",
+        "denier"
+      ]
+    },
+    {
+      "characterName": "Sheldrake",
+      "recipients": [
+        "illicit",
+        "praise",
+        "tickets",
+        "Baxter",
+        "apartment",
+        "promotion",
+        "gratitude",
+        "involvement",
+        "Kubelik",
+        "room",
+        "bachelorhood",
+        "stand"
+      ],
+      "verbs": [
+        "suspect",
+        "give",
+        "charm",
+        "profess",
+        "avoid",
+        "string",
+        "move",
+        "enjoy",
+        "demand"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "suspecter",
+        "allower",
+        "giver",
+        "charmer",
+        "entity confronted",
+        "professor",
+        "avoider",
+        "shooter",
+        "mover",
+        "causer of continuation",
+        "enjoyer",
+        "asker"
+      ]
+    }
+  ]
+}

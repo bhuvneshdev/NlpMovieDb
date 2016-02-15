@@ -1,0 +1,329 @@
+{
+  "movieName": "ThePianist(2002)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Wladyslaw_Szpilman",
+      "recipients": [
+        "friend",
+        "home",
+        "brother",
+        "piano",
+        "restaurant",
+        "Janina_Godlewska",
+        "ghetto",
+        "load",
+        "guns",
+        "husband",
+        "Janina",
+        "chances",
+        "accident",
+        "apartment",
+        "building",
+        "starvation",
+        "hospital",
+        "wasteland",
+        "partisans",
+        "Polish",
+        "Szpilman",
+        "Hosenfeld",
+        "man"
+      ],
+      "verbs": [
+        "find",
+        "return",
+        "take",
+        "see",
+        "help",
+        "drop",
+        "escape",
+        "have",
+        "remains",
+        "scurry",
+        "face",
+        "hide",
+        "flee",
+        "jump",
+        "be",
+        "kill"
+      ],
+      "traits": [
+        "German",
+        "unable"
+      ],
+      "semanticRoles": [
+        "entity being introduced",
+        "finder",
+        "thing pulled",
+        "thing viewed",
+        "agent",
+        "viewer",
+        "Thinker",
+        "student",
+        "helper",
+        "thing given",
+        "entity doing the dropping",
+        "thing gotten",
+        "entity escaping",
+        "decider",
+        "entity in motion",
+        "suspicion: what arg0 thinks",
+        "looker",
+        "fleer",
+        "convincer",
+        "Agent/Entity Trying",
+        "killer",
+        "corpse",
+        "thing brought",
+        "alive entity"
+      ]
+    },
+    {
+      "characterName": "family",
+      "recipients": [
+        "possibility",
+        "ghetto",
+        "night",
+        "march",
+        "house",
+        "family"
+      ],
+      "verbs": [
+        "discuss",
+        "move",
+        "see",
+        "arrest"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "discussant",
+        "honorer",
+        "mover",
+        "Logical subject",
+        "survivor",
+        "criminal",
+        "police",
+        "viewer",
+        "package",
+        "entity selected"
+      ]
+    },
+    {
+      "characterName": "Wladek",
+      "recipients": [
+        "something",
+        "sack",
+        "Uprising",
+        "put",
+        "address",
+        "Dorota",
+        "time",
+        "Warsaw_Uprising"
+      ],
+      "verbs": [
+        "hide",
+        "watch",
+        "stay",
+        "go",
+        "meet",
+        "recover",
+        "see"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "object accompanied",
+        "student",
+        "achiever",
+        "helper",
+        "moved",
+        "decider",
+        "thing given",
+        "thing gotten",
+        "viewer",
+        "fleer"
+      ]
+    },
+    {
+      "characterName": "Dorota",
+      "recipients": [
+        "Wladek",
+        "husband"
+      ],
+      "verbs": [
+        "accompany",
+        "hide",
+        "finding"
+      ],
+      "traits": [
+        "pregnant"
+      ],
+      "semanticRoles": [
+        "subject accompanier",
+        "goal",
+        "finder",
+        "project"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "job",
+        "zlotys"
+      ],
+      "verbs": [
+        "take",
+        "use"
+      ],
+      "traits": [
+        "aged"
+      ],
+      "semanticRoles": [
+        "protester",
+        "beginner",
+        "thing hit",
+        "forbidden action",
+        "walker",
+        "applier",
+        "User"
+      ]
+    },
+    {
+      "characterName": "Nazis",
+      "recipients": [
+        "ghetto",
+        "weapons",
+        "matter",
+        "Wladek"
+      ],
+      "verbs": [
+        "keep",
+        "find",
+        "\u0027s",
+        "catch"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Keeper",
+        "finder",
+        "receiver",
+        "Agent"
+      ]
+    },
+    {
+      "characterName": "Gebczynski",
+      "recipients": [
+        "night",
+        "Szpilman",
+        "Gebczynski",
+        "apartment",
+        "Wladek"
+      ],
+      "verbs": [
+        "hide",
+        "take",
+        "believe",
+        "move"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "alive entity",
+        "mover",
+        "wanter",
+        "impelled agent",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "Poles",
+      "recipients": [
+        "Warsaw_Uprising",
+        "control",
+        "Soviet_Red_Army",
+        "Spring",
+        "insults"
+      ],
+      "verbs": [
+        "try",
+        "retake",
+        "expect",
+        "walk",
+        "hurl"
+      ],
+      "traits": [
+        "freed"
+      ],
+      "semanticRoles": [
+        "Agent/Entity Trying",
+        "taker",
+        "expecter",
+        "walker",
+        "hurler"
+      ]
+    },
+    {
+      "characterName": "Germans",
+      "recipients": [
+        "population",
+        "revolt",
+        "Warsaw"
+      ],
+      "verbs": [
+        "drive",
+        "put",
+        "burn"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "driver",
+        "action allowed",
+        "decider",
+        "pyromaniac"
+      ]
+    },
+    {
+      "characterName": "Hosenfeld",
+      "recipients": [
+        "rendition",
+        "house",
+        "overcoat",
+        "Wladek",
+        "parcel",
+        "surname",
+        "Hosenfeld",
+        "days",
+        "coat",
+        "fence",
+        "gulag"
+      ],
+      "verbs": [
+        "play",
+        "abandon",
+        "give",
+        "ask",
+        "listen",
+        "tell",
+        "see",
+        "go",
+        "die"
+      ],
+      "traits": [
+        "first"
+      ],
+      "semanticRoles": [
+        "thing found",
+        "player",
+        "causer of continuation",
+        "action allowed",
+        "survivor",
+        "helper",
+        "abandoner",
+        "giver",
+        "asker",
+        "promiser",
+        "listener",
+        "Speaker",
+        "Utterance",
+        "project"
+      ]
+    }
+  ]
+}

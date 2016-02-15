@@ -1,0 +1,67 @@
+{
+  "movieName": "EternalSunshineoftheSpotlessMind(2004)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Joel_Barish",
+      "recipients": [
+        "man",
+        "girlfriend",
+        "spirit",
+        "doctor",
+        "procedure",
+        "thoughts",
+        "memories",
+        "way",
+        "Barish",
+        "Lacuna"
+      ],
+      "verbs": [
+        "be",
+        "go",
+        "have",
+        "keep",
+        "find",
+        "try",
+        "listen"
+      ],
+      "traits": [
+        "best"
+      ],
+      "semanticRoles": [
+        "thing destroyed",
+        "decider",
+        "wanter",
+        "Keeper",
+        "Agent/Entity Trying",
+        "finder",
+        "thing tried",
+        "sent",
+        "receiver",
+        "listener",
+        "new knower"
+      ]
+    },
+    {
+      "characterName": "Patrick",
+      "recipients": [
+        "memories",
+        "mementos",
+        "Lacuna"
+      ],
+      "verbs": [
+        "erase",
+        "use",
+        "give"
+      ],
+      "traits": [
+        "inept"
+      ],
+      "semanticRoles": [
+        "eraser",
+        "Agent/Entity Trying",
+        "User",
+        "giver"
+      ]
+    }
+  ]
+}

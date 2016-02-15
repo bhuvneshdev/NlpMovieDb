@@ -1,0 +1,321 @@
+{
+  "movieName": "ThereWillBeBlood(2007)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Daniel_Plainview",
+      "recipients": [
+        "mine",
+        "wilderness",
+        "crew",
+        "oil",
+        "pump",
+        "himself",
+        "man",
+        "people",
+        "need",
+        "work",
+        "men",
+        "son",
+        "offer",
+        "contract",
+        "husband",
+        "night",
+        "half",
+        "rest",
+        "derrick",
+        "Ranch",
+        "rights",
+        "costs",
+        "Plainview",
+        "arrange",
+        "wells",
+        "church",
+        "mud",
+        "power",
+        "Henry",
+        "someone",
+        "life",
+        "W",
+        "sympathy",
+        "W.",
+        "care",
+        "brother",
+        "Kansas",
+        "choice",
+        "them",
+        "5000",
+        "leftover",
+        "dinner",
+        "superstition",
+        "prophet",
+        "death",
+        "butler"
+      ],
+      "verbs": [
+        "work",
+        "hire",
+        "discover",
+        "build",
+        "recreate",
+        "be",
+        "lecture",
+        "eliminate",
+        "complete",
+        "do",
+        "introduce",
+        "turn",
+        "draw",
+        "appeal",
+        "negotiate",
+        "pay",
+        "assemble",
+        "have",
+        "rebuff",
+        "promise",
+        "attack",
+        "smear",
+        "mock",
+        "take",
+        "trust",
+        "hold",
+        "use",
+        "admit",
+        "tell",
+        "discipline",
+        "reject",
+        "threaten",
+        "force",
+        "know",
+        "kill",
+        "bury",
+        "give",
+        "reveal",
+        "gnaw",
+        "bludgeon",
+        "announce"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "employer",
+        "finder",
+        "recreator",
+        "builder",
+        "lecturer",
+        "entity removing",
+        "truster",
+        "finisher",
+        "claimer",
+        "entity making introduction",
+        "question or thing in doubt",
+        "entity leaving",
+        "turner",
+        "achiever",
+        "artist",
+        "appealer",
+        "negotiator",
+        "payer or buyer",
+        "agreer",
+        "entity refusing",
+        "buyer",
+        "rejecter",
+        "thing rejected",
+        "resenter",
+        "Stimulusr",
+        "causer of continuation",
+        "person promised to",
+        "promiser",
+        "entity attacked",
+        "applier",
+        "attacker",
+        "mocker",
+        "something",
+        "holder",
+        "User",
+        "admitter",
+        "Utterance",
+        "Speaker",
+        "discipliner",
+        "place",
+        "sent",
+        "retiree",
+        "agent",
+        "[causer of growth - should be possible]",
+        "forcer",
+        "knower",
+        "thing found",
+        "burier",
+        "killer",
+        "buried",
+        "giver",
+        "thing greeted",
+        "speaker",
+        "gnawer",
+        "thing hit",
+        "announcer"
+      ]
+    },
+    {
+      "characterName": "people",
+      "recipients": [
+        "Plainview"
+      ],
+      "verbs": [
+        "question"
+      ],
+      "traits": [
+        "local",
+        "most"
+      ],
+      "semanticRoles": [
+        "audience",
+        "speaker",
+        "asker",
+        "beginner",
+        "thing held",
+        "thing used"
+      ]
+    },
+    {
+      "characterName": "Paul_Sunday",
+      "recipients": [
+        "camp",
+        "ranch",
+        "information",
+        "them",
+        "what"
+      ],
+      "verbs": [
+        "visit",
+        "sell",
+        "say",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "one party",
+        "Seller",
+        "Sayer",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Eli",
+      "recipients": [
+        "deal",
+        "derrick",
+        "workers",
+        "sermon",
+        "5000",
+        "Daniel",
+        "nothing",
+        "church",
+        "Eli"
+      ],
+      "verbs": [
+        "conclude",
+        "bless",
+        "solicit",
+        "deliver",
+        "demand",
+        "go",
+        "do",
+        "announce",
+        "visit"
+      ],
+      "traits": [
+        "due"
+      ],
+      "semanticRoles": [
+        "pray-er",
+        "wanter",
+        "decider",
+        "entity giving blessing",
+        "Stimulusr",
+        "causer of continuation",
+        "solicitor",
+        "sender",
+        "asker",
+        "announcer",
+        "other party",
+        "one party",
+        "speaker",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "William_Bandy",
+      "recipients": [
+        "himself",
+        "land",
+        "sinner",
+        "W"
+      ],
+      "verbs": [
+        "allow",
+        "lease",
+        "be",
+        "abandon"
+      ],
+      "traits": [
+        "old"
+      ],
+      "semanticRoles": [
+        "Seller",
+        "entity refusing",
+        "allower",
+        "knower",
+        "speaker",
+        "initiatee",
+        "abandoner",
+        "announcer"
+      ]
+    },
+    {
+      "characterName": "Mary",
+      "recipients": [
+        "language",
+        "sermon",
+        "rites",
+        "minister"
+      ],
+      "verbs": [
+        "learn",
+        "sign"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "thing hit",
+        "player",
+        "student",
+        "signer"
+      ]
+    },
+    {
+      "characterName": "Henry",
+      "recipients": [
+        "property",
+        "reference",
+        "brother",
+        "way",
+        "California",
+        "identity"
+      ],
+      "verbs": [
+        "go",
+        "understand",
+        "be",
+        "make",
+        "assume"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "inquirer",
+        "understander",
+        "impelled agent",
+        "creator",
+        "corpse"
+      ]
+    }
+  ]
+}

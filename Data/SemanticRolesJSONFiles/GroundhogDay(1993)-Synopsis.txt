@@ -1,0 +1,185 @@
+{
+  "movieName": "GroundhogDay(1993)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Connors",
+      "recipients": [
+        "morning",
+        "M.",
+        "room",
+        "advantage",
+        "inhabitants",
+        "situation",
+        "tire",
+        "attempt",
+        "truck",
+        "quarry",
+        "times",
+        "himself",
+        "building",
+        "Rita",
+        "circumstances",
+        "day",
+        "goal",
+        "heart",
+        "selfimprovement",
+        "others",
+        "services",
+        "today",
+        "chart",
+        "February",
+        "it",
+        "understanding"
+      ],
+      "verbs": [
+        "awaken",
+        "wake",
+        "take",
+        "gather",
+        "revel",
+        "begin",
+        "kidnap",
+        "drive",
+        "commit",
+        "electrocute",
+        "jump",
+        "seduce",
+        "befriend",
+        "tell",
+        "relive",
+        "convince",
+        "find",
+        "open",
+        "achieve",
+        "bring",
+        "perform",
+        "reply",
+        "prevent",
+        "speculate",
+        "enhance"
+      ],
+      "traits": [
+        "aware",
+        "living",
+        "able",
+        "insane"
+      ],
+      "semanticRoles": [
+        "fortune teller",
+        "causer of waking",
+        "alarm clock",
+        "entity trapped",
+        "finder",
+        "agent or causer",
+        "Thought",
+        "experiencer of delight",
+        "beginner",
+        "kidnapper",
+        "driver",
+        "causal agent",
+        "allower",
+        "Causer of electrocution",
+        "thing hit",
+        "Agent/Entity Trying",
+        "seducer",
+        "asker",
+        "student",
+        "agentive friend",
+        "Speaker",
+        "manager",
+        "convincer",
+        "experiencer",
+        "project",
+        "opener",
+        "achiever",
+        "bringer",
+        "promiser",
+        "performer",
+        "Agent",
+        "replier",
+        "master",
+        "speculator",
+        "causer of greatness",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "day",
+      "recipients": [
+        "M.",
+        "Connors",
+        "morning"
+      ],
+      "verbs": [
+        "begin"
+      ],
+      "traits": [
+        "same",
+        "previous",
+        "single",
+        "repeating"
+      ],
+      "semanticRoles": [
+        "unfolder",
+        "beginner",
+        "performance"
+      ]
+    },
+    {
+      "characterName": "Rita",
+      "recipients": [
+        "instrument",
+        "someone",
+        "what",
+        "tastes",
+        "room"
+      ],
+      "verbs": [
+        "play",
+        "want",
+        "share",
+        "likes",
+        "like",
+        "retire"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "seduced",
+        "wanter",
+        "player",
+        "sharer",
+        "liker",
+        "pretender",
+        "new friend",
+        "impelled agent",
+        "retiree",
+        "talker"
+      ]
+    },
+    {
+      "characterName": "Phil",
+      "recipients": [
+        "everyone",
+        "day",
+        "room",
+        "person"
+      ],
+      "verbs": [
+        "befriend",
+        "meet",
+        "retire",
+        "be"
+      ],
+      "traits": [
+        "able"
+      ],
+      "semanticRoles": [
+        "agentive friend",
+        "achiever",
+        "crafts(wo)man",
+        "retiree",
+        "talker"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "movieName": "ThePrincessBride(1987)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Buttercup",
+      "recipients": [
+        "Humperdinck",
+        "nothing",
+        "her",
+        "ship",
+        "Westley",
+        "Swamp",
+        "pursuers",
+        "freedom",
+        "earshot",
+        "herself",
+        "dagger",
+        "suite",
+        "him",
+        "chair"
+      ],
+      "verbs": [
+        "marry",
+        "hear",
+        "take",
+        "love",
+        "flee",
+        "escape",
+        "be",
+        "bring",
+        "kill",
+        "throw",
+        "find",
+        "tie"
+      ],
+      "traits": [
+        "due"
+      ],
+      "semanticRoles": [
+        "causer",
+        "giver",
+        "thing carried",
+        "pusher",
+        "corpse",
+        "teacher",
+        "knower",
+        "lover",
+        "entity escaping",
+        "fleer",
+        "creator",
+        "bringer",
+        "new knower",
+        "killer",
+        "asker",
+        "thing released",
+        "loved",
+        "thinker",
+        "money",
+        "agreer",
+        "one half",
+        "entity rescued",
+        "object accompanied",
+        "finder",
+        "thrower",
+        "turner",
+        "speaker",
+        "Sayer",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Humperdinck",
+      "recipients": [
+        "excuse",
+        "friend",
+        "Westley",
+        "intention",
+        "invasion",
+        "support",
+        "home",
+        "ships",
+        "show",
+        "search",
+        "Humperdinck",
+        "sack",
+        "Peter_Cook",
+        "technicality",
+        "death",
+        "sword",
+        "chair"
+      ],
+      "verbs": [
+        "want",
+        "turn",
+        "have",
+        "plan",
+        "get",
+        "go",
+        "send",
+        "make",
+        "give",
+        "rush",
+        "remedy",
+        "challenge",
+        "drop",
+        "sit"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "one half",
+        "wanter",
+        "turner",
+        "receiver",
+        "planner",
+        "giver",
+        "pretender",
+        "promiser",
+        "sender",
+        "Sayer",
+        "asker",
+        "creator",
+        "thing gotten",
+        "thing given",
+        "causer of motion",
+        "entity entering",
+        "causer of improvement",
+        "challenger",
+        "Utterance",
+        "entity doing the dropping"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "duel",
+        "Fezzik",
+        "goblets",
+        "Roberts",
+        "Westley",
+        "incline",
+        "Buttercup",
+        "castle"
+      ],
+      "verbs": [
+        "prove",
+        "choke",
+        "poison",
+        "tell",
+        "kill",
+        "tumble",
+        "be"
+      ],
+      "traits": [
+        "pursued",
+        "better",
+        "cruel",
+        "arrogant",
+        "sixfingered",
+        "longsought"
+      ],
+      "semanticRoles": [
+        "manager",
+        "causer of choking",
+        "Keeper",
+        "killer",
+        "Speaker",
+        "Sayer",
+        "causer of falling"
+      ]
+    },
+    {
+      "characterName": "Inigo_Montoya_Mandy_Patinkin",
+      "recipients": [
+        "swordsman",
+        "pursuit",
+        "duel",
+        "killer",
+        "someone",
+        "scream",
+        "spirit",
+        "Pit",
+        "miracle",
+        "Squad",
+        "pill",
+        "corpse",
+        "cloak",
+        "count",
+        "fight",
+        "Prince_Humperdinck",
+        "what"
+      ],
+      "verbs": [
+        "be",
+        "go",
+        "challenge",
+        "need",
+        "hear",
+        "call",
+        "reach",
+        "feed",
+        "set",
+        "chase",
+        "return",
+        "kill",
+        "do"
+      ],
+      "traits": [
+        "inebriated",
+        "sure"
+      ],
+      "semanticRoles": [
+        "place",
+        "complainer",
+        "corpse",
+        "loser",
+        "challenger",
+        "thing found",
+        "needer",
+        "entity making resolution",
+        "Utterance",
+        "thing striving",
+        "giver",
+        "agent",
+        "machine",
+        "thing brought",
+        "Sayer",
+        "causal agent",
+        "mover",
+        "walker",
+        "talker",
+        "follower",
+        "thing hit",
+        "thing rolled or rolling",
+        "puller",
+        "person doing the closing",
+        "allower",
+        "killer"
+      ]
+    },
+    {
+      "characterName": "Fezzik",
+      "recipients": [
+        "consciousness",
+        "Fezzik",
+        "Inigo",
+        "scream",
+        "mistake",
+        "pill",
+        "corpse",
+        "Westley",
+        "courtyard",
+        "They",
+        "horses",
+        "her"
+      ],
+      "verbs": [
+        "lose",
+        "tell",
+        "take",
+        "find",
+        "hear",
+        "knock",
+        "feed",
+        "drape",
+        "call",
+        "bring",
+        "catch"
+      ],
+      "traits": [
+        "sobers"
+      ],
+      "semanticRoles": [
+        "entity choked",
+        "new employee",
+        "student",
+        "Utterance",
+        "Speaker",
+        "finder",
+        "entity making resolution",
+        "thing hit",
+        "hitter",
+        "pointer",
+        "causal agent",
+        "creator",
+        "draper",
+        "helper",
+        "bringer",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "Westley",
+      "recipients": [
+        "himself",
+        "Swamp",
+        "pursuers",
+        "ROUSes",
+        "Buttercup",
+        "love",
+        "prince",
+        "Humperdinck",
+        "Westley"
+      ],
+      "verbs": [
+        "reveal",
+        "flee",
+        "escape",
+        "get",
+        "love",
+        "come",
+        "be",
+        "disfigure",
+        "tell",
+        "want"
+      ],
+      "traits": [
+        "strong",
+        "dead",
+        "worth",
+        "rubberylegged"
+      ],
+      "semanticRoles": [
+        "corpse",
+        "speaker",
+        "Thinker",
+        "loved",
+        "entity escaping",
+        "fleer",
+        "receiver",
+        "thing turning",
+        "lover",
+        "question",
+        "tortured",
+        "patient",
+        "Sayer",
+        "draped",
+        "cause",
+        "thing found",
+        "pointer",
+        "challenged (champion?)",
+        "repeater",
+        "describer",
+        "agent",
+        "Speaker",
+        "causal agent",
+        "alive entity",
+        "thing wanted",
+        "wanter",
+        "belief",
+        "asker"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "Swamp",
+        "gate",
+        "Count_Rugen",
+        "Buttercup",
+        "wheelbarrow"
+      ],
+      "verbs": [
+        "capture",
+        "guard",
+        "kill",
+        "rescue",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "getter",
+        "guard",
+        "receiver",
+        "killer",
+        "needer",
+        "rescuer"
+      ]
+    },
+    {
+      "characterName": "Rugen_Christopher_Guest",
+      "recipients": [
+        "earshot",
+        "man",
+        "fingers",
+        "fraction",
+        "Montoya",
+        "study",
+        "torture",
+        "Machine",
+        "corridor",
+        "guards",
+        "sword",
+        "Fezzik",
+        "door",
+        "bay",
+        "Inigo",
+        "dagger",
+        "boot"
+      ],
+      "verbs": [
+        "be",
+        "have",
+        "pay",
+        "kill",
+        "make",
+        "believe",
+        "build",
+        "keep",
+        "guard",
+        "sic",
+        "extend",
+        "call",
+        "run",
+        "throw",
+        "pull"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "payer or buyer",
+        "killer",
+        "creator",
+        "builder",
+        "Keeper",
+        "guard",
+        "Thinker",
+        "operator",
+        "puller",
+        "thrower",
+        "inflicter",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "count",
+      "recipients": [
+        "Diego_Montoya",
+        "sword",
+        "weapon",
+        "Inigo",
+        "Guest",
+        "gut"
+      ],
+      "verbs": [
+        "visit",
+        "commission",
+        "collect",
+        "best",
+        "left",
+        "wound",
+        "kill"
+      ],
+      "traits": [
+        "able",
+        "unnerved"
+      ],
+      "semanticRoles": [
+        "one party",
+        "granter",
+        "agent",
+        "entity leaving",
+        "rider",
+        "winner",
+        "thing followed",
+        "roller",
+        "emitter of noise",
+        "killer"
+      ]
+    },
+    {
+      "characterName": "grandson",
+      "recipients": [
+        "grandfather",
+        "grandson",
+        "book",
+        "day"
+      ],
+      "verbs": [
+        "beg",
+        "ask",
+        "read",
+        "return"
+      ],
+      "traits": [
+        "upset",
+        "dead"
+      ],
+      "semanticRoles": [
+        "begger",
+        "decider",
+        "entity being bothered",
+        "Sayer",
+        "asker",
+        "reader",
+        "question"
+      ]
+    },
+    {
+      "characterName": "grandfather",
+      "recipients": [
+        "story",
+        "book",
+        "line",
+        "boy"
+      ],
+      "verbs": [
+        "finish",
+        "close",
+        "read",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Sayer",
+        "appealed to",
+        "Intentional agent",
+        "person doing the closing",
+        "reader",
+        "Speaker",
+        "replier"
+      ]
+    },
+    {
+      "characterName": "Max",
+      "recipients": [
+        "Westley",
+        "confidence",
+        "life",
+        "Inigo",
+        "pill",
+        "money",
+        "Crystal"
+      ],
+      "verbs": [
+        "diagnosis",
+        "ask",
+        "lose",
+        "bring",
+        "whip",
+        "accept",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "doctor",
+        "asker",
+        "misunderstander",
+        "pretender",
+        "bringer",
+        "causer",
+        "acceptor",
+        "giver"
+      ]
+    }
+  ]
+}

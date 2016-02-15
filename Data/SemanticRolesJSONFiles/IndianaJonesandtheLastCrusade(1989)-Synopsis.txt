@@ -1,0 +1,371 @@
+{
+  "movieName": "IndianaJonesandtheLastCrusade(1989)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Jones",
+      "recipients": [
+        "lion",
+        "himself",
+        "car"
+      ],
+      "verbs": [
+        "escape",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing following",
+        "entity escaping",
+        "finder",
+        "agent",
+        "thing given"
+      ]
+    },
+    {
+      "characterName": "Indy",
+      "recipients": [
+        "train",
+        "home",
+        "father",
+        "Sheriff",
+        "whom",
+        "cross",
+        "wreck",
+        "preserver",
+        "marker",
+        "cup",
+        "surprise",
+        "Venice",
+        "boat",
+        "corners",
+        "member",
+        "leader",
+        "process",
+        "slap",
+        "Berlin",
+        "diary",
+        "departure",
+        "Berlin_Flughafen",
+        "dirigible",
+        "Indy",
+        "map",
+        "Marcus",
+        "convoy",
+        "Grail",
+        "drinks",
+        "Elsa",
+        "moment"
+      ],
+      "verbs": [
+        "escape",
+        "take",
+        "tell",
+        "send",
+        "surrender",
+        "track",
+        "grab",
+        "read",
+        "remember",
+        "fly",
+        "dispatch",
+        "learn",
+        "break",
+        "receive",
+        "confront",
+        "trek",
+        "retrieve",
+        "come",
+        "get",
+        "leave",
+        "give",
+        "ambush",
+        "find",
+        "pick",
+        "save"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity escaping",
+        "Speaker",
+        "Agent/Entity Trying",
+        "impelled agent",
+        "one surrendering",
+        "sender",
+        "agent smiling",
+        "entity confronted",
+        "thing following",
+        "grabber",
+        "reader",
+        "rememberer",
+        "achiever",
+        "thing given",
+        "thing followed",
+        "student",
+        "manager",
+        "breaker",
+        "thing bound",
+        "asker",
+        "knower",
+        "confrontational entity",
+        "entity in motion",
+        "receiver",
+        "entity leaving",
+        "giver",
+        "viewer",
+        "ambusher",
+        "rescuer",
+        "thing acquired",
+        "thing viewed",
+        "finder",
+        "picker",
+        "entity saving money",
+        "thing striving",
+        "experiencer"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "prisoner",
+        "leader",
+        "father",
+        "Berlin",
+        "Berlin_Flughafen",
+        "plane",
+        "tail"
+      ],
+      "verbs": [
+        "rebuff",
+        "be",
+        "blaspheme",
+        "trek",
+        "get",
+        "shoot"
+      ],
+      "traits": [
+        "busy"
+      ],
+      "semanticRoles": [
+        "Utterance",
+        "rejecter",
+        "blasphemer",
+        "entity confronted",
+        "entity in motion",
+        "receiver",
+        "entity escaping",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "man",
+      "recipients": [
+        "Indy",
+        "crew",
+        "seconds",
+        "ocean",
+        "artifact"
+      ],
+      "verbs": [
+        "confront",
+        "fight",
+        "dive",
+        "grab"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "confrontational entity",
+        "diver",
+        "first fighter",
+        "grabber"
+      ]
+    },
+    {
+      "characterName": "Irene",
+      "recipients": [
+        "Irene",
+        "ream",
+        "pocket",
+        "Venice",
+        "apartment",
+        "men"
+      ],
+      "verbs": [
+        "give",
+        "stuff",
+        "accompany"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing given",
+        "giver",
+        "packer",
+        "entity sneaking",
+        "thing greeted",
+        "subject accompanier",
+        "question"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "Irene",
+        "sedan",
+        "Elsa",
+        "group"
+      ],
+      "verbs": [
+        "greet",
+        "step",
+        "ask",
+        "ransack",
+        "track"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causer of movement",
+        "greeter",
+        "asker",
+        "object accompanied",
+        "searcher",
+        "thing following"
+      ]
+    },
+    {
+      "characterName": "Walter_Donovan",
+      "recipients": [
+        "magnate",
+        "apartments",
+        "cup",
+        "Hitler",
+        "diary",
+        "Indy",
+        "Henry",
+        "grail",
+        "death"
+      ],
+      "verbs": [
+        "be",
+        "arrange",
+        "want",
+        "take",
+        "see",
+        "shoot",
+        "choose",
+        "age"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "builder",
+        "wanter",
+        "thing given",
+        "viewer",
+        "shooter",
+        "picker",
+        "entity succeeding",
+        "entity entering",
+        "causer of aging"
+      ]
+    },
+    {
+      "characterName": "Marcus",
+      "recipients": [
+        "Venice",
+        "mixture",
+        "soldiers"
+      ],
+      "verbs": [
+        "fly",
+        "attack"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "hit",
+        "finder",
+        "thing given",
+        "thing gotten",
+        "thing tried",
+        "forcer",
+        "attacker"
+      ]
+    },
+    {
+      "characterName": "Henry",
+      "recipients": [
+        "library",
+        "motorcycle",
+        "trek",
+        "Berlin",
+        "seagulls",
+        "Charlemegne",
+        "cover",
+        "mixture",
+        "soldiers"
+      ],
+      "verbs": [
+        "disappear",
+        "commandeer",
+        "stop",
+        "go",
+        "send",
+        "remember",
+        "use",
+        "attack"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causal agent",
+        "thing found",
+        "thing bound",
+        "agent",
+        "entity escaping",
+        "explainer",
+        "sender",
+        "vehicle or path",
+        "rememberer",
+        "viewer",
+        "User",
+        "attacker",
+        "projectile",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "Elsa",
+      "recipients": [
+        "horror",
+        "Hitler",
+        "diary",
+        "cup",
+        "ground",
+        "fissure",
+        "rolls",
+        "death"
+      ],
+      "verbs": [
+        "cross",
+        "take",
+        "choose",
+        "hit",
+        "grasp",
+        "fall"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity escaping",
+        "thing followed",
+        "searched for",
+        "crosser",
+        "entity strangled",
+        "picker",
+        "entity entering",
+        "entity leaving",
+        "decider",
+        "agent",
+        "money",
+        "puller",
+        "grasper"
+      ]
+    }
+  ]
+}

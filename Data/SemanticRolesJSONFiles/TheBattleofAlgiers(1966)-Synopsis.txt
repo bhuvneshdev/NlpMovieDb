@@ -1,0 +1,96 @@
+{
+  "movieName": "TheBattleofAlgiers(1966)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "man",
+      "recipients": [
+        "tear"
+      ],
+      "verbs": [
+        "shed"
+      ],
+      "traits": [
+        "tortured",
+        "middleaged"
+      ],
+      "semanticRoles": [
+        "place or thing entered",
+        "entity removing",
+        "impelled agent",
+        "thing viewed",
+        "thing hit",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "scene",
+      "recipients": [
+        "Ali",
+        "place"
+      ],
+      "verbs": [
+        "show",
+        "take"
+      ],
+      "traits": [
+        "next",
+        "final"
+      ],
+      "semanticRoles": [
+        "sent",
+        "shower",
+        "thing viewed",
+        "entity removing"
+      ]
+    },
+    {
+      "characterName": "Ali",
+      "recipients": [
+        "character",
+        "bit",
+        "face",
+        "man",
+        "scene"
+      ],
+      "verbs": [
+        "be",
+        "smash",
+        "shoot"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "operator",
+        "agent",
+        "thing given",
+        "entity tricked",
+        "achiever",
+        "shooter",
+        "thing seen/shown"
+      ]
+    },
+    {
+      "characterName": "captain",
+      "recipients": [
+        "manner",
+        "scene",
+        "basket"
+      ],
+      "verbs": [
+        "answer",
+        "send"
+      ],
+      "traits": [
+        "cleaver",
+        "French"
+      ],
+      "semanticRoles": [
+        "knower",
+        "entity confronted",
+        "replier",
+        "thing viewed",
+        "sender",
+        "question"
+      ]
+    }
+  ]
+}

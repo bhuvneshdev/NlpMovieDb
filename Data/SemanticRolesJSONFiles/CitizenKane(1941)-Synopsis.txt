@@ -1,0 +1,202 @@
+{
+  "movieName": "CitizenKane(1941)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Charles_Foster_Kane_Orson_Welles",
+      "recipients": [
+        "script",
+        "scene",
+        "Thatcher",
+        "race",
+        "review",
+        "Leland",
+        "vein",
+        "Xanadu",
+        "Sr",
+        "snowglobe",
+        "everything"
+      ],
+      "verbs": [
+        "cowrote",
+        "tell",
+        "withdraw",
+        "run",
+        "fire",
+        "finish",
+        "leave",
+        "arrange",
+        "pocket",
+        "get"
+      ],
+      "traits": [
+        "dead",
+        "central"
+      ],
+      "semanticRoles": [
+        "director",
+        "complainer",
+        "replier",
+        "thing seen/shown",
+        "other party",
+        "Speaker",
+        "Agent",
+        "entity removing",
+        "entity refusing",
+        "legislative body",
+        "finder",
+        "operator",
+        "Intentional agent",
+        "shooter",
+        "insister",
+        "entity leaving",
+        "builder",
+        "taker",
+        "Sayer",
+        "player",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "reporter",
+      "recipients": [
+        "Thompson_William_Alland",
+        "Susan_Alexander_Kane_Dorothy_Comingore",
+        "reporter",
+        "memoirs"
+      ],
+      "verbs": [
+        "call",
+        "see",
+        "speak",
+        "read"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "talker",
+        "reader"
+      ]
+    },
+    {
+      "characterName": "Thompson_William_Alland",
+      "recipients": [
+        "Rosebud",
+        "lot",
+        "life",
+        "comments",
+        "Leland",
+        "meaning"
+      ],
+      "verbs": [
+        "investigate",
+        "hear",
+        "dig",
+        "make",
+        "seek",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "examiner",
+        "digger",
+        "Agent / entity seeking",
+        "creator",
+        "Utterance",
+        "finder",
+        "explainer"
+      ]
+    },
+    {
+      "characterName": "Susan_Alexander_Kane_Dorothy_Comingore",
+      "recipients": [
+        "singing",
+        "hall",
+        "puzzles",
+        "New_York",
+        "Sr",
+        "tent",
+        "Sr.",
+        "resolve",
+        "everything",
+        "way"
+      ],
+      "verbs": [
+        "give",
+        "do",
+        "be",
+        "accuse",
+        "left",
+        "waver",
+        "have",
+        "comingore"
+      ],
+      "traits": [
+        "final",
+        "married"
+      ],
+      "semanticRoles": [
+        "thing viewed",
+        "needer",
+        "giver",
+        "Keeper",
+        "quitter",
+        "wanter",
+        "accuser",
+        "entity leaving",
+        "undecided entity",
+        "logical subject"
+      ]
+    },
+    {
+      "characterName": "Jedediah_Leland_Joseph_Cotten",
+      "recipients": [
+        "Inquirer",
+        "moneymaker",
+        "empire",
+        "story",
+        "marriage",
+        "Susan_Alexander",
+        "job"
+      ],
+      "verbs": [
+        "take",
+        "transform",
+        "recount",
+        "describe",
+        "transfer"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing sought",
+        "teller of tale",
+        "describer",
+        "worker",
+        "action allowed",
+        "gun/projectile"
+      ]
+    },
+    {
+      "characterName": "Raymond",
+      "recipients": [
+        "Sr",
+        "idea",
+        "sled",
+        "everything",
+        "junk",
+        "Rosebud"
+      ],
+      "verbs": [
+        "hear",
+        "have",
+        "go",
+        "lose",
+        "throw",
+        "say"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Sayer"
+      ]
+    }
+  ]
+}

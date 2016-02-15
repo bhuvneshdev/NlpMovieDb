@@ -1,0 +1,528 @@
+{
+  "movieName": "It\u0027saWonderfulLife(1946)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "angels",
+      "recipients": [
+        "prayers",
+        "angel",
+        "Clarence_Henry_Travers",
+        "who"
+      ],
+      "verbs": [
+        "receive",
+        "send",
+        "select",
+        "decide"
+      ],
+      "traits": [
+        "senior"
+      ],
+      "semanticRoles": [
+        "sender",
+        "needer",
+        "selector",
+        "decider",
+        "promiser"
+      ]
+    },
+    {
+      "characterName": "George_Bailey_James_Stewart",
+      "recipients": [
+        "himself",
+        "age",
+        "adventures",
+        "respect",
+        "what",
+        "Building",
+        "college",
+        "BampL",
+        "choice",
+        "situation",
+        "vacation",
+        "Violet",
+        "Billy",
+        "one",
+        "mood",
+        "home",
+        "daughter",
+        "pocket",
+        "them",
+        "tonguelashing",
+        "Welch",
+        "house",
+        "Mr",
+        "books",
+        "Violet_Bick",
+        "money",
+        "market",
+        "woman",
+        "equity",
+        "car",
+        "weather",
+        "tree",
+        "river",
+        "George",
+        "angel",
+        "thing",
+        "entreaties",
+        "liquor",
+        "town",
+        "man",
+        "bar",
+        "Nick",
+        "guy",
+        "pockets",
+        "cab",
+        "Ernie",
+        "policeman",
+        "Bert",
+        "hospital",
+        "denial",
+        "Medal",
+        "lives",
+        "life",
+        "Mary",
+        "bridge",
+        "institutions",
+        "trouble"
+      ],
+      "verbs": [
+        "kill",
+        "want",
+        "begin",
+        "have",
+        "do",
+        "follow",
+        "work",
+        "go",
+        "take",
+        "save",
+        "give",
+        "shout",
+        "be",
+        "see",
+        "put",
+        "storm",
+        "cooking",
+        "play",
+        "pay",
+        "drive",
+        "jump",
+        "know",
+        "rescue",
+        "get",
+        "mention",
+        "resist",
+        "consume",
+        "walk",
+        "ask",
+        "correct",
+        "continue",
+        "sit",
+        "speak",
+        "check",
+        "hail",
+        "signal",
+        "search",
+        "slug",
+        "run"
+      ],
+      "traits": [
+        "generous",
+        "bitter",
+        "delighted",
+        "ecstatic",
+        "big"
+      ],
+      "semanticRoles": [
+        "killer",
+        "wanter",
+        "beginner",
+        "causal agent",
+        "graduate",
+        "entity saving money",
+        "person  bribed",
+        "repelled entity",
+        "award",
+        "giver",
+        "Utterance",
+        "searcher",
+        "shouter",
+        "student",
+        "viewer",
+        "Agent",
+        "cook",
+        "player",
+        "payer or buyer",
+        "thing known or thought",
+        "entity punched",
+        "entity leaving",
+        "impelled agent",
+        "agent",
+        "driver",
+        "Keeper",
+        "entity covering",
+        "entity rescued",
+        "rescuer",
+        "knower",
+        "money",
+        "receiver",
+        "speaker",
+        "resister",
+        "consumer",
+        "Sayer",
+        "noticer",
+        "walker",
+        "asker",
+        "entity experiencing confusion",
+        "Agent/Entity Trying",
+        "corrector",
+        "causer of continuation",
+        "talker",
+        "thing thrown",
+        "disturbed",
+        "checker",
+        "shower",
+        "entity escaping",
+        "action allowed",
+        "applauded",
+        "includer",
+        "operator",
+        "hitter",
+        "thing looked at or for or on",
+        "criminal",
+        "toaster"
+      ]
+    },
+    {
+      "characterName": "Clarence_Henry_Travers",
+      "recipients": [
+        "wings",
+        "moment",
+        "story",
+        "George",
+        "town",
+        "bar",
+        "grave"
+      ],
+      "verbs": [
+        "earn",
+        "get",
+        "come",
+        "know",
+        "walk",
+        "sit",
+        "point"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "earner",
+        "entity selected",
+        "receiver",
+        "explainer",
+        "knower",
+        "pointer",
+        "walker",
+        "thing thrown",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "Gower",
+      "recipients": [
+        "B",
+        "mistake",
+        "Gower",
+        "prison"
+      ],
+      "verbs": [
+        "\u0027s",
+        "prevent",
+        "recognize",
+        "spend"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent",
+        "applauder",
+        "applauded"
+      ]
+    },
+    {
+      "characterName": "Mary_Hatch_Donna_Reed",
+      "recipients": [
+        "notice",
+        "love",
+        "vacation",
+        "Billy",
+        "library",
+        "George",
+        "home"
+      ],
+      "verbs": [
+        "compete",
+        "be",
+        "take",
+        "phone",
+        "work",
+        "recognize",
+        "come"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "competitor",
+        "agent making a call",
+        "Sayer",
+        "thing viewed",
+        "causer",
+        "applauder"
+      ]
+    },
+    {
+      "characterName": "Potter",
+      "recipients": [
+        "company",
+        "BampL",
+        "college",
+        "money",
+        "Harry",
+        "newspaper",
+        "loan",
+        "collateral"
+      ],
+      "verbs": [
+        "put",
+        "liquidate",
+        "give",
+        "fold",
+        "take",
+        "beg",
+        "ask"
+      ],
+      "traits": [
+        "disturbed",
+        "unsympathetic"
+      ],
+      "semanticRoles": [
+        "holder",
+        "liker",
+        "liquidator",
+        "giver",
+        "causal agent",
+        "mixer",
+        "entity leaving",
+        "viewer",
+        "begger",
+        "Sayer",
+        "asker"
+      ]
+    },
+    {
+      "characterName": "BampL",
+      "recipients": [
+        "George",
+        "housing",
+        "customers",
+        "business"
+      ],
+      "verbs": [
+        "be",
+        "provide",
+        "bribe",
+        "take",
+        "go"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing being liquidated",
+        "causer of continuation",
+        "provider",
+        "briber"
+      ]
+    },
+    {
+      "characterName": "Harry",
+      "recipients": [
+        "college",
+        "Ruth_Dakin",
+        "ship",
+        "them",
+        "New_York"
+      ],
+      "verbs": [
+        "return",
+        "marry",
+        "save",
+        "arrive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causer",
+        "worker",
+        "entity saving money",
+        "money"
+      ]
+    },
+    {
+      "characterName": "friends",
+      "recipients": [
+        "cabbie",
+        "rain",
+        "newlyweds",
+        "help",
+        "George"
+      ],
+      "verbs": [
+        "ernie_frank_faylen",
+        "serenade",
+        "notice",
+        "urge"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "noticer",
+        "Agent/Entity Trying",
+        "urger"
+      ]
+    },
+    {
+      "characterName": "Martini_William_Edmunds",
+      "recipients": [
+        "family",
+        "drinking",
+        "guidance",
+        "name",
+        "George"
+      ],
+      "verbs": [
+        "\u0027s",
+        "tavern",
+        "pray",
+        "mention",
+        "punch"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent",
+        "pray-er",
+        "speaker",
+        "agent",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "Billy",
+      "recipients": [
+        "bank",
+        "day",
+        "newspaper",
+        "BampL",
+        "George"
+      ],
+      "verbs": [
+        "go",
+        "point",
+        "arrive",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "pointer",
+        "new knower",
+        "Speaker",
+        "searcher",
+        "receiver",
+        "finder",
+        "utterance",
+        "leader"
+      ]
+    },
+    {
+      "characterName": "Nick",
+      "recipients": [
+        "tavern",
+        "life",
+        "fellow",
+        "George",
+        "Nick",
+        "Mr",
+        "Clarence",
+        "ring",
+        "wings"
+      ],
+      "verbs": [
+        "own",
+        "work",
+        "be",
+        "know",
+        "tell",
+        "say",
+        "throw",
+        "make",
+        "give"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "owner",
+        "experiencer",
+        "knower",
+        "thing known or thought",
+        "entity leaving",
+        "Utterance",
+        "Speaker",
+        "Sayer",
+        "creator",
+        "thrower",
+        "giver"
+      ]
+    },
+    {
+      "characterName": "Ernie",
+      "recipients": [
+        "idea",
+        "Ernie",
+        "address",
+        "George"
+      ],
+      "verbs": [
+        "have",
+        "be",
+        "take",
+        "give",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "alive entity",
+        "giver",
+        "Speaker",
+        "Utterance",
+        "thing given",
+        "question"
+      ]
+    },
+    {
+      "characterName": "Bert",
+      "recipients": [
+        "them",
+        "Bert",
+        "car"
+      ],
+      "verbs": [
+        "arrest",
+        "shoot",
+        "arrive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "police",
+        "hit",
+        "misser",
+        "shooter",
+        "pointer"
+      ]
+    }
+  ]
+}

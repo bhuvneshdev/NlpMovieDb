@@ -1,0 +1,559 @@
+{
+  "movieName": "TheGodfather_PartII(1974)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "father",
+      "recipients": [
+        "business",
+        "Hyman_Roth",
+        "expectations"
+      ],
+      "verbs": [
+        "do",
+        "trust",
+        "respect",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "corpse",
+        "truster",
+        "regarder",
+        "lover"
+      ]
+    },
+    {
+      "characterName": "brother",
+      "recipients": [
+        "revenge",
+        "meeting",
+        "upset",
+        "Michael"
+      ],
+      "verbs": [
+        "swear",
+        "explain",
+        "tell"
+      ],
+      "traits": [
+        "older",
+        "own"
+      ],
+      "semanticRoles": [
+        "corpse",
+        "swearer",
+        "operator",
+        "explainer",
+        "helper",
+        "knower",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "mother",
+      "recipients": [
+        "Ciccio",
+        "mercy",
+        "knifepoint",
+        "hostage"
+      ],
+      "verbs": [
+        "go",
+        "beg",
+        "take"
+      ],
+      "traits": [
+        "alive"
+      ],
+      "semanticRoles": [
+        "begger",
+        "corpse",
+        "alive entity"
+      ]
+    },
+    {
+      "characterName": "Vito",
+      "recipients": [
+        "revenge",
+        "life",
+        "ship",
+        "way",
+        "New_York",
+        "Fanucci",
+        "friends",
+        "infant",
+        "Michael",
+        "respect",
+        "landlord"
+      ],
+      "verbs": [
+        "seek",
+        "find",
+        "get",
+        "ask",
+        "tell",
+        "earn",
+        "intimidate"
+      ],
+      "traits": [
+        "reluctant"
+      ],
+      "semanticRoles": [
+        "Agent / entity seeking",
+        "entity refusing",
+        "finder",
+        "receiver",
+        "manager",
+        "asker",
+        "Speaker",
+        "earner",
+        "beginner",
+        "intercessor",
+        "intimidating entity"
+      ]
+    },
+    {
+      "characterName": "Michael_Corleone",
+      "recipients": [
+        "compound",
+        "party",
+        "office",
+        "price",
+        "nothing",
+        "fee",
+        "demands",
+        "conversation",
+        "night",
+        "attempt",
+        "lawyer",
+        "Tom_Hagen",
+        "Frankie",
+        "plan",
+        "Roth",
+        "time",
+        "day",
+        "dollars",
+        "Johnny_Ola",
+        "Hyman_Roth",
+        "Michael",
+        "brother",
+        "Fredo",
+        "him",
+        "question",
+        "Batista",
+        "January",
+        "sex",
+        "committee",
+        "statement",
+        "problem",
+        "hearing",
+        "violently",
+        "temper",
+        "her",
+        "capo",
+        "dealings",
+        "advice",
+        "door",
+        "airport",
+        "room"
+      ],
+      "verbs": [
+        "deal",
+        "meet",
+        "discuss",
+        "get",
+        "pay",
+        "end",
+        "escape",
+        "tell",
+        "need",
+        "have",
+        "mention",
+        "witness",
+        "deliver",
+        "confide",
+        "assure",
+        "ask",
+        "orchestrate",
+        "kiss",
+        "grasp",
+        "return",
+        "know",
+        "appear",
+        "make",
+        "arrive",
+        "hit",
+        "lose",
+        "mollify",
+        "shun",
+        "signal",
+        "reject",
+        "close",
+        "leave"
+      ],
+      "traits": [
+        "distraught",
+        "unable"
+      ],
+      "semanticRoles": [
+        "dealer",
+        "achiever",
+        "discussant",
+        "receiver",
+        "payer or buyer",
+        "entity refusing",
+        "Intentional agent",
+        "disapprover",
+        "talker",
+        "Utterance",
+        "entity escaping",
+        "Speaker",
+        "needer",
+        "allower",
+        "entity attacked",
+        "Sayer",
+        "speaker",
+        "agent",
+        "sender",
+        "corpse",
+        "causer of assurance",
+        "asker",
+        "conductor",
+        "new knower",
+        "grasper",
+        "kisser",
+        "informed",
+        "knower",
+        "thing implicated",
+        "creator",
+        "place",
+        "Agent/Entity Trying",
+        "Stimulusr",
+        "angry entity",
+        "thing asked for",
+        "avoider",
+        "includer",
+        "shower",
+        "rejecter",
+        "person doing the closing",
+        "signer",
+        "entity leaving",
+        "thing greeted"
+      ]
+    },
+    {
+      "characterName": "Family",
+      "recipients": [
+        "respect",
+        "party"
+      ],
+      "verbs": [
+        "want",
+        "prepare"
+      ],
+      "traits": [
+        "due",
+        "whole"
+      ],
+      "semanticRoles": [
+        "buyer",
+        "wanter",
+        "organization",
+        "(first) thing(s) being unified"
+      ]
+    },
+    {
+      "characterName": "Pat_Geary",
+      "recipients": [
+        "businessmen",
+        "contempt",
+        "acquisition",
+        "member",
+        "show"
+      ],
+      "verbs": [
+        "have",
+        "make",
+        "be"
+      ],
+      "traits": [
+        "corrupt"
+      ],
+      "semanticRoles": [
+        "promiser",
+        "creator",
+        "thing implicated",
+        "thing seen/shown"
+      ]
+    },
+    {
+      "characterName": "Hyman_Roth",
+      "recipients": [
+        "industry",
+        "move",
+        "Rosato_Brothers",
+        "Michael",
+        "Brooklyn",
+        "question",
+        "Cuba",
+        "Miami",
+        "asylum"
+      ],
+      "verbs": [
+        "support",
+        "back",
+        "tell",
+        "be",
+        "kill",
+        "avoid",
+        "escape",
+        "recover",
+        "seek"
+      ],
+      "traits": [
+        "Jewish"
+      ],
+      "semanticRoles": [
+        "helper",
+        "supporter",
+        "something",
+        "entity respected",
+        "Speaker",
+        "goal",
+        "speaker",
+        "event",
+        "utterance",
+        "Agent/Entity Trying",
+        "planner",
+        "killer",
+        "avoider",
+        "thing known or thought",
+        "entity escaping",
+        "Thinker",
+        "Agent / entity seeking",
+        "refused action or object",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Pentangeli",
+      "recipients": [
+        "attempt",
+        "bar",
+        "FBI"
+      ],
+      "verbs": [
+        "pay",
+        "meet",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "payer or buyer",
+        "knower",
+        "achiever",
+        "Utterance",
+        "place",
+        "Speaker",
+        "pressed (on)",
+        "claimer"
+      ]
+    },
+    {
+      "characterName": "Tom_Hagen",
+      "recipients": [
+        "friendship",
+        "care",
+        "Hagen",
+        "Michael",
+        "problem",
+        "dealings",
+        "visit",
+        "Frank_Pentangeli",
+        "life"
+      ],
+      "verbs": [
+        "take",
+        "tell",
+        "inform",
+        "discuss",
+        "kill",
+        "pay"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Utterance",
+        "Speaker",
+        "informer",
+        "discussant",
+        "killer",
+        "wanter",
+        "Sayer",
+        "payer or buyer",
+        "speaker"
+      ]
+    },
+    {
+      "characterName": "Don_Fanucci",
+      "recipients": [
+        "payments",
+        "week",
+        "share",
+        "sixth",
+        "what",
+        "wife",
+        "festa",
+        "children",
+        "Genco_Pura_Olive_Oil_Company"
+      ],
+      "verbs": [
+        "extort",
+        "want",
+        "take",
+        "demand",
+        "rejoin",
+        "manage"
+      ],
+      "traits": [
+        "aware"
+      ],
+      "semanticRoles": [
+        "agent",
+        "wanter",
+        "thing gotten",
+        "asker",
+        "manager"
+      ]
+    },
+    {
+      "characterName": "Frank_Pentangeli",
+      "recipients": [
+        "deal",
+        "Michael",
+        "attack",
+        "hearing",
+        "statements",
+        "suicide",
+        "instructions",
+        "bathtub"
+      ],
+      "verbs": [
+        "make",
+        "testify",
+        "die",
+        "be",
+        "recant",
+        "follow"
+      ],
+      "traits": [
+        "responsible"
+      ],
+      "semanticRoles": [
+        "creator",
+        "witness",
+        "rejector",
+        "impelled action",
+        "thing found",
+        "causal agent"
+      ]
+    },
+    {
+      "characterName": "Johnny_Ola",
+      "recipients": [
+        "Ola",
+        "Roth",
+        "Michael",
+        "what"
+      ],
+      "verbs": [
+        "know",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "utterance",
+        "goal",
+        "applauded",
+        "knower",
+        "thing known or thought",
+        "Speaker",
+        "Utterance",
+        "entity strangled"
+      ]
+    },
+    {
+      "characterName": "Fredo",
+      "recipients": [
+        "Ola",
+        "time",
+        "Johnny_Ola",
+        "businessmen",
+        "Geary",
+        "officials",
+        "Havana",
+        "brother",
+        "way",
+        "New_York",
+        "Nevada",
+        "Mary",
+        "one"
+      ],
+      "verbs": [
+        "meet",
+        "pretend",
+        "recognize",
+        "show",
+        "know",
+        "be",
+        "\u0027s",
+        "hide",
+        "return",
+        "say"
+      ],
+      "traits": [
+        "miserable"
+      ],
+      "semanticRoles": [
+        "Sayer",
+        "achiever",
+        "assured one",
+        "shower",
+        "knower",
+        "question",
+        "applauder",
+        "pretender",
+        "thing grasped",
+        "entity refusing",
+        "impelled agent",
+        "thing found",
+        "thing avoided",
+        "includer",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "Kay",
+      "recipients": [
+        "miscarriage",
+        "room",
+        "Michael",
+        "children",
+        "stays"
+      ],
+      "verbs": [
+        "have",
+        "try",
+        "leave",
+        "visit"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "Agent/Entity Trying",
+        "one party",
+        "holder"
+      ]
+    }
+  ]
+}

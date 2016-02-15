@@ -1,0 +1,394 @@
+{
+  "movieName": "GranTorino(2008)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Walt",
+      "recipients": [
+        "funeral",
+        "start",
+        "patience",
+        "Mitch",
+        "families",
+        "relatives",
+        "confession",
+        "Janovich",
+        "Walt",
+        "robbery",
+        "members",
+        "home",
+        "anger",
+        "Karen",
+        "girl",
+        "tries",
+        "talk",
+        "himself",
+        "retaliation",
+        "house",
+        "Smokie",
+        "beer",
+        "vengeance",
+        "Thao",
+        "time",
+        "haircut",
+        "suit",
+        "Church",
+        "medal",
+        "bar",
+        "Daisy",
+        "confrontation",
+        "gang",
+        "jacket",
+        "cigarette",
+        "mouth",
+        "lighter",
+        "church"
+      ],
+      "verbs": [
+        "attend",
+        "have",
+        "view",
+        "go",
+        "write",
+        "feel",
+        "interrupt",
+        "threaten",
+        "watch",
+        "reward",
+        "move",
+        "growl",
+        "throw",
+        "rescue",
+        "ask",
+        "encourage",
+        "call",
+        "make",
+        "bring",
+        "beat",
+        "confront",
+        "give",
+        "take",
+        "tell",
+        "indulge",
+        "get",
+        "buy",
+        "leaf",
+        "leave",
+        "reach",
+        "put",
+        "grab",
+        "left"
+      ],
+      "traits": [
+        "grumpy",
+        "impatient",
+        "pleased",
+        "open"
+      ],
+      "semanticRoles": [
+        "thing attending",
+        "thing avoided",
+        "money or attention",
+        "thing viewed",
+        "Utterance",
+        "thing gotten",
+        "insister",
+        "emotion or sensation",
+        "feeler",
+        "interrupter",
+        "agent",
+        "thanked",
+        "entity giving reward",
+        "entity being given to",
+        "entity refusing",
+        "other party",
+        "thing brought",
+        "mover",
+        "growler",
+        "thrower",
+        "rescuer",
+        "causer of movement",
+        "invited",
+        "thing known or thought",
+        "shower",
+        "receiver",
+        "convincer",
+        "asker",
+        "impelled agent",
+        "creator",
+        "Agent/Entity Trying",
+        "bringer",
+        "confrontational entity",
+        "thing hit",
+        "operator",
+        "checker",
+        "talker",
+        "giver",
+        "Speaker",
+        "allower",
+        "buyer",
+        "haunted house (eg)",
+        "entity leaving",
+        "place",
+        "explainer",
+        "thing striving",
+        "shooter",
+        "grabber"
+      ]
+    },
+    {
+      "characterName": "Father_Janovich",
+      "recipients": [
+        "Walt",
+        "Janovich",
+        "Mr",
+        "confession",
+        "prayer",
+        "sergeant"
+      ],
+      "verbs": [
+        "tell",
+        "get",
+        "go",
+        "visit",
+        "call",
+        "hear",
+        "prescribe",
+        "talk"
+      ],
+      "traits": [
+        "young"
+      ],
+      "semanticRoles": [
+        "Speaker",
+        "promiser",
+        "receiver",
+        "Agent/Entity Trying",
+        "thing known or thought",
+        "thing reminded about",
+        "one party",
+        "other party",
+        "thing given",
+        "establisher of rules",
+        "talker",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "Sue",
+      "recipients": [
+        "Walt",
+        "barbecue",
+        "house",
+        "shooting",
+        "Sue",
+        "feet",
+        "scene"
+      ],
+      "verbs": [
+        "invite",
+        "know",
+        "left",
+        "sue",
+        "walk",
+        "arrive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "impelled agent",
+        "fleer",
+        "first thing being tied",
+        "thing viewed",
+        "receiver",
+        "knower",
+        "inviter",
+        "entity leaving",
+        "thing thrown",
+        "walker",
+        "thing hit",
+        "victim",
+        "criminal",
+        "Utterance",
+        "beast of burden"
+      ]
+    },
+    {
+      "characterName": "gang",
+      "recipients": [
+        "Thao",
+        "porch",
+        "driveby",
+        "Lors"
+      ],
+      "verbs": [
+        "help",
+        "confront",
+        "persuade",
+        "drag",
+        "shoot"
+      ],
+      "traits": [
+        "Hmong",
+        "Hispanic"
+      ],
+      "semanticRoles": [
+        "helper",
+        "frightened entity",
+        "confrontational entity",
+        "Agent/Entity Trying",
+        "convincer",
+        "dragger",
+        "Keeper",
+        "shooter",
+        "question",
+        "criminal"
+      ]
+    },
+    {
+      "characterName": "Thao",
+      "recipients": [
+        "Sue",
+        "them",
+        "avail",
+        "Walt",
+        "day",
+        "neighborhood",
+        "Mitch",
+        "home",
+        "afternoon",
+        "time",
+        "house",
+        "Thao",
+        "Korea",
+        "scene",
+        "Spider",
+        "family",
+        "funeral",
+        "Lake_Shore_Road"
+      ],
+      "verbs": [
+        "join",
+        "confront",
+        "visit",
+        "clean",
+        "walk",
+        "urge",
+        "return",
+        "want",
+        "lock",
+        "earn",
+        "arrive",
+        "glare",
+        "attend",
+        "drive"
+      ],
+      "traits": [
+        "angry"
+      ],
+      "semanticRoles": [
+        "project",
+        "entity confronted",
+        "impelled agent",
+        "agent",
+        "fleer",
+        "manager",
+        "confrontational entity",
+        "thing dragged",
+        "admitter",
+        "one party",
+        "cleaner",
+        "pressed (on)",
+        "walker",
+        "looker",
+        "injured party",
+        "urger",
+        "Utterance",
+        "wanter",
+        "thing wanted",
+        "alive entity",
+        "earner",
+        "first thing being locked",
+        "thing given",
+        "action allowed",
+        "thing brought",
+        "glarer",
+        "thing attending",
+        "driver"
+      ]
+    },
+    {
+      "characterName": "family",
+      "recipients": [
+        "cohorts",
+        "Spider",
+        "police",
+        "family",
+        "funeral"
+      ],
+      "verbs": [
+        "fend",
+        "tell",
+        "attend"
+      ],
+      "traits": [
+        "extended",
+        "large"
+      ],
+      "semanticRoles": [
+        "Agent/Entity Trying",
+        "entity getting by",
+        "picker",
+        "Speaker",
+        "thing attending"
+      ]
+    },
+    {
+      "characterName": "Karen",
+      "recipients": [
+        "Walt",
+        "hands",
+        "reaction"
+      ],
+      "verbs": [
+        "visit",
+        "get",
+        "understand"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "one party",
+        "receiver",
+        "wanter",
+        "understander",
+        "entity rescued",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "Mitch",
+      "recipients": [
+        "hands",
+        "reaction",
+        "Mitch"
+      ],
+      "verbs": [
+        "get",
+        "understand",
+        "talk"
+      ],
+      "traits": [
+        "busy",
+        "annoyed"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "wanter",
+        "thing thrown",
+        "understander",
+        "talker",
+        "Sayer",
+        "first thing being tied",
+        "finder"
+      ]
+    }
+  ]
+}

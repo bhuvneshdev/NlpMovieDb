@@ -1,0 +1,686 @@
+{
+  "movieName": "AmoresPerros(2000)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Octavio",
+      "recipients": [
+        "road",
+        "Cofi",
+        "veterinarian",
+        "Octavio",
+        "car",
+        "intersection",
+        "love",
+        "Ramiro",
+        "Jarocho",
+        "money",
+        "talks",
+        "cash",
+        "Susana",
+        "night",
+        "drugstore",
+        "name",
+        "what",
+        "Fatso",
+        "score",
+        "things",
+        "day",
+        "fight",
+        "Jorge",
+        "Valeria",
+        "head",
+        "gashes",
+        "leg",
+        "wallet",
+        "hideaway",
+        "funeral",
+        "station",
+        "bus"
+      ],
+      "verbs": [
+        "speeding",
+        "take",
+        "lose",
+        "wreck",
+        "be",
+        "despise",
+        "lend",
+        "give",
+        "owe",
+        "submit",
+        "rake",
+        "ask",
+        "go",
+        "tell",
+        "headbutt",
+        "suggest",
+        "get",
+        "hit",
+        "search",
+        "scrounge",
+        "count",
+        "carry",
+        "stab",
+        "run",
+        "blindside",
+        "have",
+        "break",
+        "swipe",
+        "confront",
+        "wait"
+      ],
+      "traits": [
+        "afraid"
+      ],
+      "semanticRoles": [
+        "causer of fast motion",
+        "thing followed",
+        "logical subject",
+        "alive entity",
+        "despiser",
+        "lender",
+        "thing given",
+        "giver",
+        "price paid",
+        "payer or buyer",
+        "entity refusing",
+        "decider",
+        "agent",
+        "causer of movement",
+        "asker",
+        "promiser",
+        "Speaker",
+        "threat",
+        "Keeper",
+        "beginner",
+        "Sayer",
+        "receiver",
+        "entity notified",
+        "acceptor",
+        "student",
+        "searcher",
+        "finder",
+        "scrounger",
+        "counter",
+        "carrier",
+        "stabber",
+        "walker",
+        "operator",
+        "agent/cause of surprise",
+        "project",
+        "breaker",
+        "striker",
+        "confrontational entity",
+        "declarer"
+      ]
+    },
+    {
+      "characterName": "Jorge",
+      "recipients": [
+        "road",
+        "Jorge",
+        "Octavio",
+        "day",
+        "show",
+        "fight",
+        "Cofi",
+        "car"
+      ],
+      "verbs": [
+        "speeding",
+        "tell",
+        "show",
+        "scrounge",
+        "watch",
+        "go",
+        "carry",
+        "put",
+        "start",
+        "keep"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causer of fast motion",
+        "thing followed",
+        "Speaker",
+        "shower",
+        "Utterance",
+        "scrounger",
+        "carrier",
+        "Agent",
+        "Keeper",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "dog",
+      "recipients": [
+        "fight",
+        "shop"
+      ],
+      "verbs": [
+        "win",
+        "open"
+      ],
+      "traits": [
+        "other",
+        "winning",
+        "dead",
+        "poor",
+        "little"
+      ],
+      "semanticRoles": [
+        "entity in the position",
+        "corpse",
+        "winner",
+        "releaser",
+        "alive entity",
+        "opener",
+        "thing brought",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "Jarocho",
+      "recipients": [
+        "Jarocho",
+        "Cofi",
+        "gun",
+        "dog"
+      ],
+      "verbs": [
+        "threaten",
+        "shoot",
+        "pull"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "agent",
+        "allower",
+        "action being stopped",
+        "decider",
+        "feeler",
+        "viewer",
+        "asker",
+        "driver",
+        "Sayer",
+        "threat",
+        "agreer",
+        "puller",
+        "shooter",
+        "thing stabbed"
+      ]
+    },
+    {
+      "characterName": "El_Chivo",
+      "recipients": [
+        "streets",
+        "strays",
+        "hitman",
+        "restaurant",
+        "businessman",
+        "newspaper",
+        "obituary",
+        "funeral",
+        "afar",
+        "service",
+        "professor",
+        "nothing",
+        "hits",
+        "partner",
+        "day",
+        "Octavio",
+        "car",
+        "attempts",
+        "apartment",
+        "picture",
+        "booth",
+        "photo",
+        "pictures",
+        "Ramiro",
+        "home",
+        "Cofi",
+        "back",
+        "himself",
+        "remains",
+        "hit",
+        "Blockbuster",
+        "hideaway",
+        "Chivo",
+        "pole",
+        "tables",
+        "morning",
+        "suit",
+        "gun",
+        "message",
+        "phone"
+      ],
+      "verbs": [
+        "wander",
+        "collect",
+        "be",
+        "shot",
+        "reading",
+        "read",
+        "go",
+        "stand",
+        "do",
+        "follow",
+        "see",
+        "help",
+        "rush",
+        "make",
+        "break",
+        "steal",
+        "place",
+        "take",
+        "pass",
+        "come",
+        "find",
+        "bring",
+        "burn",
+        "carry",
+        "apprehend",
+        "tie",
+        "leaf",
+        "kill",
+        "contact",
+        "tell",
+        "turn",
+        "awakes",
+        "stop",
+        "call"
+      ],
+      "traits": [
+        "dead",
+        "good"
+      ],
+      "semanticRoles": [
+        "puller",
+        "entity in motion",
+        "agent",
+        "shooter",
+        "reader",
+        "beginner",
+        "causal agent",
+        "thing viewed",
+        "entity confronted",
+        "Utterance",
+        "User",
+        "new employee",
+        "viewer",
+        "causer of motion",
+        "helper",
+        "creator",
+        "thief",
+        "breaker",
+        "putter",
+        "legislative body",
+        "finder",
+        "bringer",
+        "thing torn",
+        "decider",
+        "carrier",
+        "pyromaniac",
+        "place",
+        "entity leaving",
+        "killer",
+        "corpse",
+        "Speaker",
+        "contactor",
+        "turner",
+        "student"
+      ]
+    },
+    {
+      "characterName": "Ramiro",
+      "recipients": [
+        "supermarket",
+        "stations",
+        "day",
+        "bank",
+        "money",
+        "baby",
+        "supplies",
+        "child",
+        "Octavio",
+        "home",
+        "crap",
+        "Cofi",
+        "gun",
+        "half",
+        "Ramiro"
+      ],
+      "verbs": [
+        "work",
+        "\u0027s",
+        "rob",
+        "get",
+        "buy",
+        "provide",
+        "threaten",
+        "beat",
+        "point",
+        "pull",
+        "demand",
+        "kill"
+      ],
+      "traits": [
+        "successful"
+      ],
+      "semanticRoles": [
+        "thing despised",
+        "agent",
+        "entity removing",
+        "payer or buyer",
+        "needer",
+        "receiver",
+        "robber",
+        "Sayer",
+        "finder",
+        "buyer",
+        "provider",
+        "Utterance",
+        "beginner",
+        "pointer",
+        "puller",
+        "shooter",
+        "asker",
+        "thing jumping",
+        "thing hit",
+        "entity leaving",
+        "thing viewed",
+        "corpse",
+        "killer",
+        "decider",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Susana",
+      "recipients": [
+        "border",
+        "Susana",
+        "child"
+      ],
+      "verbs": [
+        "go"
+      ],
+      "traits": [
+        "angry",
+        "pregnant",
+        "nice"
+      ],
+      "semanticRoles": [
+        "entity frustrated",
+        "question",
+        "entity refusing",
+        "thing pushed",
+        "Keeper",
+        "beginner",
+        "giver",
+        "Sayer",
+        "replier",
+        "entity confronted",
+        "Utterance",
+        "shower"
+      ]
+    },
+    {
+      "characterName": "Cofi",
+      "recipients": [
+        "blood",
+        "master",
+        "Octavio",
+        "fight",
+        "Susana",
+        "passes",
+        "dog",
+        "damage",
+        "health",
+        "apartment"
+      ],
+      "verbs": [
+        "cover",
+        "sit",
+        "run",
+        "win",
+        "kill",
+        "make",
+        "be",
+        "do",
+        "back",
+        "go"
+      ],
+      "traits": [
+        "good",
+        "wounded"
+      ],
+      "semanticRoles": [
+        "coverer",
+        "operator",
+        "thing lent",
+        "given",
+        "winner",
+        "killer",
+        "Agent/Entity Trying",
+        "creator",
+        "entity brushed",
+        "projectile",
+        "thing carried",
+        "supporter",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "Fatso",
+      "recipients": [
+        "Octavio",
+        "something"
+      ],
+      "verbs": [
+        "notify",
+        "do"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "allower",
+        "Sayer",
+        "agreer",
+        "notifier",
+        "question",
+        "Utterance",
+        "claimer"
+      ]
+    },
+    {
+      "characterName": "Valeria",
+      "recipients": [
+        "show",
+        "man",
+        "wine",
+        "car",
+        "intersection",
+        "home",
+        "Richie",
+        "middle",
+        "Daniel",
+        "night",
+        "fight",
+        "hand",
+        "window"
+      ],
+      "verbs": [
+        "finish",
+        "embrace",
+        "go",
+        "\u0027s",
+        "pull",
+        "call",
+        "hear",
+        "tell",
+        "nagging",
+        "have",
+        "lock",
+        "come",
+        "take"
+      ],
+      "traits": [
+        "surprises",
+        "upset"
+      ],
+      "semanticRoles": [
+        "object accompanied",
+        "Intentional agent",
+        "finder",
+        "includer",
+        "operator",
+        "puller",
+        "surprised entity",
+        "entity in motion",
+        "action allowed",
+        "[causer of growth - should be possible]",
+        "player",
+        "Speaker",
+        "nagger",
+        "carer",
+        "Sayer",
+        "agent"
+      ]
+    },
+    {
+      "characterName": "Daniel",
+      "recipients": [
+        "dog",
+        "doctor",
+        "work",
+        "home",
+        "success",
+        "Richie",
+        "thoughts",
+        "morning",
+        "night",
+        "mood",
+        "door",
+        "Valeria",
+        "hospital"
+      ],
+      "verbs": [
+        "bring",
+        "learn",
+        "be",
+        "come",
+        "have",
+        "go",
+        "tell",
+        "decide",
+        "break",
+        "rush"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "bringer",
+        "student",
+        "Utterance",
+        "Speaker",
+        "first thing being locked",
+        "decider",
+        "sleeper",
+        "asker",
+        "action allowed",
+        "finder",
+        "breaker",
+        "causer of motion"
+      ]
+    },
+    {
+      "characterName": "businessman",
+      "recipients": [
+        "partner",
+        "photo",
+        "side",
+        "unknown",
+        "chopshop",
+        "SUV"
+      ],
+      "verbs": [
+        "see",
+        "take",
+        "put",
+        "wander",
+        "sell"
+      ],
+      "traits": [
+        "young",
+        "shocked",
+        "sorry"
+      ],
+      "semanticRoles": [
+        "projectile",
+        "wanter",
+        "entity contacted",
+        "viewer",
+        "shower",
+        "first thing being tied",
+        "entity in motion",
+        "Seller"
+      ]
+    },
+    {
+      "characterName": "woman",
+      "recipients": [
+        "Chivo",
+        "daughter",
+        "sisterinlaw"
+      ],
+      "verbs": [
+        "see",
+        "escort",
+        "confront",
+        "tell",
+        "be"
+      ],
+      "traits": [
+        "older"
+      ],
+      "semanticRoles": [
+        "subject accompanier",
+        "viewer",
+        "Speaker",
+        "confrontational entity"
+      ]
+    },
+    {
+      "characterName": "cop",
+      "recipients": [
+        "guerrillas",
+        "daughter",
+        "wife",
+        "Chivo",
+        "cop",
+        "Ramiro"
+      ],
+      "verbs": [
+        "join",
+        "left",
+        "hire",
+        "find",
+        "shoot"
+      ],
+      "traits": [
+        "offduty"
+      ],
+      "semanticRoles": [
+        "agent",
+        "entity leaving",
+        "thing gotten",
+        "employer",
+        "Keeper",
+        "finder",
+        "thing found",
+        "causer of motion",
+        "shooter"
+      ]
+    }
+  ]
+}

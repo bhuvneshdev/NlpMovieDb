@@ -1,0 +1,225 @@
+{
+  "movieName": "GraveoftheFireflies(1988)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Setsuko",
+      "recipients": [
+        "Kobe",
+        "time",
+        "grave",
+        "depth",
+        "Yamaguchi",
+        "Seita",
+        "bit"
+      ],
+      "verbs": [
+        "live",
+        "die",
+        "create",
+        "ask",
+        "encourage",
+        "try"
+      ],
+      "traits": [
+        "ill"
+      ],
+      "semanticRoles": [
+        "alive entity",
+        "survivor",
+        "manager",
+        "thing found",
+        "entity cremated",
+        "finder",
+        "horrified entity",
+        "creator",
+        "asker",
+        "thing",
+        "Agent/Entity Trying",
+        "convincer",
+        "hallucinator",
+        "Thinker",
+        "thing gotten",
+        "alarm clock"
+      ]
+    },
+    {
+      "characterName": "father",
+      "recipients": [
+        "doctor",
+        "tin",
+        "ashes",
+        "picture",
+        "Station",
+        "himself"
+      ],
+      "verbs": [
+        "promise",
+        "place",
+        "keep",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "worker",
+        "promiser",
+        "thanked",
+        "putter",
+        "Keeper",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "mother",
+      "recipients": [
+        "shelter",
+        "Setsuko",
+        "brother",
+        "condition"
+      ],
+      "verbs": [
+        "go",
+        "put",
+        "instruct",
+        "suffer"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity suffering",
+        "instructor"
+      ]
+    },
+    {
+      "characterName": "Hundreds",
+      "recipients": [
+        "Setsuko",
+        "home",
+        "Seita"
+      ],
+      "verbs": [
+        "find",
+        "travel",
+        "convince"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Logical subject",
+        "finder",
+        "traveller",
+        "convincer",
+        "action allowed",
+        "thing given"
+      ]
+    },
+    {
+      "characterName": "Seita",
+      "recipients": [
+        "search",
+        "Setsuko",
+        "kimonos",
+        "rice",
+        "Hundreds",
+        "supplies",
+        "depth",
+        "rocks",
+        "food"
+      ],
+      "verbs": [
+        "go",
+        "care",
+        "protect",
+        "sell",
+        "give",
+        "retrieve",
+        "realize",
+        "eat",
+        "prepare",
+        "get"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "survivor",
+        "manager",
+        "carer",
+        "thing determined",
+        "impelled agent",
+        "Seller",
+        "receiver",
+        "giver",
+        "accused",
+        "entity leaving",
+        "decider",
+        "new knower",
+        "thief",
+        "informed",
+        "entity removing",
+        "consumer",
+        "causer"
+      ]
+    },
+    {
+      "characterName": "Yamaguchi",
+      "recipients": [
+        "tin",
+        "ground",
+        "bombing",
+        "doctor",
+        "Setsuko"
+      ],
+      "verbs": [
+        "keep",
+        "bury",
+        "take"
+      ],
+      "traits": [
+        "own"
+      ],
+      "semanticRoles": [
+        "Keeper",
+        "burier",
+        "question",
+        "thing gotten"
+      ]
+    },
+    {
+      "characterName": "children",
+      "recipients": [
+        "fireflies",
+        "refuge",
+        "rice",
+        "food"
+      ],
+      "verbs": [
+        "release",
+        "find",
+        "run"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "releaser",
+        "operator"
+      ]
+    },
+    {
+      "characterName": "doctor",
+      "recipients": [
+        "Seita",
+        "help",
+        "crowd",
+        "father"
+      ],
+      "verbs": [
+        "inform",
+        "offer",
+        "learn",
+        "\u0027s"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "informer",
+        "student",
+        "person promised to"
+      ]
+    }
+  ]
+}

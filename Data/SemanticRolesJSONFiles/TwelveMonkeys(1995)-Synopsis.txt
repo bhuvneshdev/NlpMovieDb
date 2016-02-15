@@ -1,0 +1,107 @@
+{
+  "movieName": "TwelveMonkeys(1995)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "prisoners",
+      "recipients": [
+        "time",
+        "specimens",
+        "surface",
+        "gear"
+      ],
+      "verbs": [
+        "volunteer",
+        "gather",
+        "don"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity volunteering",
+        "agent or causer",
+        "wearer"
+      ]
+    },
+    {
+      "characterName": "James_Cole",
+      "recipients": [
+        "Dr",
+        "future",
+        "time",
+        "cause",
+        "guard",
+        "glaring",
+        "James"
+      ],
+      "verbs": [
+        "kidnap",
+        "be",
+        "race",
+        "take",
+        "notice",
+        "name"
+      ],
+      "traits": [
+        "young"
+      ],
+      "semanticRoles": [
+        "thing given",
+        "agent",
+        "finder",
+        "sent",
+        "question or thing in doubt",
+        "snatched",
+        "injured party",
+        "kidnapper",
+        "wanter",
+        "runner",
+        "decider",
+        "knower",
+        "thing seen/shown",
+        "impelled agent",
+        "entity in motion",
+        "noticer",
+        "entity refusing",
+        "complier",
+        "informed",
+        "item being labelled",
+        "entity getting warning",
+        "projectile",
+        "announcer"
+      ]
+    },
+    {
+      "characterName": "Railly",
+      "recipients": [
+        "psychiatrist",
+        "photograph",
+        "Cole",
+        "herself",
+        "Railly"
+      ],
+      "verbs": [
+        "meet",
+        "check",
+        "persuade",
+        "inform",
+        "identify",
+        "alert",
+        "say"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "achiever",
+        "impelled agent",
+        "checker",
+        "convincer",
+        "corpse",
+        "causer of motion",
+        "caller",
+        "informer",
+        "entity giving warning",
+        "applauded",
+        "Sayer",
+        "Utterance"
+      ]
+    }
+  ]
+}

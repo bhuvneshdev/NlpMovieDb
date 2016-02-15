@@ -1,0 +1,200 @@
+{
+  "movieName": "AnatomyofaMurder(1959)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Paul_Biegler",
+      "recipients": [
+        "Upper_Peninsula_of_Michigan",
+        "position",
+        "Biegler",
+        "Laura_Manion",
+        "record",
+        "issue",
+        "Pilant",
+        "case",
+        "Paquette",
+        "lawyer",
+        "day",
+        "Manions",
+        "home",
+        "trial",
+        "justice"
+      ],
+      "verbs": [
+        "spend",
+        "push",
+        "catch",
+        "get",
+        "question",
+        "persuade",
+        "lose",
+        "be",
+        "go",
+        "see",
+        "use",
+        "obtain"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity contacted",
+        "pusher",
+        "thing pushed",
+        "receiver",
+        "manager",
+        "asker",
+        "question or thing in doubt",
+        "Agent/Entity Trying",
+        "convincer",
+        "entity refusing",
+        "player",
+        "admitter",
+        "viewer",
+        "Utterance",
+        "User"
+      ]
+    },
+    {
+      "characterName": "Laura_Manion",
+      "recipients": [
+        "Biegler",
+        "murder",
+        "memory",
+        "Manion",
+        "girdle",
+        "part",
+        "clothes",
+        "suit",
+        "court",
+        "dress",
+        "hat",
+        "glasses",
+        "Quill",
+        "husband",
+        "wife",
+        "drinker",
+        "jealousy"
+      ],
+      "verbs": [
+        "contact",
+        "deny",
+        "have",
+        "order",
+        "wear",
+        "play",
+        "give",
+        "kill",
+        "persuade",
+        "doubt",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "contactor",
+        "denier",
+        "claimer",
+        "agent",
+        "thing gotten",
+        "forcer",
+        "player",
+        "impelled agent",
+        "wearer",
+        "giver",
+        "agreer",
+        "killer",
+        "swearer",
+        "convincer",
+        "disbeliever",
+        "victim",
+        "person convicted",
+        "thing found",
+        "entity leaving",
+        "thing hit"
+      ]
+    },
+    {
+      "characterName": "Quill",
+      "recipients": [
+        "wife",
+        "Laura",
+        "home",
+        "them",
+        "chute",
+        "lover",
+        "father"
+      ],
+      "verbs": [
+        "rape",
+        "return",
+        "drop",
+        "be"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "assaulter",
+        "corpse",
+        "coverer",
+        "entity doing the dropping"
+      ]
+    },
+    {
+      "characterName": "Mary_Pilant",
+      "recipients": [
+        "inn",
+        "daughter",
+        "secret",
+        "panties",
+        "room",
+        "Manion",
+        "court",
+        "Dancer"
+      ],
+      "verbs": [
+        "inherit",
+        "be",
+        "keep",
+        "find",
+        "get",
+        "shock",
+        "torpedo"
+      ],
+      "traits": [
+        "anxious",
+        "unaware"
+      ],
+      "semanticRoles": [
+        "inheritor",
+        "Keeper",
+        "thing held",
+        "impelled agent",
+        "claimer",
+        "witness",
+        "finder",
+        "quizzed",
+        "receiver",
+        "Agent/Entity Trying",
+        "surpriser",
+        "destroyer"
+      ]
+    },
+    {
+      "characterName": "Parnell_McCarthy",
+      "recipients": [
+        "inquiries",
+        "day",
+        "Manions",
+        "home"
+      ],
+      "verbs": [
+        "make",
+        "go",
+        "see"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "creator",
+        "viewer",
+        "entity leaving"
+      ]
+    }
+  ]
+}

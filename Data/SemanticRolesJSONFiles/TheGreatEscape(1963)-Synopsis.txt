@@ -1,0 +1,175 @@
+{
+  "movieName": "TheGreatEscape(1963)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Hilts",
+      "recipients": [
+        "spot",
+        "baseball",
+        "plan",
+        "night",
+        "Germans",
+        "fence",
+        "concoction",
+        "camp",
+        "attempt",
+        "head",
+        "surface",
+        "feet",
+        "countryside",
+        "rides",
+        "uniform",
+        "jump"
+      ],
+      "verbs": [
+        "toss",
+        "have",
+        "try",
+        "distract",
+        "start",
+        "brew",
+        "get",
+        "poke",
+        "dig",
+        "wait",
+        "steal",
+        "make"
+      ],
+      "traits": [
+        "next",
+        "cornered"
+      ],
+      "semanticRoles": [
+        "tosser(s)",
+        "achiever",
+        "thing released",
+        "Agent/Entity Trying",
+        "agent or Stimulusr",
+        "entity succeeding",
+        "Agent",
+        "creator",
+        "beginner",
+        "receiver",
+        "entity in motion",
+        "thing gotten",
+        "Sayer",
+        "finder",
+        "digger",
+        "toucher",
+        "thief",
+        "causer of fast motion",
+        "first thing being locked"
+      ]
+    },
+    {
+      "characterName": "Others",
+      "recipients": [
+        "gate",
+        "fence",
+        "tunnels",
+        "others",
+        "ground",
+        "Others",
+        "boat"
+      ],
+      "verbs": [
+        "drive",
+        "dig",
+        "have",
+        "sneak",
+        "make"
+      ],
+      "traits": [
+        "short"
+      ],
+      "semanticRoles": [
+        "driver",
+        "Agent/Entity Trying",
+        "digger",
+        "receiver",
+        "legislative body",
+        "operator",
+        "knower",
+        "looker",
+        "calculator",
+        "entity sneaking",
+        "creation",
+        "creator"
+      ]
+    },
+    {
+      "characterName": "POW",
+      "recipients": [
+        "plans",
+        "attempts",
+        "experience"
+      ],
+      "verbs": [
+        "make",
+        "have"
+      ],
+      "traits": [
+        "single"
+      ],
+      "semanticRoles": [
+        "creator",
+        "beginner",
+        "thing gotten",
+        "agent or causer"
+      ]
+    },
+    {
+      "characterName": "Bartlet",
+      "recipients": [
+        "POW",
+        "mind",
+        "success",
+        "chance",
+        "help",
+        "men",
+        "escape",
+        "stop"
+      ],
+      "verbs": [
+        "get",
+        "make",
+        "see",
+        "ask",
+        "lead",
+        "say"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "receiver",
+        "creator",
+        "planner",
+        "viewer",
+        "asker",
+        "thing gotten",
+        "speaker",
+        "leader",
+        "Sayer"
+      ]
+    },
+    {
+      "characterName": "guards",
+      "recipients": [
+        "cooler",
+        "hatch",
+        "stove",
+        "countryside",
+        "morning"
+      ],
+      "verbs": [
+        "be",
+        "find",
+        "scour"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "cleaner"
+      ]
+    }
+  ]
+}

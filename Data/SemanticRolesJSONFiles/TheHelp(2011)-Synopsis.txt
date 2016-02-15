@@ -1,0 +1,494 @@
+{
+  "movieName": "TheHelp(2011)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Eugenia_Skeeter_Phelan_Emma_Stone",
+      "recipients": [
+        "column",
+        "herself",
+        "housework",
+        "Aibileen",
+        "home",
+        "Charlotte",
+        "bugs",
+        "night",
+        "remark",
+        "dinner",
+        "ulcer",
+        "Constantine",
+        "college",
+        "Aibeleen",
+        "newsletter",
+        "item",
+        "items",
+        "something",
+        "coats",
+        "story",
+        "house",
+        "New_York",
+        "job",
+        "Stuart_Whitworth_Chris_Lowell",
+        "what"
+      ],
+      "verbs": [
+        "write",
+        "do",
+        "ask",
+        "get",
+        "try",
+        "make",
+        "upset",
+        "miss",
+        "be",
+        "approach",
+        "include",
+        "change",
+        "pry",
+        "offer",
+        "date",
+        "take"
+      ],
+      "traits": [
+        "23yearold",
+        "civilrights",
+        "disturbed",
+        "disinclined"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "thing assigned",
+        "asker",
+        "receiver",
+        "Agent/Entity Trying",
+        "thing gotten",
+        "speaker",
+        "bringer",
+        "horrified entity",
+        "creator",
+        "agent of upsetting",
+        "rememberer",
+        "operator",
+        "misser",
+        "Utterance",
+        "Speaker",
+        "thing directed",
+        "agent",
+        "Keeper",
+        "causer of transformation",
+        "entity causing separation",
+        "assigner of date"
+      ]
+    },
+    {
+      "characterName": "friends",
+      "recipients": [
+        "families",
+        "friends",
+        "Howard"
+      ],
+      "verbs": [
+        "start",
+        "treat",
+        "think"
+      ],
+      "traits": [
+        "girlhood"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "Agent",
+        "thing",
+        "assumer of attribute",
+        "Thinker",
+        "assured one"
+      ]
+    },
+    {
+      "characterName": "maid",
+      "recipients": [
+        "Celia_Foote_Jessica_Chastain",
+        "call",
+        "child",
+        "Tyson",
+        "order",
+        "employer"
+      ],
+      "verbs": [
+        "field",
+        "raise",
+        "disobey",
+        "explain"
+      ],
+      "traits": [
+        "new"
+      ],
+      "semanticRoles": [
+        "fielder",
+        "Agent",
+        "disobeyer",
+        "explainer",
+        "sent"
+      ]
+    },
+    {
+      "characterName": "Celia_Foote_Jessica_Chastain",
+      "recipients": [
+        "maid",
+        "Minny",
+        "table",
+        "husband",
+        "skills",
+        "bond",
+        "tantrum"
+      ],
+      "verbs": [
+        "look",
+        "pay",
+        "want",
+        "have",
+        "treat",
+        "suffer",
+        "throw"
+      ],
+      "traits": [
+        "white",
+        "suspicious",
+        "bubbly",
+        "insecure",
+        "overwrought"
+      ],
+      "semanticRoles": [
+        "wanter",
+        "helper",
+        "speaker",
+        "looker",
+        "payer or buyer",
+        "assumer of attribute",
+        "entity suffering",
+        "thrower",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "Elizabeth",
+      "recipients": [
+        "daughter",
+        "concern",
+        "Elaine_Stein_Mary_Steenburgen",
+        "project",
+        "call",
+        "Mae_Mobley",
+        "herself",
+        "Aibileen",
+        "glimpse",
+        "bang"
+      ],
+      "verbs": [
+        "show",
+        "describe",
+        "get",
+        "rush",
+        "watch"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "hoper",
+        "bill",
+        "shower",
+        "describer",
+        "causer of motion",
+        "receiver",
+        "weeper",
+        "impelled agent",
+        "walker"
+      ]
+    },
+    {
+      "characterName": "Aibileen",
+      "recipients": [
+        "Aibileen",
+        "mother",
+        "Mae_Mobley",
+        "home",
+        "Minny",
+        "project",
+        "Henry",
+        "herself"
+      ],
+      "verbs": [
+        "use",
+        "be",
+        "tell",
+        "bring",
+        "recruit",
+        "hold",
+        "leave",
+        "promise"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "User",
+        "thing used",
+        "question",
+        "Speaker",
+        "interviewee",
+        "listener",
+        "bringer",
+        "recruiter",
+        "entity in motion",
+        "speaker",
+        "holder",
+        "insister",
+        "sent",
+        "causal agent",
+        "entity leaving",
+        "appealed to",
+        "promiser"
+      ]
+    },
+    {
+      "characterName": "Hilly",
+      "recipients": [
+        "slices",
+        "thing",
+        "pawn",
+        "ring",
+        "Yule_Mae",
+        "everyone",
+        "feces",
+        "pie",
+        "times",
+        "histrionics",
+        "way",
+        "friends",
+        "story",
+        "mother",
+        "Hilly",
+        "thief",
+        "Aibileen",
+        "jail",
+        "book",
+        "conniving"
+      ],
+      "verbs": [
+        "eat",
+        "\u0027s",
+        "try",
+        "pocket",
+        "have",
+        "convince",
+        "ingest",
+        "refer",
+        "continue",
+        "go",
+        "assure",
+        "find",
+        "know",
+        "tell",
+        "send",
+        "burst"
+      ],
+      "traits": [
+        "embarrassed",
+        "terrible",
+        "awful"
+      ],
+      "semanticRoles": [
+        "describer",
+        "asker",
+        "consumer",
+        "Speaker",
+        "violent entity",
+        "question",
+        "entity refusing",
+        "Agent/Entity Trying",
+        "taker",
+        "finder",
+        "eater",
+        "item being labelled",
+        "convincer",
+        "labeller",
+        "speaker",
+        "screamer",
+        "causer of continuation",
+        "causer of assurance",
+        "horrified entity",
+        "thinker",
+        "knower",
+        "agent",
+        "thing kicked",
+        "thing seen/shown",
+        "Utterance",
+        "sent",
+        "sender",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "mother",
+      "recipients": [
+        "her",
+        "slice"
+      ],
+      "verbs": [
+        "fire",
+        "have"
+      ],
+      "traits": [
+        "own"
+      ],
+      "semanticRoles": [
+        "Agent/Entity Trying",
+        "fretter",
+        "shooter",
+        "entity committed",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "Charlotte",
+      "recipients": [
+        "Skeeter",
+        "Charlotte",
+        "Constantine",
+        "Hilly",
+        "property",
+        "Skeeter_Skeeter"
+      ],
+      "verbs": [
+        "get",
+        "regret",
+        "kick",
+        "tell"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing tried",
+        "receiver",
+        "asker",
+        "thing used",
+        "Agent/Entity Trying",
+        "regreter",
+        "kicker",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Minny",
+      "recipients": [
+        "pie",
+        "retaliation",
+        "Hilly",
+        "feces",
+        "which",
+        "slice",
+        "ma\u0027am",
+        "mind",
+        "Celia_Foote",
+        "chicken",
+        "day",
+        "skills",
+        "bed",
+        "Minny",
+        "Johnny_Mike_Vogel",
+        "baby",
+        "children",
+        "Celia",
+        "husband"
+      ],
+      "verbs": [
+        "bake",
+        "take",
+        "have",
+        "explain",
+        "reply",
+        "lose",
+        "work",
+        "make",
+        "improve",
+        "help",
+        "soothe",
+        "marry",
+        "tell",
+        "leaf"
+      ],
+      "traits": [
+        "isolated",
+        "pregnant",
+        "able",
+        "reluctant"
+      ],
+      "semanticRoles": [
+        "baker",
+        "explainer",
+        "replier",
+        "thing hit",
+        "money or attention",
+        "thing",
+        "finder",
+        "creator",
+        "subject",
+        "improver",
+        "causer",
+        "helper",
+        "entity soothed",
+        "project",
+        "Speaker",
+        "speaker",
+        "recruit",
+        "insister",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "husband",
+      "recipients": [
+        "night",
+        "Minny",
+        "college",
+        "maid"
+      ],
+      "verbs": [
+        "beat",
+        "send"
+      ],
+      "traits": [
+        "abusive"
+      ],
+      "semanticRoles": [
+        "agent",
+        "thing wanted",
+        "sender",
+        "entity saving money",
+        "Speaker",
+        "knower",
+        "place"
+      ]
+    },
+    {
+      "characterName": "foreman",
+      "recipients": [
+        "hospital",
+        "foreman",
+        "horn"
+      ],
+      "verbs": [
+        "drive",
+        "dump",
+        "honk"
+      ],
+      "traits": [
+        "white"
+      ],
+      "semanticRoles": [
+        "causer",
+        "entity leaving",
+        "driver",
+        "agent",
+        "vehicle or path",
+        "thing gotten rid of",
+        "money"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "movieName": "TheElephantMan(1980)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Frederick_Treves",
+      "recipients": [
+        "owner",
+        "Mr",
+        "attempt",
+        "meeting",
+        "society",
+        "Merrick",
+        "Treves"
+      ],
+      "verbs": [
+        "pay",
+        "endeavor",
+        "discover",
+        "introduce",
+        "bring"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity in motion",
+        "payer or buyer",
+        "truth",
+        "tryer",
+        "first (or all) communicator(s)",
+        "finder",
+        "thing brought",
+        "bringer",
+        "entity making introduction"
+      ]
+    },
+    {
+      "characterName": "Bytes",
+      "recipients": [
+        "England",
+        "throng",
+        "evening",
+        "Merrick",
+        "son",
+        "escape",
+        "night"
+      ],
+      "verbs": [
+        "examine",
+        "join",
+        "kidnap",
+        "tell",
+        "assist",
+        "release"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "examiner",
+        "kidnapper",
+        "agent",
+        "Speaker",
+        "releaser"
+      ]
+    },
+    {
+      "characterName": "Merrick",
+      "recipients": [
+        "theater",
+        "time"
+      ],
+      "verbs": [
+        "visit",
+        "sleep"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing given",
+        "entity being introduced",
+        "Utterance",
+        "other party",
+        "entity displayed",
+        "person kidnapped",
+        "thing released",
+        "alive entity",
+        "one party",
+        "sleeper",
+        "thing welcomed"
+      ]
+    },
+    {
+      "characterName": "Kendal",
+      "recipients": [
+        "Merrick",
+        "theater",
+        "copy",
+        "performance"
+      ],
+      "verbs": [
+        "visit",
+        "tell",
+        "give",
+        "have"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "one party",
+        "Speaker",
+        "player",
+        "giver"
+      ]
+    }
+  ]
+}

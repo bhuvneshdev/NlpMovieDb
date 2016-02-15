@@ -1,0 +1,121 @@
+{
+  "movieName": "marine.txt",
+  "characters": [
+    {
+      "characterName": "Marine_John_Triton",
+      "recipients": [
+        "chase",
+        "car",
+        "fire",
+        "fugitives",
+        "lodge",
+        "gang",
+        "Morgan",
+        "Rome",
+        "cop",
+        "escape",
+        "vessel",
+        "cab",
+        "door",
+        "windshield",
+        "Angela",
+        "bus",
+        "board",
+        "Triton",
+        "wife",
+        "neck",
+        "tables"
+      ],
+      "verbs": [
+        "give",
+        "fall",
+        "subdue",
+        "track",
+        "arrive",
+        "meet",
+        "use",
+        "make",
+        "steal",
+        "open",
+        "throw",
+        "see",
+        "run",
+        "confront",
+        "kill",
+        "rescue",
+        "break",
+        "turn"
+      ],
+      "traits": [
+        "former"
+      ],
+      "semanticRoles": [
+        "thing hit",
+        "survivor",
+        "giver",
+        "entity attacked",
+        "event delayed",
+        "defeater",
+        "thing following",
+        "killer",
+        "checker",
+        "achiever",
+        "causer of damage",
+        "User",
+        "creator",
+        "thief",
+        "criminal",
+        "viewer",
+        "opener",
+        "thrower",
+        "operator",
+        "buried",
+        "entity confronted",
+        "Thinker",
+        "confrontational entity",
+        "causer of motion",
+        "rescuer",
+        "entity in motion",
+        "turner",
+        "breaker"
+      ]
+    },
+    {
+      "characterName": "Rome",
+      "recipients": [
+        "store",
+        "officer",
+        "Triton",
+        "fires",
+        "escape",
+        "car",
+        "window",
+        "John"
+      ],
+      "verbs": [
+        "rob",
+        "injure",
+        "open",
+        "make",
+        "take",
+        "knock",
+        "return"
+      ],
+      "traits": [
+        "criminal",
+        "badlyburned"
+      ],
+      "semanticRoles": [
+        "robber",
+        "agent",
+        "goal",
+        "opener",
+        "creator",
+        "driver",
+        "hitter",
+        "corpse",
+        "causer of choking"
+      ]
+    }
+  ]
+}

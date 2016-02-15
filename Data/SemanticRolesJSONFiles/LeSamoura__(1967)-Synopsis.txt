@@ -1,0 +1,47 @@
+{
+  "movieName": "LeSamoura__(1967)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Jeff_Costello",
+      "recipients": [
+        "assassin",
+        "assignment",
+        "nightclub",
+        "owner",
+        "alibi",
+        "money",
+        "revenge",
+        "step",
+        "decision"
+      ],
+      "verbs": [
+        "be",
+        "begin",
+        "drive",
+        "shoot",
+        "set",
+        "collect",
+        "get",
+        "stay",
+        "make"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "beginner",
+        "driver",
+        "shooter",
+        "thing viewed",
+        "agent",
+        "thing released",
+        "corpse",
+        "entity escaping",
+        "thing followed",
+        "new employee",
+        "Agent / entity seeking",
+        "receiver",
+        "money or attention",
+        "creator"
+      ]
+    }
+  ]
+}

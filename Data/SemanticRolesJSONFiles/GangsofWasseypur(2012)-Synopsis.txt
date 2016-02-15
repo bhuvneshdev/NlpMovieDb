@@ -1,0 +1,4 @@
+{
+  "movieName": "GangsofWasseypur(2012)-Synopsis.txt",
+  "characters": []
+}

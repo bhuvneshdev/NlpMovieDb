@@ -1,0 +1,612 @@
+{
+  "movieName": "BladeRunner(1982)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "humans",
+      "recipients": [
+        "Replicants",
+        "lifetime"
+      ],
+      "verbs": [
+        "have",
+        "see"
+      ],
+      "traits": [
+        "illegal",
+        "synthetic",
+        "most"
+      ],
+      "semanticRoles": [
+        "thing designed",
+        "creator",
+        "thing created",
+        "viewer"
+      ]
+    },
+    {
+      "characterName": "Replicants",
+      "recipients": [
+        "humans",
+        "span",
+        "Earth"
+      ],
+      "verbs": [
+        "be",
+        "have",
+        "come"
+      ],
+      "traits": [
+        "identical",
+        "new",
+        "equal",
+        "Nexus6",
+        "advanced"
+      ],
+      "semanticRoles": [
+        "thing designed",
+        "construction",
+        "thing used",
+        "criminal activity",
+        "detected",
+        "former job",
+        "corpse"
+      ]
+    },
+    {
+      "characterName": "group",
+      "recipients": [
+        "Los_Angeles",
+        "group",
+        "end",
+        "Earth"
+      ],
+      "verbs": [
+        "make",
+        "be",
+        "come"
+      ],
+      "traits": [
+        "small"
+      ],
+      "semanticRoles": [
+        "creator",
+        "creation"
+      ]
+    },
+    {
+      "characterName": "Tyrell_Corporation",
+      "recipients": [
+        "Replicants",
+        "Deckard",
+        "Rachael"
+      ],
+      "verbs": [
+        "design",
+        "appear",
+        "offer",
+        "tell"
+      ],
+      "traits": [
+        "dead"
+      ],
+      "semanticRoles": [
+        "designer",
+        "wait-er (not waiter",
+        "asker",
+        "explainer",
+        "Speaker"
+      ]
+    },
+    {
+      "characterName": "Deckard",
+      "recipients": [
+        "bar",
+        "man",
+        "Tyrell",
+        "woman",
+        "Rachael",
+        "result",
+        "scale",
+        "stack",
+        "insistence",
+        "photographs",
+        "dreams",
+        "streets",
+        "call",
+        "club",
+        "Zhora",
+        "street",
+        "drink",
+        "sector",
+        "car",
+        "report",
+        "apartment",
+        "searches",
+        "evidence",
+        "Pris",
+        "opportunity",
+        "Roy",
+        "roof",
+        "ajar",
+        "moment",
+        "it",
+        "area",
+        "edition",
+        "voiceover"
+      ],
+      "verbs": [
+        "eat",
+        "ignore",
+        "await",
+        "meet",
+        "see",
+        "ask",
+        "find",
+        "take",
+        "quash",
+        "examine",
+        "have",
+        "visit",
+        "place",
+        "go",
+        "shoot",
+        "chase",
+        "spot",
+        "follow",
+        "hunt",
+        "give",
+        "prevent",
+        "fly",
+        "receive",
+        "move",
+        "enter",
+        "kill",
+        "seize",
+        "incapacitate",
+        "escape",
+        "jump",
+        "return",
+        "call",
+        "study",
+        "drive",
+        "explain"
+      ],
+      "traits": [
+        "surprised",
+        "rude",
+        "unable",
+        "able",
+        "sympathetic",
+        "alarmed"
+      ],
+      "semanticRoles": [
+        "consumer",
+        "ignorer",
+        "Agent/Entity Trying",
+        "agreer",
+        "sent",
+        "Utterance",
+        "thing welcomed",
+        "achiever",
+        "thing appearing",
+        "viewer",
+        "wanter",
+        "entity getting warning",
+        "asker",
+        "new knower",
+        "finder",
+        "person surprised",
+        "squasher",
+        "examiner",
+        "noter",
+        "one party",
+        "putter",
+        "first thing being tied",
+        "player",
+        "shooter",
+        "receiver",
+        "follower",
+        "insister",
+        "entity grabbed",
+        "causal agent",
+        "thing hit",
+        "corpse",
+        "money",
+        "Speaker",
+        "question",
+        "hunter",
+        "retiree",
+        "giver",
+        "Agent",
+        "mover",
+        "entity entering",
+        "leader",
+        "Thing finishing",
+        "killer",
+        "disabler",
+        "agent",
+        "entity escaping",
+        "goal",
+        "task",
+        "walker",
+        "student",
+        "driver",
+        "explainer"
+      ]
+    },
+    {
+      "characterName": "Gaff_Gaff",
+      "recipients": [
+        "arrest",
+        "Deckard",
+        "boss",
+        "pistol"
+      ],
+      "verbs": [
+        "\u0027s",
+        "fly",
+        "deliver",
+        "meet",
+        "throw"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "sender",
+        "achiever",
+        "thrower",
+        "Yeller",
+        "walker",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "Bryant",
+      "recipients": [
+        "Deckard",
+        "headquarters",
+        "Bryant"
+      ],
+      "verbs": [
+        "tell",
+        "send",
+        "arrive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "sender",
+        "entity in motion / \u0027comer\u0027",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "woman",
+      "recipients": [
+        "Deckard",
+        "herself",
+        "alley",
+        "part",
+        "bit",
+        "Pris"
+      ],
+      "verbs": [
+        "welcome",
+        "cover",
+        "walk",
+        "doze",
+        "be"
+      ],
+      "traits": [
+        "beautiful",
+        "Asian"
+      ],
+      "semanticRoles": [
+        "welcomer",
+        "goal",
+        "coverer",
+        "Keeper",
+        "walker",
+        "sleeper",
+        "operator",
+        "utterance"
+      ]
+    },
+    {
+      "characterName": "Rachael",
+      "recipients": [
+        "replicant",
+        "Nexus6",
+        "memories",
+        "Rachael",
+        "elevator",
+        "Deckard",
+        "himself",
+        "Leon",
+        "advances",
+        "date",
+        "area",
+        "edition"
+      ],
+      "verbs": [
+        "be",
+        "possess",
+        "know",
+        "surprised",
+        "Tyrell",
+        "have",
+        "join",
+        "shot",
+        "save",
+        "ask",
+        "reject",
+        "drive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "goal",
+        "question",
+        "thing designed",
+        "possessor",
+        "collected",
+        "thing known or thought",
+        "knower",
+        "surpriser",
+        "finder",
+        "talker",
+        "Utterance",
+        "entity leaving",
+        "agent",
+        "liker",
+        "thing found",
+        "causal agent",
+        "thing following",
+        "shooter",
+        "entity saving money",
+        "asker",
+        "entity hunted for",
+        "thing given",
+        "rejecter",
+        "Theme (action or object being prevented)",
+        "replier",
+        "thing covered",
+        "alarm clock",
+        "truster",
+        "lover",
+        "person wearing clothes",
+        "driver"
+      ]
+    },
+    {
+      "characterName": "Roy_Batty",
+      "recipients": [
+        "apartment",
+        "Leon",
+        "shop",
+        "Roy",
+        "lab",
+        "Chew",
+        "Tyrell",
+        "news",
+        "Sebastian",
+        "home",
+        "elevator",
+        "penthouse",
+        "move",
+        "father",
+        "extension",
+        "creator",
+        "bedchamber",
+        "skull",
+        "screen",
+        "Deckard",
+        "himself",
+        "signs",
+        "jump"
+      ],
+      "verbs": [
+        "return",
+        "take",
+        "confront",
+        "ask",
+        "talk",
+        "share",
+        "reveal",
+        "convince",
+        "go",
+        "give",
+        "play",
+        "call",
+        "want",
+        "crush",
+        "kill",
+        "surprised",
+        "stalk",
+        "stab",
+        "show",
+        "make",
+        "catch",
+        "tell",
+        "sit"
+      ],
+      "traits": [
+        "perturbed",
+        "despondent"
+      ],
+      "semanticRoles": [
+        "thing appearing",
+        "question or thing in doubt",
+        "confrontational entity",
+        "entity confronted",
+        "asker",
+        "talker",
+        "needer",
+        "Utterance",
+        "Sayer",
+        "finder",
+        "sharer",
+        "speaker",
+        "noticer",
+        "convincer",
+        "giver",
+        "action being stopped",
+        "causer of continuing event",
+        "action allowed",
+        "player",
+        "wanter",
+        "beginner",
+        "agent",
+        "killer",
+        "surpriser",
+        "mover",
+        "shooter",
+        "walker",
+        "shower",
+        "stabber",
+        "thing no longer capable",
+        "thing hit",
+        "creator",
+        "thing gotten",
+        "receiver",
+        "thing dragged",
+        "viewer",
+        "Speaker",
+        "saddened entity"
+      ]
+    },
+    {
+      "characterName": "Leon",
+      "recipients": [
+        "photographs",
+        "Roy",
+        "lab",
+        "Deckard",
+        "pistol",
+        "hand"
+      ],
+      "verbs": [
+        "retrieve",
+        "appear",
+        "confront",
+        "grab",
+        "beat",
+        "bat"
+      ],
+      "traits": [
+        "unable"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "Speaker",
+        "confrontational entity",
+        "agent",
+        "grabber",
+        "batter",
+        "projectile"
+      ]
+    },
+    {
+      "characterName": "Zhora",
+      "recipients": [
+        "room",
+        "tattoo",
+        "dancer",
+        "violently",
+        "dashes",
+        "street"
+      ],
+      "verbs": [
+        "be",
+        "have",
+        "beat",
+        "fall"
+      ],
+      "traits": [
+        "retired"
+      ],
+      "semanticRoles": [
+        "viewer",
+        "agent",
+        "projectile",
+        "thing followed",
+        "causer of damage",
+        "thing examined",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "Sebastian",
+      "recipients": [
+        "dolls",
+        "toys",
+        "Sebastian",
+        "chess",
+        "Tyrell",
+        "connection",
+        "home"
+      ],
+      "verbs": [
+        "design",
+        "ask",
+        "play",
+        "use",
+        "go"
+      ],
+      "traits": [
+        "unable",
+        "horrified"
+      ],
+      "semanticRoles": [
+        "designer",
+        "finder",
+        "question",
+        "asker",
+        "player",
+        "impelled agent",
+        "User",
+        "agreer",
+        "speaker",
+        "corpse",
+        "alive entity",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "Pris",
+      "recipients": [
+        "place",
+        "apartment",
+        "condition",
+        "Sebastian",
+        "artificial",
+        "call",
+        "Deckard"
+      ],
+      "verbs": [
+        "stay",
+        "wake",
+        "talk",
+        "reveal",
+        "Sebastian",
+        "answer",
+        "surprised"
+      ],
+      "traits": [
+        "dead"
+      ],
+      "semanticRoles": [
+        "agreer",
+        "alarm clock",
+        "talker",
+        "looker",
+        "speaker",
+        "replier",
+        "agent",
+        "surpriser",
+        "projectile",
+        "performer",
+        "corpse",
+        "causer of motion"
+      ]
+    }
+  ]
+}

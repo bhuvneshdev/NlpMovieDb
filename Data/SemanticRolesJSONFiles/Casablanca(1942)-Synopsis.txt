@@ -1,0 +1,218 @@
+{
+  "movieName": "Casablanca(1942)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Rick_Blaine_Humphrey_Bogart",
+      "recipients": [
+        "idealism",
+        "themselves",
+        "Paris",
+        "affair",
+        "train",
+        "letter",
+        "Rick",
+        "letters",
+        "documents",
+        "her",
+        "Laszlo",
+        "Renault",
+        "escape",
+        "moment"
+      ],
+      "verbs": [
+        "harbor",
+        "torment",
+        "be",
+        "reminisce",
+        "take",
+        "receive",
+        "love",
+        "have",
+        "give",
+        "help",
+        "convince",
+        "assist",
+        "make",
+        "try",
+        "shoot"
+      ],
+      "traits": [
+        "neutral",
+        "embittered",
+        "alive",
+        "drunk"
+      ],
+      "semanticRoles": [
+        "owner",
+        "holder",
+        "place",
+        "listener",
+        "entity refusing",
+        "lover",
+        "tormenter",
+        "recaller",
+        "planner",
+        "loved",
+        "entity leaving",
+        "thing interrupted",
+        "entity confronted",
+        "giver",
+        "decider",
+        "helper",
+        "convincer",
+        "impelled agent",
+        "creator",
+        "Agent/Entity Trying",
+        "nosy individual",
+        "projectile",
+        "shooter"
+      ]
+    },
+    {
+      "characterName": "Ugarte_Peter_Lorre",
+      "recipients": [
+        "Rick",
+        "fortune",
+        "safekeeping",
+        "letters"
+      ],
+      "verbs": [
+        "come",
+        "make",
+        "left"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "creator",
+        "planner",
+        "criminal",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "Nazis",
+      "recipients": [
+        "word",
+        "train",
+        "Rick"
+      ],
+      "verbs": [
+        "receive",
+        "take",
+        "love"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "thing accommodated",
+        "person doing the closing",
+        "beginner",
+        "planner",
+        "explainer",
+        "entity leaving",
+        "lover"
+      ]
+    },
+    {
+      "characterName": "Ilsa_Lund_Ingrid_Bergman",
+      "recipients": [
+        "letters",
+        "love",
+        "time",
+        "Rick",
+        "Laszlo",
+        "themselves",
+        "song",
+        "night"
+      ],
+      "verbs": [
+        "purchase",
+        "fall",
+        "believe",
+        "left",
+        "return",
+        "torment",
+        "say",
+        "confront"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "purchaser",
+        "achiever",
+        "entity leaving",
+        "finder",
+        "explainer",
+        "Agent/Entity Trying",
+        "tormenter",
+        "Sayer",
+        "confrontational entity",
+        "receiver"
+      ]
+    },
+    {
+      "characterName": "her",
+      "recipients": [
+        "Rick",
+        "plane",
+        "today"
+      ],
+      "verbs": [
+        "love",
+        "regret",
+        "stay"
+      ],
+      "traits": [
+        "unable"
+      ],
+      "semanticRoles": [
+        "thing given",
+        "lover",
+        "shooter",
+        "thing led",
+        "regreter",
+        "Utterance"
+      ]
+    },
+    {
+      "characterName": "Renault",
+      "recipients": [
+        "Laszlo",
+        "men",
+        "fog"
+      ],
+      "verbs": [
+        "release",
+        "inform",
+        "walk"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "impelled agent",
+        "releaser",
+        "two things",
+        "informer",
+        "walker"
+      ]
+    },
+    {
+      "characterName": "men",
+      "recipients": [
+        "suspects",
+        "Casablanca",
+        "Resistance"
+      ],
+      "verbs": [
+        "round",
+        "leave",
+        "join"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "impelled agent",
+        "bringer to completion",
+        "informed",
+        "entity leaving",
+        "agent"
+      ]
+    }
+  ]
+}

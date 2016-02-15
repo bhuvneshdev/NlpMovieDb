@@ -1,0 +1,71 @@
+{
+  "movieName": "AnnieHall(1977)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Annie_Hall",
+      "recipients": [
+        "film",
+        "ditsy",
+        "fight",
+        "relationship",
+        "Alvy"
+      ],
+      "verbs": [
+        "be",
+        "break",
+        "reject"
+      ],
+      "traits": [
+        "former"
+      ],
+      "semanticRoles": [
+        "achiever",
+        "breaker",
+        "rejecter",
+        "goal"
+      ]
+    },
+    {
+      "characterName": "Alvy",
+      "recipients": [
+        "pessimist",
+        "audience",
+        "scene",
+        "fight",
+        "relationship",
+        "date",
+        "attack",
+        "California",
+        "Hall",
+        "end"
+      ],
+      "verbs": [
+        "be",
+        "talk",
+        "come",
+        "break",
+        "start",
+        "try",
+        "get",
+        "fly",
+        "meet",
+        "realize"
+      ],
+      "traits": [
+        "first",
+        "proud"
+      ],
+      "semanticRoles": [
+        "achiever",
+        "talker",
+        "breaker",
+        "Agent",
+        "Agent/Entity Trying",
+        "agent of calming",
+        "receiver",
+        "thing rejected",
+        "new knower"
+      ]
+    }
+  ]
+}

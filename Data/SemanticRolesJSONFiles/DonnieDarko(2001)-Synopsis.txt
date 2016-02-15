@@ -1,0 +1,251 @@
+{
+  "movieName": "DonnieDarko(2001)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Donnie_Darko",
+      "recipients": [
+        "teenager",
+        "medication",
+        "Frank",
+        "head",
+        "ax",
+        "past",
+        "intelligence",
+        "relationship",
+        "appearance",
+        "Cunningham",
+        "school",
+        "trouble",
+        "tubes",
+        "travel",
+        "things",
+        "time",
+        "night",
+        "movie",
+        "suit",
+        "cause",
+        "theatre",
+        "Gretchen",
+        "party",
+        "midnight",
+        "hallucination",
+        "keys",
+        "Elizabeth",
+        "tunnel",
+        "point",
+        "bed"
+      ],
+      "verbs": [
+        "be",
+        "take",
+        "sleepwalk",
+        "embed",
+        "own",
+        "have",
+        "assault",
+        "get",
+        "see",
+        "speak",
+        "prevent",
+        "travel",
+        "go",
+        "remove",
+        "ask",
+        "leaf",
+        "throw",
+        "steal",
+        "look",
+        "drive",
+        "lie"
+      ],
+      "traits": [
+        "weird",
+        "responsible",
+        "own"
+      ],
+      "semanticRoles": [
+        "entity confronted",
+        "Agent",
+        "achiever",
+        "experiencer",
+        "causer",
+        "owner",
+        "speaker",
+        "finder",
+        "receiver",
+        "assaulter",
+        "Utterance",
+        "viewer",
+        "summoned",
+        "causal agent",
+        "talker",
+        "thing given",
+        "[causer of growth - should be possible]",
+        "opener",
+        "discussant",
+        "traveller",
+        "wisher",
+        "question",
+        "entity removing",
+        "asker",
+        "pyromaniac",
+        "entity leaving",
+        "thing gotten",
+        "thrower",
+        "decider",
+        "new knower",
+        "thief",
+        "driver",
+        "looker",
+        "corpse",
+        "sleeper",
+        "goal"
+      ]
+    },
+    {
+      "characterName": "Elizabeth",
+      "recipients": [
+        "argument",
+        "party",
+        "night",
+        "love"
+      ],
+      "verbs": [
+        "reveal",
+        "throw",
+        "return",
+        "make"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "speaker",
+        "knower",
+        "thrower",
+        "decider",
+        "thing accepted",
+        "creator",
+        "dealer",
+        "causal agent"
+      ]
+    },
+    {
+      "characterName": "Rose",
+      "recipients": [
+        "bitch",
+        "Donnie",
+        "team",
+        "Los_Angeles",
+        "cigarette"
+      ],
+      "verbs": [
+        "call",
+        "confront",
+        "accompany",
+        "smoke"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "confrontational entity",
+        "subject accompanier",
+        "question",
+        "agreer",
+        "announcer",
+        "thing carried",
+        "causer of smoke emission"
+      ]
+    },
+    {
+      "characterName": "Frank",
+      "recipients": [
+        "Frank",
+        "school",
+        "hallucination",
+        "Donnie",
+        "travel",
+        "suit",
+        "costume"
+      ],
+      "verbs": [
+        "tell",
+        "encourage",
+        "flood",
+        "Donnie",
+        "appear",
+        "ask",
+        "remove",
+        "wear"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "theme",
+        "Speaker",
+        "Utterance",
+        "causer",
+        "impelled agent",
+        "convincer",
+        "thing attending",
+        "causer of continuation",
+        "thing gotten",
+        "entity experiencing confusion",
+        "asker",
+        "question",
+        "entity removing",
+        "speaker",
+        "driver",
+        "wearer"
+      ]
+    },
+    {
+      "characterName": "Gretchen",
+      "recipients": [
+        "night",
+        "movie",
+        "love",
+        "boy"
+      ],
+      "verbs": [
+        "go",
+        "see",
+        "make",
+        "find"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "speaker",
+        "decider",
+        "[causer of growth - should be possible]",
+        "viewer",
+        "place",
+        "creator",
+        "receiver",
+        "entity assaulted",
+        "thing thrown",
+        "corpse",
+        "thing hit",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Monnitoff",
+      "recipients": [
+        "use",
+        "Donnie",
+        "book",
+        "Roberta_Sparrow"
+      ],
+      "verbs": [
+        "reject",
+        "give",
+        "write"
+      ],
+      "traits": [
+        "troubled"
+      ],
+      "semanticRoles": [
+        "offended",
+        "rejecter",
+        "giver"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "movieName": "Incendies(2010)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Nawal",
+      "recipients": [
+        "grandmother",
+        "Daresh",
+        "threat",
+        "son",
+        "Muslim",
+        "bus",
+        "woman",
+        "daughter",
+        "prison",
+        "birth",
+        "Canada",
+        "will",
+        "family",
+        "man",
+        "shock",
+        "stroke"
+      ],
+      "verbs": [
+        "reveal",
+        "promise",
+        "study",
+        "return",
+        "find",
+        "be",
+        "have",
+        "spare",
+        "claim",
+        "kfar_ryat",
+        "give",
+        "emigrate",
+        "leaf",
+        "extend",
+        "spotted",
+        "approach",
+        "suffer"
+      ],
+      "traits": [
+        "pregnant",
+        "own"
+      ],
+      "semanticRoles": [
+        "speaker",
+        "causal agent",
+        "promiser",
+        "student",
+        "finder",
+        "pretender",
+        "survivor",
+        "entity escaping",
+        "claimer",
+        "savior",
+        "entity planted",
+        "sent",
+        "victim",
+        "giver",
+        "population",
+        "entity leaving",
+        "entity suffering"
+      ]
+    },
+    {
+      "characterName": "son",
+      "recipients": [
+        "grave",
+        "mother",
+        "what"
+      ],
+      "verbs": [
+        "visit",
+        "do"
+      ],
+      "traits": [
+        "Nawal",
+        "first"
+      ],
+      "semanticRoles": [
+        "thing found",
+        "moved",
+        "one party"
+      ]
+    },
+    {
+      "characterName": "children",
+      "recipients": [
+        "brother",
+        "father",
+        "grave",
+        "headstone"
+      ],
+      "verbs": [
+        "lose",
+        "find",
+        "leave"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "entity spared",
+        "entity leaving",
+        "action allowed"
+      ]
+    },
+    {
+      "characterName": "Simon",
+      "recipients": [
+        "mother",
+        "nurse",
+        "baby",
+        "father",
+        "motherone",
+        "letters"
+      ],
+      "verbs": [
+        "join",
+        "find",
+        "ask",
+        "deliver"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity refusing",
+        "talker",
+        "agent",
+        "asker",
+        "finder",
+        "skill",
+        "first fighter",
+        "student",
+        "sender"
+      ]
+    },
+    {
+      "characterName": "mother",
+      "recipients": [
+        "employee",
+        "birth",
+        "prison",
+        "Simon",
+        "mother"
+      ],
+      "verbs": [
+        "learn",
+        "give",
+        "find",
+        "call"
+      ],
+      "traits": [
+        "tortured",
+        "own"
+      ],
+      "semanticRoles": [
+        "giver",
+        "student",
+        "finder",
+        "thing given",
+        "first thing being tied",
+        "thing held"
+      ]
+    },
+    {
+      "characterName": "warlord",
+      "recipients": [
+        "attack",
+        "orphanage",
+        "Simon",
+        "children"
+      ],
+      "verbs": [
+        "conduct",
+        "destroy",
+        "train",
+        "take",
+        "spare"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "conductor",
+        "thing traced",
+        "trainer",
+        "savior",
+        "speaker"
+      ]
+    },
+    {
+      "characterName": "Nihad",
+      "recipients": [
+        "Daresh",
+        "side",
+        "Nihad",
+        "torturer",
+        "Abou_Tareq"
+      ],
+      "verbs": [
+        "return",
+        "sniper",
+        "train",
+        "be",
+        "adopt"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "refused action or object",
+        "thing gotten",
+        "thing turning",
+        "trainer",
+        "skill",
+        "sent",
+        "adopter"
+      ]
+    }
+  ]
+}

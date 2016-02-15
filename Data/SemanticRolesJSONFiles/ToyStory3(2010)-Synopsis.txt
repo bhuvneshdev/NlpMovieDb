@@ -1,0 +1,735 @@
+{
+  "movieName": "ToyStory3(2010)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Andy_Davis",
+      "recipients": [
+        "college",
+        "kids",
+        "room",
+        "bag",
+        "toys",
+        "Woody",
+        "door",
+        "trash",
+        "mother",
+        "example",
+        "Andy",
+        "note",
+        "box",
+        "address",
+        "Bonnie",
+        "car",
+        "knowledge",
+        "smile",
+        "care"
+      ],
+      "verbs": [
+        "head",
+        "have",
+        "return",
+        "clean",
+        "take",
+        "put",
+        "get",
+        "leaf",
+        "open",
+        "left",
+        "enter",
+        "tell",
+        "care",
+        "see",
+        "explain",
+        "give",
+        "do"
+      ],
+      "traits": [
+        "old",
+        "own"
+      ],
+      "semanticRoles": [
+        "leader",
+        "player",
+        "entity leaving",
+        "thinker",
+        "storer",
+        "cleaner",
+        "beginner",
+        "receiver",
+        "hesitator",
+        "opener",
+        "helper",
+        "thrower",
+        "agent",
+        "entity entering",
+        "carer",
+        "Speaker",
+        "entity distracted",
+        "viewer",
+        "explainer",
+        "applauded",
+        "entity making introduction",
+        "giver",
+        "impelled action"
+      ]
+    },
+    {
+      "characterName": "toys",
+      "recipients": [
+        "stock",
+        "room",
+        "group",
+        "box",
+        "Sunnyside",
+        "others",
+        "fear",
+        "placetoplace",
+        "lid",
+        "fate",
+        "pit",
+        "hands",
+        "time",
+        "truck",
+        "Ken",
+        "note",
+        "opportunity"
+      ],
+      "verbs": [
+        "take",
+        "watch",
+        "see",
+        "escape",
+        "meet",
+        "playtime",
+        "get",
+        "look",
+        "go",
+        "run",
+        "try",
+        "tumble",
+        "join",
+        "find",
+        "have",
+        "enjoy"
+      ],
+      "traits": [
+        "other",
+        "old",
+        "excited",
+        "unable",
+        "new"
+      ],
+      "semanticRoles": [
+        "Thinker",
+        "thing brought",
+        "viewer",
+        "achiever",
+        "entity escaping",
+        "player",
+        "receiver",
+        "feeler",
+        "helper",
+        "thanked",
+        "looker",
+        "impelled action",
+        "explainer",
+        "place",
+        "regrouper",
+        "agent",
+        "operator",
+        "beginner",
+        "manager",
+        "preventer",
+        "Agent/Entity Trying",
+        "causer of falling",
+        "Keeper",
+        "finder",
+        "patient",
+        "entity gathered",
+        "enjoyer"
+      ]
+    },
+    {
+      "characterName": "mom",
+      "recipients": [
+        "bag",
+        "trash",
+        "box",
+        "Sunnyside",
+        "toys",
+        "room",
+        "Andy",
+        "mom",
+        "lunch"
+      ],
+      "verbs": [
+        "find",
+        "take",
+        "bring",
+        "write",
+        "recognize"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "finder",
+        "bringer",
+        "applauder"
+      ]
+    },
+    {
+      "characterName": "Molly",
+      "recipients": [
+        "room",
+        "doll",
+        "downstairs",
+        "donations",
+        "Andy"
+      ],
+      "verbs": [
+        "clean",
+        "throw",
+        "move",
+        "distract"
+      ],
+      "traits": [
+        "sister"
+      ],
+      "semanticRoles": [
+        "cleaner",
+        "thrower",
+        "mover",
+        "agent or Stimulusr"
+      ]
+    },
+    {
+      "characterName": "Woody",
+      "recipients": [
+        "denial",
+        "Buzz",
+        "Sunnyside",
+        "house",
+        "playtime",
+        "Andy",
+        "computer",
+        "toys",
+        "them",
+        "day",
+        "daycare",
+        "concern",
+        "him",
+        "lights",
+        "what",
+        "friends",
+        "action",
+        "plan",
+        "monkey",
+        "room",
+        "Daisy",
+        "tag",
+        "Lotso",
+        "Woody",
+        "themselves",
+        "College",
+        "note",
+        "marker",
+        "Bonnie"
+      ],
+      "verbs": [
+        "be",
+        "ask",
+        "sneak",
+        "grow",
+        "get",
+        "access",
+        "thanks",
+        "tell",
+        "manage",
+        "man",
+        "join",
+        "set",
+        "take",
+        "infiltrate",
+        "mention",
+        "produce",
+        "remind",
+        "help",
+        "save",
+        "find",
+        "make",
+        "hop",
+        "grab",
+        "Woody",
+        "explain",
+        "introduce"
+      ],
+      "traits": [
+        "relieved",
+        "reset"
+      ],
+      "semanticRoles": [
+        "thing thrown",
+        "viewer",
+        "looker",
+        "explainer",
+        "Agent/Entity Trying",
+        "asker",
+        "Sayer",
+        "object accompanied",
+        "entity sneaking",
+        "thing found",
+        "receiver",
+        "wanter",
+        "[causer of growth - should be possible]",
+        "accessor",
+        "finder",
+        "Speaker",
+        "thanker",
+        "decider",
+        "breaker",
+        "manager",
+        "mover",
+        "taker of risk",
+        "Utterance",
+        "worker",
+        "agent",
+        "infiltrator",
+        "speaker",
+        "creator",
+        "cause",
+        "loved",
+        "project",
+        "helper",
+        "entity saving money",
+        "new knower",
+        "artist",
+        "hopper",
+        "grabber",
+        "thing viewed",
+        "person surprised",
+        "thing held",
+        "agent smiling",
+        "beginner",
+        "entity making introduction"
+      ]
+    },
+    {
+      "characterName": "truck",
+      "recipients": [
+        "curb",
+        "way",
+        "contents",
+        "bin",
+        "landfill"
+      ],
+      "verbs": [
+        "make",
+        "dump",
+        "arrive"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "creator",
+        "puller",
+        "agent",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "friends",
+      "recipients": [
+        "danger",
+        "lights",
+        "what",
+        "goodbyes",
+        "box"
+      ],
+      "verbs": [
+        "be",
+        "man",
+        "say",
+        "pile"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity escaping",
+        "thing put",
+        "entity subdued",
+        "receiver",
+        "worker",
+        "first thing being tied",
+        "Sayer",
+        "piler",
+        "entity being introduced"
+      ]
+    },
+    {
+      "characterName": "Jessie",
+      "recipients": [
+        "Sunnyside_Daycare",
+        "box"
+      ],
+      "verbs": [
+        "notice"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "noticer",
+        "entity proposing",
+        "entity escaping",
+        "action allowed",
+        "agent",
+        "loved",
+        "old thing"
+      ]
+    },
+    {
+      "characterName": "group",
+      "recipients": [
+        "Buzz",
+        "mode",
+        "evening",
+        "chute"
+      ],
+      "verbs": [
+        "set",
+        "spring",
+        "get"
+      ],
+      "traits": [
+        "excited",
+        "friendly"
+      ],
+      "semanticRoles": [
+        "thing viewed",
+        "goal",
+        "first thing being tied",
+        "object accompanied",
+        "agent",
+        "receiver",
+        "decider",
+        "thing scooped"
+      ]
+    },
+    {
+      "characterName": "Lotso",
+      "recipients": [
+        "Ken",
+        "request",
+        "initiative",
+        "Room",
+        "Head",
+        "hat",
+        "window",
+        "system",
+        "associates",
+        "choice",
+        "toys",
+        "what",
+        "daycare",
+        "Baby",
+        "hand",
+        "pit",
+        "switch",
+        "Woody"
+      ],
+      "verbs": [
+        "call",
+        "make",
+        "admire",
+        "return",
+        "move",
+        "stuff",
+        "produce",
+        "look",
+        "set",
+        "\u0027s",
+        "offer",
+        "do",
+        "be",
+        "grab",
+        "notice",
+        "smirk"
+      ],
+      "traits": [
+        "willing",
+        "responsible"
+      ],
+      "semanticRoles": [
+        "explainer",
+        "object accompanied",
+        "asker",
+        "creator",
+        "thinker",
+        "admirer",
+        "survivor",
+        "mover",
+        "packer",
+        "possession",
+        "loved",
+        "manager",
+        "viewer",
+        "looker",
+        "old thing",
+        "Yeller",
+        "thing kept",
+        "agent",
+        "declarer",
+        "action incited ",
+        "thing reminded about",
+        "thing thrown",
+        "grabber",
+        "money",
+        "creation",
+        "noticer",
+        "smirker",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "Ken",
+      "recipients": [
+        "course",
+        "Andy",
+        "library",
+        "Buzz",
+        "Ken",
+        "Barbie",
+        "Lotso",
+        "time",
+        "system"
+      ],
+      "verbs": [
+        "become",
+        "go",
+        "take",
+        "tie",
+        "let",
+        "turn",
+        "work",
+        "abolish"
+      ],
+      "traits": [
+        "associate"
+      ],
+      "semanticRoles": [
+        "receiver",
+        "causal agent",
+        "thing following",
+        "agent",
+        "first thing being tied",
+        "rebuked",
+        "allower",
+        "entity subdued",
+        "turner",
+        "person surprised",
+        "entity getting rid of"
+      ]
+    },
+    {
+      "characterName": "Barbie",
+      "recipients": [
+        "Room",
+        "Ken",
+        "time",
+        "system"
+      ],
+      "verbs": [
+        "go",
+        "rebuke",
+        "subdue",
+        "work",
+        "abolish"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "receiver",
+        "rebuker",
+        "criminal",
+        "action allowed",
+        "begger",
+        "defeater",
+        "agent",
+        "entity getting rid of"
+      ]
+    },
+    {
+      "characterName": "Buzz",
+      "recipients": [
+        "room",
+        "Ken",
+        "inhabitants",
+        "friends",
+        "Room",
+        "Spanish",
+        "self",
+        "Buzz",
+        "Lotso"
+      ],
+      "verbs": [
+        "get",
+        "follow",
+        "join",
+        "place",
+        "return",
+        "subdue",
+        "speak",
+        "\u0027s",
+        "back",
+        "set",
+        "save"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity refusing",
+        "question",
+        "receiver",
+        "manager",
+        "causal agent",
+        "thing gotten",
+        "agent",
+        "thing set",
+        "defeater",
+        "putter",
+        "entity distracted",
+        "talker",
+        "player",
+        "thing being reset",
+        "thing made",
+        "supporter",
+        "entity saving money",
+        "thing held"
+      ]
+    },
+    {
+      "characterName": "others",
+      "recipients": [
+        "Woody",
+        "Room",
+        "library",
+        "Buzz",
+        "escape"
+      ],
+      "verbs": [
+        "accompany",
+        "be",
+        "take",
+        "help"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "subject accompanier",
+        "thing gotten",
+        "causer of motion",
+        "helper",
+        "Agent/Entity Trying",
+        "climber",
+        "thanker"
+      ]
+    },
+    {
+      "characterName": "Bonnie",
+      "recipients": [
+        "Woody",
+        "home",
+        "them",
+        "his",
+        "approach",
+        "game",
+        "calls",
+        "box",
+        "doll",
+        "quotes",
+        "toys",
+        "care",
+        "Buzz",
+        "goodbye"
+      ],
+      "verbs": [
+        "find",
+        "take",
+        "outgrow",
+        "repair",
+        "see",
+        "stop",
+        "peek",
+        "call",
+        "have",
+        "gather",
+        "hold",
+        "make"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "finder",
+        "entity getting too big",
+        "repairer",
+        "thing viewed",
+        "viewer",
+        "Utterance",
+        "looker",
+        "promiser",
+        "entity with a bobbing head",
+        "agent or causer",
+        "creator",
+        "holder"
+      ]
+    },
+    {
+      "characterName": "Chuckles",
+      "recipients": [
+        "story",
+        "window",
+        "Lotso"
+      ],
+      "verbs": [
+        "tell",
+        "look",
+        "keep"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Speaker",
+        "beginner",
+        "possession",
+        "viewer",
+        "manager",
+        "looker",
+        "Keeper",
+        "explainer"
+      ]
+    },
+    {
+      "characterName": "Big_Baby",
+      "recipients": [
+        "Lotso",
+        "you",
+        "necklace",
+        "heart",
+        "tag",
+        "Jessie"
+      ],
+      "verbs": [
+        "love",
+        "tear",
+        "see",
+        "replace",
+        "reach",
+        "throw"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "possession",
+        "lover",
+        "wanter",
+        "puller",
+        "viewer",
+        "replacer",
+        "thing striving",
+        "impelled action",
+        "thrower"
+      ]
+    }
+  ]
+}

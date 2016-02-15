@@ -1,0 +1,177 @@
+{
+  "movieName": "TheGood,theBadandtheUgly(1966)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "Tuco",
+      "recipients": [
+        "bounty",
+        "partnership",
+        "torture",
+        "drink",
+        "water",
+        "mission",
+        "Blondie",
+        "hunter",
+        "town",
+        "Tuco",
+        "himself",
+        "rage"
+      ],
+      "verbs": [
+        "have",
+        "complete",
+        "get",
+        "go",
+        "take",
+        "encounter",
+        "shoot",
+        "resume",
+        "find",
+        "scream"
+      ],
+      "traits": [
+        "intent"
+      ],
+      "semanticRoles": [
+        "money",
+        "place",
+        "survivor",
+        "finisher",
+        "receiver",
+        "impelled agent",
+        "confrontational entity",
+        "thing hit",
+        "entity escaping",
+        "entity encountering something",
+        "shooter",
+        "Agent",
+        "agent",
+        "speaker",
+        "searcher",
+        "thing found",
+        "finder",
+        "thing gotten rid of",
+        "digger",
+        "screamer"
+      ]
+    },
+    {
+      "characterName": "Blondie",
+      "recipients": [
+        "Tuco",
+        "name",
+        "Angel",
+        "sound",
+        "town",
+        "Gottbetter",
+        "gunpoint",
+        "patch",
+        "conclusion",
+        "night",
+        "Eyes",
+        "twist",
+        "rope"
+      ],
+      "verbs": [
+        "save",
+        "leaf",
+        "know",
+        "seek",
+        "recognize",
+        "be",
+        "hold",
+        "lead",
+        "shoot",
+        "unloaded",
+        "turn"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity saving money",
+        "entity leaving",
+        "[causer of growth - should be possible]",
+        "thing found",
+        "knower",
+        "Agent / entity seeking",
+        "applauder",
+        "agent",
+        "speaker",
+        "holder",
+        "thing held",
+        "leader",
+        "shooter",
+        "turner"
+      ]
+    },
+    {
+      "characterName": "Eyes",
+      "recipients": [
+        "trail",
+        "camp",
+        "Tuco",
+        "Blondie",
+        "gunpoint",
+        "turn"
+      ],
+      "verbs": [
+        "follow",
+        "beat",
+        "hold"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "student",
+        "player",
+        "causal agent",
+        "torturer",
+        "agent",
+        "receiver",
+        "holder",
+        "thing gotten rid of",
+        "finder"
+      ]
+    },
+    {
+      "characterName": "Angel",
+      "recipients": [
+        "location",
+        "tactics",
+        "partnership"
+      ],
+      "verbs": [
+        "reveal",
+        "change",
+        "propose"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "speaker",
+        "causer of transformation",
+        "entity proposing",
+        "thing sought"
+      ]
+    },
+    {
+      "characterName": "Gottbetter",
+      "recipients": [
+        "digging",
+        "stone",
+        "center",
+        "name"
+      ],
+      "verbs": [
+        "begin",
+        "place",
+        "write"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "beginner",
+        "thing held",
+        "putter",
+        "User",
+        "entity made free"
+      ]
+    }
+  ]
+}

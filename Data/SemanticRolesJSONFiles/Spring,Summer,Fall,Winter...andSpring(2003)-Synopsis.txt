@@ -1,0 +1,264 @@
+{
+  "movieName": "Spring,Summer,Fall,Winter...andSpring(2003)-Synopsis.txt",
+  "characters": [
+    {
+      "characterName": "apprentice",
+      "recipients": [
+        "life",
+        "day",
+        "creek",
+        "fish",
+        "monastery",
+        "mother",
+        "panic",
+        "incessantly",
+        "door",
+        "hair",
+        "sleep"
+      ],
+      "verbs": [
+        "live",
+        "torment",
+        "greet",
+        "begin",
+        "pray",
+        "appear",
+        "cut",
+        "collapse"
+      ],
+      "traits": [
+        "young",
+        "bloodied",
+        "carvings"
+      ],
+      "semanticRoles": [
+        "alive entity",
+        "tormenter",
+        "Utterance",
+        "greeter",
+        "finder",
+        "pray-er",
+        "beginner",
+        "first thing being tied",
+        "intentional cutter",
+        "criminal",
+        "causer of collapse",
+        "causer of continuation",
+        "alarm clock"
+      ]
+    },
+    {
+      "characterName": "master",
+      "recipients": [
+        "life",
+        "frog",
+        "apprentice",
+        "morning",
+        "rock",
+        "stone",
+        "girl",
+        "chest",
+        "statue",
+        "sleeping",
+        "They",
+        "Buddha",
+        "detectives",
+        "task",
+        "pyre",
+        "end",
+        "nose",
+        "ears",
+        "eyes",
+        "mouth",
+        "rowboat"
+      ],
+      "verbs": [
+        "live",
+        "do",
+        "tell",
+        "take",
+        "carry",
+        "resist",
+        "find",
+        "wake",
+        "warn",
+        "beat",
+        "discover",
+        "ask",
+        "finish",
+        "build",
+        "be",
+        "seal",
+        "remains"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "alive entity",
+        "sleeper",
+        "observer",
+        "tormenter",
+        "Speaker",
+        "agent",
+        "carrier",
+        "agreer",
+        "resister",
+        "finder",
+        "thing hit",
+        "noter",
+        "entity forgiven",
+        "alarm clock",
+        "Utterance",
+        "asker",
+        "Intentional agent",
+        "builder",
+        "entity not breathing",
+        "thing burning",
+        "thinker"
+      ]
+    },
+    {
+      "characterName": "boy",
+      "recipients": [
+        "fish",
+        "snake",
+        "what",
+        "tortoise"
+      ],
+      "verbs": [
+        "left",
+        "do",
+        "torment"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "entity leaving",
+        "finder",
+        "first struggler",
+        "speaker",
+        "beginner",
+        "thing seen/shown",
+        "tormenter"
+      ]
+    },
+    {
+      "characterName": "girl",
+      "recipients": [
+        "master",
+        "sex"
+      ],
+      "verbs": [
+        "slap",
+        "forgive",
+        "have"
+      ],
+      "traits": [
+        "teenage"
+      ],
+      "semanticRoles": [
+        "alarm clock",
+        "agent",
+        "forgiver",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "Buddha",
+      "recipients": [
+        "garments",
+        "hand",
+        "wife",
+        "himself",
+        "statue",
+        "mouth",
+        "eyes",
+        "ritual",
+        "nose",
+        "candle",
+        "apprentice",
+        "ceiling"
+      ],
+      "verbs": [
+        "modify",
+        "stab",
+        "kill",
+        "sit",
+        "seal",
+        "set",
+        "tie"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "causer of transformation",
+        "stabber",
+        "killer",
+        "agent",
+        "thing hit",
+        "thing found"
+      ]
+    },
+    {
+      "characterName": "detectives",
+      "recipients": [
+        "monastery",
+        "apprentice"
+      ],
+      "verbs": [
+        "arrive",
+        "arrest",
+        "take"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "allower",
+        "question",
+        "police",
+        "Agent/Entity Trying",
+        "helper",
+        "entity leaving"
+      ]
+    },
+    {
+      "characterName": "One",
+      "recipients": [
+        "tracks",
+        "clothes",
+        "death",
+        "book"
+      ],
+      "verbs": [
+        "see",
+        "find",
+        "lay"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "viewer",
+        "layer",
+        "digger",
+        "finder",
+        "trainer",
+        "beginner"
+      ]
+    },
+    {
+      "characterName": "woman",
+      "recipients": [
+        "monastery",
+        "son",
+        "hole",
+        "middle"
+      ],
+      "verbs": [
+        "come",
+        "leave"
+      ],
+      "traits": [],
+      "semanticRoles": [
+        "Agent / entity seeking",
+        "entity leaving",
+        "fleer",
+        "Agent/Entity Trying"
+      ]
+    }
+  ]
+}
